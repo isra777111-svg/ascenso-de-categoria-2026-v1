@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "pregunta": "De acuerdo con el Artículo 1, ¿cuál es el núcleo central del objeto de la Ley N° 223?",
+    "opciones": [
+      "La creación de centros de acogida exclusivos para personas con discapacidad en situación de calle.",
+      "Garantizar el ejercicio pleno de derechos y deberes en igualdad de condiciones, trato preferente y protección integral.",
+      "Establecer un régimen sancionatorio penal para quienes discriminen a personas con discapacidad.",
+      "La obligatoriedad de la carnetización para acceder a servicios de salud privados."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 1 establece que el objeto es garantizar el ejercicio pleno de derechos y deberes en igualdad de condiciones, equiparación de oportunidades y bajo un sistema de protección integral [1, 2]."
+  },
+  {
+    "id": 2,
+    "pregunta": "En relación con los fines de la Ley (Art. 2), ¿qué se busca respecto a las instituciones privadas?",
+    "opciones": [
+      "Eximirlas de cualquier responsabilidad social hasta que el Estado cubra el 100% de la inversión pública.",
+      "Obligarlas a convertirse en centros de rehabilitación gratuitos financiados por sus propios fondos.",
+      "Establecer su inclusión en políticas sociales, culturales, ambientales y económicas para personas con discapacidad.",
+      "Permitirles decidir de forma autónoma si aplican o no el trato preferente según su presupuesto."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 2, inciso c, señala que uno de los fines es establecer la inclusión de las instituciones privadas en las políticas sociales y económicas destinadas a este sector [3]."
+  },
+  {
+    "id": 3,
+    "pregunta": "Según el Artículo 4, ¿cómo se define el principio de 'Accesibilidad'?",
+    "opciones": [
+      "La obligación de las personas con discapacidad de adaptarse a los entornos arquitectónicos existentes.",
+      "La posibilidad de que el Estado cobre tasas reducidas para el ingreso a edificios públicos.",
+      "El ajuste de los servicios sociales para que puedan ser accedidos sin restricciones arquitectónicas, sociales, económicas o comunicacionales.",
+      "La creación de una red de transporte exclusiva y separada para evitar accidentes."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 4, inciso d, define la accesibilidad como el acomodo de los servicios de la sociedad para ser accedidos por las personas con discapacidad sin restricciones físicas, sociales o comunicacionales [4]."
+  },
+  {
+    "id": 4,
+    "pregunta": "Bajo la definición del Artículo 5, ¿qué elementos interactúan para constituir la 'Discapacidad'?",
+    "opciones": [
+      "Únicamente el diagnóstico médico de una deficiencia física o mental.",
+      "La interacción entre una persona con deficiencias y las diversas barreras físicas, sociales y culturales del entorno.",
+      "La falta de empleo y la carencia de una familia que brinde apoyo económico.",
+      "La decisión administrativa del Comité Nacional de Personas con Discapacidad tras una evaluación de ingresos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 5, inciso a, define la discapacidad como el resultado de la interacción de la persona (con deficiencias) con diversas barreras del entorno [5]."
+  },
+  {
+    "id": 5,
+    "pregunta": "Analizando las definiciones de la Ley, ¿qué diferencia sustancial existe entre 'Discapacidad Grave' y 'Muy Grave'?",
+    "opciones": [
+      "La grave es temporal y la muy grave es permanente.",
+      "La grave permite el autocuidado completo, mientras que la muy grave no permite ninguna movilidad física.",
+      "La grave implica requerir asistencia para algunas actividades, mientras que la muy grave requiere asistencia permanente de otra persona.",
+      "No hay diferencia legal, ambos términos se usan de forma indistinta para beneficios económicos."
+    ],
+    "correcta": 2,
+    "explicacion": "Según los incisos m y n del Artículo 5, la discapacidad grave puede requerir asistencia para algunas actividades, mientras que la muy grave imposibilita las actividades diarias y requiere asistencia permanente [6]."
+  },
+  {
+    "id": 6,
+    "pregunta": "El concepto de 'Ajustes Razonables' (Art. 5) se entiende como:",
+    "opciones": [
+      "Modificaciones que imponen una carga financiera desproporcionada al Estado para ser efectivas.",
+      "Adaptaciones necesarias y adecuadas que no impongan una carga indebida para garantizar el ejercicio de derechos.",
+      "Cambios en las leyes nacionales para eliminar todas las penas de cárcel a personas con discapacidad.",
+      "Descuentos obligatorios del 50% en todos los productos de la canasta básica."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 5, inciso v, define ajustes razonables como adaptaciones que no sean desproporcionadas ni impongan cargas indebidas en casos particulares [7]."
+  },
+  {
+    "id": 7,
+    "pregunta": "Sobre el derecho a la familia (Art. 7), ¿cuál es la obligación principal del entorno familiar?",
+    "opciones": [
+      "Sustituir la voluntad de la persona con discapacidad en todos los actos jurídicos.",
+      "Proporcionar protección y bienestar promoviendo su autonomía y respetando su autodeterminación.",
+      "Garantizar que la persona no salga del hogar para evitar riesgos de discriminación.",
+      "Asumir la representación política de la persona en todos los niveles del Estado."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 7 establece que la familia debe proporcionar protección y bienestar fomentando la autonomía de la persona [8]."
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Cuál es una condición necesaria para que se mantenga el beneficio de inamovilidad laboral según el Artículo 34?",
+    "opciones": [
+      "Tener un grado de discapacidad calificado como 'Leve' o superior.",
+      "Que el trabajador cumpla con la normativa vigente y no existan causales justificadas para su despido.",
+      "Que la empresa tenga más de 100 empleados en su nómina total.",
+      "Que la persona con discapacidad no perciba ningún otro bono o renta estatal."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 34, parágrafo II, garantiza la inamovilidad siempre que se cumpla la normativa y no haya causales de despido justificadas [9]."
+  },
+  {
+    "id": 9,
+    "pregunta": "De acuerdo con el Artículo 28, ¿en qué circunstancia una persona con discapacidad NO puede percibir la Renta Solidaria?",
+    "opciones": [
+      "Si tiene una discapacidad calificada como 'Moderada'.",
+      "Si desempeña funciones en el sector público.",
+      "Si es mayor de 60 años y ya recibe la Renta Dignidad.",
+      "Si tiene una discapacidad física pero no mental."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 28, parágrafo II, prohíbe percibir la Renta Solidaria a personas con discapacidad visual y a quienes desempeñen funciones en el sector público [10]."
+  },
+  {
+    "id": 10,
+    "pregunta": "La definición de 'Deficiencia' en el Artículo 5 se refiere a:",
+    "opciones": [
+      "La incapacidad total de una persona para trabajar.",
+      "Problemas en las funciones fisiológicas o estructuras corporales, como desviaciones significativas de la norma.",
+      "La falta de recursos económicos para acceder a la salud.",
+      "El rechazo social que sufre una persona debido a su apariencia física."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 5, inciso d, define la deficiencia como problemas en funciones o estructuras corporales, incluyendo pérdidas o anomalías [11]."
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Qué caracteriza a la 'Discapacidad Auditiva' según la Ley?",
+    "opciones": [
+      "La pérdida total de la visión como consecuencia de la falta de audición.",
+      "La estructuración de la experiencia e integración con el medio a través del sentido de la visión.",
+      "La imposibilidad de desarrollar procesos cognitivos lógicos.",
+      "La necesidad obligatoria de usar implantes cocleares financiados por el Estado."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 5, inciso g, señala que la persona con discapacidad auditiva estructura su experiencia e integración a través de la visión [12]."
+  },
+  {
+    "id": 12,
+    "pregunta": "Según el Artículo 20, ¿qué derecho tienen las personas con discapacidad intelectual y mental leve o moderada?",
+    "opciones": [
+      "A ser declaradas interdictas automáticamente para proteger sus bienes.",
+      "A ser consultadas respecto a decisiones referidas a su vida, salud y educación según sus posibilidades.",
+      "A que el Estado elija su lugar de residencia sin consultarles.",
+      "A no ser sujetos de ningún tipo de evaluación médica posterior."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 20 otorga el derecho a ser consultados en decisiones vitales, proyectándose hacia una vida independiente [13, 14]."
+  },
+  {
+    "id": 13,
+    "pregunta": "De acuerdo con el Artículo 21, ¿cuál es una causa para que los familiares pierdan los beneficios de la Ley?",
+    "opciones": [
+      "Si la persona con discapacidad decide vivir sola de forma independiente.",
+      "Cometer actos de violencia doméstica, abuso, malos tratos o discriminación.",
+      "Si el familiar se queda sin empleo por más de seis meses.",
+      "Si la persona con discapacidad recupera parcialmente su capacidad motora."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 21, inciso b, establece la pérdida de beneficios por violencia intrafamiliar, abusos o actos de discriminación [14, 15]."
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Qué establece el Artículo 31 respecto a los diplomas académicos para personas con discapacidad?",
+    "opciones": [
+      "Deben tener un sello especial que indique el grado de discapacidad del graduado.",
+      "Las universidades públicas y privadas deben extenderlos de manera gratuita.",
+      "Solo pueden otorgarse si el estudiante tuvo un promedio superior a 90 puntos.",
+      "Tienen una validez limitada de 5 años debido a la condición de salud del titular."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 31, parágrafo VIII, indica que las universidades deben extender gratuitamente diplomas académicos y títulos en provisión nacional [16]."
+  },
+  {
+    "id": 15,
+    "pregunta": "Según el Artículo 32, ¿qué está prohibido en la atención de salud sexual y reproductiva?",
+    "opciones": [
+      "La entrega gratuita de métodos anticonceptivos bajo cualquier circunstancia.",
+      "La esterilización obligatoria o el suministro de métodos anticonceptivos obligatorios.",
+      "Que las personas con discapacidad elijan su propio método de planificación familiar.",
+      "La atención por parte de personal médico que no tenga una discapacidad."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 32, parágrafo VI, protege contra la esterilización o anticoncepción obligatoria [17]."
+  },
+  {
+    "id": 16,
+    "pregunta": "Sobre el acceso a la justicia (Art. 38), ¿qué acción debe promover el Estado?",
+    "opciones": [
+      "Eximir a las personas con discapacidad de presentarse como testigos en juicios.",
+      "Capacitar a operadores de justicia, personal policial y penitenciario para asegurar el acceso efectivo.",
+      "Asignar automáticamente un tutor legal que decida por la persona en todos los casos penales.",
+      "Eliminar el uso de la Lengua de Señas en las audiencias judiciales."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 38, parágrafo II, señala que el Estado promoverá la capacitación de operadores y administradores de justicia [18, 19]."
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Qué es el CONALPEDIS según el Artículo 45?",
+    "opciones": [
+      "Una organización no gubernamental financiada por la cooperación internacional.",
+      "Una entidad descentralizada bajo tuición del Ministerio de Justicia encargada de la planificación estratégica.",
+      "Un tribunal especial para juzgar delitos cometidos contra personas con discapacidad.",
+      "Un sindicato nacional de trabajadores con discapacidad motora."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 45 define al CONALPEDIS como una entidad descentralizada con autonomía de gestión bajo tuición del Ministerio de Justicia [20]."
+  },
+  {
+    "id": 18,
+    "pregunta": "De acuerdo con el Artículo 48, ¿qué tipo de beneficios deben dictar los gobiernos autónomos en el transporte?",
+    "opciones": [
+      "Pasajes gratuitos ilimitados en todas las aerolíneas comerciales.",
+      "Beneficios extraordinarios y descuentos para personas con discapacidad y su acompañante.",
+      "Reserva del 50% de los asientos de cada vehículo para uso exclusivo.",
+      "Prohibición de cobrar multas de tránsito a conductores con discapacidad."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 48, inciso d, menciona descuentos y beneficios en medios de transporte para la persona y su acompañante [21]."
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Cuál es la postura de la Ley respecto al derecho a la vida (Art. 6)?",
+    "opciones": [
+      "Se garantiza desde el nacimiento hasta la muerte natural.",
+      "Se garantiza desde la concepción, en igualdad con el resto de las personas.",
+      "Es un derecho que depende de la viabilidad biológica del feto según informe médico.",
+      "Es un derecho que el Estado solo protege si la familia no tiene recursos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 6 establece la garantía del derecho a la vida desde la concepción [8]."
+  },
+  {
+    "id": 20,
+    "pregunta": "En cuanto al derecho a la vivienda (Art. 15), la Ley establece que:",
+    "opciones": [
+      "Cada persona con discapacidad recibirá una casa gratuita al cumplir 18 años.",
+      "Se tomarán medidas estableciendo un porcentaje del presupuesto de planes de vivienda social.",
+      "Solo las personas con discapacidad visual pueden acceder a créditos de vivienda.",
+      "El Estado expropiará terrenos privados para donarlos a este sector."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 15 garantiza programas especiales y la reserva de un porcentaje presupuestario en planes de vivienda social [22]."
+  },
+  {
+    "id": 21,
+    "pregunta": "Sobre el derecho a la participación política (Art. 18), ¿qué ajuste razonable se menciona para las elecciones?",
+    "opciones": [
+      "Permitir que las personas con discapacidad voten por correo una semana antes.",
+      "Permitir el ingreso al recinto de votación con una persona de confianza elegida por ellos.",
+      "Duplicar el valor del voto de una persona con discapacidad grave.",
+      "Eximirlos de la obligación de presentar su documento de identidad."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 18, parágrafo II, permite que las personas con discapacidad ingresen al recinto acompañados por una persona de confianza [23]."
+  },
+  {
+    "id": 22,
+    "pregunta": "Respecto a la exención de tributos (Art. 33), ¿qué artículo está EXCLUIDO de este beneficio?",
+    "opciones": [
+      "Órtesis y prótesis.",
+      "Ayudas técnicas de rehabilitación.",
+      "Vehículos automotores.",
+      "Equipos de computación adaptados."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 33 exime de tributos a órtesis, prótesis y ayudas técnicas, pero excluye explícitamente a los vehículos automotores [24]."
+  },
+  {
+    "id": 23,
+    "pregunta": "La 'Transversalidad' mencionada en el Artículo 43 implica que:",
+    "opciones": [
+      "Solo el Ministerio de Justicia debe ocuparse de la discapacidad.",
+      "La temática de discapacidad debe integrarse en todos los niveles, regímenes normativos, planes y proyectos del Estado.",
+      "Las personas con discapacidad deben cruzar todas las fronteras nacionales sin pasaporte.",
+      "Los presupuestos para discapacidad deben ser manejados por una sola cuenta bancaria única."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 43 obliga a transversalizar la temática en toda la gestión pública y normativa [20, 25]."
+  },
+  {
+    "id": 24,
+    "pregunta": "Sobre el control social (Art. 44), ¿qué se establece?",
+    "opciones": [
+      "Que las personas con discapacidad no pueden criticar las políticas públicas.",
+      "Que las políticas y proyectos están sujetos a rendición de cuentas y consulta con las organizaciones del sector.",
+      "Que el Estado controla a las organizaciones sociales mediante auditorías diarias.",
+      "Que solo las universidades pueden evaluar el impacto de la Ley."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 44 garantiza el control social y la consulta permanente con las organizaciones del sector [20]."
+  },
+  {
+    "id": 25,
+    "pregunta": "En cuanto a las nuevas construcciones (Art. 37), la Ley exige que:",
+    "opciones": [
+      "Tengan un plazo de 20 años para adaptarse a la normativa de accesibilidad.",
+      "Deben contar con condiciones de accesibilidad de forma obligatoria desde la promulgación de la Ley.",
+      "Puedan omitir rampas si el costo del cemento sube más del 10%.",
+      "Solo se aplique la norma en edificios de más de 10 pisos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 37, parágrafo III, establece que las nuevas construcciones deben cumplir con la accesibilidad desde la promulgación de la ley [18]."
+  },
+  {
+    "id": 26,
+    "pregunta": "Según el Artículo 5, ¿qué implica la 'Educación Inclusiva'?",
+    "opciones": [
+      "Crear escuelas separadas para cada tipo de discapacidad.",
+      "Responder a la diversidad mediante adaptaciones físicas, curriculares y apoyos para reducir la exclusión.",
+      "Eximir a los estudiantes con discapacidad de realizar exámenes o tareas.",
+      "Que solo los maestros con discapacidad puedan enseñar a niños con discapacidad."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 5, inciso r, define la educación inclusiva como una respuesta a la diversidad con adaptaciones curriculares y de acceso [26]."
+  },
+  {
+    "id": 27,
+    "pregunta": "La 'Rehabilitación Basada en la Comunidad' (Art. 5) es descrita como una estrategia para:",
+    "opciones": [
+      "Construir hospitales de tercer nivel en cada barrio.",
+      "Igualdad de oportunidades, reducción de la pobreza e integración social en su propia comunidad.",
+      "Obligar a los vecinos a cuidar gratuitamente a la persona con discapacidad.",
+      "Fomentar el traslado de personas del campo a las ciudades."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 5, inciso t, define la RBC como una estrategia de integración social y reducción de pobreza en el entorno local [27]."
+  },
+  {
+    "id": 28,
+    "pregunta": "En la gestión pública (Art. 29), ¿cuál es una fuente de recursos mencionada?",
+    "opciones": [
+      "Un impuesto directo al consumo de tabaco.",
+      "Recursos provenientes de la eliminación de subsidios a partidos políticos (Ley 3925).",
+      "El 5% del salario de todos los funcionarios públicos.",
+      "Las multas de tránsito por exceso de velocidad."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 29 cita recursos de la Ley 3925 sobre la eliminación de subsidios a partidos políticos [10, 28]."
+  },
+  {
+    "id": 29,
+    "pregunta": "Según el Artículo 31, parágrafo IX, ¿qué deben facilitar las universidades a estudiantes con discapacidad sensorial?",
+    "opciones": [
+      "Libros de texto gratuitos escritos a mano.",
+      "Instrumentos de evaluación adecuados, como braille e intérpretes de lengua de señas.",
+      "Aprobación automática de todas las materias del primer año.",
+      "Transporte en helicóptero para evitar el tráfico urbano."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 31, parágrafo IX, obliga a facilitar instrumentos de evaluación adaptados como braille e intérpretes de LSB [16, 29]."
+  },
+  {
+    "id": 30,
+    "pregunta": "Según el Artículo 32, parágrafo III, ¿quién coordina la distribución de equipos multidisciplinarios para la calificación de discapacidad?",
+    "opciones": [
+      "El Ministerio de Educación.",
+      "El Ministerio de Salud y Deportes en coordinación con entidades territoriales autónomas.",
+      "Las Fuerzas Armadas.",
+      "El Colegio Médico de Bolivia de forma privada."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 32 asigna esta tarea al Ministerio de Salud junto con las entidades territoriales autónomas [30]."
+  },
+  {
+    "id": 31,
+    "pregunta": "El Artículo 4 establece el principio de 'Igualdad en Dignidad'. Esto significa que:",
+    "opciones": [
+      "Se debe dar más importancia a la dignidad de los niños que a la de los adultos.",
+      "Las personas con discapacidad tienen la misma dignidad y derechos que el resto de los seres humanos.",
+      "La dignidad se adquiere tras obtener el carnet de discapacidad.",
+      "Es un principio que solo aplica en el ámbito de la salud privada."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 4, inciso a, establece que las personas con discapacidad tienen la misma dignidad y derechos que los demás seres humanos [31]."
+  },
+  {
+    "id": 32,
+    "pregunta": "¿Qué define a la 'Discapacidad Mental o Psíquica' según el Artículo 5?",
+    "opciones": [
+      "Una deficiencia auditiva que genera confusión mental.",
+      "Alteraciones de procesos cognitivos, afectivos o psicosociales que dificultan la adaptación y el juicio de realidad.",
+      "La falta de memoria debida a la edad avanzada.",
+      "La timidez extrema en entornos sociales públicos."
+    ],
+    "correcta": 1,
+    "explicacion": "Se describe como afectaciones en procesos lógicos, volitivos y conductuales que dificultan la adaptación [32]."
+  },
+  {
+    "id": 33,
+    "pregunta": "Según el Artículo 16, ¿qué garantiza el Estado para personas en situación de abandono?",
+    "opciones": [
+      "Un bono en efectivo entregado cada mes.",
+      "Albergues o centros de acogida con atención de calidad y calidez.",
+      "Trabajo obligatorio en granjas estatales.",
+      "Su traslado a otro país bajo programas de refugiados."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 16 promueve albergues y centros de acogida con atención de calidad para quienes estén en situación de abandono [22]."
+  },
+  {
+    "id": 34,
+    "pregunta": "El Artículo 17 establece el derecho a la accesibilidad en:",
+    "opciones": [
+      "Únicamente los hospitales públicos.",
+      "Infraestructura y servicios de instituciones públicas, privadas, espacios públicos, comunicación y transporte.",
+      "Solo en las ciudades capitales de departamento.",
+      "Edificios construidos antes de 1950 exclusivamente."
+    ],
+    "correcta": 1,
+    "explicacion": "Este artículo abarca infraestructura, servicios públicos y privados, comunicación y transporte [33]."
+  },
+  {
+    "id": 35,
+    "pregunta": "De acuerdo al Artículo 22, inciso m, ¿qué es un deber de la persona con discapacidad?",
+    "opciones": [
+      "Pagar sus impuestos en el mes de su cumpleaños.",
+      "Someterse al registro, calificación y carnetización.",
+      "Aprender al menos tres lenguas alternativas.",
+      "Participar en el desfile cívico nacional anualmente."
+    ],
+    "correcta": 1,
+    "explicacion": "El registro, calificación y carnetización son deberes establecidos por ley [34]."
+  },
+  {
+    "id": 36,
+    "pregunta": "En el Artículo 39, ¿qué medida deben adoptar los medios de comunicación?",
+    "opciones": [
+      "Transmitir 5 horas diarias de programas sobre discapacidad.",
+      "Eliminar lenguaje discriminatorio y concientizar sobre los derechos y contribución social de las personas con discapacidad.",
+      "Contratar a una persona con discapacidad por cada 10 empleados.",
+      "Prohibir noticias negativas relacionadas con el sector."
+    ],
+    "correcta": 1,
+    "explicacion": "El artículo se enfoca en la concientización social y la eliminación de términos discriminatorios [19]."
+  },
+  {
+    "id": 37,
+    "pregunta": "Sobre la inamovilidad laboral (Art. 34), ¿a quiénes más beneficia además de la persona con discapacidad?",
+    "opciones": [
+      "A sus hermanos mayores y tíos directos.",
+      "A cónyuges, padres, madres y/o tutores de hijos con discapacidad.",
+      "A sus vecinos más cercanos que actúen como testigos.",
+      "Solo beneficia al titular."
+    ],
+    "correcta": 1,
+    "explicacion": "La protección laboral se extiende a cónyuges, padres, madres y tutores [9]."
+  },
+  {
+    "id": 38,
+    "pregunta": "Según el Artículo 49, ¿cuál es el rol participativo de las personas con discapacidad?",
+    "opciones": [
+      "Deben esperar a que el Estado decida todo por ellos.",
+      "El Estado garantiza su participación efectiva en la toma de decisiones en políticas públicas permanentes.",
+      "Solo pueden participar si tienen un título profesional.",
+      "Tienen prohibido formar sindicatos o asociaciones civiles."
+    ],
+    "correcta": 1,
+    "explicacion": "La ley garantiza su participación efectiva en la toma de decisiones sobre políticas públicas [35]."
+  },
+  {
+    "id": 39,
+    "pregunta": "El Artículo 42 establece que las 'Unidades Especializadas' deben existir en:",
+    "opciones": [
+      "Solo en el Ministerio de Justicia.",
+      "Órgano Ejecutivo, Gobiernos Departamentales, Regionales y Municipales.",
+      "Únicamente en los municipios con más de un millón de habitantes.",
+      "En todas las juntas vecinales del país."
+    ],
+    "correcta": 1,
+    "explicacion": "Todos los niveles del Estado deben contar con unidades especializadas para este sector [25]."
+  },
+  {
+    "id": 40,
+    "pregunta": "Bajo el Artículo 3, ¿cuál es el ámbito de aplicación de la Ley?",
+    "opciones": [
+      "Solo en las ciudades del eje central.",
+      "En todo el territorio nacional y es de cumplimiento obligatorio para instituciones públicas y privadas.",
+      "Solo para los Órganos del Estado.",
+      "Únicamente en las naciones indígena originario campesinas."
+    ],
+    "correcta": 1,
+    "explicacion": "La ley es de cumplimiento obligatorio en todo el territorio para instituciones públicas, privadas y cooperativas [36]."
+  },
+  {
+    "id": 41,
+    "pregunta": "Según el Artículo 5, la 'Inclusión Social' es un proceso:",
+    "opciones": [
+      "Simplemente médico y asistencial.",
+      "Socioeconómico complejo, multifactorial y transdisciplinario.",
+      "Que depende exclusivamente de la voluntad de la persona con discapacidad.",
+      "Financiado totalmente por las ONGs internacionales."
+    ],
+    "correcta": 1,
+    "explicacion": "Se define como un proceso socioeconómico complejo que vincula capacidades con acceso igualitario [26]."
+  },
+  {
+    "id": 42,
+    "pregunta": "De acuerdo al Artículo 10, ¿qué garantiza el Estado en el sistema educativo?",
+    "opciones": [
+      "Títulos de bachiller automáticos.",
+      "Acceso y permanencia de estudiantes con discapacidad en el marco de una educación inclusiva.",
+      "Que no haya exámenes de ingreso en ninguna universidad estatal.",
+      "El pago de un sueldo a los estudiantes."
+    ],
+    "correcta": 1,
+    "explicacion": "Se garantiza el acceso y permanencia dentro del Sistema Educativo Plurinacional bajo un modelo inclusivo [37]."
+  },
+  {
+    "id": 43,
+    "pregunta": "El Artículo 12 garantiza el acceso a servicios de salud que deben ser:",
+    "opciones": [
+      "Gratuitos, de calidad y con calidez en los tres niveles de atención pública.",
+      "Pagados al 50% para cubrir costos.",
+      "Gratuitos solo en situaciones de emergencia.",
+      "Privatizados para asegurar atención."
+    ],
+    "correcta": 0,
+    "explicacion": "La ley establece gratuidad, calidad y calidez en la red de servicios públicos en los tres niveles [38]."
+  },
+  {
+    "id": 44,
+    "pregunta": "Según el Artículo 32, el Estado otorgará medicamentos gratuitos cuando:",
+    "opciones": [
+      "Sean de marca reconocida.",
+      "Estén relacionados con la discapacidad y no cuenten con otros mecanismos de provisión.",
+      "La persona con discapacidad los solicite por receta privada.",
+      "Haya un exceso de stock en los almacenes."
+    ],
+    "correcta": 1,
+    "explicacion": "La gratuidad está condicionada a la relación con la discapacidad y la falta de otros medios de provisión [30, 39]."
+  },
+  {
+    "id": 45,
+    "pregunta": "El Artículo 36 obliga a incorporar un intérprete de LSB en:",
+    "opciones": [
+      "Conversaciones privadas.",
+      "Actos de relevancia nacional, departamental y municipal.",
+      "Todos los programas de radio.",
+      "Las filas de los supermercados."
+    ],
+    "correcta": 1,
+    "explicacion": "Las instituciones y unidades educativas deben incorporar intérpretes de LSB en actos de relevancia pública [40]."
+  },
+  {
+    "id": 46,
+    "pregunta": "De acuerdo al Artículo 37, parágrafo II, las instituciones deben adecuar su estructura arquitectónica:",
+    "opciones": [
+      "En un plazo de 30 días.",
+      "De manera gradual a partir de la promulgación de la Ley.",
+      "Solo si reciben una queja formal.",
+      "Únicamente si son edificios nuevos."
+    ],
+    "correcta": 1,
+    "explicacion": "Las instituciones deben adecuar sus estructuras existentes de manera gradual [41]."
+  },
+  {
+    "id": 47,
+    "pregunta": "El Artículo 45 establece que el CONALPEDIS está bajo tuición del:",
+    "opciones": [
+      "Ministerio de Salud.",
+      "Ministerio de Justicia.",
+      "Ministerio de Trabajo.",
+      "Ministerio de la Presidencia."
+    ],
+    "correcta": 1,
+    "explicacion": "El CONALPEDIS es una entidad descentralizada bajo tuición del Ministerio de Justicia [20]."
+  },
+  {
+    "id": 48,
+    "pregunta": "Según el Artículo 47, ¿quién designa al Director(a) Ejecutivo(a) del CONALPEDIS?",
+    "opciones": [
+      "La COBOPDI mediante voto.",
+      "El Órgano Ejecutivo.",
+      "La Asamblea Legislativa.",
+      "El Defensor del Pueblo."
+    ],
+    "correcta": 1,
+    "explicacion": "La designación del Director Ejecutivo corresponde al Órgano Ejecutivo [42]."
+  },
+  {
+    "id": 49,
+    "pregunta": "El Artículo 4 establece el principio de 'Asistencia Económica Estatal' se traduce en:",
+    "opciones": [
+      "Un sueldo mínimo para todos.",
+      "Una renta solidaria para discapacidad grave y muy grave y planes económicos para el resto.",
+      "El pago de servicios básicos por el Estado.",
+      "Préstamos sin retorno ilimitados."
+    ],
+    "correcta": 1,
+    "explicacion": "El Estado promueve una renta solidaria para grados grave y muy grave, y asistencia mediante planes para los demás [43]."
+  },
+  {
+    "id": 50,
+    "pregunta": "Según la Disposición Transitoria Única, ¿qué ley se mantiene vigente transitoriamente para ciertos derechos?",
+    "opciones": [
+      "La Ley General del Trabajo.",
+      "La Ley Nº 1678 de 1995.",
+      "La Constitución de 1967.",
+      "El Código Civil de 1975."
+    ],
+    "correcta": 1,
+    "explicacion": "Se dispone la vigencia de derechos de la Ley 1678 hasta que se aprueben los estatutos autonómicos y otras leyes [44]."
+  }
+]

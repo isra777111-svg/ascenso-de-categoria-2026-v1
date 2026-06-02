@@ -1,0 +1,1790 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Cuál es el objetivo principal de los lineamientos de intervención para la comunidad educativa frente a situaciones de violencia intrafamiliar?",
+    "opciones": [
+      "Sancionar penalmente a los progenitores agresores mediante procesos judiciales directos.",
+      "Garantizar la prevención, identificación temprana y referencia oportuna para la restitución de derechos.",
+      "Sustituir las funciones de la Defensoría de la Niñez y Adolescencia dentro del aula.",
+      "Establecer un régimen disciplinario punitivo para estudiantes con conductas violentas."
+    ],
+    "correcta": 1,
+    "explicacion": "El objetivo es orientar a la comunidad educativa para garantizar la prevención, identificación y referencia oportuna, evitando la revictimización. Sección 2.1. Objetivo de la guía. [1]"
+  },
+  {
+    "id": 2,
+    "pregunta": "¿En qué subsistema de educación tiene alcance la aplicación de las actuaciones frente a casos de violencia identificados contra niñas, niños y adolescentes?",
+    "opciones": [
+      "Únicamente en Centros de Educación Especial y Alternativa.",
+      "Exclusivamente en Unidades Educativas privadas de convenio.",
+      "En las unidades educativas que conforman el Subsistema de Educación Regular.",
+      "En todo el Sistema Educativo Plurinacional, incluyendo Educación Superior."
+    ],
+    "correcta": 2,
+    "explicacion": "La guía establece actuaciones para autoridades y maestros del Subsistema de Educación Regular. Sección 2.2. Alcance. [2]"
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Cómo se define la violencia en el ámbito familiar cuando existe maltrato entre sus miembros?",
+    "opciones": [
+      "Comportamientos accidentales y aislados de falta de comunicación entre parientes.",
+      "Situaciones de conflicto mutuo donde ambas partes tienen el mismo nivel de poder.",
+      "Uso de la fuerza física exclusivamente para corregir conductas rebeldes en el hogar.",
+      "Comportamientos deliberados y recurrentes donde uno o más miembros con mayor poder abusan de otros con menor poder."
+    ],
+    "correcta": 3,
+    "explicacion": "Se define por el abuso de poder de componentes de la familia hacia otros, ya sea por acción, omisión o supresión. Sección 2.3.1. Manifestaciones de la violencia intrafamiliar. [3]"
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué tipo de violencia se configura cuando se impide el acceso a la educación o se delega responsabilidad excesiva a un menor para su edad?",
+    "opciones": [
+      "Explotación laboral.",
+      "Negligencia emocional.",
+      "Violencia psicológica.",
+      "Castigo corporal preventivo."
+    ],
+    "correcta": 0,
+    "explicacion": "El trabajo es explotación cuando impide el acceso a la educación o delega demasiada responsabilidad para la edad. Sección 2.3.3. Tipos de violencia (Violencia por acción). [4]"
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Cuál de las siguientes es una forma de violencia por omisión y supresión?",
+    "opciones": [
+      "El uso de insultos y burlas permanentes hacia el estudiante.",
+      "La no provisión de estímulos y condiciones para asistir a la unidad educativa.",
+      "El contacto físico con fines libidinosos por parte de un tutor.",
+      "La imposición de castigos físicos para instaurar disciplina."
+    ],
+    "correcta": 1,
+    "explicacion": "La violencia por omisión incluye la negligencia, como no proveer las condiciones para asistir a la escuela. Sección 2.3.3. Violencia por omisión y supresión. [5]"
+  },
+  {
+    "id": 6,
+    "pregunta": "En el marco de la violencia psicológica, ¿qué conducta se constituye específicamente como abandono y rechazo?",
+    "opciones": [
+      "La exigencia de un alto rendimiento académico sin apoyo pedagógico.",
+      "Evitar el contacto o cercanía con el niño, anulando sus iniciativas de apego de forma permanente.",
+      "Corregir una conducta inapropiada mediante una llamada de atención verbal directa.",
+      "Delegar el cuidado del menor a un familiar cercano de manera temporal."
+    ],
+    "correcta": 1,
+    "explicacion": "Minimizar o anular las iniciativas de apego e interacción se constituye en abandono y rechazo dentro de la violencia psicológica. Sección 2.3.3. Tipos de violencia (Violencia psicológica). [6]"
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Qué diferencia sustancial debe establecer el maestro al identificar casos de negligencia familiar?",
+    "opciones": [
+      "Diferenciar entre la falta de voluntad de cuidado y la carencia de recursos materiales o emocionales.",
+      "Distinguir si la negligencia es cometida por la madre o por el padre biológico.",
+      "Evaluar si la negligencia afecta más al rendimiento en matemáticas que en lenguaje.",
+      "Determinar si el estudiante tiene hermanos que también sufren el mismo descuido."
+    ],
+    "correcta": 0,
+    "explicacion": "Es vital diferenciar la negligencia de la carencia de recursos para proveer condiciones adecuadas. Sección 2.3.3. Violencia por omisión y supresión. [5]"
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Cuál es una señal o consecuencia de la violencia en el área conductual durante la niñez?",
+    "opciones": [
+      "Aumento del apetito y deseo de participación social constante.",
+      "Conductas regresivas, como chuparse el dedo u orinarse en la cama.",
+      "Mejora repentina en la capacidad de memorización y lógica.",
+      "Búsqueda activa de liderazgo en grupos de pares."
+    ],
+    "correcta": 1,
+    "explicacion": "Las conductas regresivas son señales comunes a corto y mediano plazo en niños víctimas de violencia. Tabla 2. Señales y consecuencias de la violencia. [7]"
+  },
+  {
+    "id": 9,
+    "pregunta": "En la adolescencia, ¿qué señal se asocia con un interés exagerado por conductas sexuales de los adultos?",
+    "opciones": [
+      "Identidad de género en desarrollo.",
+      "Conducta sexual normal para la etapa de desarrollo.",
+      "Señal de alerta relacionada con la sexualidad por posible violencia sexual.",
+      "Curiosidad académica por la biología reproductiva."
+    ],
+    "correcta": 2,
+    "explicacion": "Un interés exagerado o conductas sexuales no apropiadas para la edad son señales de alerta. Tabla 2. Sexualidad. [8]"
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Qué factor de riesgo individual en el agresor está relacionado con la generación de violencia intrafamiliar?",
+    "opciones": [
+      "Tener un nivel alto de formación académica especializada.",
+      "Pertenecer a una comunidad con valores éticos sólidos.",
+      "Reducida capacidad de control de impulsos y modelo de crianza basado en el castigo.",
+      "Contar con un empleo estable con carga horaria reducida."
+    ],
+    "correcta": 2,
+    "explicacion": "La personalidad impulsiva y los modelos de crianza violentos son factores de riesgo en el agresor. Sección 2.5. Factores de riesgo. [9]"
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Qué categoría del modelo ecológico explica la multifactorialidad de la violencia contra la niñez?",
+    "opciones": [
+      "Biológica, Química, Física y Social.",
+      "El niño, la familia, la comunidad y la sociedad.",
+      "Escolar, Jurídica, Policial y Médica.",
+      "Económica, Religiosa, Política y Cultural."
+    ],
+    "correcta": 1,
+    "explicacion": "El modelo ecológico identifica estos cuatro factores de influencia. Sección I. Introducción (Modelo Ecológico). [10]"
+  },
+  {
+    "id": 12,
+    "pregunta": "Según la normativa vigente, ¿cuándo se considera que el estupro ha ocurrido?",
+    "opciones": [
+      "Cuando se emplea la fuerza física para tener relaciones con una persona de cualquier edad.",
+      "Cuando se logra tener relaciones sexuales con un menor (14 a 17 años) mediante engaño y seducción.",
+      "Cuando hay contacto sexual no consentido con un niño menor de 10 años.",
+      "Cuando existe explotación sexual comercial en redes internacionales."
+    ],
+    "correcta": 1,
+    "explicacion": "El estupro implica relaciones con menores de 14 a 17 años mediante engaño. Tabla 1. Tipologías de violencia sexual. [11]"
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Cuál es la pena máxima privativa de libertad para el delito de violación según la tabla de tipologías?",
+    "opciones": [
+      "5 años.",
+      "10 años.",
+      "15 años.",
+      "30 años sin derecho a indulto."
+    ],
+    "correcta": 2,
+    "explicacion": "La tabla indica que la pena máxima para violación es la privación de libertad de 15 años. Tabla 1. Violación. [12]"
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Qué acción debe realizar inmediatamente cualquier persona de la comunidad educativa que conozca una situación de violencia intrafamiliar contra un estudiante?",
+    "opciones": [
+      "Realizar una investigación privada para recolectar pruebas fotográficas.",
+      "Informar inmediatamente al maestro o a la autoridad institucional.",
+      "Confrontar a la familia en el domicilio del estudiante para exigir explicaciones.",
+      "Esperar a que el estudiante presente marcas físicas evidentes para reportar."
+    ],
+    "correcta": 1,
+    "explicacion": "Se debe informar de inmediato a la autoridad para el abordaje oportuno. Sección III. Detección, actuación y referencia. [13]"
+  },
+  {
+    "id": 15,
+    "pregunta": "Durante la detección de violencia, ¿qué actitud se recomienda al maestro o maestra?",
+    "opciones": [
+      "Ignorar los sentimientos si los hechos parecen poco creíbles.",
+      "Juzgar el comportamiento de los padres para que el niño se sienta apoyado.",
+      "Escuchar de manera atenta, creyendo y aceptando lo que escuchamos.",
+      "Minimizar la situación para no asustar al estudiante."
+    ],
+    "correcta": 2,
+    "explicacion": "Es fundamental escuchar con todos los sentidos, creer y aceptar el relato. Tabla 5. Orientaciones (Detección). [14]"
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Qué acción está explícitamente prohibida (Lo que NO se puede hacer) durante la intervención de un caso de violencia?",
+    "opciones": [
+      "Realizar preguntas abiertas para fomentar el diálogo.",
+      "Confrontar a la niña o al niño con su agresor.",
+      "Indagar si hay apoyo de un adulto responsable en la familia.",
+      "Mantener una postura objetiva ante la situación."
+    ],
+    "correcta": 1,
+    "explicacion": "Bajo ningún concepto se debe confrontar a la víctima con su agresor. Tabla 5. Orientaciones (Durante la intervención). [15]"
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Cuál es el rol fundamental de la maestra o maestro en la protección de los estudiantes?",
+    "opciones": [
+      "Actuar como fiscal acusador en los procesos penales familiares.",
+      "Ser un puente entre el estudiante y los servicios necesarios para su bienestar.",
+      "Brindar terapia psicológica especializada de larga duración en el aula.",
+      "Decidir si un hecho es delito o no antes de informar a las autoridades."
+    ],
+    "correcta": 1,
+    "explicacion": "El maestro es un puente y debe buscar los servicios necesarios para garantizar la protección integral. Sección 3.2. Rol de las maestras y los maestros. [16]"
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Qué debe hacer un docente si siente que no cuenta con los elementos necesarios o tiene una experiencia personal de abuso no resuelta para atender un caso?",
+    "opciones": [
+      "Forzarse a atenderlo para demostrar profesionalismo.",
+      "Traspasar el caso a quien pueda atenderlo adecuadamente.",
+      "Cerrar el caso y no comentarlo con nadie para evitar sesgos.",
+      "Pedir al estudiante que busque a otro profesor por su cuenta."
+    ],
+    "correcta": 1,
+    "explicacion": "Si el adulto tiene limitaciones, lo mejor es traspasar el caso para que prime el interés superior del estudiante. Tabla 6. Examinar sus limitaciones. [17]"
+  },
+  {
+    "id": 19,
+    "pregunta": "En la valoración del riesgo, ¿qué caracteriza a un 'Riesgo Alto' en maltrato físico?",
+    "opciones": [
+      "Uso de fuerza física que no genera lesiones evidentes.",
+      "Uso eventual de la fuerza como pauta de crianza justificada por el adulto.",
+      "Lesiones que ponen en riesgo la vida, generan secuelas o requieren atención médica urgente.",
+      "Golpes leves que no han requerido atención médica previa."
+    ],
+    "correcta": 2,
+    "explicacion": "El riesgo alto implica peligro vital, secuelas o necesidad de medicina de urgencia. Tabla 7. Valoración del Riesgo (Maltrato físico). [18]"
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Cómo se clasifican los hechos de violencia sexual en la valoración del riesgo dentro de la unidad educativa?",
+    "opciones": [
+      "Riesgo bajo, si el agresor no vive en la misma casa.",
+      "Riesgo medio, siempre que no haya penetración.",
+      "Riesgo alto en todos los casos, debiendo denunciarse inmediatamente.",
+      "Riesgo variable, dependiendo de si la víctima es hombre o mujer."
+    ],
+    "correcta": 2,
+    "explicacion": "Todos los hechos de violencia sexual son considerados de riesgo alto. Tabla 7. Valoración del Riesgo (Violencia sexual). [18]"
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Qué debe hacer el maestro si la valoración de la situación de violencia es de 'Bajo Riesgo'?",
+    "opciones": [
+      "Denunciar penalmente a los padres ante la fiscalía en 24 horas.",
+      "Apoyar a los padres o tutores a fortalecer sus habilidades parentales mediante información.",
+      "Ignorar el caso, ya que no representa un peligro real.",
+      "Expulsar al estudiante de la unidad educativa para proteger a los demás."
+    ],
+    "correcta": 1,
+    "explicacion": "En riesgo bajo se debe orientar a la familia en pautas de crianza positiva y límites sin violencia. Sección 3.3. Recomendaciones para la actuación. [19]"
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Existe la posibilidad de mediación o arreglos extrajudiciales en casos de violencia sexual?",
+    "opciones": [
+      "Sí, si el agresor es un familiar muy cercano y se compromete a cambiar.",
+      "Solo si la víctima es adolescente y otorga su consentimiento.",
+      "Nunca existe la opción de mediación ni arreglos extrajudiciales.",
+      "Sí, siempre que el director de la unidad educativa actúe como testigo."
+    ],
+    "correcta": 2,
+    "explicacion": "No existe mediación posible en violencia sexual, sin importar quién sea el agresor. Sección 3.3. Intervención (Nota importante). [20]"
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Cuál es el plazo máximo para comunicar un hecho de violencia a la Defensoría de la Niñez y Adolescencia (DNA) si el riesgo es alto?",
+    "opciones": [
+      "Inmediatamente, dentro de las 24 horas de conocido el hecho.",
+      "Al finalizar la semana de clases para no interrumpir el avance curricular.",
+      "Dentro de los 5 días hábiles posteriores al reporte del estudiante.",
+      "No hay plazo, depende de la disponibilidad del director."
+    ],
+    "correcta": 0,
+    "explicacion": "La comunicación debe realizarse de manera inmediata, máximo en 24 horas. Sección 3.4. Referencia o derivación. [20], [21]"
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Qué número de línea gratuita se menciona como recurso para derivar a padres y madres en busca de orientación oportuna?",
+    "opciones": [
+      "110 de la Policía Nacional.",
+      "800 11 30 40 de Familia Segura.",
+      "911 de Emergencias Médicas.",
+      "156 de la Defensoría Municipal."
+    ],
+    "correcta": 1,
+    "explicacion": "La línea Familia Segura 800113040 brinda orientación psico-emocional gratuita. Sección 3.3. Recomendaciones para la actuación. [19], [22]"
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Qué debe hacer la autoridad educativa si recibe amenazas por realizar una denuncia ante la DNA?",
+    "opciones": [
+      "Retirar la denuncia inmediatamente para evitar represalias.",
+      "Presentar otra demanda por intimidación y solicitar medidas de protección.",
+      "Resolver el conflicto personalmente con el agresor fuera de la escuela.",
+      "Cerrar la unidad educativa hasta que pase el peligro."
+    ],
+    "correcta": 1,
+    "explicacion": "Puede presentar demandas adicionales por intimidación y recurrir al departamento jurídico de la Dirección Departamental de Educación. Sección 3.4. Recordamos. [23]"
+  },
+  {
+    "id": 26,
+    "pregunta": "¿En qué consiste la 'Contrarreferencia' en el ámbito educativo?",
+    "opciones": [
+      "En devolver el caso a la familia para que ellos lo resuelvan solos.",
+      "En el seguimiento que hace la autoridad educativa a las medidas de protección dentro de la institución.",
+      "En realizar una contra-denuncia ante el Ministerio Público contra la DNA.",
+      "En anular la referencia inicial si el estudiante mejora sus notas."
+    ],
+    "correcta": 1,
+    "explicacion": "La contrarreferencia implica dar seguimiento académico y emocional al estudiante tras la derivación. Sección 3.4.1. Contrarreferencia o seguimiento. [24]"
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Qué tipo de preguntas deben utilizarse al intentar aclarar sospechas de violencia con un estudiante?",
+    "opciones": [
+      "Preguntas cerradas que solo admitan 'sí' o 'no'.",
+      "Preguntas capciosas para atrapar al estudiante en contradicciones.",
+      "Preguntas abiertas que permitan una conversación amigable.",
+      "Preguntas técnicas legales para fundamentar el informe."
+    ],
+    "correcta": 2,
+    "explicacion": "La conversación debe basarse en preguntas abiertas y no ser un interrogatorio. Sección 3.1. Herramientas para detectar la violencia (b). [25]"
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Cuál es un indicador físico evidente de posible maltrato?",
+    "opciones": [
+      "Uso de ropa nueva y limpia todos los días.",
+      "Lesiones o fracturas sin explicación coherente con la causa alegada.",
+      "Participación activa en actividades deportivas escolares.",
+      "Aumento de peso saludable acorde a la edad."
+    ],
+    "correcta": 1,
+    "explicacion": "Las lesiones inexplicables o incoherentes son signos físicos de alerta. Tabla 4. Signos o indicadores físicos evidentes. [26]"
+  },
+  {
+    "id": 29,
+    "pregunta": "¿Qué se entiende por 'somatización' en el contexto de indicadores de violencia?",
+    "opciones": [
+      "Una enfermedad biológica hereditaria comprobada por médicos.",
+      "Síntomas físicos (dolores de cabeza, vómitos) que tienen origen psicológico.",
+      "El acto de fingir una enfermedad para no asistir a clases.",
+      "La recuperación rápida de una herida física superficial."
+    ],
+    "correcta": 1,
+    "explicacion": "Son síntomas físicos que no pueden ser explicados por enfermedad médica y tienen origen psíquico. Tabla 4. Nota 8. [25]"
+  },
+  {
+    "id": 30,
+    "pregunta": "Según la Convención sobre los Derechos del Niño, ¿cuál es uno de los pilares que incumple el castigo físico?",
+    "opciones": [
+      "El derecho a la propiedad privada del niño.",
+      "El interés superior del niño.",
+      "El deber de obediencia absoluta a los padres.",
+      "El derecho a la elección de religión antes de los 5 años."
+    ],
+    "correcta": 1,
+    "explicacion": "El castigo físico incumple el interés superior, el derecho al desarrollo y el respeto a su punto de vista. Sección II. Aspectos generales (Nota 7). [27]"
+  },
+  {
+    "id": 31,
+    "pregunta": "¿Qué conducta se considera violencia sexual sin contacto físico contra una niña, niño o adolescente?",
+    "opciones": [
+      "La imposición de tareas domésticas pesadas.",
+      "El rechazo constante a sus iniciativas de juego.",
+      "La privación de alimentos como castigo.",
+      "La exhibición de partes íntimas o la exposición a pornografía."
+    ],
+    "correcta": 3,
+    "explicacion": "La violencia sexual incluye actos sin contacto físico como la exhibición y el uso de material pornográfico. Sección 2.3.3. Tipos de violencia (Violencia sexual)."
+  },
+  {
+    "id": 32,
+    "pregunta": "Según los criterios de explotación laboral, ¿cuándo se considera que el trabajo de un menor es abusivo?",
+    "opciones": [
+      "Cuando colabora en tareas del hogar bajo supervisión adulta.",
+      "Cuando el trabajo impide el acceso a la educación o atenta contra su dignidad.",
+      "Cuando recibe una propina voluntaria por ayudar a un familiar.",
+      "Cuando realiza actividades recreativas fuera del horario escolar."
+    ],
+    "correcta": 1,
+    "explicacion": "El trabajo se considera explotación si impide la educación, atenta contra la autoestima o implica demasiada responsabilidad para la edad. Sección 2.3.3. Violencia por acción (Explotación laboral)."
+  },
+  {
+    "id": 33,
+    "pregunta": "¿Cuál es una consecuencia cognitiva de la violencia a corto y mediano plazo en estudiantes de primaria?",
+    "opciones": [
+      "Disminución de la capacidad de atención y concentración.",
+      "Aumento de la creatividad y la imaginación desbordada.",
+      "Mejora en la resolución de problemas lógicos complejos.",
+      "Desarrollo precoz de habilidades de lectura y escritura."
+    ],
+    "correcta": 0,
+    "explicacion": "La violencia afecta el área cognitiva reduciendo la atención y provocando olvidos frecuentes de rutinas. Tabla 2. Área cognitiva (En la niñez)."
+  },
+  {
+    "id": 34,
+    "pregunta": "¿Qué sentimiento suele experimentar un adolescente víctima de violencia en relación con los hechos sufridos?",
+    "opciones": [
+      "Euforia y deseo de liderazgo en el aula.",
+      "Indiferencia total hacia el entorno familiar.",
+      "Sentimientos de culpa e impotencia sobre lo sucedido.",
+      "Sentimiento de superioridad frente a sus pares."
+    ],
+    "correcta": 2,
+    "explicacion": "La angustia emocional y el sentimiento de culpa son señales comunes en la adolescencia. Tabla 2. Área emocional (En la adolescencia)."
+  },
+  {
+    "id": 35,
+    "pregunta": "¿Qué alteración en las funciones ejecutivas del cerebro se asocia con la violencia a largo plazo?",
+    "opciones": [
+      "Aumento de la flexibilidad cognitiva para resolver conflictos.",
+      "Fortalecimiento de la memoria a largo plazo.",
+      "Dificultades en el autocontrol y la memoria de trabajo.",
+      "Mejora en la capacidad de planificación estratégica."
+    ],
+    "correcta": 2,
+    "explicacion": "A largo plazo, la violencia afecta la memoria, el autocontrol y la capacidad de ver perspectivas diferentes. Tabla 2. Área cognitiva (Consecuencias a largo plazo)."
+  },
+  {
+    "id": 36,
+    "pregunta": "¿Cuál es un factor de riesgo individual relacionado específicamente con la víctima?",
+    "opciones": [
+      "Nacer de un embarazo de alto riesgo o con discapacidad.",
+      "Tener padres con empleo estable y seguro social.",
+      "Vivir en una comunidad con alta cohesión social.",
+      "Contar con una red de apoyo familiar extensa."
+    ],
+    "correcta": 0,
+    "explicacion": "Embarazos de alto riesgo, prematurez o impedimentos físicos son factores individuales de riesgo en la víctima. Tabla 3. Factores de riesgo (Individuales)."
+  },
+  {
+    "id": 37,
+    "pregunta": "¿Qué factor social contribuye a que el maltrato infantil sea tolerado en algunos contextos?",
+    "opciones": [
+      "La aplicación estricta de la Ley 548.",
+      "Normas sociales que aceptan el castigo corporal como forma de educación.",
+      "La promoción de la cultura del buen trato en los medios.",
+      "El incremento de la escolaridad en padres y madres."
+    ],
+    "correcta": 1,
+    "explicacion": "Las normas sociales y costumbres que refuerzan o toleran el comportamiento violento son factores de riesgo sociales. Tabla 3. Factores de riesgo (Sociales)."
+  },
+  {
+    "id": 38,
+    "pregunta": "¿Por qué se considera que el castigo físico es un medio ineficaz para instaurar disciplina?",
+    "opciones": [
+      "Porque requiere demasiado tiempo de aplicación por parte del adulto.",
+      "Porque no genera consecuencias físicas visibles de inmediato.",
+      "Porque enseña que la violencia es una forma aceptable de resolver conflictos.",
+      "Porque motiva al estudiante a ser más independiente del docente."
+    ],
+    "correcta": 2,
+    "explicacion": "El castigo enseña que la violencia es válida para persuadir a otros y resolver problemas. Sección I. Introducción (Convención sobre los Derechos del Niño)."
+  },
+  {
+    "id": 39,
+    "pregunta": "¿Qué debe hacer un docente si sospecha de violencia pero el estudiante no lo relata espontáneamente?",
+    "opciones": [
+      "Utilizar espacios como el dibujo o la poesía para que el estudiante manifieste sus emociones.",
+      "Obligar al estudiante a confesar los hechos bajo amenaza de reprobación.",
+      "Citar a los padres inmediatamente para confrontarlos con sus sospechas.",
+      "Restar importancia al caso hasta que el estudiante decida hablar."
+    ],
+    "correcta": 0,
+    "explicacion": "Se pueden usar recursos disponibles como dibujo y poesía para permitir la manifestación de sentimientos sin revictimizar. Sección 3.1. Herramientas para detectar la violencia."
+  },
+  {
+    "id": 40,
+    "pregunta": "¿Cuál es un indicador de comportamiento que puede observarse en la unidad educativa ante un caso de violencia?",
+    "opciones": [
+      "Interés excesivo por las actividades extracurriculares.",
+      "Liderazgo positivo y mediación en conflictos entre pares.",
+      "Participación constante y entusiasta en todas las materias.",
+      "Temor a permanecer en el establecimiento o miedo de ir a su casa."
+    ],
+    "correcta": 3,
+    "explicacion": "El miedo al entorno familiar o escolar es un signo claro de alerta conductual. Tabla 4. Signos o indicadores de comportamiento."
+  },
+  {
+    "id": 41,
+    "pregunta": "Al conversar con una posible víctima, ¿qué acción es parte de 'Lo que SÍ se puede hacer'?",
+    "opciones": [
+      "Minimizar la situación para que la niña no se asuste.",
+      "Creer y aceptar lo que escuchamos del relato de la víctima.",
+      "Juzgar el comportamiento de los padres para ganar confianza.",
+      "Contar una historia personal similar para generar empatía."
+    ],
+    "correcta": 1,
+    "explicacion": "Es fundamental escuchar atentamente, creer y aceptar el relato sin prejuicios. Tabla 5. Orientaciones (Detección)."
+  },
+  {
+    "id": 42,
+    "pregunta": "¿Qué precaución se debe tomar si se sospecha que un estudiante es víctima de abuso sexual?",
+    "opciones": [
+      "El examen físico debe realizarlo el director en su oficina privada.",
+      "La conversación debe ser realizada preferentemente por una maestra en un ambiente tranquilo.",
+      "Se debe interrogar al estudiante frente a todo el consejo de maestros.",
+      "Es obligatorio que el agresor esté presente para que el niño lo identifique."
+    ],
+    "correcta": 1,
+    "explicacion": "La conversación debe ser privada, preferentemente con una maestra (o maestro entrenado) y con actitud empática. Sección 3.1. Herramientas para detectar la violencia (b)."
+  },
+  {
+    "id": 43,
+    "pregunta": "Si un docente identifica inconsistencias entre el relato de los padres y el estado físico del estudiante, ¿qué acción es pertinente?",
+    "opciones": [
+      "Ignorar las inconsistencias para no entrar en conflicto con la familia.",
+      "Considerar la derivación al centro de salud para una revisión médica profesional.",
+      "Pedir al estudiante que mienta para proteger a su familia.",
+      "Realizar una curación casera y no reportar el incidente."
+    ],
+    "correcta": 1,
+    "explicacion": "Ante inconsistencias, el personal de salud puede verificar si hay signos de violencia y proceder a la denuncia. Sección 3.1. Herramientas para detectar la violencia (b)."
+  },
+  {
+    "id": 44,
+    "pregunta": "¿En qué consiste el 'mapeo de actores' que debe realizar el personal docente?",
+    "opciones": [
+      "En identificar a los estudiantes con mejores notas del curso.",
+      "En ubicar geográficamente las viviendas de todos los agresores.",
+      "En detectar las instancias (DNA, salud, policía) que ofrecen atención especializada.",
+      "En clasificar a los padres según su nivel socioeconómico."
+    ],
+    "correcta": 2,
+    "explicacion": "El mapeo permite detectar instancias de apoyo para asegurar la atención integral. Sección 3.2. Asegurar la atención integral."
+  },
+  {
+    "id": 45,
+    "pregunta": "¿Qué define a una situación de 'Riesgo Medio' en maltrato psicológico?",
+    "opciones": [
+      "Insultos y rechazo habituales que afectan el área emocional pero mantienen rasgos de cuidado.",
+      "Amenazas de muerte directas con presencia de armas en el hogar.",
+      "Actitudes de maltrato aisladas que no afectan el desarrollo social.",
+      "Ausencia total de contacto verbal entre padres e hijos."
+    ],
+    "correcta": 0,
+    "explicacion": "El riesgo medio implica maltrato habitual con afectación, pero donde aún existen algunos rasgos de cuidado. Tabla 7. Valoración del Riesgo (Maltrato psicológico)."
+  },
+  {
+    "id": 46,
+    "pregunta": "En la valoración del riesgo, ¿qué situación se considera un factor de 'Riesgo Alto' independientemente del daño físico?",
+    "opciones": [
+      "Que el estudiante tenga una mascota en casa.",
+      "Que los padres trabajen fuera de la ciudad.",
+      "Que el agresor tenga acceso directo a la niña, niño o adolescente.",
+      "Que el estudiante tenga más de dos hermanos."
+    ],
+    "correcta": 2,
+    "explicacion": "El acceso del agresor a la víctima es un factor determinante para calificar el riesgo como alto. Sección 3.3. Intervención (Criterios de riesgo)."
+  },
+  {
+    "id": 47,
+    "pregunta": "¿Cuál es la recomendación principal para las maestras y maestros respecto a los interrogatorios?",
+    "opciones": [
+      "Realizar interrogatorios exhaustivos para tener todas las pruebas antes de denunciar.",
+      "No realizar interrogatorios exhaustivos ni solicitar detalles de signos en lugares no visibles.",
+      "Pedir al estudiante que se quite la ropa para fotografiar las lesiones.",
+      "Grabar al estudiante sin su consentimiento para usarlo como prueba judicial."
+    ],
+    "correcta": 1,
+    "explicacion": "Se recomienda evitar interrogatorios minuciosos para no revictimizar y dejar esa labor a especialistas. Sección 3.3. Intervención (Recomendación)."
+  },
+  {
+    "id": 48,
+    "pregunta": "¿A quién debe comunicar primero el docente que conoce un hecho de violencia?",
+    "opciones": [
+      "A los medios de comunicación locales.",
+      "A la junta vecinal del barrio.",
+      "A la directora o al director de la unidad educativa.",
+      "Al agresor para darle una oportunidad de rectificación."
+    ],
+    "correcta": 2,
+    "explicacion": "El maestro debe comunicar el hecho a la dirección de la unidad educativa para activar los protocolos. Sección 3.3. Intervención."
+  },
+  {
+    "id": 49,
+    "pregunta": "¿Qué información se le debe brindar a una madre que vive una situación de violencia intrafamiliar?",
+    "opciones": [
+      "Que debe abandonar su hogar inmediatamente sin sus hijos.",
+      "Que la violencia es un asunto privado que debe resolver sola.",
+      "Apoyo e información para realizar la denuncia y solicitar medidas de protección.",
+      "Que el colegio no puede intervenir en asuntos de adultos."
+    ],
+    "correcta": 2,
+    "explicacion": "Se debe orientar a la madre sobre sus derechos y la opción de denunciar ante instancias competentes. Sección 3.3. Intervención."
+  },
+  {
+    "id": 50,
+    "pregunta": "¿Cuál es una de las 'Siete claves para la crianza positiva' sugeridas para las familias?",
+    "opciones": [
+      "Utilizar el silencio como método de castigo prolongado.",
+      "Reconocer y regular sus propias emociones como adulto.",
+      "Delegar la educación de valores exclusivamente a la escuela.",
+      "Evitar el contacto afectivo para fortalecer el carácter del niño."
+    ],
+    "correcta": 1,
+    "explicacion": "La primera clave es que el adulto reconozca y regule sus propias emociones. Sección 3.3. Recomendaciones para la actuación (Siete claves)."
+  },
+  {
+    "id": 51,
+    "pregunta": "Si un directivo recibe amenazas por denunciar un caso de violencia, ¿ante qué instancia puede recurrir para asesoramiento jurídico?",
+    "opciones": [
+      "Al sindicato de transporte de su zona.",
+      "Al departamento jurídico de la Dirección Departamental de Educación.",
+      "A una agencia de seguridad privada.",
+      "Al consejo municipal de vigilancia."
+    ],
+    "correcta": 1,
+    "explicacion": "La autoridad puede recurrir al departamento jurídico de la DDE para protección y asesoría. Sección 3.4. Recordamos."
+  },
+  {
+    "id": 52,
+    "pregunta": "¿Qué protocolo se debe activar obligatoriamente ante hechos de violencia que se consideran delitos?",
+    "opciones": [
+      "El Reglamento de Escalafón del Magisterio.",
+      "El Código de Comercio en su sección de seguros.",
+      "El Protocolo de prevención, actuación y denuncia de casos de violencia física, psicológica y sexual.",
+      "La Ley General del Trabajo."
+    ],
+    "correcta": 2,
+    "explicacion": "Se debe activar el protocolo específico de actuación y denuncia del Ministerio de Educación. Sección 3.4. Referencia o derivación."
+  },
+  {
+    "id": 53,
+    "pregunta": "En una emergencia médica derivada de violencia, ¿qué debe hacer la autoridad educativa?",
+    "opciones": [
+      "Esperar a que llegue la DNA antes de llevar al estudiante al hospital.",
+      "Acompañar al estudiante al centro de salud más cercano y notificar a la familia (si no es agresora).",
+      "Llamar a los padres para que ellos se encarguen del traslado por su cuenta.",
+      "Pedir permiso por escrito a la Dirección Distrital antes de salir del colegio."
+    ],
+    "correcta": 1,
+    "explicacion": "La autoridad o tutor debe acompañar al estudiante al centro de salud notificando a familiares no involucrados. Sección 3.4. Referencia o derivación."
+  },
+  {
+    "id": 54,
+    "pregunta": "¿Cuál es el propósito de la 'Contrarreferencia' en el proceso educativo?",
+    "opciones": [
+      "Garantizar la protección y seguimiento académico/emocional del estudiante tras la denuncia.",
+      "Devolver los documentos originales a los padres para cerrar el caso definitivamente.",
+      "Sancionar al docente que realizó una denuncia que resultó ser falsa.",
+      "Cobrar los gastos administrativos generados por el proceso judicial."
+    ],
+    "correcta": 0,
+    "explicacion": "La contrarreferencia busca garantizar la debida protección y seguimiento al bienestar del estudiante. Sección 3.4.1. Contrarreferencia o seguimiento."
+  },
+  {
+    "id": 55,
+    "pregunta": "¿Qué aspecto debe monitorear el maestro durante el seguimiento de un caso de violencia?",
+    "opciones": [
+      "La situación económica detallada de los abuelos del estudiante.",
+      "La evolución académica, física, emocional y social del estudiante.",
+      "La vida privada de los vecinos que fueron testigos del hecho.",
+      "El cumplimiento de horarios laborales de los tíos del menor."
+    ],
+    "correcta": 1,
+    "explicacion": "El maestro debe estar atento a la evolución integral del estudiante dentro y fuera de la unidad. Sección 3.4.1. Contrarreferencia o seguimiento."
+  },
+  {
+    "id": 56,
+    "pregunta": "¿Con qué fin las autoridades educativas coordinan previamente con la DNA mecanismos de referencia?",
+    "opciones": [
+      "Para reducir el sueldo de los maestros que no denuncian.",
+      "Para establecer multas a los padres de familia impuntuales.",
+      "Para promover el acceso a la justicia y la protección eficiente de la niñez.",
+      "Para evitar que la policía ingrese a las unidades educativas."
+    ],
+    "correcta": 2,
+    "explicacion": "La coordinación busca mecanismos ágiles para la protección de niños y adolescentes en todo el país. Sección 3.4.1. Contrarreferencia o seguimiento."
+  },
+  {
+    "id": 57,
+    "pregunta": "¿Qué tipo de preguntas permiten obtener mejor información de una víctima sin ser un interrogatorio?",
+    "opciones": [
+      "Preguntas de 'sí' o 'no'.",
+      "Preguntas abiertas que fomenten la conversación amigable.",
+      "Preguntas sugestivas que den la respuesta por sentada.",
+      "Preguntas técnicas con lenguaje legal avanzado."
+    ],
+    "correcta": 1,
+    "explicacion": "La conversación debe estar fundada en preguntas abiertas para obtener información sin presionar. Sección 3.1. Herramientas para detectar la violencia (b)."
+  },
+  {
+    "id": 58,
+    "pregunta": "¿Cuál es una forma de violencia por supresión mencionada en el documento?",
+    "opciones": [
+      "La no provisión de condiciones para asistir a la unidad educativa.",
+      "El exceso de tareas escolares asignadas por el docente.",
+      "La participación obligatoria en desfiles cívicos.",
+      "El uso de uniformes escolares de colores oscuros."
+    ],
+    "correcta": 0,
+    "explicacion": "La supresión incluye negar condiciones básicas como el acceso a la educación. Sección 2.3.3. Violencia por omisión y supresión."
+  },
+  {
+    "id": 59,
+    "pregunta": "Según el modelo ecológico, ¿qué categoría de influencia se refiere al entorno inmediato del niño?",
+    "opciones": [
+      "La sociedad internacional.",
+      "El sistema judicial nacional.",
+      "La familia.",
+      "El mercado económico global."
+    ],
+    "correcta": 2,
+    "explicacion": "El modelo ecológico identifica a la familia como una de las cuatro categorías fundamentales de influencia. Sección I. Introducción (Modelo Ecológico)."
+  },
+  {
+    "id": 60,
+    "pregunta": "¿Qué derecho de la Convención sobre los Derechos del Niño se vulnera prioritariamente con el castigo corporal?",
+    "opciones": [
+      "El derecho a la propiedad privada.",
+      "El interés superior del niño y su integridad física.",
+      "El deber de trabajar desde los 10 años.",
+      "El derecho a elegir su propia nacionalidad."
+    ],
+    "correcta": 1,
+    "explicacion": "El castigo corporal es una violación a la integridad física, dignidad y al interés superior. Sección I. Introducción (Convención sobre los Derechos del Niño)."
+  },
+  {
+    "id": 61,
+    "pregunta": "¿Cuál es una señal de violencia en el área conductual específica de la adolescencia?",
+    "opciones": [
+      "Mejora en el cumplimiento de los objetivos de vida.",
+      "Aumento de la comunicación asertiva con adultos.",
+      "Riesgo de consumo de drogas y conductas delictivas.",
+      "Deseo de participar en voluntariados sociales."
+    ],
+    "correcta": 2,
+    "explicacion": "La adolescencia víctima de violencia presenta mayor riesgo de consumo de sustancias y delincuencia. Tabla 2. Área conductual (En la adolescencia)."
+  },
+  {
+    "id": 62,
+    "pregunta": "¿Qué impacto tiene la violencia intrafamiliar en el aprendizaje según el documento?",
+    "opciones": [
+      "Motiva al estudiante a estudiar más para salir de casa.",
+      "No tiene ningún impacto si el docente es bueno.",
+      "Genera mayor dificultad en el desempeño escolar y puede repercutir en la promoción.",
+      "Mejora la memoria a corto plazo debido al estado de alerta."
+    ],
+    "correcta": 2,
+    "explicacion": "La violencia pone en riesgo el aprendizaje y dificulta el desempeño escolar. Sección 3.3. Gráfico (La violencia pone en riesgo el aprendizaje)."
+  },
+  {
+    "id": 63,
+    "pregunta": "¿Qué debe hacer un docente si tiene un 'criterio sesgado' por una experiencia personal similar al caso que atiende?",
+    "opciones": [
+      "Ocultar su experiencia y seguir atendiendo el caso a solas.",
+      "Traspasar el caso a un colega o superior que pueda ser objetivo.",
+      "Usar el caso del estudiante para su propia terapia personal.",
+      "Ignorar el caso para no recordar su propio trauma."
+    ],
+    "correcta": 1,
+    "explicacion": "Si el adulto tiene limitaciones o experiencias no trabajadas, debe traspasar el caso por el interés superior del niño. Tabla 6 (Nota 9)."
+  },
+  {
+    "id": 64,
+    "pregunta": "¿Cuál es la función de la línea 'Familia Segura' 800 11 30 40?",
+    "opciones": [
+      "Brindar apoyo psico-emocional gratuito y prevenir la violencia.",
+      "Vender seguros de vida para familias de escasos recursos.",
+      "Tramitar divorcios de manera rápida y económica.",
+      "Ofrecer becas universitarias para hijos de maestros."
+    ],
+    "correcta": 0,
+    "explicacion": "Es un servicio gratuito de apoyo psico-emocional para prevenir y atender la violencia. Sección 3.4. (Nota 11)."
+  },
+  {
+    "id": 65,
+    "pregunta": "¿Qué acción está prohibida durante la referencia de un caso de violencia?",
+    "opciones": [
+      "Establecer prioridades de atención.",
+      "Involucrar a las instituciones responsables.",
+      "Crear falsas expectativas o ideas que no se pueden realizar.",
+      "Analizar las consecuencias de las opciones de solución."
+    ],
+    "correcta": 2,
+    "explicacion": "No se deben crear ideas irrealizables ni permitir que se piense que no hay solución. Tabla 5. Orientaciones (Durante la referencia)."
+  },
+  {
+    "id": 66,
+    "pregunta": "¿En qué etapa de desarrollo el maltrato emocional afecta a uno de cada tres niños?",
+    "opciones": [
+      "Solo en la etapa universitaria.",
+      "En la niñez, según informes mundiales de prevención.",
+      "Únicamente al cumplir los 18 años.",
+      "Exclusivamente en el primer año de vida."
+    ],
+    "correcta": 1,
+    "explicacion": "El informe mundial señala que el maltrato emocional afecta a uno de cada tres niños. Sección I. Introducción."
+  },
+  {
+    "id": 67,
+    "pregunta": "¿Cuál es la pena máxima para el delito de estupro según la tabla de tipologías?",
+    "opciones": [
+      "2 años de prisión.",
+      "30 años sin indulto.",
+      "15 años de privación de libertad.",
+      "6 años de prisión."
+    ],
+    "correcta": 3,
+    "explicacion": "El estupro tiene una pena máxima de 6 años de prisión. Tabla 1. Tipologías de violencia sexual."
+  },
+  {
+    "id": 68,
+    "pregunta": "¿Qué define a la violencia física según el Código Niña, Niño y Adolescente?",
+    "opciones": [
+      "Acciones accidentales que ocurren durante el juego.",
+      "Acciones intencionadas que causan daño corporal no accidental.",
+      "Cualquier contacto físico, incluso un abrazo afectuoso.",
+      "La falta de higiene personal del estudiante."
+    ],
+    "correcta": 1,
+    "explicacion": "La violencia física son acciones intencionadas que causan daño corporal y no son accidentales. Sección 2.3.3. Violencia física."
+  },
+  {
+    "id": 69,
+    "pregunta": "Ante un caso de maltrato físico de 'Riesgo Bajo', ¿cuál es la acción recomendada?",
+    "opciones": [
+      "Denunciar al Ministerio Público en menos de 2 horas.",
+      "Expulsar al estudiante para evitar que sus padres vengan al colegio.",
+      "Orientar a la familia en pautas de crianza positiva y límites.",
+      "Ignorar el hecho porque no generó lesiones graves."
+    ],
+    "correcta": 2,
+    "explicacion": "En riesgo bajo se debe apoyar a los padres a fortalecer sus habilidades parentales. Sección 3.3. Recomendaciones para la actuación."
+  },
+  {
+    "id": 70,
+    "pregunta": "¿Qué tipo de violencia se caracteriza por ser un 'maltrato pasivo' y difícil de identificar?",
+    "opciones": [
+      "La violencia física con objetos contundentes.",
+      "La negligencia o abandono (omisión).",
+      "La agresión verbal directa en público.",
+      "El acoso escolar entre pares (bullying)."
+    ],
+    "correcta": 1,
+    "explicacion": "La negligencia es un tipo de maltrato pasivo que presenta mayores dificultades para su identificación. Sección 2.3.3. Violencia por omisión y supresión."
+  },
+  {
+    "id": 71,
+    "pregunta": "¿Qué característica individual del estudiante se considera un factor de riesgo para sufrir violencia?",
+    "opciones": [
+      "Tener un alto coeficiente intelectual reconocido por sus pares.",
+      "Haber nacido de un embarazo de alto riesgo biológico o con prematurez.",
+      "Participar activamente en el consejo estudiantil de la unidad educativa.",
+      "Contar con habilidades artísticas desarrolladas en centros extracurriculares."
+    ],
+    "correcta": 1,
+    "explicacion": "El nacimiento prematuro o con riesgos biológicos son factores individuales de riesgo identificados en la víctima. Tabla 3. Factores de riesgo (Individuales). [1]"
+  },
+  {
+    "id": 72,
+    "pregunta": "¿Cuál es un factor de riesgo individual en el agresor que puede detonar conductas violentas?",
+    "opciones": [
+      "El cumplimiento estricto de las leyes nacionales vigentes.",
+      "Poseer una amplia red de apoyo social y comunitario.",
+      "La asistencia regular a talleres de formación en derechos humanos.",
+      "La reducida capacidad de control de impulsos y un modelo de crianza basado en el castigo."
+    ],
+    "correcta": 3,
+    "explicacion": "Los factores del agresor incluyen la impulsividad y haber sido criado bajo modelos de castigo. Sección 2.5. Factores de riesgo (Individuales del agresor). [2]"
+  },
+  {
+    "id": 73,
+    "pregunta": "En cuanto a la estructura familiar, ¿cuál se identifica como un factor de riesgo para el maltrato?",
+    "opciones": [
+      "La desintegración familiar y el ser madre o padre adolescente.",
+      "Vivir en una familia nuclear con estabilidad económica probada.",
+      "Contar con abuelos que apoyan activamente la crianza positiva.",
+      "Tener una comunicación abierta y asertiva entre todos los miembros."
+    ],
+    "correcta": 0,
+    "explicacion": "La desintegración y la paternidad adolescente son factores de riesgo ligados a la estructura familiar. Tabla 3. Factores de riesgo (Familiares). [3]"
+  },
+  {
+    "id": 74,
+    "pregunta": "¿Qué factor comunitario puede generar violencia por omisión o supresión según la guía?",
+    "opciones": [
+      "La existencia de parques y centros recreativos en la zona.",
+      "El acceso universal a servicios de salud de alta complejidad.",
+      "La carencia de recursos básicos que imposibilita satisfacer necesidades fundamentales.",
+      "La presencia de brigadas escolares de seguridad ciudadana."
+    ],
+    "correcta": 2,
+    "explicacion": "La falta de recursos que impide satisfacer necesidades básicas genera estrés y violencia por omisión. Tabla 3. Factores de riesgo (Comunitarios). [3]"
+  },
+  {
+    "id": 75,
+    "pregunta": "¿Cuál es un factor de riesgo a nivel social que perpetúa la violencia contra la niñez?",
+    "opciones": [
+      "La difusión de campañas contra el acoso escolar en redes sociales.",
+      "Normas sociales y costumbres que toleran o refuerzan el comportamiento violento.",
+      "La implementación de la Ley 548 en todos los municipios del país.",
+      "El fortalecimiento de los valores éticos en los estratos medios de la sociedad."
+    ],
+    "correcta": 1,
+    "explicacion": "Las normas y costumbres que refuerzan la violencia son factores de riesgo sociales clave. Tabla 3. Factores de riesgo (Sociales). [3]"
+  },
+  {
+    "id": 76,
+    "pregunta": "¿Qué debe hacer la maestra o maestro si no se siente capaz de atender un caso por tener una experiencia personal de abuso no resuelta?",
+    "opciones": [
+      "Continuar con el caso para intentar superarlo mediante la práctica profesional.",
+      "Ignorar el reporte del estudiante para no afectar su propia salud mental.",
+      "Pedirle al estudiante que no vuelva a tocar el tema en clases.",
+      "Traspasar el caso a quien pueda atenderlo adecuadamente garantizando la objetividad."
+    ],
+    "correcta": 3,
+    "explicacion": "Si el adulto tiene limitaciones personales, debe traspasar el caso por el interés superior del estudiante. Tabla 6. Rol de maestras y maestros (Examinar sus limitaciones). [4, 5]"
+  },
+  {
+    "id": 77,
+    "pregunta": "¿En qué consisten los primeros auxilios psicológicos que un docente debe conocer?",
+    "opciones": [
+      "Procedimientos básicos de contención emocional de emergencia para iniciar el apoyo.",
+      "Técnicas de hipnosis clínica para recuperar recuerdos bloqueados por el trauma.",
+      "Administración de fármacos sedantes autorizados por el director.",
+      "Diagnóstico psiquiátrico formal para derivar a hospitales de tercer nivel."
+    ],
+    "correcta": 0,
+    "explicacion": "La contención emocional de emergencia permite iniciar el trabajo tras detectar el caso. Tabla 6. Rol de maestras y maestros (Contención emocional). [4]"
+  },
+  {
+    "id": 78,
+    "pregunta": "Para asegurar una atención integral, ¿qué herramienta debe utilizar el docente para detectar instancias especializadas?",
+    "opciones": [
+      "Un censo de población y vivienda de la zona escolar.",
+      "Una lista de los padres de familia con mayores ingresos económicos.",
+      "El mapeo de actores que ofrecen atención especializada en la comunidad.",
+      "Un registro de antecedentes penales de todos los vecinos del barrio."
+    ],
+    "correcta": 2,
+    "explicacion": "El mapeo de actores detecta instancias que pueden ofrecer atención especializada al caso. Tabla 6. Rol de maestras y maestros (Asegurar atención integral). [6]"
+  },
+  {
+    "id": 79,
+    "pregunta": "¿Qué caracteriza a un 'Riesgo Alto' en casos de violencia por omisión o descuido?",
+    "opciones": [
+      "Omisiones aisladas que no afectan el crecimiento ni el desarrollo social.",
+      "Omisiones intensas y frecuentes que determinan un daño severo en salud, educación y desarrollo.",
+      "Pequeños descuidos temporales donde se verifica una fuerte relación de afecto.",
+      "Falta ocasional de higiene que es corregida inmediatamente por la familia."
+    ],
+    "correcta": 1,
+    "explicacion": "El riesgo alto en omisión implica daño severo y afectación persistente en todas las áreas de desarrollo. Tabla 7. Valoración del Riesgo (Omisión). [7]"
+  },
+  {
+    "id": 80,
+    "pregunta": "En la valoración del maltrato psicológico, ¿cuándo se considera un 'Riesgo Bajo'?",
+    "opciones": [
+      "Cuando los insultos y el rechazo son el modo habitual de comunicación.",
+      "Si existe riesgo inminente de homicidio por parte de los progenitores.",
+      "Cuando se presentan amenazas constantes de abandono frente a terceros.",
+      "Cuando las actitudes de maltrato son aisladas y afectan solo algunos ámbitos sin ser crónicas."
+    ],
+    "correcta": 3,
+    "explicacion": "El riesgo bajo se define por actitudes aisladas con afectación limitada. Tabla 7. Valoración del Riesgo (Maltrato psicológico). [8]"
+  },
+  {
+    "id": 81,
+    "pregunta": "¿Cuál de las siguientes situaciones se clasifica como 'Riesgo Alto' en maltrato físico?",
+    "opciones": [
+      "Uso de la fuerza física que ocasiona lesiones que ponen en riesgo la vida o generan secuelas.",
+      "Uso eventual de la fuerza por desconocimiento de otros métodos de disciplina.",
+      "Palmadas en la mano que no generan irritación ni enrojecimiento en la piel.",
+      "Llamadas de atención enérgicas que no incluyen contacto físico de ningún tipo."
+    ],
+    "correcta": 0,
+    "explicacion": "Lesiones que amenazan la vida o dejan secuelas entran en la categoría de riesgo alto. Tabla 7. Valoración del Riesgo (Maltrato físico). [9]"
+  },
+  {
+    "id": 82,
+    "pregunta": "¿Cómo deben manejarse todos los hechos detectados de violencia sexual en la unidad educativa?",
+    "opciones": [
+      "Como riesgo medio, esperando una segunda confirmación para denunciar.",
+      "Deben denunciarse inmediatamente ante la Defensoría de la Niñez y Adolescencia por ser riesgo alto.",
+      "Realizando una junta de padres para votar si el caso debe ser reportado.",
+      "Manteniéndolos en reserva hasta que el estudiante cumpla la mayoría de edad."
+    ],
+    "correcta": 1,
+    "explicacion": "Todo hecho de violencia sexual se considera riesgo alto y exige denuncia inmediata. Tabla 7. Violencia sexual. [9]"
+  },
+  {
+    "id": 83,
+    "pregunta": "Al definir el riesgo, ¿cuál es un factor determinante para considerar que la situación es crítica?",
+    "opciones": [
+      "Que el estudiante tenga buenas notas en educación física.",
+      "Que el agresor tenga acceso directo a la niña, niño o adolescente.",
+      "Que la unidad educativa esté ubicada lejos de una plaza principal.",
+      "Que el estudiante prefiera el dibujo sobre la música."
+    ],
+    "correcta": 1,
+    "explicacion": "El acceso del agresor a la víctima es un criterio fundamental para valorar la gravedad del riesgo. Sección 3.3. Intervención (Criterios). [10]"
+  },
+  {
+    "id": 84,
+    "pregunta": "¿Cuál es el impacto de la violencia física en el hogar sobre el proceso de aprendizaje?",
+    "opciones": [
+      "Provoca mayor dificultad en el desempeño escolar y puede repercutir en la promoción.",
+      "Fomenta una mayor competitividad y deseo de superación académica.",
+      "No influye en el rendimiento si el estudiante tiene una inteligencia promedio.",
+      "Elimina cualquier tipo de distracción, permitiendo enfocarse solo en el estudio."
+    ],
+    "correcta": 0,
+    "explicacion": "La violencia física dificulta el desempeño y pone en riesgo la promoción de grado. Sección 3.3. Gráfico explicativo. [11]"
+  },
+  {
+    "id": 85,
+    "pregunta": "En casos de bajo riesgo, ¿qué tipo de apoyo se recomienda brindar a la familia?",
+    "opciones": [
+      "Iniciar un proceso de pérdida de custodia ante un juez de familia.",
+      "Prohibir el ingreso de los padres a la unidad educativa por un año.",
+      "Apoyar a los padres a fortalecer habilidades parentales y disciplina positiva.",
+      "Solicitar el cambio inmediato de unidad educativa para el estudiante."
+    ],
+    "correcta": 2,
+    "explicacion": "En riesgo bajo, la orientación y el fortalecimiento de habilidades parentales son las acciones recomendadas. Sección 3.3. Recomendaciones para la actuación. [12]"
+  },
+  {
+    "id": 86,
+    "pregunta": "¿A quién debe comunicar el maestro el hecho de violencia detectado en primera instancia?",
+    "opciones": [
+      "A la junta escolar de padres de familia del distrito.",
+      "Al canal de televisión local para que hagan un reportaje.",
+      "A la directora o al director de la unidad educativa.",
+      "Al sindicato de maestros para recibir protección gremial."
+    ],
+    "correcta": 2,
+    "explicacion": "La comunicación inicial debe ser a la autoridad superior de la unidad educativa. Sección 3.3. Intervención. [11]"
+  },
+  {
+    "id": 87,
+    "pregunta": "¿Qué acción se debe evitar terminantemente para no revictimizar al estudiante?",
+    "opciones": [
+      "Brindar contención emocional de escucha.",
+      "Realizar interrogatorios exhaustivos previos o solicitar detalles de signos en lugares no visibles.",
+      "Informar a un familiar de confianza que no sea el agresor.",
+      "Mantener un lenguaje que el estudiante pueda entender."
+    ],
+    "correcta": 1,
+    "explicacion": "No se deben realizar interrogatorios minuciosos ni buscar signos físicos en áreas privadas. Sección 3.3. Intervención (Nota de recomendación). [11]"
+  },
+  {
+    "id": 88,
+    "pregunta": "¿Cuál es la primera de las 'Siete claves para la crianza positiva'?",
+    "opciones": [
+      "Reconocer y regular sus propias emociones (como adulto).",
+      "Comprar regalos costosos para compensar los momentos de ausencia.",
+      "Establecer castigos físicos leves para marcar autoridad.",
+      "Delegar la crianza a los abuelos para evitar conflictos directos."
+    ],
+    "correcta": 0,
+    "explicacion": "La regulación emocional del adulto es la base para una crianza positiva y afectiva. Sección 3.3. Siete claves para la crianza positiva. [13]"
+  },
+  {
+    "id": 89,
+    "pregunta": "Si un directivo sufre amenazas tras denunciar un caso, ¿qué medida puede tomar legalmente?",
+    "opciones": [
+      "Retirar la denuncia y pedir disculpas públicas al agresor.",
+      "Presentar otra demanda por intimidación y solicitar medidas de protección.",
+      "Contratar seguridad privada con fondos de la unidad educativa.",
+      "Renunciar a su cargo para que la DNA detenga el proceso."
+    ],
+    "correcta": 1,
+    "explicacion": "Ante amenazas, el denunciante puede presentar demandas adicionales y pedir protección. Sección 3.4. Recordamos. [14]"
+  },
+  {
+    "id": 90,
+    "pregunta": "¿Qué sucede con la mediación en casos de violencia sexual contra menores?",
+    "opciones": [
+      "Es permitida si el agresor es el padre biológico.",
+      "Se puede realizar si el director del colegio actúa como mediador.",
+      "Nunca existe la opción de mediación ni de arreglos extrajudiciales.",
+      "Es obligatoria antes de pasar el caso a la fiscalía."
+    ],
+    "correcta": 2,
+    "explicacion": "La ley y la guía prohíben cualquier forma de mediación en delitos de violencia sexual. Sección 3.3. (Nota importante). [15]"
+  },
+  {
+    "id": 91,
+    "pregunta": "¿Cuál es el plazo máximo para comunicar a la DNA un hecho de violencia de riesgo alto?",
+    "opciones": [
+      "48 horas hábiles después de recibir el testimonio.",
+      "Inmediatamente, dentro de las 24 horas de conocido el hecho.",
+      "Al finalizar el bimestre para que no afecte el promedio escolar.",
+      "Dentro de los 15 días posteriores al incidente físico."
+    ],
+    "correcta": 1,
+    "explicacion": "La comunicación debe ser inmediata, con un límite máximo de 24 horas. Sección 3.4. Referencia o derivación. [15]"
+  },
+  {
+    "id": 92,
+    "pregunta": "En casos de delitos de violencia, ¿ante qué instancia debe la DNA remitir el caso?",
+    "opciones": [
+      "Al Consejo de Maestros para su análisis pedagógico.",
+      "Al Ministerio Público - Fiscalía.",
+      "A la Alcaldía Municipal para una multa administrativa.",
+      "A la Junta de Vecinos para un castigo comunitario."
+    ],
+    "correcta": 1,
+    "explicacion": "Los delitos deben ser remitidos por la DNA al Ministerio Público para el proceso penal. Sección 3.4. Referencia o derivación. [16]"
+  },
+  {
+    "id": 93,
+    "pregunta": "Si la violencia provoca una emergencia médica, ¿qué responsabilidad tiene el maestro tutor?",
+    "opciones": [
+      "Acompañar al estudiante al centro de salud y notificar a la familia (si no es agresora).",
+      "Esperar a que la policía llegue a la escuela antes de mover al estudiante.",
+      "Pedir a los compañeros de curso que lleven al estudiante a una farmacia.",
+      "Realizar una colecta de dinero antes de buscar atención médica."
+    ],
+    "correcta": 0,
+    "explicacion": "El tutor debe asegurar el traslado al centro de salud y notificar a responsables no involucrados. Sección 3.4. Referencia o derivación. [17]"
+  },
+  {
+    "id": 94,
+    "pregunta": "¿Cómo deben realizarse las entrevistas de seguimiento según el proceso de contrarreferencia?",
+    "opciones": [
+      "Interrogando al estudiante frente a sus padres agresores.",
+      "Publicando los resultados en la cartelera principal del colegio.",
+      "Con el estudiante víctima, docentes y familiares o la entidad externa que atiende el caso.",
+      "Solo de manera escrita, sin contacto directo con la víctima para no molestar."
+    ],
+    "correcta": 2,
+    "explicacion": "El seguimiento implica entrevistas con todos los actores involucrados en la protección. Sección 3.4.1. Contrarreferencia o seguimiento. [18]"
+  },
+  {
+    "id": 95,
+    "pregunta": "¿Cuál es el fin último de coordinar interinstitucionalmente entre educación y la DNA?",
+    "opciones": [
+      "Aumentar la carga administrativa de las unidades educativas.",
+      "Promover el acceso a la justicia y la protección eficiente de niñas, niños y adolescentes.",
+      "Sustituir el poder de los padres sobre sus hijos por el poder del Estado.",
+      "Reducir el presupuesto asignado a la educación pública."
+    ],
+    "correcta": 1,
+    "explicacion": "La coordinación busca mecanismos ágiles para garantizar justicia y protección integral. Sección 3.4.1. Contrarreferencia o seguimiento. [18]"
+  },
+  {
+    "id": 96,
+    "pregunta": "Según el Informe Mundial 2020, ¿cuántos niños sufren violentos castigos por parte de sus cuidadores antes de los 4 años?",
+    "opciones": [
+      "Diez millones.",
+      "Cincuenta millones.",
+      "Cien millones.",
+      "Trescientos millones."
+    ],
+    "correcta": 3,
+    "explicacion": "El informe señala que 300 millones de niños menores de 4 años sufren castigos violentos. Sección I. Introducción. [19]"
+  },
+  {
+    "id": 97,
+    "pregunta": "¿Qué probabilidad tienen las personas que sufren abusos sexuales en su infancia de reproducirlos cuando sean adultos?",
+    "opciones": [
+      "14 veces más posibilidades.",
+      "2 veces más posibilidades.",
+      "No hay relación estadística comprobada.",
+      "100 veces más posibilidades."
+    ],
+    "correcta": 0,
+    "explicacion": "Las estadísticas muestran que el riesgo de reproducir abusos aumenta 14 veces en víctimas infantiles. Sección I. Introducción. [19]"
+  },
+  {
+    "id": 98,
+    "pregunta": "El Comité de los Derechos del Niño reconoce a la familia como pilar de protección, pero ¿qué advierte sobre ella?",
+    "opciones": [
+      "Que no tiene ninguna responsabilidad legal sobre el niño.",
+      "Que los padres siempre actúan en el interés superior del niño por instinto.",
+      "Que la mayor parte de los actos de violencia se producen precisamente en el ámbito familiar.",
+      "Que la familia extensa no debe intervenir en casos de violencia intrafamiliar."
+    ],
+    "correcta": 2,
+    "explicacion": "El CRC advierte que la familia es donde más violencia ocurre, requiriendo intervención y apoyo. Sección I. Introducción (Observación general 13). [20]"
+  },
+  {
+    "id": 99,
+    "pregunta": "¿Qué conducta se describe específicamente como violencia psicológica o emocional?",
+    "opciones": [
+      "La exigencia de cumplimiento de horarios escolares.",
+      "Hostilidad verbal como insultos, burlas, desprecio o amenazas de abandono.",
+      "La asignación de tareas domésticas acordes a la edad del menor.",
+      "El fomento de la lectura de cuentos clásicos antes de dormir."
+    ],
+    "correcta": 1,
+    "explicacion": "La hostilidad verbal y las burlas buscan socavar la valoración que el niño tiene de sí mismo. Sección 2.3.3. Violencia psicológica. [21]"
+  },
+  {
+    "id": 100,
+    "pregunta": "¿Qué se entiende por somatización en una víctima de violencia?",
+    "opciones": [
+      "Un proceso de curación rápida de heridas físicas superficiales.",
+      "El acto de fingir una dolencia para obtener atención de los maestros.",
+      "Una enfermedad infecciosa adquirida en el entorno escolar.",
+      "Síntomas físicos que no tienen explicación médica y cuyo origen es psicológico."
+    ],
+    "correcta": 3,
+    "explicacion": "La somatización es la manifestación física de una condición psíquica o trauma. Tabla 4. Nota 8 (Definición). [22]"
+  },
+  {
+    "id": 101,
+    "pregunta": "En el contexto de la salud pública, ¿bajo qué resolución la Organización Mundial de la Salud (OMS) reconoce la violencia contra la niñez como una violación de derechos fundamentales?",
+    "opciones": [
+      "Resolución 40.15 de 2017.",
+      "Resolución 548 de 2014.",
+      "Resolución 67.15 de 2014.",
+      "Resolución 2020 del Informe Mundial."
+    ],
+    "correcta": 2,
+    "explicacion": "La OMS considera la violencia contra la niñez como un problema de salud pública bajo la Resolución 67.15 de 2014 [1]. Sección I. Introducción."
+  },
+  {
+    "id": 102,
+    "pregunta": "¿Cuál es el argumento pedagógico fundamental por el cual la Convención sobre los Derechos del Niño prohíbe el castigo corporal como método de disciplina?",
+    "opciones": [
+      "Porque enseña que la violencia es una forma aceptable de resolver conflictos o persuadir a las personas.",
+      "Porque distrae al estudiante de sus responsabilidades académicas básicas y tareas escolares.",
+      "Porque genera un costo económico elevado para el sistema de salud pública por lesiones físicas.",
+      "Porque impide que los padres de familia mantengan la autoridad necesaria dentro del hogar."
+    ],
+    "correcta": 0,
+    "explicacion": "El castigo enseña que la violencia es válida para resolver conflictos y es un medio ineficaz para instaurar disciplina [1]. Sección I. Introducción."
+  },
+  {
+    "id": 103,
+    "pregunta": "Dentro de la clasificación de violencia contra la niñez, ¿qué distingue a la 'violencia por omisión' de otros tipos de agresiones directas?",
+    "opciones": [
+      "El uso de objetos contundentes para generar miedo sin causar marcas físicas visibles.",
+      "La falta de atención a necesidades básicas como alimentación, salud o condiciones para asistir a la escuela.",
+      "La imposición de castigos psicológicos basados en el silencio prolongado y el aislamiento.",
+      "El contacto físico con fines libidinosos realizado por un miembro del entorno familiar cercano."
+    ],
+    "correcta": 1,
+    "explicacion": "La omisión incluye la negligencia o el abandono de responsabilidades respecto a necesidades básicas para el desarrollo [2]. Sección 2.3.3. Violencia por omisión y supresión."
+  },
+  {
+    "id": 104,
+    "pregunta": "¿Qué impacto a largo plazo tiene la violencia en las funciones ejecutivas del cerebro de un niño según los lineamientos de identificación docente?",
+    "opciones": [
+      "Mejora la capacidad de planificación estratégica ante situaciones de alto riesgo.",
+      "Produce alteraciones en la memoria, el autocontrol y la flexibilidad cognitiva.",
+      "Genera un aumento en la velocidad de procesamiento de información lógica.",
+      "Fortalece las habilidades de comunicación interpersonal basadas en la asertividad."
+    ],
+    "correcta": 1,
+    "explicacion": "A largo plazo, se presentan alteraciones en memoria, autocontrol y la capacidad de ver diferentes perspectivas [3]. Tabla 2. Señales y consecuencias a largo plazo."
+  },
+  {
+    "id": 105,
+    "pregunta": "En el marco de la Guía para la identificación de la violencia intrafamiliar, ¿cuándo se considera que el trabajo de un menor constituye explotación laboral?",
+    "opciones": [
+      "Cuando colabora en las tareas de limpieza del hogar durante los fines de semana.",
+      "Cuando se le delega una responsabilidad excesiva para su edad o se le impide el acceso a la educación.",
+      "Cuando recibe una remuneración económica por ayudar en un negocio familiar por horas.",
+      "Cuando participa en actividades deportivas competitivas que requieren entrenamiento diario."
+    ],
+    "correcta": 1,
+    "explicacion": "La explotación laboral se configura cuando el trabajo impide la educación o delega demasiada responsabilidad para la edad [4]. Sección 2.3.3. Violencia por acción."
+  },
+  {
+    "id": 106,
+    "pregunta": "¿Qué señal de alerta en el área de la sexualidad debe observar un maestro para sospechar de posible violencia sexual en un estudiante?",
+    "opciones": [
+      "La búsqueda de información científica sobre biología reproductiva en la biblioteca.",
+      "El desinterés total por relacionarse con compañeros del sexo opuesto en el recreo.",
+      "Conductas sexuales no apropiadas para su edad o interés exagerado por conductas adultas.",
+      "La solicitud de mayor privacidad al momento de utilizar los baños escolares."
+    ],
+    "correcta": 2,
+    "explicacion": "El interés exagerado por conductas sexuales de adultos es un indicador de alerta en sexualidad [3]. Tabla 2. Sexualidad."
+  },
+  {
+    "id": 107,
+    "pregunta": "Según el modelo ecológico de la violencia, ¿cuál es un factor de riesgo individual presente en el agresor?",
+    "opciones": [
+      "Tener un nivel educativo superior y un empleo de alta responsabilidad social.",
+      "Pertenecer a una comunidad con estrictas normas de vigilancia vecinal ciudadana.",
+      "Poseer una reducida capacidad de control de impulsos y un modelo de crianza basado en el castigo.",
+      "Contar con una red extensa de apoyo familiar que interviene en la resolución de conflictos."
+    ],
+    "correcta": 2,
+    "explicacion": "La impulsividad y los modelos de crianza violentos son factores de riesgo individuales del agresor [5]. Sección 2.5. Factores de riesgo."
+  },
+  {
+    "id": 108,
+    "pregunta": "¿Qué factor comunitario puede derivar en situaciones de violencia por omisión o supresión dentro del entorno familiar?",
+    "opciones": [
+      "La carencia de recursos básicos que genera estrés y dificulta satisfacer necesidades fundamentales.",
+      "El exceso de centros de salud y servicios sociales en las zonas urbanas de alta densidad.",
+      "La implementación de programas de becas estudiantiles para familias con bajos ingresos.",
+      "La promoción de valores éticos y derechos humanos en los medios de comunicación locales."
+    ],
+    "correcta": 0,
+    "explicacion": "La falta de recursos básicos que impide satisfacer necesidades fundamentales genera estrés y violencia por omisión [6]. Tabla 3. Factores de riesgo."
+  },
+  {
+    "id": 109,
+    "pregunta": "¿Cómo se define el rol del maestro o maestra frente a la protección integral del estudiante víctima de violencia intrafamiliar?",
+    "opciones": [
+      "Como un investigador privado que debe recolectar pruebas físicas antes de informar.",
+      "Como un juez de familia con potestad para retirar la custodia a los padres agresores.",
+      "Como un puente entre el estudiante y los servicios necesarios para garantizar su bienestar.",
+      "Como un terapeuta especializado que brinda tratamiento clínico de larga duración."
+    ],
+    "correcta": 2,
+    "explicacion": "El maestro es un puente y debe buscar los servicios para garantizar la protección integral [7]. Sección 3.2. Rol de las maestras y los maestros."
+  },
+  {
+    "id": 110,
+    "pregunta": "Al identificar casos de negligencia, ¿qué distinción ética y profesional es vital que realice el docente antes de proceder?",
+    "opciones": [
+      "Diferenciar entre la negligencia (omisión de deberes) y la carencia de recursos materiales de la familia.",
+      "Evaluar si la negligencia es más grave cuando proviene del padre que cuando proviene de la madre.",
+      "Determinar si el estudiante tiene un promedio académico alto para decidir si interviene o no.",
+      "Investigar la religión de la familia para entender sus pautas de crianza específicas."
+    ],
+    "correcta": 0,
+    "explicacion": "Es vital diferenciar la negligencia de la falta de recursos materiales o emocionales para proveer condiciones [2]. Sección 2.3.3. Violencia por omisión."
+  },
+  {
+    "id": 111,
+    "pregunta": "¿Cuál es un indicador conductual de violencia que puede detectarse específicamente dentro de la unidad educativa?",
+    "opciones": [
+      "El cumplimiento puntual de todas las tareas escolares asignadas por los docentes.",
+      "El temor del estudiante a permanecer en el establecimiento o el miedo de ir a su casa.",
+      "La participación entusiasta en actividades deportivas de contacto como el fútbol.",
+      "La solicitud constante de libros adicionales de lectura para llevar al hogar."
+    ],
+    "correcta": 1,
+    "explicacion": "El miedo al entorno familiar o escolar es un signo de alerta conductual en la institución [8]. Tabla 4. Signos de comportamiento."
+  },
+  {
+    "id": 112,
+    "pregunta": "Dentro de la valoración de riesgo de la Guía, ¿qué situación se considera un factor determinante para calificar un caso como 'Riesgo Alto'?",
+    "opciones": [
+      "Que el estudiante no haya desayunado antes de asistir a la unidad educativa.",
+      "Que el agresor tenga acceso directo a la niña, niño o adolescente.",
+      "Que los padres de familia tengan opiniones divergentes sobre la educación del niño.",
+      "Que el estudiante presente un retroceso leve en su rendimiento en matemáticas."
+    ],
+    "correcta": 1,
+    "explicacion": "El acceso del agresor a la víctima es un criterio fundamental de riesgo alto [9]. Sección 3.3. Intervención."
+  },
+  {
+    "id": 113,
+    "pregunta": "Según la tabla de tipologías de violencia sexual, ¿en qué rango de edad se configura el delito de estupro?",
+    "opciones": [
+      "Menores de 10 años.",
+      "De 10 a 14 años.",
+      "De 14 a 17 años.",
+      "Únicamente a los 18 años cumplidos."
+    ],
+    "correcta": 2,
+    "explicacion": "El estupro ocurre cuando se tienen relaciones con menores de 14 a 17 años mediante engaño [10]. Tabla 1. Tipologías."
+  },
+  {
+    "id": 114,
+    "pregunta": "En el contexto de los delitos contra la libertad sexual, ¿cómo se define la trata y tráfico de personas?",
+    "opciones": [
+      "El traslado o reclutamiento de seres humanos mediante engaños para explotación sexual o laboral.",
+      "El intercambio de material escolar por dinero entre estudiantes de secundaria.",
+      "La contratación de menores para trabajos domésticos con salario mínimo legal.",
+      "El viaje de un menor al extranjero con permiso notariado de ambos progenitores."
+    ],
+    "correcta": 0,
+    "explicacion": "Implica engaños o fuerza para trasladar o reclutar personas para explotación [11]. Tabla 1. Trata y tráfico."
+  },
+  {
+    "id": 115,
+    "pregunta": "Dentro de los indicadores físicos de violencia, ¿qué se entiende específicamente por 'somatización'?",
+    "opciones": [
+      "La curación acelerada de fracturas óseas debido a una buena nutrición.",
+      "Síntomas físicos (como vómitos o mareos) con origen psicológico y sin causa médica explicable.",
+      "El acto deliberado de un estudiante de autoinfringirse heridas para llamar la atención.",
+      "Una infección viral común contagiada dentro del aula de clases."
+    ],
+    "correcta": 1,
+    "explicacion": "Son síntomas físicos que no tienen explicación médica tras un examen y tienen origen psíquico [12]. Tabla 4. Nota 8."
+  },
+  {
+    "id": 116,
+    "pregunta": "¿Cuál es la primera recomendación de las 'Siete claves para la crianza positiva' dirigida a padres y madres?",
+    "opciones": [
+      "Establecer castigos severos ante la primera falta disciplinaria del hijo.",
+      "Reconocer y regular sus propias emociones como adultos responsables.",
+      "Delegar el establecimiento de límites exclusivamente a la unidad educativa.",
+      "Proveer todos los bienes materiales que los hijos soliciten sin restricción."
+    ],
+    "correcta": 1,
+    "explicacion": "La primera clave es que el adulto reconozca y regule sus propias emociones [13]. Sección 3.3. Siete claves."
+  },
+  {
+    "id": 117,
+    "pregunta": "¿Cuál es el plazo máximo obligatorio para que la autoridad educativa comunique un hecho de violencia de riesgo alto a la Defensoría de la Niñez (DNA)?",
+    "opciones": [
+      "Dentro de los 5 días hábiles posteriores a la detección.",
+      "Al finalizar el trimestre escolar para adjuntarlo al informe pedagógico.",
+      "De manera inmediata, dentro de las 24 horas de conocido el hecho.",
+      "Solo cuando se tengan pruebas fotográficas y testimonios firmados."
+    ],
+    "correcta": 2,
+    "explicacion": "Si el riesgo es alto, la comunicación a la DNA debe ser inmediata, máximo en 24 horas [14]. Sección 3.4. Referencia o derivación."
+  },
+  {
+    "id": 118,
+    "pregunta": "En el proceso de 'Contrarreferencia', ¿cuál es la responsabilidad de la autoridad educativa respecto a las medidas judiciales dictaminadas?",
+    "opciones": [
+      "Interferir en el proceso judicial para solicitar la absolución del agresor.",
+      "Dar seguimiento a las medidas de protección dentro de la institución educativa.",
+      "Anular las medidas de protección si el estudiante mejora sus notas.",
+      "Cobrar una multa administrativa a los padres por los trámites realizados."
+    ],
+    "correcta": 1,
+    "explicacion": "Se debe dar seguimiento a las medidas dictaminadas al interior de la institución para garantizar protección [15]. Sección 3.4.1. Contrarreferencia."
+  },
+  {
+    "id": 119,
+    "pregunta": "¿Qué características definen al servicio de la línea gratuita 'Familia Segura' 800 11 30 40 mencionado en la Guía?",
+    "opciones": [
+      "Es un servicio de pago especializado en trámites de divorcio rápido.",
+      "Es apoyo psico-emocional gratuito, confidencial y disponible los siete días de la semana.",
+      "Es una línea policial exclusiva para el reporte de robos en unidades educativas.",
+      "Es un servicio de asesoría contable para la gestión de recursos de juntas escolares."
+    ],
+    "correcta": 1,
+    "explicacion": "Brinda apoyo psico-emocional gratuito y confidencial de 6:00 a medianoche, los 7 días [16]. Sección 3.4. Nota 11."
+  },
+  {
+    "id": 120,
+    "pregunta": "¿En qué situación se recomienda que el docente considere una derivación a un centro de salud para verificar sospechas de violencia?",
+    "opciones": [
+      "Cuando el estudiante solicita permiso para no realizar actividad física por cansancio.",
+      "Cuando existen inconsistencias entre el relato de los padres y el estado físico observado.",
+      "Siempre que un estudiante tenga una gripe común para descartar negligencia sanitaria.",
+      "Cuando el estudiante ha perdido un objeto escolar valioso y se muestra angustiado."
+    ],
+    "correcta": 1,
+    "explicacion": "Ante inconsistencias en los relatos, el personal de salud puede verificar si hay signos de violencia [17]. Sección 3.1. Herramientas (b)."
+  },
+  {
+    "id": 121,
+    "pregunta": "¿Qué consecuencia específica se observa en la conducta de adolescentes víctimas de violencia intrafamiliar?",
+    "opciones": [
+      "Aumento de la participación en voluntariados y actividades cívicas.",
+      "Riesgo de consumo de drogas y participación en conductas delictivas.",
+      "Mejora significativa en el liderazgo dentro del consejo estudiantil.",
+      "Deseo de pasar más tiempo con la familia extensa para buscar consuelo."
+    ],
+    "correcta": 1,
+    "explicacion": "En la adolescencia, la violencia genera riesgo de consumo de sustancias y delincuencia [18]. Tabla 2. Área conductual."
+  },
+  {
+    "id": 122,
+    "pregunta": "¿Cómo diferencia la Guía la 'violencia en el ámbito familiar' de la 'violencia contra la niñez y adolescencia'?",
+    "opciones": [
+      "No existe diferencia, son términos intercambiables en todos los contextos legales.",
+      "La primera se refiere al maltrato entre cualquier miembro; la segunda se enfoca en el peligro a la integridad por parte de tutores o progenitores.",
+      "La violencia familiar solo ocurre dentro de la casa; la violencia contra la niñez solo fuera de ella.",
+      "La violencia familiar es siempre física; la violencia contra la niñez es siempre psicológica."
+    ],
+    "correcta": 1,
+    "explicacion": "La violencia contra la niñez se da cuando progenitores o tutores ponen en peligro su integridad física o psicológica [19]. Sección 2.3.1."
+  },
+  {
+    "id": 123,
+    "pregunta": "Como indicador de sospecha, ¿qué tipo de inconsistencias debe registrar el maestro en su observación cotidiana?",
+    "opciones": [
+      "Diferencias entre los relatos de los cuidadores y las lesiones observadas en el estudiante.",
+      "Discrepancias entre la caligrafía del estudiante en clase y en las tareas del hogar.",
+      "Cambios en los gustos musicales del estudiante tras un periodo de vacaciones.",
+      "El uso de diferentes marcas de material escolar a lo largo del bimestre."
+    ],
+    "correcta": 0,
+    "explicacion": "Inconsistencias entre relatos de padres/víctima y lo registrado por el docente son señales de violencia [17]. Sección 3.1. Herramientas (b)."
+  },
+  {
+    "id": 124,
+    "pregunta": "Dentro de la clasificación de comportamientos violentos, ¿cuál es la diferencia entre 'acción' y 'supresión'?",
+    "opciones": [
+      "La acción es siempre física; la supresión es siempre verbal.",
+      "La acción es un acto deliberado que daña; la supresión es negar o quitar un derecho o condición básica.",
+      "La acción ocurre en la escuela; la supresión ocurre exclusivamente en el hogar.",
+      "La acción la realiza el padre; la supresión la realiza el tutor legal o el estado."
+    ],
+    "correcta": 1,
+    "explicacion": "La acción es intencionada (como el golpe), mientras que la supresión implica quitar condiciones o derechos [2, 20]. Sección 2.3.3."
+  },
+  {
+    "id": 125,
+    "pregunta": "Durante una entrevista para aclarar sospechas, ¿qué acción está terminantemente prohibida según las orientaciones de la Guía?",
+    "opciones": [
+      "Utilizar un lenguaje sencillo que el niño o niña pueda entender fácilmente.",
+      "Confrontar a la niña o al niño directamente con su posible agresor.",
+      "Mantener un lugar reservado y privado para asegurar la confidencialidad.",
+      "Tomar notas breves sobre los indicadores observados durante la charla."
+    ],
+    "correcta": 1,
+    "explicacion": "Bajo ningún concepto se debe confrontar a la víctima con su agresor para no revictimizar [21, 22]. Tabla 5 / Sección 3.1."
+  },
+  {
+    "id": 126,
+    "pregunta": "¿Qué tipo de marcas en el cuerpo se consideran indicadores físicos evidentes de maltrato?",
+    "opciones": [
+      "Pequeños rasguños en las rodillas por caídas accidentales en el recreo.",
+      "Marcas, quemaduras o moretones sin explicación coherente con la causa alegada.",
+      "Irritaciones leves en los codos por el roce constante con el pupitre escolar.",
+      "Manchas de nacimiento o pecas que han estado presentes desde el inicio de clases."
+    ],
+    "correcta": 1,
+    "explicacion": "Lesiones o marcas sin explicación coherente son indicadores físicos de alerta [23]. Tabla 4. Signos físicos."
+  },
+  {
+    "id": 127,
+    "pregunta": "¿Qué sentimiento suele predominar en la niñez víctima de violencia a corto plazo, afectando su área emocional?",
+    "opciones": [
+      "Un sentimiento constante de superioridad frente a sus compañeros de curso.",
+      "Sentimientos de culpa e impotencia frente a la situación que viven.",
+      "Deseo de participar en actividades de liderazgo social fuera de la escuela.",
+      "Indiferencia total hacia cualquier tipo de estímulo afectivo del maestro."
+    ],
+    "correcta": 1,
+    "explicacion": "En la niñez son comunes los sentimientos de culpa e impotencia ante la violencia [24]. Tabla 2. Área emocional."
+  },
+  {
+    "id": 128,
+    "pregunta": "A largo plazo, ¿cómo se manifiesta el impacto de la violencia sufrida en la infancia sobre la sexualidad adulta?",
+    "opciones": [
+      "En una mejora de la capacidad de establecer vínculos afectivos duraderos.",
+      "En miedo, inseguridad o rechazo y hostilidad hacia las relaciones sexuales.",
+      "En el desarrollo de una sexualidad plenamente satisfactoria y libre de traumas.",
+      "En la ausencia total de recuerdos sobre la infancia debido a un bloqueo positivo."
+    ],
+    "correcta": 1,
+    "explicacion": "A largo plazo se presenta miedo, inseguridad u hostilidad hacia las relaciones sexuales [25]. Tabla 2. Sexualidad (Largo plazo)."
+  },
+  {
+    "id": 129,
+    "pregunta": "¿Cómo repercute la violencia física en el hogar sobre el proceso de aprendizaje del estudiante?",
+    "opciones": [
+      "Estimula una memoria fotográfica más aguda para evitar distracciones.",
+      "Genera mayor dificultad en el desempeño escolar y puede repercutir en su promoción.",
+      "No tiene ningún efecto si el estudiante separa sus problemas personales de los académicos.",
+      "Aumenta la velocidad de lectura y comprensión de textos complejos."
+    ],
+    "correcta": 1,
+    "explicacion": "La violencia dificulta el desempeño y pone en riesgo la promoción de grado [26]. Sección 3.3. Gráfico."
+  },
+  {
+    "id": 130,
+    "pregunta": "¿Qué debe hacer un docente si reconoce que tiene una 'limitación' personal (como un trauma propio no resuelto) para atender un caso?",
+    "opciones": [
+      "Atender el caso de todas formas para demostrar que es un profesional resiliente.",
+      "Traspasar el caso a un colega o autoridad que pueda actuar con objetividad.",
+      "Pedirle al estudiante que no le cuente sus problemas para no reactivar su trauma.",
+      "Cerrar la unidad educativa por un día para reflexionar sobre su situación personal."
+    ],
+    "correcta": 1,
+    "explicacion": "Si el adulto tiene limitaciones o experiencias no trabajadas, debe traspasar el caso por el interés superior del niño [27]. Tabla 6."
+  },
+  {
+    "id": 131,
+    "pregunta": "Según la normativa citada en la Guía, ¿qué diferencia al 'abuso sexual' de la 'violación'?",
+    "opciones": [
+      "La violación implica penetración o acceso carnal; el abuso sexual son actos sin penetración.",
+      "El abuso sexual es cometido solo por familiares; la violación solo por extraños.",
+      "La violación ocurre solo en adultos; el abuso sexual solo en menores de edad.",
+      "No hay diferencia legal, ambos delitos tienen exactamente la misma pena mínima."
+    ],
+    "correcta": 0,
+    "explicacion": "La violación implica penetración, mientras que el abuso sexual son actos no constitutivos de penetración [10, 28]. Tabla 1."
+  },
+  {
+    "id": 132,
+    "pregunta": "¿Cuál es el propósito del 'mapeo de actores' que se recomienda realizar a las y los maestros?",
+    "opciones": [
+      "Ubicar los domicilios de todos los estudiantes para realizar visitas sorpresa.",
+      "Detectar instancias en la comunidad que ofrecen atención especializada para derivar casos.",
+      "Clasificar a los comercios locales según su contribución económica a la escuela.",
+      "Identificar a los padres de familia con antecedentes penales para prohibirles el ingreso."
+    ],
+    "correcta": 1,
+    "explicacion": "El mapeo permite detectar instancias de apoyo (DNA, salud) para una atención integral [29]. Tabla 6. Asegurar atención integral."
+  },
+  {
+    "id": 133,
+    "pregunta": "En la valoración del maltrato psicológico, ¿qué característica define al 'Riesgo Medio'?",
+    "opciones": [
+      "Actitudes de maltrato totalmente aisladas que no generan ningún tipo de afectación.",
+      "Insultos y rechazo habituales con afectación emocional, pero manteniendo rasgos de cuidado.",
+      "Riesgo inminente de homicidio o amenazas de muerte constantes con armas.",
+      "Ausencia total de comunicación verbal entre el niño y sus cuidadores por años."
+    ],
+    "correcta": 1,
+    "explicacion": "El riesgo medio implica maltrato habitual con afectación, pero aún con rasgos de cuidado y afecto [30]. Tabla 7."
+  },
+  {
+    "id": 134,
+    "pregunta": "¿Qué riesgo extremo en el área conductual se asocia con adolescentes víctimas de violencia?",
+    "opciones": [
+      "Aumento del riesgo de suicidio y conductas autolesivas.",
+      "Deseo exagerado de obtener becas de estudio en el extranjero.",
+      "Desarrollo de una hiper-empatía hacia animales callejeros.",
+      "Incremento de la asistencia a cultos religiosos de manera obligatoria."
+    ],
+    "correcta": 0,
+    "explicacion": "La violencia incrementa el riesgo de suicidio y conductas autolesivas en adolescentes [31]. Tabla 2. Área conductual."
+  },
+  {
+    "id": 135,
+    "pregunta": "¿Cómo define la Guía la relación entre educación y castigo?",
+    "opciones": [
+      "Son sinónimos; no se puede educar sin aplicar algún tipo de castigo físico moderado.",
+      "La educación forma a la persona; el castigo impide que reflexione y comprenda consecuencias.",
+      "El castigo es el componente principal de la educación en valores éticos sólidos.",
+      "La educación solo ocurre en la escuela; el castigo es un derecho exclusivo del hogar."
+    ],
+    "correcta": 1,
+    "explicacion": "El castigo no deja que el niño reflexione sobre sus actos; la educación busca el desarrollo positivo [32]. Sección 2.5."
+  },
+  {
+    "id": 136,
+    "pregunta": "Según el Informe Mundial de 2020, ¿qué cifra de niños menores de 4 años sufre violentos castigos por sus cuidadores?",
+    "opciones": [
+      "Cien millones de niños.",
+      "Trescientos millones de niños.",
+      "Mil millones de niños.",
+      "Diez millones de niños."
+    ],
+    "correcta": 1,
+    "explicacion": "El informe indica que 300 millones de menores de 4 años sufren castigos violentos [33]. Sección I. Introducción."
+  },
+  {
+    "id": 137,
+    "pregunta": "¿Qué probabilidad estadística tienen las víctimas de abuso sexual infantil de reproducir este patrón en la adultez?",
+    "opciones": [
+      "Tienen 14 veces más posibilidades de reproducir esos abusos.",
+      "Tienen la misma probabilidad que cualquier otra persona sin trauma.",
+      "Es imposible que lo reproduzcan ya que conocen el daño que causa.",
+      "Tienen 2 veces más posibilidades según estudios genéticos."
+    ],
+    "correcta": 0,
+    "explicacion": "Las personas que sufren abusos sexuales en su infancia tienen 14 veces más posibilidades de reproducirlos [33]. Sección I. Introducción."
+  },
+  {
+    "id": 138,
+    "pregunta": "¿Qué implicación tiene que la OMS considere la violencia contra la niñez como un problema de 'salud pública'?",
+    "opciones": [
+      "Que solo los médicos pueden diagnosticar y tratar casos de violencia.",
+      "Que es una violación grave de derechos fundamentales con impacto social masivo.",
+      "Que el sistema educativo no tiene responsabilidad alguna en la detección.",
+      "Que los casos de violencia se curan exclusivamente con medicación específica."
+    ],
+    "correcta": 1,
+    "explicacion": "Al ser un problema de salud pública, se reconoce como una violación grave de derechos fundamentales [1]. Sección I. Introducción."
+  },
+  {
+    "id": 140,
+    "pregunta": "¿Qué debe hacer la autoridad educativa ante un hecho de violencia que se tipifica como 'delito'?",
+    "opciones": [
+      "Intentar una mediación entre el agresor y la familia del niño para evitar el juicio.",
+      "Denunciar de inmediato ante la DNA para que remita el caso al Ministerio Público - Fiscalía.",
+      "Sancionar al estudiante con la pérdida del año escolar por estar involucrado en delitos.",
+      "Esperar a que el consejo de padres de familia autorice la denuncia formal."
+    ],
+    "correcta": 1,
+    "explicacion": "Si es delito, se denuncia a la DNA para que informe a la Fiscalía [34]. Sección 3.4. Referencia."
+  },
+  {
+    "id": 141,
+    "pregunta": "¿Por qué las unidades educativas tienen una posición privilegiada para detectar la violencia intrafamiliar?",
+    "opciones": [
+      "Porque tienen cámaras de seguridad instaladas en los hogares de los estudiantes.",
+      "Debido a la cotidianeidad y continuo relacionamiento con estudiantes y sus familias.",
+      "Porque los maestros tienen acceso legal a las cuentas bancarias de los padres.",
+      "Porque el Ministerio de Educación obliga a los padres a confesar sus faltas."
+    ],
+    "correcta": 1,
+    "explicacion": "La cotidianeidad permite detectar situaciones antes que otras instituciones [35]. Presentación."
+  },
+  {
+    "id": 142,
+    "pregunta": "Al intentar aclarar sospechas con un estudiante, ¿por qué se recomienda priorizar las 'preguntas abiertas'?",
+    "opciones": [
+      "Para confundir al estudiante y lograr que admita culpas que no cometió.",
+      "Para obtener información y fomentar una conversación amigable sin presionar.",
+      "Para que el interrogatorio dure más tiempo y se recolecten más folios de prueba.",
+      "Para cumplir con el requisito burocrático de los formularios de la fiscalía."
+    ],
+    "correcta": 1,
+    "explicacion": "Las preguntas abiertas permiten obtener información del entorno sin ser un interrogatorio [12, 21]. Sección 3.1. Herramientas / Tabla 5."
+  },
+  {
+    "id": 143,
+    "pregunta": "¿Con quiénes pueden realizarse las entrevistas de seguimiento en la etapa de contrarreferencia?",
+    "opciones": [
+      "Solo con el agresor para verificar si se siente arrepentido por sus actos.",
+      "Con el estudiante víctima, docentes, familiares o la entidad externa de atención.",
+      "Exclusivamente con los vecinos que fueron testigos del hecho denunciado.",
+      "Con los medios de comunicación interesados en publicar los avances del caso."
+    ],
+    "correcta": 1,
+    "explicacion": "Las entrevistas incluyen al estudiante, docentes, familiares y entidades externas [36]. Sección 3.4.1. Contrarreferencia."
+  },
+  {
+    "id": 144,
+    "pregunta": "¿Cuál es el objetivo final de la coordinación interinstitucional entre educación y las Defensorías (DNA)?",
+    "opciones": [
+      "Eliminar la necesidad de que los maestros den clases para dedicarse a lo jurídico.",
+      "Promover el acceso a la justicia y la protección eficiente de la niñez y adolescencia.",
+      "Reducir los salarios de los funcionarios públicos que no procesan denuncias.",
+      "Aumentar el número de procesos judiciales contra maestros de educación regular."
+    ],
+    "correcta": 1,
+    "explicacion": "La coordinación busca mecanismos ágiles para garantizar justicia y protección integral [36]. Sección 3.4.1. Contrarreferencia."
+  },
+  {
+    "id": 145,
+    "pregunta": "En la definición de violencia física, ¿cuál es el elemento clave para distinguirla de un accidente?",
+    "opciones": [
+      "Que el daño corporal haya sido causado de manera intencionada.",
+      "Que el golpe se haya realizado con la mano abierta y no con el puño cerrado.",
+      "Que la marca física sea visible por más de tres días consecutivos.",
+      "Que el hecho haya ocurrido en presencia de al menos dos testigos adultos."
+    ],
+    "correcta": 0,
+    "explicacion": "La violencia física se define por acciones intencionadas que no son accidentales [30, 37]. Sección 2.3.3 / Tabla 7."
+  },
+  {
+    "id": 146,
+    "pregunta": "¿Qué recurso legal tiene un directivo si recibe amenazas por haber cumplido con su deber de denunciar violencia?",
+    "opciones": [
+      "Debe renunciar a su cargo de inmediato para proteger su vida personal.",
+      "Presentar una demanda por intimidación y solicitar medidas de protección.",
+      "Publicar los nombres de los agresores en redes sociales para obtener apoyo.",
+      "Solicitar la baja médica indefinida para no tener que ir a declarar."
+    ],
+    "correcta": 1,
+    "explicacion": "Ante amenazas por denunciar, se puede demandar por intimidación y pedir protección [38]. Sección 3.4. Recordamos."
+  },
+  {
+    "id": 147,
+    "pregunta": "Dentro del rol docente, ¿qué implica actuar con 'empatía' durante la detección de un caso?",
+    "opciones": [
+      "Hacerle saber al estudiante que se comprende perfectamente cómo se siente.",
+      "Sentir lástima por el estudiante y llorar junto a él para que se sienta acompañado.",
+      "Regalarle dulces y juguetes para que olvide el hecho traumático rápidamente.",
+      "Contar historias personales tristes para que el estudiante vea que no está solo."
+    ],
+    "correcta": 0,
+    "explicacion": "Empatía es comprender, ser sensible al humor del otro y validar sus sentimientos [39]. Tabla 6."
+  },
+  {
+    "id": 148,
+    "pregunta": "Dentro de la violencia psicológica, ¿cómo se manifiesta la conducta de 'abandono y rechazo'?",
+    "opciones": [
+      "Al olvidar ocasionalmente firmar la agenda escolar del estudiante.",
+      "Al anular o minimizar permanentemente las iniciativas de apego o interacción del niño.",
+      "Al obligar al estudiante a dormir en su propia habitación desde los 5 años.",
+      "Al enviar al niño a pasar las vacaciones con sus abuelos en el área rural."
+    ],
+    "correcta": 1,
+    "explicacion": "Minimizar o anular las iniciativas de apego se constituye en abandono dentro de la violencia psicológica [37]. Sección 2.3.3."
+  },
+  {
+    "id": 149,
+    "pregunta": "A largo plazo, ¿qué modelo de resolución de conflictos aprenden los niños expuestos a castigos severos?",
+    "opciones": [
+      "Un modelo basado en el diálogo, la negociación y el consenso democrático.",
+      "Un modelo basado en métodos y recursos violentos para la solución de problemas.",
+      "Un modelo de total pasividad y aceptación de cualquier tipo de autoridad.",
+      "Un modelo de pensamiento crítico que cuestiona la utilidad de la fuerza física."
+    ],
+    "correcta": 1,
+    "explicacion": "El castigo muestra un modelo para solucionar problemas con recursos violentos que tiende a agravarse [40]. Sección 2.5."
+  },
+  {
+    "id": 150,
+    "pregunta": "¿Cuál es la finalidad última de los lineamientos y directrices de intervención establecidos en la Guía?",
+    "opciones": [
+      "Garantizar la prevención, identificación temprana y referencia oportuna para restituir derechos.",
+      "Centralizar el poder de decisión educativa exclusivamente en el Ministerio de Educación.",
+      "Asegurar que todos los padres de familia sean encarcelados por corregir a sus hijos.",
+      "Incrementar la burocracia administrativa en las Direcciones Departamentales de Educación."
+    ],
+    "correcta": 0,
+    "explicacion": "El objetivo es garantizar prevención, detección temprana y restitución de derechos vulnerados [41]. Sección 2.1. Objetivo."
+  }
+]

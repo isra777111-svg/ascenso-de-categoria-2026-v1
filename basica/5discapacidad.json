@@ -1,0 +1,1892 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Cuál es el objeto primordial de la normativa general boliviana para personas con discapacidad?",
+    "opciones": [
+      "Establecer centros de acogida obligatorios en cada municipio del país.",
+      "Garantizar el ejercicio pleno de derechos y deberes en igualdad de condiciones y equiparación de oportunidades.",
+      "Crear un sistema de pensiones exclusivo para personas con discapacidad leve.",
+      "Regular únicamente la infraestructura arquitectónica de las ciudades principales."
+    ],
+    "correcta": 1,
+    "explicacion": "La norma busca garantizar a las personas con discapacidad el ejercicio pleno de sus derechos y deberes bajo un sistema de protección integral. Fuente: Capítulo Primero, Artículo 1 (OBJETO) [1]."
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Cómo se define legalmente la 'Discapacidad' según el marco normativo nacional?",
+    "opciones": [
+      "Es una enfermedad crónica que impide el desarrollo cognitivo de manera permanente.",
+      "Es la falta de capacidad física para realizar trabajos manuales de alta intensidad.",
+      "Es el resultado de la interacción de la persona con deficiencias y diversas barreras físicas, sociales y comunicacionales.",
+      "Es la condición de salud que requiere internación hospitalaria de por vida."
+    ],
+    "correcta": 2,
+    "explicacion": "La discapacidad se define por la interacción entre las deficiencias de la persona (físicas, psíquicas, etc.) y las barreras del entorno. Fuente: Capítulo Primero, Artículo 5, inciso a (DEFINICIONES) [2]."
+  },
+  {
+    "id": 3,
+    "pregunta": "En el contexto del Sistema Educativo Plurinacional, ¿qué concepto describe la respuesta a la diversidad mediante adaptaciones físicas, curriculares y apoyos?",
+    "opciones": [
+      "Educación Especializada Exclusiva",
+      "Educación Inclusiva",
+      "Segregación Educativa",
+      "Habilitación Vocacional"
+    ],
+    "correcta": 1,
+    "explicacion": "La Educación Inclusiva busca reducir la exclusión mediante adaptaciones para aumentar la participación en el aprendizaje. Fuente: Capítulo Primero, Artículo 5, inciso r (DEFINICIONES) [3]."
+  },
+  {
+    "id": 4,
+    "pregunta": "¿A qué se refiere el principio de 'Equidad de Género' en la Ley para Personas con Discapacidad?",
+    "opciones": [
+      "A priorizar el empleo de hombres con discapacidad sobre las mujeres.",
+      "A la equiparación de diferencias entre hombres y mujeres con discapacidad, reconociendo la identidad de género.",
+      "A otorgar bonos económicos únicamente a las madres con hijos con discapacidad.",
+      "A separar las escuelas por sexo para mejorar la atención pedagógica."
+    ],
+    "correcta": 1,
+    "explicacion": "Busca equiparar diferencias de género reconociendo la identidad de género en el marco de la Constitución. Fuente: Capítulo Primero, Artículo 4, inciso e (PRINCIPIOS GENERALES) [4]."
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Qué implica el concepto de 'Ajustes Razonables' según la normativa vigente?",
+    "opciones": [
+      "Modificaciones necesarias que no impongan una carga desproporcionada para garantizar el ejercicio de derechos.",
+      "Reducción salarial proporcional a la discapacidad del trabajador.",
+      "Cambios obligatorios en la estructura del Estado sin importar el costo económico.",
+      "La obligación de las familias de pagar por la sombra pedagógica en escuelas fiscales."
+    ],
+    "correcta": 0,
+    "explicacion": "Son adaptaciones adecuadas que se requieren en casos particulares sin ser una carga indebida. Fuente: Capítulo Primero, Artículo 5, inciso v (DEFINICIONES) [5]."
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Cuál es la obligación de la familia respecto a una persona con discapacidad según el marco legal?",
+    "opciones": [
+      "Internarla en centros especializados de salud de manera definitiva.",
+      "Proporcionar protección y bienestar promoviendo su autonomía y respetando su autodeterminación.",
+      "Asumir todos los gastos médicos sin ayuda del Estado.",
+      "Decidir por ellos en todos los actos civiles sin consultar su opinión."
+    ],
+    "correcta": 1,
+    "explicacion": "La familia es el primer espacio de inclusión y debe promover la autonomía de la persona. Fuente: Capítulo Segundo, Artículo 7 (DERECHO A PROTECCIÓN DE SU FAMILIA) [6]."
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Qué garantiza el Estado respecto a la formación de maestros para la enseñanza a estudiantes con discapacidad?",
+    "opciones": [
+      "La contratación de maestros extranjeros especializados en cada unidad educativa.",
+      "Introducir planes psicopedagógicos en la formación docente que habiliten para la enseñanza personalizada.",
+      "Eximir a los maestros de evaluar a estudiantes con discapacidad intelectual.",
+      "Reducir las horas de clase para los maestros que tengan estudiantes con discapacidad."
+    ],
+    "correcta": 1,
+    "explicacion": "El Estado debe habilitar a los maestros en formación para la enseñanza personalizada mediante planes de estudio psicopedagógicos. Fuente: Capítulo Tercero, Artículo 31, parágrafo III (ÁMBITO DE EDUCACIÓN) [7]."
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Qué beneficio deben otorgar las Universidades Públicas y Privadas a las personas con discapacidad respecto a sus títulos?",
+    "opciones": [
+      "Entrega de títulos solo después de 5 años de pasantías gratuitas.",
+      "Extensión gratuita de diplomas académicos y títulos en provisión nacional.",
+      "Cobro del 50% de los valores legales correspondientes.",
+      "Eximición de la tesis de grado obligatoriamente."
+    ],
+    "correcta": 1,
+    "explicacion": "Las universidades tienen la obligación de extender estos documentos de manera gratuita. Fuente: Capítulo Tercero, Artículo 31, parágrafo VIII (ÁMBITO DE EDUCACIÓN) [8]."
+  },
+  {
+    "id": 9,
+    "pregunta": "¿En qué consiste la inamovilidad laboral según la Ley N° 223?",
+    "opciones": [
+      "Los trabajadores con discapacidad no pueden ser promovidos a cargos superiores.",
+      "Se garantiza la permanencia laboral de personas con discapacidad, cónyuges o padres, salvo causales justificadas.",
+      "El trabajador no puede ser transferido de una ciudad a otra bajo ninguna circunstancia.",
+      "Significa que el sueldo no puede ser incrementado por razones de equidad."
+    ],
+    "correcta": 1,
+    "explicacion": "Protege la fuente laboral de la persona con discapacidad y de sus tutores directos siempre que cumplan la normativa. Fuente: Capítulo Tercero, Artículo 34, parágrafo II (ÁMBITO DEL TRABAJO) [9]."
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Cuál es la función principal del Comité Nacional de Personas con Discapacidad (CONALPEDIS)?",
+    "opciones": [
+      "Administrar los hospitales de tercer nivel en todo el país.",
+      "La defensa de derechos y la planificación estratégica en materia de discapacidad.",
+      "Pagar directamente la Renta Solidaria en efectivo cada mes.",
+      "Construir las rampas de acceso en los municipios rurales."
+    ],
+    "correcta": 1,
+    "explicacion": "Es una entidad descentralizada encargada de la planificación y defensa de derechos. Fuente: Capítulo Cuarto, Artículo 45 (COMITÉ NACIONAL DE PERSONAS CON DISCAPACIDAD) [10]."
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Qué población con discapacidad NO puede percibir la Renta Solidaria establecida por ley?",
+    "opciones": [
+      "Personas con discapacidad física muy grave.",
+      "Personas con discapacidad visual.",
+      "Padres de niños con discapacidad intelectual.",
+      "Personas con discapacidad mental grave que no trabajan."
+    ],
+    "correcta": 1,
+    "explicacion": "La ley establece que en ningún caso las personas con discapacidad visual percibirán la Renta Solidaria. Fuente: Capítulo Tercero, Artículo 28, parágrafo II (RENTA SOLIDARIA) [11]."
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Qué obligación tienen las empresas de televisión pública y privada respecto a la comunicación?",
+    "opciones": [
+      "Transmitir 5 horas diarias de programas educativos especiales.",
+      "Incluir la interpretación a la Lengua de Señas Boliviana en programas de interés general.",
+      "Subtitular únicamente los comerciales de productos de salud.",
+      "Contratar presentadores que tengan algún grado de discapacidad física."
+    ],
+    "correcta": 1,
+    "explicacion": "Deben incluir LSB en programas culturales, políticos, educativos y sociales. Fuente: Capítulo Tercero, Artículo 36, parágrafo II (ÁMBITO DE LA COMUNICACIÓN) [12]."
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Qué criterio define la 'Discapacidad Múltiple'?",
+    "opciones": [
+      "Tener una discapacidad que afecte a más de un miembro de la familia.",
+      "Estar generada por múltiples deficiencias (físicas, visuales, auditivas, intelectuales o psíquicas).",
+      "Requerir más de tres tipos de medicamentos diferentes por día.",
+      "Tener un grado de discapacidad superior al 90% según el carnet."
+    ],
+    "correcta": 1,
+    "explicacion": "Se da cuando coexisten varias deficiencias de distinto carácter. Fuente: Capítulo Primero, Artículo 5, inciso j (DEFINICIONES) [13]."
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Cuál es la calificación para una persona con dificultades para actividades diarias pero compatibles con la práctica de las mismas?",
+    "opciones": [
+      "Discapacidad Moderada",
+      "Discapacidad Leve",
+      "Discapacidad Grave",
+      "Discapacidad Muy Grave"
+    ],
+    "correcta": 1,
+    "explicacion": "El grado leve justifica alguna dificultad pero permite realizar las actividades. Fuente: Capítulo Primero, Artículo 5, inciso k (DEFINICIONES) [13]."
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué documentos del Registro Civil son gratuitos para personas con discapacidad grave y muy grave?",
+    "opciones": [
+      "Solo el certificado de nacimiento.",
+      "Certificados de nacimiento, matrimonio y defunción.",
+      "Certificados de soltería y descendencia.",
+      "Toda legalización de documentos notariales."
+    ],
+    "correcta": 1,
+    "explicacion": "El Órgano Electoral debe implementar la gratuidad en estos tres tipos de certificados. Fuente: Capítulo Tercero, Artículo 41 (GRATUIDAD EN DOCUMENTOS DE REGISTRO CIVIL) [14]."
+  },
+  {
+    "id": 16,
+    "pregunta": "En cuanto al ingreso a universidades, ¿qué adecuación es necesaria para asegurar la permanencia de estudiantes con discapacidad?",
+    "opciones": [
+      "Eliminar la asistencia obligatoria a clases teóricas.",
+      "Realizar adecuaciones curriculares y garantizar enseñanza de calidad.",
+      "Otorgar un bono de transporte mensual obligatorio.",
+      "Permitir que un familiar rinda los exámenes en su lugar."
+    ],
+    "correcta": 1,
+    "explicacion": "El ingreso libre debe complementarse con adecuaciones que permitan egresar oportunamente. Fuente: Capítulo Tercero, Artículo 31, parágrafo VII (ÁMBITO DE EDUCACIÓN) [8]."
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Quién es responsable de la administración de la medicación prescrita a una persona con discapacidad?",
+    "opciones": [
+      "Exclusivamente el centro de salud más cercano.",
+      "La familia o el Estado, según corresponda.",
+      "La propia persona con discapacidad de forma autónoma siempre.",
+      "El Ministerio de Justicia mediante sus unidades de apoyo."
+    ],
+    "correcta": 1,
+    "explicacion": "Es un deber de la familia o el Estado asegurar la estabilidad en salud mediante la medicación. Fuente: Capítulo Segundo, Artículo 22, inciso j (DEBERES) [15]."
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Qué trato deben recibir las personas con discapacidad para eliminar desventajas y garantizar igualdad?",
+    "opciones": [
+      "Trato Exclusivo",
+      "Trato Preferente",
+      "Trato Diferenciado Negativo",
+      "Trato de Caridad"
+    ],
+    "correcta": 1,
+    "explicacion": "El trato preferente incluye acciones integradoras con carácter de primacía. Fuente: Capítulo Primero, Artículo 5, inciso b (DEFINICIONES) [2]."
+  },
+  {
+    "id": 19,
+    "pregunta": "¿A qué se refiere la 'Rehabilitación Basada en la Comunidad' (RBC)?",
+    "opciones": [
+      "A construir hospitales psiquiátricos en cada barrio.",
+      "A una estrategia para la igualdad de oportunidades e integración social en la propia comunidad.",
+      "A obligar a los vecinos a cuidar a la persona con discapacidad.",
+      "A prohibir que las personas con discapacidad salgan de su zona de residencia."
+    ],
+    "correcta": 1,
+    "explicacion": "Es una estrategia de integración y reducción de pobreza desde el entorno social cercano. Fuente: Capítulo Primero, Artículo 5, inciso t (DEFINICIONES) [16]."
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Qué derecho tienen las personas con discapacidad intelectual leve o moderada respecto a sus decisiones de vida?",
+    "opciones": [
+      "No tienen derecho a decidir por ser considerados legalmente incapaces.",
+      "Tienen derecho a ser consultadas según sus posibilidades y medios.",
+      "Sus decisiones deben ser tomadas siempre por un juez de familia.",
+      "Solo pueden decidir sobre su alimentación y vestimenta."
+    ],
+    "correcta": 1,
+    "explicacion": "Se reconoce su derecho a ser consultados en temas de salud, educación y familia proyectándose a una vida independiente. Fuente: Capítulo Segundo, Artículo 20 (DERECHO A TOMAR DECISIONES INDEPENDIENTES) [17]."
+  },
+{
+    "id": 21,
+    "pregunta": "¿En qué momento se garantiza legalmente el derecho a la vida de las personas con discapacidad en el Estado Plurinacional?",
+    "opciones": [
+      "A partir de la calificación oficial de su grado de discapacidad.",
+      "Desde que alcanzan la mayoría de edad y obtienen su carnet de identidad.",
+      "Desde su concepción, al igual que el resto de las personas.",
+      "Únicamente después de haber sido registrados en el Sistema de Salud."
+    ],
+    "correcta": 2,
+    "explicacion": "El Estado garantiza el derecho a la vida desde la concepción para asegurar la protección integral desde el inicio. Fuente: Capítulo Segundo, Artículo 6 (DERECHO A LA VIDA)."
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Cuál es la responsabilidad del Estado si una persona con discapacidad queda en situación de abandono u orfandad?",
+    "opciones": [
+      "Asumir la responsabilidad según sus competencias nacionales, departamentales, municipales e indígenas.",
+      "Transferir la custodia obligatoriamente a instituciones religiosas privadas.",
+      "Solicitar que la comunidad vecinal se haga cargo de su manutención.",
+      "Delegar la responsabilidad exclusivamente al Ministerio de Justicia sin apoyo regional."
+    ],
+    "correcta": 0,
+    "explicacion": "Ante el abandono, el Estado asume la responsabilidad compartida entre sus distintos niveles de gobierno. Fuente: Capítulo Segundo, Artículo 9, parágrafo II (DERECHO A LA PROTECCIÓN DEL ESTADO)."
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Qué garantiza el Estado respecto al tránsito de estudiantes con discapacidad por el Sistema Educativo Plurinacional?",
+    "opciones": [
+      "La creación de escuelas exclusivas en zonas rurales alejadas.",
+      "La contratación de un asistente personal pagado por el centro educativo.",
+      "El acceso a becas de estudio en el extranjero de forma automática.",
+      "El acceso y permanencia en el marco de una educación inclusiva e integral."
+    ],
+    "correcta": 3,
+    "explicacion": "La normativa asegura no solo el ingreso, sino la continuidad del estudiante bajo un modelo inclusivo. Fuente: Capítulo Segundo, Artículo 10 (DERECHO A LA EDUCACIÓN)."
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Cuál es el fin principal de promover la comunicación en sistemas y lenguas alternativas?",
+    "opciones": [
+      "Fomentar la creación de nuevas carreras universitarias de idiomas.",
+      "Lograr la inclusión, el acceso a la información y el ejercicio pleno de derechos.",
+      "Reducir el uso de papel en las instituciones públicas.",
+      "Cumplir únicamente con tratados internacionales de turismo."
+    ],
+    "correcta": 1,
+    "explicacion": "El acceso a la información a través de lenguas alternativas es clave para el ejercicio de otros derechos. Fuente: Capítulo Segundo, Artículo 11 (DERECHO A LA COMUNICACIÓN EN SISTEMAS Y LENGUAS ALTERNATIVAS)."
+  },
+  {
+    "id": 25,
+    "pregunta": "¿En qué niveles de atención de salud se garantiza el carácter gratuito para las personas con discapacidad?",
+    "opciones": [
+      "Solo en el primer nivel de atención básica.",
+      "Únicamente en hospitales especializados de tercer nivel.",
+      "En la red de servicios públicos y en los tres niveles de atención.",
+      "Solo en campañas de salud organizadas por municipios."
+    ],
+    "correcta": 2,
+    "explicacion": "La gratuidad debe cubrir toda la red de servicios públicos en todos sus niveles. Fuente: Capítulo Segundo, Artículo 12 (DERECHO A SERVICIOS DE SALUD INTEGRALES Y GRATUITOS)."
+  },
+  {
+    "id": 26,
+    "pregunta": "Además del nombre y nacionalidad, ¿qué aspecto debe respetarse en el ejercicio del derecho a la identidad?",
+    "opciones": [
+      "La pluriculturalidad de la persona.",
+      "El historial de aportes al sistema de seguridad social.",
+      "La opinión de los vecinos sobre el origen de la persona.",
+      "El grado académico alcanzado por los padres."
+    ],
+    "correcta": 0,
+    "explicacion": "El derecho a la identidad incluye el respeto a la diversidad cultural del individuo. Fuente: Capítulo Segundo, Artículo 14 (DERECHO A LA IDENTIDAD)."
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Qué medida debe adoptar el Estado en relación con los planes de vivienda social para este sector?",
+    "opciones": [
+      "Otorgar viviendas únicamente en plantas bajas de edificios públicos.",
+      "Exigir que las viviendas sean construidas exclusivamente por la familia.",
+      "Prohibir que las personas con discapacidad vendan su propiedad en 50 años.",
+      "Establecer un porcentaje del presupuesto para programas especiales de vivienda digna."
+    ],
+    "correcta": 3,
+    "explicacion": "Se debe reservar un presupuesto específico para garantizar el acceso a vivienda adecuada. Fuente: Capítulo Segundo, Artículo 15 (DERECHO A LA VIVIENDA)."
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Qué ajuste razonable permite el Tribunal Supremo Electoral para el momento de la votación?",
+    "opciones": [
+      "Votar desde su domicilio mediante una plataforma digital.",
+      "Eximirlos de la obligación de votar si presentan su carnet.",
+      "Permitir el ingreso al recinto acompañados de una persona de confianza elegida por ellos.",
+      "Habilitar una mesa de sufragio exclusiva en cada hospital del país."
+    ],
+    "correcta": 2,
+    "explicacion": "Se garantiza la ayuda necesaria permitiendo el acompañamiento de alguien de su confianza. Fuente: Capítulo Segundo, Artículo 18, parágrafo II (DERECHO A LA PARTICIPACIÓN POLÍTICA)."
+  },
+  {
+    "id": 29,
+    "pregunta": "¿Quiénes tienen la obligación de estar informados para prevenir el abuso sexual hacia niños y adolescentes con discapacidad?",
+    "opciones": [
+      "Únicamente los directores de centros penitenciarios.",
+      "Las familias y toda persona que trabaje con menores con discapacidad.",
+      "Solo los médicos ginecólogos de la red de salud pública.",
+      "Exclusivamente los jueces de familia y fiscales."
+    ],
+    "correcta": 1,
+    "explicacion": "La prevención del abuso sexual es una responsabilidad compartida por el entorno cercano y laboral. Fuente: Capítulo Segundo, Artículo 19, parágrafo II (DERECHO A LA INTEGRIDAD)."
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Cuál es una causa para que los allegados pierdan los beneficios otorgados por la normativa de discapacidad?",
+    "opciones": [
+      "Cometer actos de violencia doméstica, abusos o limitar la autonomía del familiar.",
+      "Cambiar de residencia a otro departamento sin autorización del Ministerio.",
+      "No asistir a dos reuniones consecutivas de la asociación local.",
+      "Percibir un sueldo superior al mínimo nacional en su trabajo actual."
+    ],
+    "correcta": 0,
+    "explicacion": "La violencia o restricción de oportunidades anula los beneficios legales del cuidador o familiar. Fuente: Capítulo Segundo, Artículo 21, incisos a y b (PÉRDIDA DE BENEFICIOS)."
+  },
+  {
+    "id": 31,
+    "pregunta": "¿Qué deber social se establece específicamente para las personas con discapacidad?",
+    "opciones": [
+      "Afiliarse obligatoriamente a un partido político para ser representados.",
+      "Pagar una tasa especial para el mantenimiento de sus centros de rehabilitación.",
+      "Informar anualmente sobre su patrimonio neto al Estado.",
+      "Realizar acción social y/o trabajo social en beneficio de la sociedad."
+    ],
+    "correcta": 3,
+    "explicacion": "Se promueve su participación activa y contributiva en la comunidad. Fuente: Capítulo Segundo, Artículo 22, inciso e (DEBERES)."
+  },
+  {
+    "id": 32,
+    "pregunta": "¿A quiénes deben priorizar los gobiernos autónomos en sus estrategias de reducción de la pobreza?",
+    "opciones": [
+      "Solo a los representantes de las federaciones departamentales.",
+      "A personas con discapacidad, padres, madres y/o tutores.",
+      "Únicamente a los veteranos de guerra con alguna deficiencia.",
+      "Exclusivamente a los niños con discapacidad visual en edad escolar."
+    ],
+    "correcta": 1,
+    "explicacion": "La estrategia de reducción de pobreza abarca a la persona y a sus cuidadores directos. Fuente: Capítulo Tercero, Artículo 23 (REDUCCIÓN DE POBREZA)."
+  },
+  {
+    "id": 33,
+    "pregunta": "¿Cuál es la única restricción válida que pueden aplicar las entidades financieras en políticas de crédito?",
+    "opciones": [
+      "La capacidad de rembolso del crédito por parte del solicitante.",
+      "El diagnóstico médico detallado de la discapacidad intelectual.",
+      "La esperanza de vida estimada por un perito forense.",
+      "La necesidad de un garante que no tenga ninguna discapacidad."
+    ],
+    "correcta": 0,
+    "explicacion": "Se prohíbe cualquier restricción que no esté vinculada a la solvencia financiera. Fuente: Capítulo Tercero, Artículo 25, parágrafo II (ACCESO AL CRÉDITO)."
+  },
+  {
+    "id": 34,
+    "pregunta": "¿Qué mecanismo garantiza el Estado para asegurar la inclusión efectiva en el sistema educativo?",
+    "opciones": [
+      "La entrega de material escolar gratuito únicamente a estudiantes con discapacidad.",
+      "La obligación de aprobar de curso automáticamente a todos los estudiantes con carnet.",
+      "La formación de equipos multidisciplinarios para la atención e inclusión.",
+      "La separación de aulas entre estudiantes con y sin discapacidad física."
+    ],
+    "correcta": 2,
+    "explicacion": "La atención requiere de un enfoque profesional diverso (equipos multidisciplinarios). Fuente: Capítulo Tercero, Artículo 31, parágrafo I (ÁMBITO DE EDUCACIÓN)."
+  },
+  {
+    "id": 35,
+    "pregunta": "¿Cuál es la disposición sobre barreras arquitectónicas en las nuevas infraestructuras educativas?",
+    "opciones": [
+      "Se permite su construcción si se instalan ascensores posteriormente.",
+      "Deben ser suprimidas obligatoriamente desde la etapa de diseño y planos.",
+      "Solo es obligatorio eliminarlas en universidades, no en escuelas primarias.",
+      "La eliminación de barreras depende de la donación de fondos externos."
+    ],
+    "correcta": 1,
+    "explicacion": "Toda nueva construcción debe cumplir con criterios de accesibilidad desde su planificación. Fuente: Capítulo Tercero, Artículo 31, parágrafo IV (ÁMBITO DE EDUCACIÓN)."
+  },
+  {
+    "id": 36,
+    "pregunta": "¿Dónde se debe promover la dotación de recursos didácticos para la enseñanza a estudiantes con discapacidad?",
+    "opciones": [
+      "Solo en las bibliotecas municipales de las ciudades principales.",
+      "Exclusivamente en los institutos de formación técnica superior.",
+      "Únicamente en los centros de educación especial de convenio.",
+      "En unidades regulares, centros de alternativa, especial, ESFM e institutos técnicos."
+    ],
+    "correcta": 3,
+    "explicacion": "La dotación debe alcanzar a todos los subsistemas educativos donde existan estudiantes. Fuente: Capítulo Tercero, Artículo 31, parágrafo V (ÁMBITO DE EDUCACIÓN)."
+  },
+  {
+    "id": 37,
+    "pregunta": "¿Qué beneficio deben implementar las Universidades Privadas para estudiantes con discapacidad?",
+    "opciones": [
+      "Contar con planes específicos de descuentos en todos los niveles y becas.",
+      "Eximir de la defensa de grado a quienes tengan discapacidad grave.",
+      "Reducir la carga horaria de las materias troncales al 50%.",
+      "Permitir el ingreso sin haber concluido el bachillerato."
+    ],
+    "correcta": 0,
+    "explicacion": "Las instituciones privadas tienen la obligación de facilitar el acceso económico. Fuente: Capítulo Tercero, Artículo 31, parágrafo X (ÁMBITO DE EDUCACIÓN)."
+  },
+  {
+    "id": 38,
+    "pregunta": "En cuanto a la salud reproductiva, ¿qué derecho se salvaguarda específicamente para las personas con discapacidad?",
+    "opciones": [
+      "La obligación de someterse a chequeos mensuales de fertilidad.",
+      "La prohibición de contraer matrimonio sin permiso del Ministerio de Salud.",
+      "La protección contra la esterilización obligatoria o métodos anticonceptivos forzados.",
+      "El derecho a que el Estado decida el número de hijos que pueden tener."
+    ],
+    "correcta": 2,
+    "explicacion": "Se garantiza la autonomía y protección contra abusos en sus derechos reproductivos. Fuente: Capítulo Tercero, Artículo 32, parágrafo VI (ÁMBITO DE SALUD)."
+  },
+  {
+    "id": 39,
+    "pregunta": "¿Qué insumo está exento de tributos de importación para organizaciones debidamente acreditadas?",
+    "opciones": [
+      "Cualquier tipo de vehículo motorizado para transporte de personal.",
+      "Órtesis, prótesis y ayudas técnicas utilizadas en rehabilitación.",
+      "Materiales de construcción para oficinas administrativas.",
+      "Equipamiento informático de alta gama para uso gerencial."
+    ],
+    "correcta": 1,
+    "explicacion": "La liberación tributaria es específica para insumos de salud y rehabilitación directa. Fuente: Capítulo Tercero, Artículo 33 (LIBERACIÓN DE TRIBUTOS)."
+  },
+  {
+    "id": 40,
+    "pregunta": "¿Qué instituciones otorgan la gratuidad para el trámite de personalidad jurídica de las organizaciones de discapacidad?",
+    "opciones": [
+      "El Ministerio de Autonomías y los Gobiernos Departamentales.",
+      "El Tribunal Supremo de Justicia y el Colegio de Abogados.",
+      "Las notarías de fe pública de primera categoría únicamente.",
+      "El Ministerio de Economía y el Banco Central de Bolivia."
+    ],
+    "correcta": 0,
+    "explicacion": "Estas entidades deben facilitar el registro legal de las asociaciones sin costo. Fuente: Capítulo Tercero, Artículo 35 (GRATUIDAD A LA PERSONALIDAD JURÍDICA)."
+  },
+{
+    "id": 41,
+    "pregunta": "¿Qué alcance tiene el derecho a tomar decisiones independientes para personas con discapacidad intelectual y mental leve o moderada?",
+    "opciones": [
+      "Se limita estrictamente a la elección de su vestimenta y alimentación diaria.",
+      "Requiere la firma obligatoria de un tutor legal para cualquier acto administrativo.",
+      "Incluye ser consultadas en decisiones sobre su vida, salud y educación según sus medios.",
+      "Solo es aplicable cuando la persona cuenta con un título profesional universitario."
+    ],
+    "correcta": 2,
+    "explicacion": "Se reconoce su derecho a ser consultados en temas vitales proyectándose a una vida independiente. Fuente: Capítulo Segundo, Artículo 20 (DERECHO A TOMAR DECISIONES INDEPENDIENTES) [1, 2]."
+  },
+  {
+    "id": 42,
+    "pregunta": "¿Cuál de las siguientes situaciones provoca la pérdida de beneficios para las personas a cargo de una persona con discapacidad?",
+    "opciones": [
+      "Solicitar apoyo económico adicional a organismos de cooperación internacional.",
+      "Impedir o limitar la participación de la persona en actividades sociales, laborales o educativas.",
+      "Cambiar de domicilio particular a una vivienda de alquiler en el mismo municipio.",
+      "Inscribir a la persona con discapacidad en un centro de educación alternativa."
+    ],
+    "correcta": 1,
+    "explicacion": "Limitar las oportunidades de desarrollo y participación es una causal directa de pérdida de beneficios legales. Fuente: Capítulo Segundo, Artículo 21, inciso e (PÉRDIDA DE BENEFICIOS) [3]."
+  },
+  {
+    "id": 43,
+    "pregunta": "¿Qué deber específico tienen las personas con discapacidad respecto al entorno natural según la normativa general?",
+    "opciones": [
+      "Organizar brigadas de limpieza obligatorias en parques nacionales cada mes.",
+      "Denunciar únicamente a las empresas industriales que contaminen el aire urbano.",
+      "Contribuir económicamente a un fondo estatal para la mitigación del cambio climático.",
+      "Conocer, informar, proteger y preservar el medio ambiente y la biodiversidad."
+    ],
+    "correcta": 3,
+    "explicacion": "La preservación del medio ambiente es un deber ciudadano explícito para este sector de la población. Fuente: Capítulo Segundo, Artículo 22, inciso i (DEBERES) [4]."
+  },
+  {
+    "id": 44,
+    "pregunta": "¿Qué restricción es la única permitida para las entidades financieras al evaluar un crédito solicitado por una persona con discapacidad?",
+    "opciones": [
+      "La capacidad de rembolso del crédito.",
+      "El tipo de deficiencia física o sensorial que presente el solicitante.",
+      "La necesidad de una fianza otorgada por una institución estatal de salud.",
+      "La edad avanzada del solicitante combinada con su diagnóstico médico."
+    ],
+    "correcta": 0,
+    "explicacion": "Se prohíbe cualquier discriminación financiera, dejando solo la solvencia económica como criterio válido. Fuente: Capítulo Tercero, Artículo 25, parágrafo II (ACCESO AL CRÉDITO) [5]."
+  },
+  {
+    "id": 45,
+    "pregunta": "¿Cómo debe garantizar el Estado el desarrollo de las potencialidades de las personas con discapacidad psicosocial en el ámbito educativo?",
+    "opciones": [
+      "Mediante el aislamiento preventivo en centros especializados de salud mental.",
+      "Asignando una pensión vitalicia que sustituya la necesidad de formación académica.",
+      "A través de la constante capacitación de los estamentos educativos para una atención efectiva.",
+      "Exigiendo que el estudiante sea evaluado bajo los mismos estándares sin ninguna adaptación."
+    ],
+    "correcta": 2,
+    "explicacion": "La capacitación docente constante es la vía para potenciar las habilidades individuales en el ámbito psicosocial. Fuente: Capítulo Tercero, Artículo 31, parágrafo II (ÁMBITO DE EDUCACIÓN) [6]."
+  },
+  {
+    "id": 46,
+    "pregunta": "¿Qué medida debe tomar el Estado respecto a la formación profesional relacionada con la discapacidad?",
+    "opciones": [
+      "Fomentar únicamente cursos de corta duración para auxiliares de enfermería.",
+      "Realizar la creación racional de carreras multidisciplinarias para la atención de necesidades biológicas, psicológicas y sociales.",
+      "Obligar a todos los estudiantes de medicina a especializarse exclusivamente en rehabilitación.",
+      "Transferir la formación técnica a empresas privadas bajo un modelo de concesión."
+    ],
+    "correcta": 1,
+    "explicacion": "Se requiere un enfoque profesional integral que solo se logra con carreras universitarias multidisciplinarias especializadas. Fuente: Capítulo Tercero, Artículo 31, parágrafo VI (ÁMBITO DE EDUCACIÓN) [7]."
+  },
+  {
+    "id": 47,
+    "pregunta": "¿A quiénes beneficia la liberación de valores en el Sistema Universitario Estatal además de a las propias personas con discapacidad?",
+    "opciones": [
+      "A todos los familiares hasta el cuarto grado de consanguinidad.",
+      "Únicamente a los hermanos menores de 18 años que convivan con ellos.",
+      "A los maestros de aula que tengan más de tres estudiantes con discapacidad.",
+      "A sus hijos e hijas, así como a los padres de niños con discapacidad."
+    ],
+    "correcta": 3,
+    "explicacion": "El beneficio de liberación de valores universitarios se extiende al núcleo familiar directo (hijos y padres). Fuente: Capítulo Tercero, Artículo 31, parágrafo XI (ÁMBITO DE EDUCACIÓN) [8, 9]."
+  },
+  {
+    "id": 48,
+    "pregunta": "¿Bajo qué condición el Estado otorga medicamentos de forma gratuita a personas con discapacidad?",
+    "opciones": [
+      "Siempre que la persona presente su carnet de discapacidad sin importar su seguro médico.",
+      "Cuando se trate de medicamentos relacionados con su discapacidad y no cuenten con otros medios de provisión.",
+      "Únicamente durante periodos de emergencia sanitaria declarada a nivel nacional.",
+      "Solo si los medicamentos son producidos por laboratorios estatales bolivianos."
+    ],
+    "correcta": 1,
+    "explicacion": "La gratuidad se enfoca en insumos permanentes vinculados a la discapacidad cuando no hay otra cobertura. Fuente: Capítulo Tercero, Artículo 32, parágrafo II (ÁMBITO DE SALUD) [9, 10]."
+  },
+  {
+    "id": 49,
+    "pregunta": "En el ámbito laboral, ¿qué modelo de desarrollo debe incorporar el Estado en todos sus niveles de gobierno?",
+    "opciones": [
+      "Desarrollo inclusivo basado en la comunidad.",
+      "Desarrollo industrial de exportación masiva.",
+      "Modelo de subsidio directo sin contraprestación laboral.",
+      "Sustitución de trabajadores con discapacidad por maquinaria automatizada."
+    ],
+    "correcta": 0,
+    "explicacion": "El enfoque de desarrollo inclusivo comunitario es la base para crear puestos de trabajo sostenibles. Fuente: Capítulo Tercero, Artículo 34, parágrafo I (ÁMBITO DEL TRABAJO) [11]."
+  },
+  {
+    "id": 50,
+    "pregunta": "¿Qué obligación tienen las instituciones educativas respecto a la señalización para personas con discapacidad sensorial?",
+    "opciones": [
+      "Instalar únicamente alarmas sonoras de alta potencia en los ingresos.",
+      "Pintar los pasillos de colores llamativos para estudiantes con baja visión.",
+      "Contar con señalización apropiada interna y externa para atención auditiva y visual.",
+      "Eliminar todo tipo de carteles para evitar distracciones cognitivas."
+    ],
+    "correcta": 2,
+    "explicacion": "La señalización adecuada es un requisito de accesibilidad comunicacional en centros educativos y públicos. Fuente: Capítulo Tercero, Artículo 36, parágrafo III (ÁMBITO DE LA COMUNICACIÓN) [12]."
+  },
+  {
+    "id": 51,
+    "pregunta": "¿Cuál es el plazo o forma de adecuación de las estructuras arquitectónicas preexistentes para garantizar la accesibilidad?",
+    "opciones": [
+      "Debe realizarse de manera gradual a partir de la promulgación de la normativa.",
+      "Debe completarse en un plazo máximo e improrrogable de 6 meses.",
+      "No es obligatoria la adecuación si el edificio tiene más de 50 años.",
+      "Depende exclusivamente de la solicitud escrita de una asociación de personas con discapacidad."
+    ],
+    "correcta": 0,
+    "explicacion": "La ley reconoce que la infraestructura antigua requiere una transformación progresiva y planificada. Fuente: Capítulo Tercero, Artículo 37, parágrafo II (ÁMBITO DE LA ACCESIBILIDAD) [13]."
+  },
+  {
+    "id": 52,
+    "pregunta": "¿Qué acción debe promover el Estado para asegurar el acceso efectivo a la justicia para este sector?",
+    "opciones": [
+      "Eximir a las personas con discapacidad de presentarse a declarar ante un juez.",
+      "Capacitar adecuadamente a operadores de justicia, personal policial y penitenciario.",
+      "Permitir que los abogados defensores dicten la sentencia en casos de discapacidad intelectual.",
+      "Crear cárceles exclusivas para personas con discapacidad en cada departamento."
+    ],
+    "correcta": 1,
+    "explicacion": "La capacitación de los funcionarios públicos (policía y jueces) es vital para evitar barreras procesales. Fuente: Capítulo Tercero, Artículo 38, parágrafo II (ACCESO A LA JUSTICIA) [14]."
+  },
+  {
+    "id": 53,
+    "pregunta": "¿Qué población tiene derecho a la gratuidad en la emisión de certificados de nacimiento, matrimonio y defunción?",
+    "opciones": [
+      "Todas las personas que posean un carnet de discapacidad vigente.",
+      "Únicamente los niños y adolescentes con discapacidad leve.",
+      "Toda persona con discapacidad grave y muy grave.",
+      "Solo los representantes legales de las federaciones departamentales."
+    ],
+    "correcta": 2,
+    "explicacion": "El beneficio de gratuidad en documentos del Registro Civil se focaliza en los grados grave y muy grave. Fuente: Capítulo Tercero, Artículo 41 (GRATUIDAD EN DOCUMENTOS DE REGISTRO CIVIL) [15]."
+  },
+  {
+    "id": 54,
+    "pregunta": "¿Qué característica define la transversalidad de la temática de discapacidad en la gestión pública?",
+    "opciones": [
+      "Crear un solo ministerio que concentre todos los temas de discapacidad.",
+      "Asignar el tema de discapacidad únicamente al área de salud pública.",
+      "Prohibir que otros sectores del Estado traten temas relacionados con la inclusión.",
+      "Incorporar la temática en el régimen normativo, planes, programas y proyectos de toda competencia estatal."
+    ],
+    "correcta": 3,
+    "explicacion": "La transversalidad implica que todos los niveles y sectores del Estado deben incluir la discapacidad en su planificación. Fuente: Capítulo Cuarto, Artículo 43 (TRANSVERSALIDAD) [16, 17]."
+  },
+  {
+    "id": 55,
+    "pregunta": "¿A qué proceso están sujetos todas las políticas públicas y proyectos en materia de discapacidad según el control social?",
+    "opciones": [
+      "A la rendición de cuentas y consulta permanente con las organizaciones de personas con discapacidad.",
+      "Únicamente a la auditoría externa realizada por empresas internacionales.",
+      "A la aprobación previa por parte de la Iglesia Católica y cultos religiosos.",
+      "A un referéndum nacional vinculante cada vez que se inicie un proyecto."
+    ],
+    "correcta": 0,
+    "explicacion": "El control social garantiza que los beneficiarios participen y fiscalicen la gestión pública. Fuente: Capítulo Cuarto, Artículo 44 (CONTROL SOCIAL) [17]."
+  },
+  {
+    "id": 56,
+    "pregunta": "¿Cuál es la función del CONALPEDIS respecto a las entidades privadas especializadas en discapacidad?",
+    "opciones": [
+      "Financiar el 100% de sus gastos operativos mensuales.",
+      "Fiscalizar y regular mediante mecanismos de acreditación y protocolos técnicos.",
+      "Obligarlas a cerrar si no cuentan con personal extranjero calificado.",
+      "Gestionar sus contratos publicitarios en medios de comunicación masivos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Estado, vía CONALPEDIS, asegura la calidad de la atención privada mediante la regulación técnica. Fuente: Capítulo Cuarto, Artículo 45, parágrafo IV (COMITÉ NACIONAL) [18]."
+  },
+  {
+    "id": 57,
+    "pregunta": "¿Qué transformación gradual deben orientar las instituciones especializadas y centros de educación especial?",
+    "opciones": [
+      "Hacia centros de internación psiquiátrica de larga estancia.",
+      "Hacia unidades de producción industrial para el mercado externo.",
+      "Hacia la conformación de centros de recursos de rehabilitación basados en la comunidad.",
+      "Hacia escuelas regulares de educación básica sin personal especializado."
+    ],
+    "correcta": 2,
+    "explicacion": "El modelo mundial de Rehabilitación Basada en la Comunidad (RBC) es el horizonte de transformación de estos centros. Fuente: Capítulo Cuarto, Artículo 45, parágrafo V (COMITÉ NACIONAL) [19]."
+  },
+  {
+    "id": 58,
+    "pregunta": "¿Qué rol cumple el CONALPEDIS frente a los Ministerios del Órgano Ejecutivo que realizan proyectos de discapacidad?",
+    "opciones": [
+      "Es el encargado de pagar los sueldos de todos los funcionarios de esos ministerios.",
+      "Es el organismo de consulta y asesoría obligatoria.",
+      "No tiene ninguna relación jerárquica ni de coordinación con los ministerios.",
+      "Debe aprobar individualmente cada gasto menor de caja chica de los ministerios."
+    ],
+    "correcta": 1,
+    "explicacion": "Toda acción ministerial sobre discapacidad debe ser técnicamente asesorada por el ente especializado. Fuente: Capítulo Cuarto, Artículo 46, inciso i (ATRIBUCIONES) [20]."
+  },
+  {
+    "id": 59,
+    "pregunta": "¿Cuántos representantes de la Confederación Boliviana de Personas con Discapacidad (COBOPDI) integran el Directorio del CONALPEDIS?",
+    "opciones": [
+      "Nueve representantes.",
+      "Cinco representantes.",
+      "Un representante por cada departamento (ocho en total).",
+      "Doce representantes elegidos por sorteo público."
+    ],
+    "correcta": 0,
+    "explicacion": "La representación civil en el directorio es de nueve miembros, igualando a la representación estatal. Fuente: Capítulo Cuarto, Artículo 47, inciso a (DIRECTORIO) [21]."
+  },
+  {
+    "id": 60,
+    "pregunta": "¿Qué deben garantizar las normas dictadas por Asambleas Departamentales y Municipales en cuanto a rutas peatonales?",
+    "opciones": [
+      "Que todas las veredas sean de un color uniforme para mejorar la estética urbana.",
+      "Que los comerciantes puedan usar las aceras siempre que paguen un impuesto extra.",
+      "Que las rutas tengan un ancho mínimo de 5 metros en zonas residenciales.",
+      "Que las rutas y vías sean accesibles y libres de barreras arquitectónicas."
+    ],
+    "correcta": 3,
+    "explicacion": "La accesibilidad en el espacio público (vías peatonales) es una competencia normativa local. Fuente: Capítulo Cuarto, Artículo 48, parágrafo II, inciso a (ATRIBUCIÓN DE ASAMBLEAS) [22, 23]."
+  },
+  {
+    "id": 61,
+    "pregunta": "¿Qué entidad tiene la atribución legal de realizar el seguimiento al cumplimiento de las obligaciones contraídas con organismos internacionales en materia de discapacidad?",
+    "opciones": [
+      "El Ministerio de Relaciones Exteriores exclusivamente.",
+      "El Comité Nacional de Personas con Discapacidad (CONALPEDIS).",
+      "La Defensoría del Pueblo en coordinación con la ONU.",
+      "Las asociaciones de familiares de personas con discapacidad grave."
+    ],
+    "correcta": 1,
+    "explicacion": "Es una función técnica del CONALPEDIS difundir y vigilar el cumplimiento de convenios internacionales. Fuente: Capítulo Cuarto, Artículo 46, inciso f (ATRIBUCIONES DEL CONALPEDIS).",
+    "referencia": "Artículo 46, inciso f"
+  },
+  {
+    "id": 62,
+    "pregunta": "¿Cuál es la responsabilidad del CONALPEDIS respecto a las Organizaciones No Gubernamentales (ONG) que trabajan en discapacidad?",
+    "opciones": [
+      "Otorgarles financiamiento directo de los recursos del Tesoro General.",
+      "Prohibir su funcionamiento si no cuentan con personal médico boliviano.",
+      "Registrar a las ONG, fundaciones y asociaciones sin fines de lucro del sector.",
+      "Designar obligatoriamente a los directores de cada fundación privada."
+    ],
+    "correcta": 2,
+    "explicacion": "El Comité debe llevar un registro oficial de todas las entidades civiles que ejecutan proyectos en el área. Fuente: Capítulo Cuarto, Artículo 46, inciso j (ATRIBUCIONES DEL CONALPEDIS).",
+    "referencia": "Artículo 46, inciso j"
+  },
+  {
+    "id": 63,
+    "pregunta": "¿Qué autoridad debe normar los beneficios extraordinarios y descuentos en medios de transporte interdepartamental y provincial?",
+    "opciones": [
+      "El Ministerio de Obras Públicas mediante resolución única.",
+      "Las operadoras de transporte de manera voluntaria.",
+      "Las Asambleas Legislativas Departamentales y Concejos Municipales.",
+      "La Confederación Boliviana de Personas con Discapacidad."
+    ],
+    "correcta": 2,
+    "explicacion": "Las instancias legislativas autónomas locales deben dictar normas para garantizar descuentos en transporte terrestre, aéreo o fluvial. Fuente: Capítulo Cuarto, Artículo 48, parágrafo II, inciso d (ATRIBUCIÓN DE LAS ASAMBLEAS).",
+    "referencia": "Artículo 48, parágrafo II, inciso d"
+  },
+  {
+    "id": 64,
+    "pregunta": "¿Cómo se garantiza el rol participativo de las personas con discapacidad en la toma de decisiones estatales?",
+    "opciones": [
+      "Mediante la promoción de todas las formas de auto organización de este sector.",
+      "Asignando un curul directo en la Asamblea Legislativa por sorteo.",
+      "Limitando su participación únicamente a temas de salud y rehabilitación.",
+      "Exigiendo que cada persona con discapacidad milite en un sindicato agrario."
+    ],
+    "correcta": 0,
+    "explicacion": "El Estado debe promover la auto organización para la defensa de derechos y asegurar su participación en políticas públicas. Fuente: Capítulo Cuarto, Artículo 49 (ROL PARTICIPATIVO).",
+    "referencia": "Artículo 49"
+  },
+  {
+    "id": 65,
+    "pregunta": "¿Qué sucede con la normativa que rige al Instituto Boliviano de la Ceguera (IBC) tras la promulgación de la Ley N° 223?",
+    "opciones": [
+      "Queda abrogada totalmente por ser una norma antigua.",
+      "Se mantiene vigente la Ley de 1957 y sus decretos reglamentarios.",
+      "El IBC pasa a depender directamente de las Fuerzas Armadas.",
+      "Se fusiona con el CONALPEDIS perdiendo su autonomía."
+    ],
+    "correcta": 1,
+    "explicacion": "La ley establece explícitamente que la normativa que crea el IBC continúa vigente. Fuente: DISPOSICIÓN FINAL ÚNICA.",
+    "referencia": "DISPOSICIÓN FINAL ÚNICA"
+  },
+  {
+    "id": 66,
+    "pregunta": "¿Cómo se definen los 'problemas en las funciones fisiológicas o estructuras corporales' de una persona?",
+    "opciones": [
+      "Limitación cognitiva",
+      "Deficiencia",
+      "Minusvalía social",
+      "Trastorno conductual"
+    ],
+    "correcta": 1,
+    "explicacion": "La deficiencia se refiere a desviaciones significativas respecto a la norma estadística en las funciones o estructuras del cuerpo. Fuente: Capítulo Primero, Artículo 5, inciso d (DEFINICIONES).",
+    "referencia": "Artículo 5, inciso d"
+  },
+  {
+    "id": 67,
+    "pregunta": "¿A qué categoría corresponden las personas con deficiencias anatómicas causantes de limitaciones en el movimiento?",
+    "opciones": [
+      "Personas con Discapacidad Sensorial",
+      "Personas con Discapacidad Intelectual",
+      "Personas con Discapacidad Física - Motora",
+      "Personas con Discapacidad Psíquica"
+    ],
+    "correcta": 2,
+    "explicacion": "La discapacidad física-motora se caracteriza por deficiencias neuromúsculofuncionales. Fuente: Capítulo Primero, Artículo 5, inciso e (DEFINICIONES).",
+    "referencia": "Artículo 5, inciso e"
+  },
+  {
+    "id": 68,
+    "pregunta": "¿Qué sentido es el principal canal para la experiencia e integración de las personas con discapacidad auditiva?",
+    "opciones": [
+      "El tacto",
+      "La visión",
+      "El olfato",
+      "El equilibrio"
+    ],
+    "correcta": 1,
+    "explicacion": "A través de la visión, la persona con discapacidad auditiva estructura su integración con el medio. Fuente: Capítulo Primero, Artículo 5, inciso g (DEFINICIONES).",
+    "referencia": "Artículo 5, inciso g"
+  },
+  {
+    "id": 69,
+    "pregunta": "¿Cómo se define la discapacidad intelectual en la normativa general?",
+    "opciones": [
+      "Como una alteración del comportamiento social sin base biológica.",
+      "Como limitaciones significativas en la inteligencia y la conducta adaptativa.",
+      "Como la pérdida total de la capacidad de juicio por causas ambientales.",
+      "Como un problema exclusivo del lenguaje hablado y escrito."
+    ],
+    "correcta": 1,
+    "explicacion": "Involucra deficiencias en el sistema nervioso central que afectan la inteligencia y el desarrollo evolutivo. Fuente: Capítulo Primero, Artículo 5, inciso h (DEFINICIONES).",
+    "referencia": "Artículo 5, inciso h"
+  },
+  {
+    "id": 70,
+    "pregunta": "¿Qué característica distingue a la discapacidad mental o psíquica según la ley?",
+    "opciones": [
+      "La persona tiene plena conciencia de su enfermedad psíquica.",
+      "Se limita únicamente a trastornos del sueño y la alimentación.",
+      "Dificulta la adaptación a la realidad sin que el sujeto tenga conciencia de la enfermedad.",
+      "Afecta solamente las funciones motoras finas del individuo."
+    ],
+    "correcta": 2,
+    "explicacion": "Incluye alteraciones cognitivas y de personalidad donde frecuentemente no hay conciencia de la enfermedad. Fuente: Capítulo Primero, Artículo 5, inciso i (DEFINICIONES).",
+    "referencia": "Artículo 5, inciso i"
+  },
+  {
+    "id": 71,
+    "pregunta": "¿A qué se refiere el concepto de 'Habilitación'?",
+    "opciones": [
+      "A la entrega de un título académico habilitante para el trabajo.",
+      "A medidas para que personas con deficiencias congénitas obtengan la máxima independencia.",
+      "A la construcción de rampas en edificios públicos antiguos.",
+      "Al proceso de sanción administrativa por incumplimiento de deberes."
+    ],
+    "correcta": 1,
+    "explicacion": "La habilitación se enfoca en deficiencias congénitas, mientras que la rehabilitación suele ser para las adquiridas. Fuente: Capítulo Primero, Artículo 5, inciso p (DEFINICIONES).",
+    "referencia": "Artículo 5, inciso p"
+  },
+  {
+    "id": 72,
+    "pregunta": "¿Qué actividades se consideran legalmente como 'Actividades de la Vida Diaria' (AVD)?",
+    "opciones": [
+      "Solo aquellas relacionadas con el empleo y la producción económica.",
+      "El activismo político y la participación en cultos religiosos.",
+      "El autocuidado (comer, aseo) y actividades de relación (comunicación, ocio).",
+      "Únicamente el ejercicio de los derechos civiles ante notario."
+    ],
+    "correcta": 2,
+    "explicacion": "Son comunes a todos los ciudadanos e incluyen higiene, alimentación, transporte y ocio. Fuente: Capítulo Primero, Artículo 5, inciso o (DEFINICIONES).",
+    "referencia": "Artículo 5, inciso o"
+  },
+  {
+    "id": 73,
+    "pregunta": "¿Qué implica el derecho a la inclusión laboral en empresas normalizadas?",
+    "opciones": [
+      "Trabajar menos horas percibiendo el mismo sueldo que los demás.",
+      "Recibir una remuneración simbólica complementada con bonos estatales.",
+      "Tener igualdad de condiciones, remuneración y beneficios que cualquier otro trabajador.",
+      "Estar exento de cumplir el reglamento interno de la institución."
+    ],
+    "correcta": 2,
+    "explicacion": "La inclusión laboral exige paridad total en remuneración, horarios y beneficios sociales. Fuente: Capítulo Primero, Artículo 5, inciso s (DEFINICIONES).",
+    "referencia": "Artículo 5, inciso s"
+  },
+  {
+    "id": 74,
+    "pregunta": "¿Qué deber tienen las personas con discapacidad respecto a la Constitución Política del Estado?",
+    "opciones": [
+      "Conocerla, cumplirla y hacerla cumplir.",
+      "Sugerir cambios a la misma cada año ante el CONALPEDIS.",
+      "Es un deber exclusivo de las personas sin discapacidad.",
+      "Memorizar todos sus artículos para acceder a la Renta Solidaria."
+    ],
+    "correcta": 0,
+    "explicacion": "Es el primer deber ciudadano establecido para este sector. Fuente: Capítulo Segundo, Artículo 22, inciso a (DEBERES).",
+    "referencia": "Artículo 22, inciso a"
+  },
+  {
+    "id": 75,
+    "pregunta": "¿Quién debe apoyar el deber de capacitación y preparación para que la persona con discapacidad sea independiente?",
+    "opciones": [
+      "El Ministerio de Trabajo únicamente.",
+      "La familia de la persona con discapacidad.",
+      "Las empresas privadas donde pretenda trabajar.",
+      "Los vecinos del barrio donde reside."
+    ],
+    "correcta": 1,
+    "explicacion": "Si bien es un deber personal capacitarse, la familia tiene la obligación de apoyar este proceso. Fuente: Capítulo Segundo, Artículo 22, inciso k (DEBERES).",
+    "referencia": "Artículo 22, inciso k"
+  },
+  {
+    "id": 76,
+    "pregunta": "¿Qué obligación tienen las instituciones respecto a los postulantes con discapacidad sensorial en sus procesos de evaluación?",
+    "opciones": [
+      "Aprobarlos directamente sin necesidad de examen.",
+      "Permitir que rindan los exámenes de forma oral en todos los casos.",
+      "Facilitar instrumentos adecuados como braille o intérpretes de lengua de señas.",
+      "Cobrar una tasa adicional para cubrir los gastos del intérprete."
+    ],
+    "correcta": 2,
+    "explicacion": "Se deben garantizar condiciones y materiales de evaluación adaptados. Fuente: Capítulo Tercero, Artículo 31, parágrafo IX (ÁMBITO DE EDUCACIÓN).",
+    "referencia": "Artículo 31, parágrafo IX"
+  },
+  {
+    "id": 77,
+    "pregunta": "¿En qué consiste la 'asistencia económica estatal' según los principios generales de la ley?",
+    "opciones": [
+      "En el pago de todos los servicios básicos de la vivienda familiar.",
+      "En la entrega de alimentos secos mensualmente a todos los niveles.",
+      "En una renta solidaria para grados grave y muy grave y planes para los demás.",
+      "En el préstamo de dinero sin intereses para la compra de vehículos."
+    ],
+    "correcta": 2,
+    "explicacion": "Diferencia entre la renta directa (grave/muy grave) y el apoyo mediante proyectos para los demás grados. Fuente: Capítulo Primero, Artículo 4, inciso h (PRINCIPIOS GENERALES).",
+    "referencia": "Artículo 4, inciso h"
+  },
+  {
+    "id": 78,
+    "pregunta": "¿Cómo se define el principio de 'Igualdad de Oportunidades'?",
+    "opciones": [
+      "Tener las mismas posibilidades de acceso al ejercicio de derechos sin discriminación.",
+      "Recibir siempre el doble de presupuesto que otros sectores sociales.",
+      "Poder ocupar cualquier cargo público sin necesidad de requisitos técnicos.",
+      "Tener preferencia exclusiva en el uso de todos los espacios públicos."
+    ],
+    "correcta": 0,
+    "explicacion": "Asegura el acceso a derechos económicos, sociales, políticos y culturales en paridad. Fuente: Capítulo Primero, Artículo 4, inciso f (PRINCIPIOS GENERALES).",
+    "referencia": "Artículo 4, inciso f"
+  },
+  {
+    "id": 79,
+    "pregunta": "¿Qué característica tiene la 'Inclusión Social' según la normativa boliviana?",
+    "opciones": [
+      "Es un proceso simple de caridad pública.",
+      "Es un proceso socioeconómico complejo, multifactorial y transdisciplinario.",
+      "Se limita únicamente a la entrega de una pensión mensual.",
+      "Consiste en construir centros de acogida alejados de las ciudades."
+    ],
+    "correcta": 1,
+    "explicacion": "La inclusión social vincula el desarrollo de capacidades con el acceso igualitario a lo largo del ciclo vital. Fuente: Capítulo Primero, Artículo 5, inciso q (DEFINICIONES).",
+    "referencia": "Artículo 5, inciso q"
+  },
+  {
+    "id": 80,
+    "pregunta": "¿Qué principio garantiza la protección contra toda forma de violencia física, psicológica o sexual, con énfasis en la niñez?",
+    "opciones": [
+      "Principio de Inclusión",
+      "Principio de No Violencia",
+      "Principio de Accesibilidad",
+      "Principio de Trato Preferente"
+    ],
+    "correcta": 1,
+    "explicacion": "Es una garantía específica de protección para los grupos más vulnerables dentro de la discapacidad. Fuente: Capítulo Primero, Artículo 4, inciso g (PRINCIPIOS GENERALES).",
+    "referencia": "Artículo 4, inciso g"
+  },
+   {
+    "id": 81,
+    "pregunta": "¿Qué entidad es la responsable directa de la planificación estratégica en materia de discapacidad en Bolivia?",
+    "opciones": [
+      "La Defensoría del Pueblo.",
+      "El Comité Nacional de Personas con Discapacidad (CONALPEDIS).",
+      "El Ministerio de Educación.",
+      "Las Federaciones Departamentales de Personas con Discapacidad."
+    ],
+    "correcta": 1,
+    "explicacion": "El CONALPEDIS es la entidad descentralizada encargada de la planificación estratégica y defensa de los derechos de este sector. Fuente: Capítulo Cuarto, Artículo 45, parágrafo I (COMITÉ NACIONAL DE PERSONAS CON DISCAPACIDAD) [1].",
+    "referencia": "Artículo 45, parágrafo I"
+  },
+  {
+    "id": 82,
+    "pregunta": "¿Cuál es la fuente de recursos económicos proveniente de la eliminación de subsidios a partidos políticos destinada a la gestión en discapacidad?",
+    "opciones": [
+      "La Ley N° 045.",
+      "La Constitución Política del Estado.",
+      "La Ley N° 3925 de 21 de agosto de 2008.",
+      "El Decreto Supremo reglamentario de la Ley N° 223."
+    ],
+    "correcta": 2,
+    "explicacion": "Los recursos para la gestión pública incluyen específicamente aquellos provenientes de la Ley 3925. Fuente: Capítulo Tercero, Artículo 29, inciso a (RECURSOS ECONÓMICOS PARA GESTIÓN PÚBLICA) [2, 3].",
+    "referencia": "Artículo 29, inciso a"
+  },
+  {
+    "id": 83,
+    "pregunta": "¿Qué obligación tienen las unidades educativas respecto a los actos de relevancia nacional o municipal?",
+    "opciones": [
+      "Suspender las clases para asistir obligatoriamente a los desfiles.",
+      "Incorporar la comunicación alternativa y un intérprete en Lengua de Señas Boliviana (LSB).",
+      "Cobrar una cuota especial para contratar servicios de amplificación sonora.",
+      "Garantizar que solo estudiantes sin discapacidad participen en las bandas de guerra."
+    ],
+    "correcta": 1,
+    "explicacion": "Las instituciones educativas deben incluir intérpretes de LSB en actos de relevancia para asegurar la inclusión de personas con discapacidad auditiva. Fuente: Capítulo Tercero, Artículo 36, parágrafo I (ÁMBITO DE LA COMUNICACIÓN) [4].",
+    "referencia": "Artículo 36, parágrafo I"
+  },
+  {
+    "id": 84,
+    "pregunta": "¿Bajo qué principio se rige la normativa de discapacidad para asegurar que hombres y mujeres tengan las mismas oportunidades considerando su identidad de género?",
+    "opciones": [
+      "Principio de Inclusión Social.",
+      "Principio de Trato Preferente.",
+      "Principio de Equidad de Género.",
+      "Principio de Solidaridad Intergeneracional."
+    ],
+    "correcta": 2,
+    "explicacion": "La equidad de género busca equiparar diferencias reconociendo la orientación sexual e identidad en el marco constitucional. Fuente: Capítulo Primero, Artículo 4, inciso e (PRINCIPIOS GENERALES) [5].",
+    "referencia": "Artículo 4, inciso e"
+  },
+  {
+    "id": 85,
+    "pregunta": "¿Qué tipo de deficiencias caracterizan a las personas con discapacidad visual según la definición legal?",
+    "opciones": [
+      "Deficiencias en el sistema nervioso central exclusivamente.",
+      "Deficiencias anatómicas y/o funcionales que causan ceguera y baja visión.",
+      "Dificultades en la lectoescritura por causas ambientales.",
+      "Limitaciones en el movimiento ocular por estrés laboral."
+    ],
+    "correcta": 1,
+    "explicacion": "La discapacidad visual se define por deficiencias que resultan en ceguera o baja visión. Fuente: Capítulo Primero, Artículo 5, inciso f (DEFINICIONES) [6].",
+    "referencia": "Artículo 5, inciso f"
+  },
+  {
+    "id": 86,
+    "pregunta": "¿Cómo se seleccionan los nueve representantes del Órgano Ejecutivo para el Directorio del CONALPEDIS?",
+    "opciones": [
+      "Por elección democrática en urnas a nivel nacional.",
+      "Mediante Resolución Ministerial de nueve ministerios específicos (Justicia, Salud, Educación, etc.).",
+      "Por sorteo público realizado por la Asamblea Legislativa Plurinacional.",
+      "Son designados directamente por la Confederación Boliviana de Personas con Discapacidad."
+    ],
+    "correcta": 1,
+    "explicacion": "Nueve ministerios designan a sus representantes mediante resolución para integrar el directorio. Fuente: Capítulo Cuarto, Artículo 47, parágrafo I, inciso b (DIRECTORIO) [7].",
+    "referencia": "Artículo 47, parágrafo I, inciso b"
+  },
+  {
+    "id": 87,
+    "pregunta": "¿Qué derecho tienen las personas con discapacidad respecto al Servicio Militar en Bolivia?",
+    "opciones": [
+      "Están obligadas a cumplirlo en cuarteles especiales de frontera.",
+      "Tienen prohibido realizar cualquier trámite relacionado con las Fuerzas Armadas.",
+      "La gratuidad del trámite de la libreta de servicio militar.",
+      "Deben pagar una tasa doble para obtener la libreta de exención."
+    ],
+    "correcta": 2,
+    "explicacion": "La ley establece la gratuidad para la obtención de este documento para las personas con discapacidad. Fuente: Capítulo Tercero, Artículo 40 (GRATUIDAD DE LA LIBRETA DE SERVICIO MILITAR) [8].",
+    "referencia": "Artículo 40"
+  },
+  {
+    "id": 88,
+    "pregunta": "¿Cuál es la responsabilidad de las empresas privadas respecto a la normativa de discapacidad?",
+    "opciones": [
+      "No tienen ninguna obligación fuera del pago de impuestos generales.",
+      "Cumplir con la responsabilidad social empresarial realizando actividades de apoyo.",
+      "Ceder el 50% de sus acciones a favor del Estado.",
+      "Contratar únicamente a personas con discapacidad visual."
+    ],
+    "correcta": 1,
+    "explicacion": "Las empresas privadas deben ejecutar acciones de apoyo como parte de su responsabilidad social. Fuente: Capítulo Tercero, Artículo 30 (RESPONSABILIDAD SOCIAL EMPRESARIAL) [3].",
+    "referencia": "Artículo 30"
+  },
+  {
+    "id": 89,
+    "pregunta": "¿Quién designa a el o la Directora Ejecutiva del CONALPEDIS?",
+    "opciones": [
+      "La Confederación de Personas con Discapacidad por mayoría simple.",
+      "El Órgano Ejecutivo.",
+      "La Asamblea Legislativa Plurinacional por dos tercios de votos.",
+      "El Directorio del CONALPEDIS tras un examen de competencia."
+    ],
+    "correcta": 1,
+    "explicacion": "La máxima autoridad ejecutiva del comité es designada por el Órgano Ejecutivo. Fuente: Capítulo Cuarto, Artículo 47, parágrafo IV (DIRECTORIO) [9].",
+    "referencia": "Artículo 47, parágrafo IV"
+  },
+  {
+    "id": 90,
+    "pregunta": "¿Qué sucede con los derechos establecidos en la anterior Ley Nº 1678 de 1995?",
+    "opciones": [
+      "Fueron eliminados totalmente el día de la promulgación de la Ley N° 223.",
+      "Se mantienen vigentes transitoriamente hasta que se aprueben estatutos autonómicos y cartas orgánicas.",
+      "Solo son válidos para personas que ya tenían carnet antes de 2012.",
+      "Fueron incorporados íntegramente a la Constitución sin cambios."
+    ],
+    "correcta": 1,
+    "explicacion": "La disposición transitoria mantiene la vigencia de esos derechos durante el proceso de transición autonómica. Fuente: DISPOSICIÓN TRANSITORIA ÚNICA [10].",
+    "referencia": "DISPOSICIÓN TRANSITORIA ÚNICA"
+  },
+  {
+    "id": 91,
+    "pregunta": "¿Qué atribución tienen los Gobiernos Autónomos Municipales respecto a la edificación?",
+    "opciones": [
+      "Dictar normas sobre condiciones y especificaciones técnicas de diseño para accesibilidad.",
+      "Construir obligatoriamente una casa por cada persona con discapacidad en su jurisdicción.",
+      "Expropiar edificios privados que no tengan rampas de acceso.",
+      "Cobrar multas diarias a los vecinos que no tengan señalización en braille en sus casas."
+    ],
+    "correcta": 0,
+    "explicacion": "Los municipios deben normar las especificaciones técnicas para garantizar la accesibilidad en obras públicas y privadas. Fuente: Capítulo Cuarto, Artículo 48, parágrafo I (ATRIBUCIÓN DE LAS ASAMBLEAS) [9].",
+    "referencia": "Artículo 48, parágrafo I"
+  },
+  {
+    "id": 92,
+    "pregunta": "¿Cuál es la función del Estado respecto a las personas con discapacidad en situación de abandono?",
+    "opciones": [
+      "Transferirlas a instituciones extranjeras para su adopción.",
+      "Promover la existencia de albergues o centros de acogida con calidad y calidez.",
+      "Delegar el cuidado exclusivamente a instituciones religiosas sin supervisión.",
+      "Prohibir que las personas en abandono salgan de los hospitales públicos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Estado debe asegurar espacios de acogida dignos para quienes no tienen amparo familiar. Fuente: Capítulo Segundo, Artículo 16 (DERECHO A ALBERGUES O CENTROS DE ACOGIDA) [11].",
+    "referencia": "Artículo 16"
+  },
+  {
+    "id": 93,
+    "pregunta": "¿Qué implica el derecho a la integridad física y mental según la normativa?",
+    "opciones": [
+      "La obligación de participar en experimentos médicos estatales.",
+      "El respeto a la integridad, especialmente de niñas, niños y mujeres con discapacidad.",
+      "Que el Estado puede decidir intervenciones quirúrgicas sin consentimiento.",
+      "La prohibición de practicar deportes de contacto físico."
+    ],
+    "correcta": 1,
+    "explicacion": "Se enfatiza la protección de la integridad de los grupos más vulnerables dentro del sector. Fuente: Capítulo Segundo, Artículo 19, parágrafo I (DERECHO A LA INTEGRIDAD) [12].",
+    "referencia": "Artículo 19, parágrafo I"
+  },
+  {
+    "id": 94,
+    "pregunta": "¿Qué beneficio deben otorgar las Asambleas Legislativas Departamentales en relación con el transporte?",
+    "opciones": [
+      "Transporte gratuito ilimitado para todos los familiares del discapacitado.",
+      "Beneficios extraordinarios y descuentos en pasajes interdepartamentales y provinciales.",
+      "La compra obligatoria de una flota de buses por cada asociación regional.",
+      "Exención del pago de peajes para vehículos particulares de personas con discapacidad leve."
+    ],
+    "correcta": 1,
+    "explicacion": "Deben dictar normas para asegurar descuentos en diversos medios de transporte para la persona y su acompañante. Fuente: Capítulo Cuarto, Artículo 48, parágrafo II, inciso d (ATRIBUCIÓN DE LAS ASAMBLEAS) [13].",
+    "referencia": "Artículo 48, parágrafo II, inciso d"
+  },
+  {
+    "id": 95,
+    "pregunta": "¿Qué debe promover el Estado para eliminar el lenguaje discriminatorio en la sociedad?",
+    "opciones": [
+      "Cerrar los medios de comunicación que usen palabras incorrectas.",
+      "Que los medios de comunicación adopten medidas de concientización social.",
+      "Obligar a todos los ciudadanos a pasar un curso de lenguaje inclusivo para votar.",
+      "Multar a los profesores que no usen términos técnicos en el aula."
+    ],
+    "correcta": 1,
+    "explicacion": "Los medios deben sensibilizar sobre la condición de las personas con discapacidad y eliminar prejuicios. Fuente: Capítulo Tercero, Artículo 39 (CONCIENTIZACIÓN SOCIAL) [14].",
+    "referencia": "Artículo 39"
+  },
+  {
+    "id": 96,
+    "pregunta": "¿Cuál es el deber de las personas con discapacidad respecto a los recursos naturales del país?",
+    "opciones": [
+      "Explotar los recursos naturales de manera preferente y exclusiva.",
+      "Defender los intereses nacionales y los recursos naturales.",
+      "No tienen ninguna responsabilidad sobre el patrimonio nacional.",
+      "Pagar un impuesto adicional para la remediación ambiental."
+    ],
+    "correcta": 1,
+    "explicacion": "Es un deber ciudadano defender la soberanía y los recursos económicos y naturales. Fuente: Capítulo Segundo, Artículo 22, inciso d (DEBERES) [15].",
+    "referencia": "Artículo 22, inciso d"
+  },
+  {
+    "id": 97,
+    "pregunta": "¿Qué garantiza el principio de 'Igualdad en Dignidad'?",
+    "opciones": [
+      "Que las personas con discapacidad tienen más derechos que el resto.",
+      "Que las personas con discapacidad tienen la misma dignidad y derechos que todos los seres humanos.",
+      "Que el Estado debe otorgar títulos nobiliarios a los representantes del sector.",
+      "Que la dignidad depende del grado de discapacidad calificado."
+    ],
+    "correcta": 1,
+    "explicacion": "Establece la paridad esencial en valor humano y derechos fundamentales. Fuente: Capítulo Primero, Artículo 4, inciso a (PRINCIPIOS GENERALES) [16].",
+    "referencia": "Artículo 4, inciso a"
+  },
+  {
+    "id": 98,
+    "pregunta": "¿Qué rol cumple el CONALPEDIS frente a las organizaciones de personas con discapacidad legalmente reconocidas?",
+    "opciones": [
+      "Es su jefe jerárquico y dicta sus estatutos internos.",
+      "Coordina con ellas la elaboración de políticas públicas, programas y proyectos.",
+      "Les prohíbe realizar manifestaciones públicas sin su permiso escrito.",
+      "Debe pagar la sede social de cada una de las asociaciones municipales."
+    ],
+    "correcta": 1,
+    "explicacion": "La coordinación con la sociedad civil organizada (como COBOPDI) es fundamental para la gestión. Fuente: Capítulo Cuarto, Artículo 45, parágrafo VI (COMITÉ NACIONAL) [17].",
+    "referencia": "Artículo 45, parágrafo VI"
+  },
+  {
+    "id": 99,
+    "pregunta": "¿Qué se entiende por 'Trato Preferente' según la Ley N° 223?",
+    "opciones": [
+      "Dar dinero en efectivo a la persona siempre que lo solicite.",
+      "Acciones integradoras para eliminar desventajas con carácter de primacía.",
+      "Permitir que las personas con discapacidad no cumplan las leyes penales.",
+      "Ignorar los requisitos de ingreso a cualquier cargo público."
+    ],
+    "correcta": 1,
+    "explicacion": "El trato preferente busca la equiparación real garantizando prioridad en la atención y servicios. Fuente: Capítulo Primero, Artículo 5, inciso b (DEFINICIONES) [18].",
+    "referencia": "Artículo 5, inciso b"
+  },
+  {
+    "id": 100,
+    "pregunta": "¿Qué principio obliga a que los servicios de la sociedad se acomoden para ser utilizados por personas con discapacidad sin barreras?",
+    "opciones": [
+      "Principio de Solidaridad.",
+      "Principio de Transparencia.",
+      "Principio de Accesibilidad.",
+      "Principio de Autodeterminación."
+    ],
+    "correcta": 2,
+    "explicacion": "La accesibilidad garantiza que no existan restricciones físicas, comunicacionales o sociales. Fuente: Capítulo Primero, Artículo 4, inciso d (PRINCIPIOS GENERALES) [5].",
+    "referencia": "Artículo 4, inciso d"
+  },
+  {
+    "id": 101,
+    "pregunta": "Dentro de la Ley N° 223, ¿cuál es el propósito fundamental de aplicar 'Ajustes Razonables' para estudiantes con discapacidad?",
+    "opciones": [
+      "Eximir al estudiante de cumplir con los objetivos pedagógicos del año escolar.",
+      "Garantizar el goce o ejercicio de los derechos humanos y libertades fundamentales en igualdad de condiciones.",
+      "Reducir la carga horaria del maestro para que atienda solo a un estudiante.",
+      "Asignar obligatoriamente una beca económica para cubrir materiales escolares."
+    ],
+    "correcta": 1,
+    "explicacion": "Los ajustes razonables son adaptaciones necesarias que no imponen una carga desproporcionada para asegurar la igualdad. Fuente: Capítulo Primero, Artículo 5, inciso v (DEFINICIONES). [1, 2]",
+    "referencia": "Artículo 5, inciso v"
+  },
+  {
+    "id": 102,
+    "pregunta": "¿A qué instituciones obliga el cumplimiento de la Ley General para Personas con Discapacidad en todo el territorio boliviano?",
+    "opciones": [
+      "Únicamente a las unidades educativas fiscales y de convenio.",
+      "Solo a los ministerios del Órgano Ejecutivo en la ciudad de La Paz.",
+      "A todas las instituciones públicas, privadas, cooperativas y de economía mixta.",
+      "Exclusivamente a los centros de salud de tercer nivel de atención."
+    ],
+    "correcta": 2,
+    "explicacion": "La ley tiene un ámbito de aplicación nacional y es obligatoria para sectores públicos y privados por igual. Fuente: Capítulo Primero, Artículo 3 (ÁMBITO DE APLICACIÓN). [3]",
+    "referencia": "Artículo 3"
+  },
+  {
+    "id": 103,
+    "pregunta": "¿Qué establece el principio de 'Igualdad en Dignidad' en el marco de la normativa para personas con discapacidad?",
+    "opciones": [
+      "Que las personas con discapacidad tienen los mismos derechos y valor que cualquier otro ser humano.",
+      "Que las personas con discapacidad deben recibir un sueldo doble por su condición.",
+      "Que el Estado debe otorgar títulos de nobleza a los representantes de las federaciones.",
+      "Que la dignidad de la persona depende estrictamente de su grado de discapacidad."
+    ],
+    "correcta": 0,
+    "explicacion": "Este principio reconoce la paridad esencial en dignidad y derechos fundamentales. Fuente: Capítulo Primero, Artículo 4, inciso a (PRINCIPIOS GENERALES). [4]",
+    "referencia": "Artículo 4, inciso a"
+  },
+  {
+    "id": 104,
+    "pregunta": "En el contexto de la Ley N° 223, ¿cómo se definen técnicamente las 'Deficiencias'?",
+    "opciones": [
+      "Como la falta de voluntad para integrarse a la comunidad educativa.",
+      "Como problemas en las funciones fisiológicas o estructuras corporales que presentan desviaciones significativas.",
+      "Como la imposibilidad absoluta de realizar cualquier trabajo manual.",
+      "Como un estado temporal de salud que requiere reposo médico prolongado."
+    ],
+    "correcta": 1,
+    "explicacion": "La deficiencia se describe como una pérdida o anomalía funcional o estructural respecto a la norma estadística. Fuente: Capítulo Primero, Artículo 5, inciso d (DEFINICIONES). [5]",
+    "referencia": "Artículo 5, inciso d"
+  },
+  {
+    "id": 105,
+    "pregunta": "¿Qué criterio médico-legal define a las personas con 'Discapacidad Física - Motora'?",
+    "opciones": [
+      "La pérdida total de la visión en ambos ojos de forma irreversible.",
+      "La presencia de trastornos del espectro autista sin compromiso motor.",
+      "Deficiencias anatómicas y neuromúsculofuncionales que limitan el movimiento.",
+      "Dificultades exclusivamente en el área del lenguaje y la fonación."
+    ],
+    "correcta": 2,
+    "explicacion": "Esta discapacidad se caracteriza específicamente por la afectación del sistema neuromotor. Fuente: Capítulo Primero, Artículo 5, inciso e (DEFINICIONES). [6]",
+    "referencia": "Artículo 5, inciso e"
+  },
+  {
+    "id": 106,
+    "pregunta": "Según la normativa general de discapacidad, ¿a través de qué sentido estructura su integración la persona con discapacidad auditiva?",
+    "opciones": [
+      "El tacto, mediante el sistema braille.",
+      "La visión, para compensar la limitación auditiva.",
+      "El olfato, para reconocer entornos cercanos.",
+      "El equilibrio corporal, para la orientación espacial."
+    ],
+    "correcta": 1,
+    "explicacion": "La visión es el canal principal para la experiencia e integración de este sector. Fuente: Capítulo Primero, Artículo 5, inciso g (DEFINICIONES). [6]",
+    "referencia": "Artículo 5, inciso g"
+  },
+  {
+    "id": 107,
+    "pregunta": "¿Qué sistema biológico se encuentra afectado en la definición de 'Discapacidad Intelectual' establecida en la Ley N° 223?",
+    "opciones": [
+      "El sistema cardiovascular y respiratorio.",
+      "El sistema musculoesquelético periférico.",
+      "El sistema nervioso central.",
+      "El sistema endocrino y metabólico."
+    ],
+    "correcta": 2,
+    "explicacion": "Involucra deficiencias en el sistema nervioso central que afectan la conducta adaptativa y la inteligencia. Fuente: Capítulo Primero, Artículo 5, inciso h (DEFINICIONES). [7]",
+    "referencia": "Artículo 5, inciso h"
+  },
+  {
+    "id": 108,
+    "pregunta": "¿Qué característica distingue a la 'Discapacidad Mental o Psíquica' respecto a la conciencia de la condición?",
+    "opciones": [
+      "La persona tiene plena conciencia y control de sus procesos lógicos.",
+      "La persona generalmente carece de conciencia de la enfermedad psíquica.",
+      "Se requiere una prueba escrita para determinar si la persona sabe que está enferma.",
+      "Es una condición que solo se manifiesta en la edad adulta avanzada."
+    ],
+    "correcta": 1,
+    "explicacion": "La ley señala que estos trastornos suelen dificultar la adaptación sin que el sujeto tenga conciencia de la enfermedad. Fuente: Capítulo Primero, Artículo 5, inciso i (DEFINICIONES). [7]",
+    "referencia": "Artículo 5, inciso i"
+  },
+  {
+    "id": 109,
+    "pregunta": "¿Cómo se califica legalmente el 'Grado de Discapacidad Moderada' en Bolivia?",
+    "opciones": [
+      "Justifica algunas dificultades diarias pero permite la práctica de las mismas.",
+      "Causa una disminución importante o imposibilidad para algunas actividades pero mantiene la independencia en el autocuidado.",
+      "Requiere asistencia de otra persona para realizar la mayoría de las actividades de autocuidado.",
+      "Imposibilita totalmente la realización de cualquier actividad y requiere asistencia permanente."
+    ],
+    "correcta": 1,
+    "explicacion": "El grado moderado permite la independencia en tareas de autocuidado básico a pesar de las limitaciones. Fuente: Capítulo Primero, Artículo 5, inciso l (DEFINICIONES). [8, 9]",
+    "referencia": "Artículo 5, inciso l"
+  },
+  {
+    "id": 110,
+    "pregunta": "En el Sistema de Protección Integral, ¿qué define a la discapacidad en 'Grado Grave'?",
+    "opciones": [
+      "La persona puede realizar todas sus actividades sin apoyo externo.",
+      "La persona requiere asistencia para algunas actividades de autocuidado y tiene imposibilidad en la mayoría de las actividades diarias.",
+      "Es una calificación temporal que dura máximo seis meses.",
+      "Se otorga únicamente a personas mayores de 60 años con deficiencias físicas."
+    ],
+    "correcta": 1,
+    "explicacion": "El grado grave implica una afectación importante en la autonomía diaria que requiere asistencia parcial. Fuente: Capítulo Primero, Artículo 5, inciso m (DEFINICIONES). [9]",
+    "referencia": "Artículo 5, inciso m"
+  },
+  {
+    "id": 111,
+    "pregunta": "De acuerdo con las definiciones de la Ley N° 223, ¿cuál es la característica principal del 'Grado Muy Grave'?",
+    "opciones": [
+      "Permite el trabajo de oficina sin ninguna adaptación.",
+      "Requiere el uso de prótesis mecánicas únicamente.",
+      "Requiere asistencia permanente de otra persona para las actividades de la vida diaria.",
+      "No otorga derecho a percibir la Renta Solidaria estatal."
+    ],
+    "correcta": 2,
+    "explicacion": "El grado muy grave se caracteriza por la dependencia total y permanente de un tercero. Fuente: Capítulo Primero, Artículo 5, inciso n (DEFINICIONES). [9]",
+    "referencia": "Artículo 5, inciso n"
+  },
+  {
+    "id": 112,
+    "pregunta": "¿Qué actividades se incluyen bajo el concepto de 'Autocuidado' dentro de las Actividades de la Vida Diaria (AVD)?",
+    "opciones": [
+      "Transporte, sueño y actividades sociales.",
+      "Vestirse, comer, evitar riesgos y aseo personal.",
+      "Trámites bancarios y participación política.",
+      "Práctica de deportes de alta competencia."
+    ],
+    "correcta": 1,
+    "explicacion": "El autocuidado se limita a las funciones básicas de supervivencia y aseo personal. Fuente: Capítulo Primero, Artículo 5, inciso o (DEFINICIONES). [10]",
+    "referencia": "Artículo 5, inciso o"
+  },
+  {
+    "id": 113,
+    "pregunta": "Dentro de la normativa boliviana, ¿cuál es la diferencia conceptual entre 'Habilitación' y 'Rehabilitación'?",
+    "opciones": [
+      "La habilitación es solo para adultos y la rehabilitación para niños.",
+      "La habilitación se destina a deficiencias congénitas y la rehabilitación a deficiencias adquiridas.",
+      "No existe diferencia, ambos términos se usan como sinónimos absolutos.",
+      "La habilitación es opcional y la rehabilitación es obligatoria por ley penal."
+    ],
+    "correcta": 1,
+    "explicacion": "La ley distingue entre medidas para deficiencias de nacimiento y aquellas para capacidades perdidas posteriormente. Fuente: Capítulo Primero, Artículo 5, inciso p (DEFINICIONES). [10]",
+    "referencia": "Artículo 5, inciso p"
+  },
+  {
+    "id": 114,
+    "pregunta": "¿Qué estrategia promueve la Ley N° 223 para reducir la pobreza y lograr la integración social en el propio entorno del beneficiario?",
+    "opciones": [
+      "La construcción de hospitales psiquiátricos cerrados.",
+      "La Rehabilitación Basada en la Comunidad (RBC).",
+      "El traslado masivo de personas con discapacidad a zonas urbanas.",
+      "La creación de una lotería nacional exclusiva para el sector."
+    ],
+    "correcta": 1,
+    "explicacion": "La RBC es la estrategia central para la integración social en la comunidad local. Fuente: Capítulo Primero, Artículo 5, inciso t (DEFINICIONES). [11]",
+    "referencia": "Artículo 5, inciso t"
+  },
+  {
+    "id": 115,
+    "pregunta": "¿Cuál es el objetivo primordial del 'Desarrollo Inclusivo Basado en la Comunidad'?",
+    "opciones": [
+      "Garantizar que solo las personas con discapacidad trabajen en proyectos comunitarios.",
+      "Procurar la igualdad de oportunidades y derechos para todas las personas independientemente de su condición.",
+      "Aislar a las comunidades indígenas que no tengan centros de rehabilitación.",
+      "Fomentar la caridad religiosa como única vía de apoyo económico."
+    ],
+    "correcta": 1,
+    "explicacion": "Busca el desarrollo socioeconómico equitativo en equilibrio con el medio ambiente. Fuente: Capítulo Primero, Artículo 5, inciso u (DEFINICIONES). [2]",
+    "referencia": "Artículo 5, inciso u"
+  },
+  {
+    "id": 116,
+    "pregunta": "¿Cuál es la obligación de la familia respecto a la autonomía de sus miembros con discapacidad?",
+    "opciones": [
+      "Tomar todas las decisiones financieras en su nombre sin consultarlos.",
+      "Proporcionar protección promoviendo su autonomía y respetando su autodeterminación.",
+      "Mantenerlos dentro del hogar para evitar riesgos externos.",
+      "Inscribirlos en el servicio militar de manera obligatoria."
+    ],
+    "correcta": 1,
+    "explicacion": "La familia debe ser el primer espacio de inclusión y respeto a la independencia. Fuente: Capítulo Segundo, Artículo 7, parágrafo I (DERECHO A PROTECCIÓN DE SU FAMILIA). [12]",
+    "referencia": "Artículo 7, parágrafo I"
+  },
+  {
+    "id": 117,
+    "pregunta": "¿Cómo actúa el Estado Plurinacional si una persona con discapacidad queda en estado de orfandad?",
+    "opciones": [
+      "Solicita que una ONG extranjera asuma la tutela legal.",
+      "Asume la responsabilidad a través de sus niveles nacionales, departamentales, municipales e indígenas.",
+      "Delega la custodia al centro de salud más cercano de forma indefinida.",
+      "El caso se cierra por falta de competencias específicas en la ley."
+    ],
+    "correcta": 1,
+    "explicacion": "La protección estatal ante el abandono es una responsabilidad compartida por todos los niveles de gobierno. Fuente: Capítulo Segundo, Artículo 9, parágrafo II (DERECHO A LA PROTECCIÓN DEL ESTADO). [13]",
+    "referencia": "Artículo 9, parágrafo II"
+  },
+  {
+    "id": 118,
+    "pregunta": "¿Cuál es el fin principal de promover lenguas alternativas como la Lengua de Señas Boliviana (LSB)?",
+    "opciones": [
+      "Cumplir con un requisito burocrático de la Gaceta Oficial.",
+      "Lograr la inclusión, el acceso a la información y el ejercicio pleno de derechos.",
+      "Sustituir el uso del idioma español en las escuelas fiscales.",
+      "Generar empleo para traductores extranjeros titulados."
+    ],
+    "correcta": 1,
+    "explicacion": "La comunicación es la base para el acceso a la información y participación efectiva. Fuente: Capítulo Segundo, Artículo 11 (DERECHO A LA COMUNICACIÓN). [14]",
+    "referencia": "Artículo 11"
+  },
+  {
+    "id": 119,
+    "pregunta": "En cuanto a los servicios de salud, ¿en qué niveles se garantiza la gratuidad para las personas con discapacidad?",
+    "opciones": [
+      "Únicamente en el nivel de atención básica o primer nivel.",
+      "En los tres niveles de atención de la red de servicios públicos.",
+      "Solo en hospitales privados que tengan convenio con el Ministerio de Justicia.",
+      "La gratuidad solo aplica para consultas externas, no para cirugías."
+    ],
+    "correcta": 1,
+    "explicacion": "El Estado garantiza gratuidad total en toda la red pública de salud. Fuente: Capítulo Segundo, Artículo 12 (DERECHO A SERVICIOS DE SALUD). [14]",
+    "referencia": "Artículo 12"
+  },
+  {
+    "id": 120,
+    "pregunta": "¿Qué aspecto cultural debe respetarse obligatoriamente en el ejercicio del derecho a la identidad de una persona con discapacidad?",
+    "opciones": [
+      "Su nivel de ingresos económicos declarado.",
+      "Su pluriculturalidad, nombre y nacionalidad.",
+      "La religión que profesen sus abuelos maternos.",
+      "Su afiliación a sindicatos u organizaciones sociales."
+    ],
+    "correcta": 1,
+    "explicacion": "El derecho a la identidad está vinculado al reconocimiento de la diversidad cultural del país. Fuente: Capítulo Segundo, Artículo 14 (DERECHO A LA IDENTIDAD). [15]",
+    "referencia": "Artículo 14"
+  },
+  {
+    "id": 121,
+    "pregunta": "Respecto al derecho a la vivienda, ¿qué medida financiera debe establecer el Estado en sus planes sociales?",
+    "opciones": [
+      "Cobrar el doble de interés a las personas con discapacidad para asegurar el fondo.",
+      "Establecer un porcentaje del presupuesto de los planes de vivienda social para este sector.",
+      "Regalar viviendas únicamente en zonas fronterizas del país.",
+      "Prohibir que las personas con discapacidad vivan en departamentos de alquiler."
+    ],
+    "correcta": 1,
+    "explicacion": "La ley exige una reserva presupuestaria específica para programas de vivienda digna. Fuente: Capítulo Segundo, Artículo 15 (DERECHO A LA VIVIENDA). [16]",
+    "referencia": "Artículo 15"
+  },
+  {
+    "id": 122,
+    "pregunta": "En los procesos electorales de Bolivia, ¿qué derecho específico tienen las personas con discapacidad al momento de sufragar?",
+    "opciones": [
+      "Votar dos veces para compensar su situación de vulnerabilidad.",
+      "Ingresar al recinto de votación acompañados de una persona de confianza elegida por ellos.",
+      "Ser eximidos de la obligación de votar sin presentar ninguna justificación.",
+      "Que el jurado electoral decida por ellos el candidato de su preferencia."
+    ],
+    "correcta": 1,
+    "explicacion": "Se garantizan ajustes razonables para asegurar el voto libre y consciente. Fuente: Capítulo Segundo, Artículo 18, parágrafo II (DERECHO A LA PARTICIPACIÓN POLÍTICA). [17]",
+    "referencia": "Artículo 18, parágrafo II"
+  },
+  {
+    "id": 123,
+    "pregunta": "¿Sobre qué grupos de población con discapacidad se enfatiza la garantía del derecho a la integridad física y mental?",
+    "opciones": [
+      "Sobre los hombres adultos con discapacidad física grave.",
+      "Sobre las niñas, niños y mujeres con discapacidad.",
+      "Sobre los funcionarios públicos que tengan parientes con discapacidad.",
+      "Sobre los maestros rurales que trabajen en centros de educación especial."
+    ],
+    "correcta": 1,
+    "explicacion": "La ley prioriza la protección de los grupos históricamente más expuestos a la violencia. Fuente: Capítulo Segundo, Artículo 19, parágrafo I (DERECHO A LA INTEGRIDAD). [18]",
+    "referencia": "Artículo 19, parágrafo I"
+  },
+  {
+    "id": 124,
+    "pregunta": "Bajo la Ley N° 223, ¿cuál es una causal para que los familiares pierdan los beneficios otorgados por el Estado?",
+    "opciones": [
+      "Inscribir al beneficiario en una universidad privada.",
+      "Impedir o limitar la participación de la persona con discapacidad en actividades sociales o educativas.",
+      "Solicitar el cambio de carnet de discapacidad por deterioro físico.",
+      "Viajar con la persona con discapacidad a otro departamento por vacaciones."
+    ],
+    "correcta": 1,
+    "explicacion": "La restricción de la autonomía y participación conlleva la pérdida de beneficios legales para el cuidador. Fuente: Capítulo Segundo, Artículo 21, inciso e (PÉRDIDA DE BENEFICIOS). [19]",
+    "referencia": "Artículo 21, inciso e"
+  },
+  {
+    "id": 125,
+    "pregunta": "Dentro de los deberes de las personas con discapacidad, ¿qué aspecto relacionado con los pueblos indígenas deben conocer?",
+    "opciones": [
+      "La ubicación geográfica exacta de todas las capitanías guaraníes.",
+      "Los conocimientos ancestrales de las naciones y pueblos indígena originario campesinos.",
+      "La lista de candidatos a las elecciones judiciales de cada región.",
+      "Los estatutos internos de la Confederación de Pueblos Indígenas."
+    ],
+    "correcta": 1,
+    "explicacion": "Se promueve el conocimiento y valorización de la saberes ancestrales del país. Fuente: Capítulo Segundo, Artículo 22, inciso f (DEBERES). [20]",
+    "referencia": "Artículo 22, inciso f"
+  },
+  {
+    "id": 126,
+    "pregunta": "¿De quién es la responsabilidad de asegurar que la persona con discapacidad consuma la medicación prescrita?",
+    "opciones": [
+      "Exclusivamente del médico de cabecera.",
+      "De la familia o del Estado, según corresponda.",
+      "De la propia persona con discapacidad, sin importar su grado de autonomía intelectual.",
+      "De los vecinos o la junta de padres de familia de la escuela."
+    ],
+    "correcta": 1,
+    "explicacion": "La ley asigna este deber de cuidado a la familia o al Estado para lograr la estabilidad de salud. Fuente: Capítulo Segundo, Artículo 22, inciso j (DEBERES). [21]",
+    "referencia": "Artículo 22, inciso j"
+  },
+  {
+    "id": 127,
+    "pregunta": "¿A quiénes deben priorizar los diferentes niveles del Estado en sus estrategias de reducción de la pobreza?",
+    "opciones": [
+      "Solo a los representantes legales de las ONG extranjeras.",
+      "A personas con discapacidad, padres, madres y/o tutores.",
+      "Únicamente a los bachilleres con excelencia académica del área rural.",
+      "A los empresarios que donen equipos de rehabilitación cada año."
+    ],
+    "correcta": 1,
+    "explicacion": "La política de reducción de pobreza abarca a la persona con discapacidad y su núcleo de apoyo directo. Fuente: Capítulo Tercero, Artículo 23 (REDUCCIÓN DE POBREZA). [22]",
+    "referencia": "Artículo 23"
+  },
+  {
+    "id": 128,
+    "pregunta": "¿Qué aspecto NO puede ser utilizado por una entidad financiera para restringir el acceso al crédito a una persona con discapacidad?",
+    "opciones": [
+      "La capacidad demostrada de rembolso del crédito.",
+      "Cualquier aspecto restrictivo distinto a la solvencia financiera.",
+      "La presentación de los documentos de identidad vigentes.",
+      "La firma del contrato de préstamo ante un notario público."
+    ],
+    "correcta": 1,
+    "explicacion": "Se prohíbe la discriminación financiera basada en la condición de discapacidad. Fuente: Capítulo Tercero, Artículo 25, parágrafo II (ACCESO AL CRÉDITO). [23]",
+    "referencia": "Artículo 25, parágrafo II"
+  },
+  {
+    "id": 129,
+    "pregunta": "Para fomentar el desarrollo del cooperativismo social, ¿qué institución debe aprobar programas y proyectos anualmente?",
+    "opciones": [
+      "El Ministerio de Economía y Finanzas Públicas.",
+      "El Viceministerio de Empleo Servicio Civil y Cooperativas.",
+      "La Autoridad de Fiscalización y Control Social de Empresas.",
+      "El Banco Central de Bolivia mediante resolución de directorio."
+    ],
+    "correcta": 1,
+    "explicacion": "El Ministerio de Trabajo, vía su viceministerio, es el encargado de impulsar el modelo cooperativo para este sector. Fuente: Capítulo Tercero, Artículo 26, parágrafo II (SOCIEDADES COOPERATIVAS). [24]",
+    "referencia": "Artículo 26, parágrafo II"
+  },
+  {
+    "id": 130,
+    "pregunta": "Dentro del Sistema Educativo Plurinacional, ¿cómo garantiza el Estado la atención e inclusión efectiva de estudiantes con discapacidad?",
+    "opciones": [
+      "Contratando a un profesor particular para cada niño en su domicilio.",
+      "Mediante la formación de equipos multidisciplinarios.",
+      "Exigiendo que los padres asistan a clases junto con sus hijos todos los días.",
+      "Reduciendo el tiempo de clase a la mitad para los grupos inclusivos."
+    ],
+    "correcta": 1,
+    "explicacion": "La inclusión requiere un enfoque profesional integral (psicólogos, pedagogos, etc.). Fuente: Capítulo Tercero, Artículo 31, parágrafo I (ÁMBITO DE EDUCACIÓN). [25]",
+    "referencia": "Artículo 31, parágrafo I"
+  },
+  {
+    "id": 131,
+    "pregunta": "¿Qué cambio debe introducirse en la formación de los nuevos maestros (ESFM) para la atención de la discapacidad?",
+    "opciones": [
+      "Cursos de defensa personal para el manejo de crisis conductuales.",
+      "Planes de estudio psicopedagógicos que habiliten para la enseñanza personalizada.",
+      "Obligatoriedad de hablar tres idiomas extranjeros con fluidez.",
+      "Prácticas docentes exclusivamente en centros de salud mental."
+    ],
+    "correcta": 1,
+    "explicacion": "Se busca que todo maestro en formación tenga herramientas psicopedagógicas para la inclusión. Fuente: Capítulo Tercero, Artículo 31, parágrafo III (ÁMBITO DE EDUCACIÓN). [26]",
+    "referencia": "Artículo 31, parágrafo III"
+  },
+  {
+    "id": 132,
+    "pregunta": "¿Cuál es la disposición sobre las barreras arquitectónicas en las unidades educativas que se construyan en el país?",
+    "opciones": [
+      "Su eliminación es opcional y depende del presupuesto municipal remanente.",
+      "Se obliga gradualmente a suprimirlas en los planos de cualquier nueva unidad educativa.",
+      "Solo es obligatorio en universidades, no en escuelas de nivel inicial.",
+      "La supresión de barreras es responsabilidad exclusiva de los padres de familia."
+    ],
+    "correcta": 1,
+    "explicacion": "Toda nueva infraestructura debe ser accesible desde su concepción en planos. Fuente: Capítulo Tercero, Artículo 31, parágrafo IV (ÁMBITO DE EDUCACIÓN). [26]",
+    "referencia": "Artículo 31, parágrafo IV"
+  },
+  {
+    "id": 133,
+    "pregunta": "¿Qué tipo de carreras debe crear racionalmente el Estado para mejorar la atención a este sector?",
+    "opciones": [
+      "Carreras de ingeniería comercial con mención en subsidios.",
+      "Carreras multidisciplinarias para necesidades biológicas, psicológicas y sociales.",
+      "Cursos técnicos de corta duración sin validez académica oficial.",
+      "Carreras exclusivas para personas con discapacidad visual en el área de música."
+    ],
+    "correcta": 1,
+    "explicacion": "Se requiere personal altamente calificado en diversas áreas para una atención integral. Fuente: Capítulo Tercero, Artículo 31, parágrafo VI (ÁMBITO DE EDUCACIÓN). [27]",
+    "referencia": "Artículo 31, parágrafo VI"
+  },
+  {
+    "id": 134,
+    "pregunta": "Respecto a los documentos de egreso, ¿qué obligación tienen todas las Universidades Públicas y Privadas de Bolivia?",
+    "opciones": [
+      "Cobrar el 50% de los valores vigentes por concepto de trámites.",
+      "Extender de manera gratuita los diplomas académicos y títulos en provisión nacional.",
+      "Retener el título hasta que el estudiante realice un año de trabajo gratuito.",
+      "Eximir de la defensa de tesis a cualquier estudiante con carnet de discapacidad."
+    ],
+    "correcta": 1,
+    "explicacion": "La ley establece la gratuidad total para la obtención de títulos académicos universitarios. Fuente: Capítulo Tercero, Artículo 31, parágrafo VIII (ÁMBITO DE EDUCACIÓN). [28]",
+    "referencia": "Artículo 31, parágrafo VIII"
+  },
+  {
+    "id": 135,
+    "pregunta": "¿Qué beneficio económico deben implementar las universidades del Sistema Nacional Privado para este sector?",
+    "opciones": [
+      "Eliminación de la asistencia obligatoria a clases presenciales.",
+      "Planes específicos de descuentos en todos sus niveles de estudio y becas.",
+      "Un bono de transporte mensual pagado por la propia universidad privada.",
+      "La entrega gratuita de libros y material de escritorio cada semestre."
+    ],
+    "correcta": 1,
+    "explicacion": "Las instituciones privadas tienen el deber de facilitar el acceso mediante incentivos económicos. Fuente: Capítulo Tercero, Artículo 31, parágrafo X (ÁMBITO DE EDUCACIÓN). [29]",
+    "referencia": "Artículo 31, parágrafo X"
+  },
+  {
+    "id": 136,
+    "pregunta": "¿Cuál es la función del Ministerio de Salud respecto a las Unidades Municipales de Atención (UMADIS)?",
+    "opciones": [
+      "Pagar los sueldos de todos los funcionarios municipales del área.",
+      "Capacitar al personal para que coadyuve en las actividades de los equipos de calificación.",
+      "Designar al director de cada UMADIS mediante resolución ministerial.",
+      "No existe ninguna relación de coordinación entre el ministerio y los municipios."
+    ],
+    "correcta": 1,
+    "explicacion": "La capacitación técnica asegura que el proceso de calificación de discapacidad sea correcto. Fuente: Capítulo Tercero, Artículo 32, parágrafo IV (ÁMBITO DE SALUD). [30, 31]",
+    "referencia": "Artículo 32, parágrafo IV"
+  },
+  {
+    "id": 137,
+    "pregunta": "En salud reproductiva, ¿contra qué prácticas garantiza protección el Estado Plurinacional a las personas con discapacidad?",
+    "opciones": [
+      "Contra la obligación de contraer matrimonio antes de los 30 años.",
+      "Contra la esterilización obligatoria o suministro de métodos anticonceptivos forzados.",
+      "Contra el derecho a decidir el número de hijos que desean tener.",
+      "Contra la atención médica por parte de profesionales del sexo opuesto."
+    ],
+    "correcta": 1,
+    "explicacion": "Se salvaguarda la autonomía reproductiva contra cualquier forma de coacción. Fuente: Capítulo Tercero, Artículo 32, parágrafo VI (ÁMBITO DE SALUD). [31]",
+    "referencia": "Artículo 32, parágrafo VI"
+  },
+  {
+    "id": 138,
+    "pregunta": "¿Qué tipo de programas debe implementar el Estado para evitar el agravamiento de la condición de discapacidad?",
+    "opciones": [
+      "Programas de aislamiento domiciliario preventivo.",
+      "Planes y programas para prevenir todo tipo de discapacidad y mayores grados de discapacidad.",
+      "Campañas de donación de órganos obligatoria para el sector salud.",
+      "Subsidios para la compra de alimentos procesados importados."
+    ],
+    "correcta": 1,
+    "explicacion": "La prevención es un eje transversal de la política pública de salud. Fuente: Capítulo Tercero, Artículo 32, parágrafo VIII (ÁMBITO DE SALUD). [32]",
+    "referencia": "Artículo 32, parágrafo VIII"
+  },
+  {
+    "id": 139,
+    "pregunta": "¿Qué beneficio tributario se otorga a las Organizaciones de Personas con Discapacidad debidamente acreditadas?",
+    "opciones": [
+      "Exención del pago de impuestos a las utilidades de las empresas por 50 años.",
+      "Exención total del pago de tributos para la importación de órtesis, prótesis y ayudas técnicas.",
+      "Liberación del pago de facturas de luz y agua de todas sus sedes sociales.",
+      "Permiso para importar vehículos de lujo sin pagar aranceles aduaneros."
+    ],
+    "correcta": 1,
+    "explicacion": "La exención es específica para insumos de rehabilitación, excluyendo vehículos motorizados. Fuente: Capítulo Tercero, Artículo 33 (LIBERACIÓN DE TRIBUTOS). [32]",
+    "referencia": "Artículo 33"
+  },
+  {
+    "id": 140,
+    "pregunta": "¿Qué modelo de desarrollo debe incorporarse para la creación de puestos de trabajo para personas con discapacidad?",
+    "opciones": [
+      "Desarrollo industrial de gran escala únicamente.",
+      "Planes de desarrollo inclusivo basado en la comunidad.",
+      "Modelo de sustitución de importaciones agropecuarias.",
+      "Desarrollo turístico de alta gama en zonas fronterizas."
+    ],
+    "correcta": 1,
+    "explicacion": "El enfoque comunitario busca crear fuentes de trabajo sostenibles en el entorno local. Fuente: Capítulo Tercero, Artículo 34, parágrafo I (ÁMBITO DEL TRABAJO). [33]",
+    "referencia": "Artículo 34, parágrafo I"
+  },
+  {
+    "id": 141,
+    "pregunta": "¿A quiénes alcanza la garantía de 'Inamovilidad Laboral' establecida en la Ley N° 223?",
+    "opciones": [
+      "Solo a la persona con discapacidad que ocupe un cargo jerárquico.",
+      "A personas con discapacidad, cónyuges, padres, madres y/o tutores de hijos con discapacidad.",
+      "A todos los trabajadores de una empresa que tenga más de 100 empleados.",
+      "Únicamente a los maestros que tengan más de 25 años de servicio."
+    ],
+    "correcta": 1,
+    "explicacion": "La protección laboral se extiende al núcleo de apoyo directo de la persona con discapacidad. Fuente: Capítulo Tercero, Artículo 34, parágrafo II (ÁMBITO DEL TRABAJO). [33]",
+    "referencia": "Artículo 34, parágrafo II"
+  },
+  {
+    "id": 142,
+    "pregunta": "¿Qué beneficio otorga el Estado para el trámite de reconocimiento de la personalidad jurídica de asociaciones de discapacidad?",
+    "opciones": [
+      "Un préstamo a fondo perdido para la construcción de su sede.",
+      "El beneficio de gratuidad total para el trámite respectivo.",
+      "La obligación de que el Ministerio de Justicia redacte los estatutos.",
+      "Exención de presentar informes de actividades anuales."
+    ],
+    "correcta": 1,
+    "explicacion": "Tanto el Ministerio de Autonomías como las gobernaciones deben facilitar este registro sin costo. Fuente: Capítulo Tercero, Artículo 35 (GRATUIDAD A LA PERSONALIDAD JURÍDICA). [34]",
+    "referencia": "Artículo 35"
+  },
+  {
+    "id": 143,
+    "pregunta": "¿Qué obligación tienen las unidades educativas y servicios privados en actos de relevancia nacional?",
+    "opciones": [
+      "Ceder sus instalaciones de forma gratuita para actos políticos.",
+      "Incorporar un intérprete en Lengua de Señas Boliviana (LSB) para la traducción.",
+      "Suspender toda actividad académica durante la duración del acto.",
+      "Cobrar una entrada simbólica para recaudar fondos de beneficencia."
+    ],
+    "correcta": 1,
+    "explicacion": "La comunicación alternativa asegura la participación de personas con discapacidad auditiva en la vida pública. Fuente: Capítulo Tercero, Artículo 36, parágrafo I (ÁMBITO DE LA COMUNICACIÓN). [35]",
+    "referencia": "Artículo 36, parágrafo I"
+  },
+  {
+    "id": 144,
+    "pregunta": "¿Cuál es el criterio temporal para la adecuación de estructuras arquitectónicas preexistentes en instituciones públicas y privadas?",
+    "opciones": [
+      "Deben adecuarse en un plazo improrrogable de 30 días calendario.",
+      "Deberán adecuar su estructura de manera gradual a partir de la promulgación de la ley.",
+      "Solo es obligatorio si el edificio sufre un incendio o desastre natural.",
+      "No existe obligación de adecuación si el edificio fue construido antes de 2012."
+    ],
+    "correcta": 1,
+    "explicacion": "La transformación de la infraestructura antigua es un proceso progresivo y planificado. Fuente: Capítulo Tercero, Artículo 37, parágrafo II (ÁMBITO DE LA ACCESIBILIDAD). [36]",
+    "referencia": "Artículo 37, parágrafo II"
+  },
+  {
+    "id": 145,
+    "pregunta": "En cuanto al acceso a la justicia, ¿qué rol pueden desempeñar las personas con discapacidad en procedimientos judiciales según la normativa boliviana?",
+    "opciones": [
+      "Solo pueden participar como acusados, nunca como demandantes.",
+      "Pueden participar directamente como testigos u otros roles en igualdad de condiciones.",
+      "Tienen prohibido declarar ante un juez si presentan discapacidad intelectual.",
+      "Sus declaraciones no tienen valor legal si no son ratificadas por un médico."
+    ],
+    "correcta": 1,
+    "explicacion": "Se garantiza la participación efectiva en todos los procedimientos judiciales sin discriminación. Fuente: Capítulo Tercero, Artículo 38, parágrafo I (ACCESO A LA JUSTICIA). [37]",
+    "referencia": "Artículo 38, parágrafo I"
+  },
+  {
+    "id": 146,
+    "pregunta": "¿Qué acción deben adoptar los medios de comunicación para fomentar la concientización social?",
+    "opciones": [
+      "Transmitir únicamente música instrumental durante 4 horas al día.",
+      "Eliminar el lenguaje discriminatorio en sus programas y producciones.",
+      "Regalar espacios publicitarios a cualquier empresa que venda prótesis.",
+      "Entrevistar obligatoriamente a un médico psiquiatra en cada noticiero."
+    ],
+    "correcta": 1,
+    "explicacion": "La concientización social pasa por el respeto y la eliminación de prejuicios en el lenguaje mediático. Fuente: Capítulo Tercero, Artículo 39 (CONCIENTIZACIÓN SOCIAL). [38]",
+    "referencia": "Artículo 39"
+  },
+  {
+    "id": 147,
+    "pregunta": "¿Bajo qué condición se otorga la gratuidad de la libreta de servicio militar para las personas con discapacidad?",
+    "opciones": [
+      "Solo si la persona tiene un título universitario de licenciatura.",
+      "Siempre que la persona con discapacidad requiera de este documento.",
+      "Únicamente si la persona con discapacidad pertenece a una nación indígena.",
+      "Solo se otorga de manera gratuita durante el mes de marzo de cada año."
+    ],
+    "correcta": 1,
+    "explicacion": "La gratuidad es un derecho general para quienes necesiten el documento por su condición. Fuente: Capítulo Tercero, Artículo 40 (GRATUIDAD DE LA LIBRETA DE SERVICIO MILITAR). [39]",
+    "referencia": "Artículo 40"
+  },
+  {
+    "id": 148,
+    "pregunta": "¿Cómo debe el Estado Plurinacional manejar la temática de discapacidad en todos sus niveles de gobierno?",
+    "opciones": [
+      "Creando una oficina separada en cada ministerio que no tenga relación con las demás.",
+      "Transversalizar la temática en su régimen normativo, planes, programas y proyectos.",
+      "Asignando el tema exclusivamente al Ministerio de Salud.",
+      "Prohibiendo que los gobiernos municipales dicten sus propias normas sobre el tema."
+    ],
+    "correcta": 1,
+    "explicacion": "La transversalidad implica que todas las políticas públicas deben considerar la discapacidad. Fuente: Capítulo Cuarto, Artículo 43 (TRANSVERSALIDAD). [40, 41]",
+    "referencia": "Artículo 43"
+  },
+  {
+    "id": 149,
+    "pregunta": "¿Cuál es la naturaleza jurídica y función principal del CONALPEDIS?",
+    "opciones": [
+      "Es una empresa privada que vende servicios de rehabilitación.",
+      "Es una entidad descentralizada encargada de la planificación estratégica en materia de discapacidad.",
+      "Es una unidad militar de élite para la protección de fronteras.",
+      "Es un sindicato de trabajadores del área de educación especial."
+    ],
+    "correcta": 1,
+    "explicacion": "El CONALPEDIS tiene autonomía de gestión y defiende los derechos del sector a nivel nacional. Fuente: Capítulo Cuarto, Artículo 45, parágrafo I (CONALPEDIS). [41]",
+    "referencia": "Artículo 45, parágrafo I"
+  },
+  {
+    "id": 150,
+    "pregunta": "Según la Ley N° 223, ¿qué beneficios deben normar los gobiernos locales en relación con el transporte público?",
+    "opciones": [
+      "La obligación de que el chofer baje a cargar al pasajero en cada parada.",
+      "Beneficios extraordinarios y descuentos para las personas con discapacidad y su acompañante.",
+      "La prohibición de cobrar pasaje a cualquier persona que use lentes.",
+      "Que los buses tengan un televisor exclusivo para personas con discapacidad."
+    ],
+    "correcta": 1,
+    "explicacion": "Los descuentos en transporte son una competencia normativa de asambleas departamentales y municipales. Fuente: Capítulo Cuarto, Artículo 48, parágrafo II, inciso d (ATRIBUCIÓN DE LAS ASAMBLEAS). [42]",
+    "referencia": "Artículo 48, parágrafo II, inciso d"
+  }
+]

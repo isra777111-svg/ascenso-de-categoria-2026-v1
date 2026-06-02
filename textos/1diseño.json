@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "pregunta": "Según Clemente Linuesa y definido por GOODLAD y SU, ¿cómo se define el llamado 'currículum básico' o nuclear?",
+    "opciones": [
+      "Una propuesta flexible que solo el docente puede modificar en el aula.",
+      "La suma de actividades extraescolares que complementan la formación.",
+      "Una especificación de aquellos campos estimados esenciales para todos los estudiantes.",
+      "El conjunto de normas de convivencia que rigen un centro educativo."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 13, sección 1.1 'El ámbito político', la autora cita a Goodlad y Su (1992) para definir el currículum común como los campos esenciales para todo el alumnado [1]."
+  },
+  {
+    "id": 2,
+    "pregunta": "En el diseño curricular, ¿cuáles son los tres ámbitos de decisión y desarrollo diferenciados que analiza María Clemente?",
+    "opciones": [
+      "Político, del centro y del aula.",
+      "Nacional, regional y local.",
+      "Administrativo, directivo y pedagógico.",
+      "Teórico, práctico y evaluativo."
+    ],
+    "correcta": 0,
+    "explicacion": "En la página 5 (Capítulo Primero) y página 8 (Introducción), se explica que el currículum se diseña de modo diferenciado en los ámbitos político, del centro escolar y del aula [2, 3]."
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Qué autor es un referente de la pedagogía crítica que cuestiona el currículum básico por considerarlo una 'imposición neoconservadora'?",
+    "opciones": [
+      "Stenhouse",
+      "Apple",
+      "Dewey",
+      "Tyler"
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 14, sección 1.1, se menciona que Apple (1996) cuestiona la supuesta cultura común del currículum básico como una imposición de sectores conservadores [4]."
+  },
+  {
+    "id": 4,
+    "pregunta": "Dentro del ámbito político, ¿cuál es uno de los límites de las administraciones educativas en la toma de decisiones?",
+    "opciones": [
+      "Determinar los métodos pedagógicos específicos que cada maestro debe usar.",
+      "Señalar los objetivos y contenidos mínimos exigibles a cada etapa escolar.",
+      "Elegir los tipos de agrupamiento de alumnos en cada aula concreta.",
+      "Decidir las formas de evaluación diaria que aplica el profesor."
+    ],
+    "correcta": 1,
+    "explicacion": "Según la página 15, sección 1.1, los límites administrativos están en señalar objetivos y contenidos mínimos, sin entrar en competencias exclusivas del profesorado como la metodología [5]."
+  },
+  {
+    "id": 5,
+    "pregunta": "Según Gimeno Sacristán, ¿qué significa etimológicamente el término 'currículum'?",
+    "opciones": [
+      "Carrera o recorrido.",
+      "Libro de enseñanzas.",
+      "Regla de conducta.",
+      "Círculo de saberes."
+    ],
+    "correcta": 0,
+    "explicacion": "En la página 25, sección 2.1, se explica que procede del latín (raíz de cursus y currere) y se utilizaba para significar 'la carrera' [6]."
+  },
+  {
+    "id": 6,
+    "pregunta": "¿En qué institución educativa histórica se sitúa la primera aparición conocida del término 'currículum' en un contexto pedagógico?",
+    "opciones": [
+      "Universidad de Oxford.",
+      "Universidad de Salamanca.",
+      "Universidad de Glasgow.",
+      "Colegio de Montaigu en París."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 26, sección 2.1, se indica que su aparición en el ámbito pedagógico se sitúa en la Universidad de Glasgow en el siglo XVII [7, 8]."
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Cuál es la función del 'currículum' según el modelo procesual en el ámbito del centro escolar?",
+    "opciones": [
+      "Seguir estrictamente el libro de texto sin variaciones.",
+      "Garantizar que todos los centros del país enseñen exactamente lo mismo.",
+      "Dotar al centro de estrategias, culturas comunes y planes congruentes para los alumnos.",
+      "Evitar la colaboración entre profesores para mantener la autonomía individual."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 16, sección 1.2, se argumenta que el centro debe realizar proyectos que le doten de estrategias comunes y coordinen estilos pedagógicos [9, 10]."
+  },
+  {
+    "id": 8,
+    "pregunta": "Para Gimeno Sacristán, el currículum es un regulador no solo de contenidos, sino también de:",
+    "opciones": [
+      "Las personas y el tiempo escolar.",
+      "El presupuesto nacional de educación.",
+      "Los salarios de los docentes.",
+      "La infraestructura física de los edificios."
+    ],
+    "correcta": 0,
+    "explicacion": "En la página 27, sección 2.1, se explica que el currículum ordena el tiempo escolar y, al asociar contenidos y edades, funciona como un regulador de las personas [11]."
+  },
+  {
+    "id": 9,
+    "pregunta": "En la Edad Media, el 'trivium' estaba compuesto por las siguientes artes instrumentales:",
+    "opciones": [
+      "Aritmética, Geometría y Música.",
+      "Gramática, Retórica y Dialéctica.",
+      "Astronomía, Lógica y Teología.",
+      "Física, Química y Biología."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 26, sección 2.1, se detalla que el trivium incluía Gramática, Retórica y Dialéctica [12]."
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Qué concepto acompaña al currículum en su poder regulador para normalizar la enseñanza desde los siglos XVI y XVII?",
+    "opciones": [
+      "La clase, el grado y el método.",
+      "El examen psicológico.",
+      "La tecnología educativa.",
+      "La supervisión departamental."
+    ],
+    "correcta": 0,
+    "explicacion": "En la página 28, sección 2.1, Gimeno concluye que la capacidad reguladora del currículum se suma a la de los conceptos de clase, grado y método [13]."
+  },
+  {
+    "id": 11,
+    "pregunta": "Según Clemente Linuesa, el 'criterio epistemológico' para seleccionar contenidos se refiere a:",
+    "opciones": [
+      "La utilidad social de los saberes.",
+      "El carácter de cada ciencia y los distintos tipos de conocimiento.",
+      "El nivel de desarrollo del alumno.",
+      "La preparación pedagógica del profesor."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 19, sección 1.5, se explica que el criterio epistemológico atañe al carácter científico de las disciplinas y cómo deben presentarse [14]."
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Qué autor propuso la 'globalización' como forma de organizar el conocimiento basándose en los 'centros de interés'?",
+    "opciones": [
+      "Dewey",
+      "Decroly",
+      "Piaget",
+      "Stenhouse"
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 21, sección 1.5, se indica que la globalización fue propuesta por Decroly para adecuar el conocimiento al pensamiento infantil [15, 16]."
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Qué implica la 'interdisciplinariedad' en la organización de los contenidos escolares?",
+    "opciones": [
+      "Separar las asignaturas de forma estricta para evitar confusiones.",
+      "Repetir los mismos contenidos en diferentes cursos para asegurar el aprendizaje.",
+      "Relacionar conocimientos de distintas materias para construir un conocimiento nuevo.",
+      "Eliminar los contenidos científicos y reemplazarlos por juegos."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 21, sección 1.5, se define como la relación de conocimientos de distintas materias para centrarse en problemas globales [17]."
+  },
+  {
+    "id": 14,
+    "pregunta": "Según Gimeno Sacristán, ¿qué sucede cuando la cultura se convierte en 'conocimiento escolar'?",
+    "opciones": [
+      "Se vuelve más pura y científica que en la universidad.",
+      "Sufre un proceso de mediación y se modela según moldes escolares.",
+      "Pierde toda su utilidad para la vida diaria.",
+      "Se mantiene idéntica a como la creó el especialista."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 30, sección 2.3, se explica que el conocimiento escolar es una construcción peculiar, modelada por los usos y contextos de la enseñanza [18]."
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué se entiende por 'currículum real' en contraste con el 'currículum formal'?",
+    "opciones": [
+      "Lo que figura únicamente en las leyes nacionales.",
+      "El currículum que se enseña exclusivamente en centros privados.",
+      "La transposición pragmática y las actividades que ocurren realmente en clase.",
+      "El conjunto de libros de texto aprobados por el Estado."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 94, sección 5.2, Perrenoud define el currículum real como el conjunto de experiencias y tareas que originan aprendizajes reales en el aula [19]."
+  },
+  {
+    "id": 16,
+    "pregunta": "Según el texto, ¿qué papel juegan los libros de texto en la mediación del currículum?",
+    "opciones": [
+      "Son una fuente secundaria sin impacto en lo que se enseña.",
+      "Son agentes mediadores que proponen e imponen contenidos determinados.",
+      "Sustituyen completamente la necesidad de que exista un profesor.",
+      "Solo se utilizan para tareas de entretenimiento."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 32, sección 2.3, se señala que los libros de texto son agentes mediadores fundamentales que imponen contenidos específicos [20]."
+  },
+  {
+    "id": 17,
+    "pregunta": "Gimeno Sacristán afirma que el currículum no es algo neutro, sino un 'territorio':",
+    "opciones": [
+      "Pacífico y consensuado universalmente.",
+      "Controvertido y hasta conflictivo.",
+      "Inamovible y eterno.",
+      "Perteneciente solo a los políticos."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 33, sección 2.4, se describe el currículum como un producto contingente y un territorio controvertido donde se toman decisiones ideológicas [21]."
+  },
+  {
+    "id": 18,
+    "pregunta": "En el ámbito del aula, ¿qué elemento articula la práctica pedagógica y conforma la vida social del aula?",
+    "opciones": [
+      "Los objetivos generales de la etapa.",
+      "Las actividades.",
+      "La infraestructura del edificio.",
+      "El presupuesto del centro."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 21, sección 1.6, se afirma que las actividades son el elemento más específico que articula la práctica y conforma la vida social [22, 23]."
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué aspecto de la vida escolar destaca Perrenoud como una característica básica?",
+    "opciones": [
+      "La total privacidad del alumno.",
+      "La ausencia de juicios de valor.",
+      "Aprender a vivir rodeado siempre de personas (sin privacidad).",
+      "La igualdad absoluta de poder entre maestros y alumnos."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 9, Introducción (citando a Perrenoud), se indica que vivir en las aulas significa estar siempre rodeado de otros sin privacidad [24]."
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Cuál es el objetivo principal del Capítulo III escrito por Gimeno Sacristán?",
+    "opciones": [
+      "Explicar la historia de la universidad europea.",
+      "Analizar la educación obligatoria como una escuela común para sujetos diferentes.",
+      "Promover la privatización de la educación primaria.",
+      "Eliminar el concepto de diversidad de las escuelas."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 8 de la Introducción y página 48 (Título Cap. III), se especifica que trata sobre la escolaridad igual para sujetos desiguales [25, 26]."
+  },
+  {
+    "id": 21,
+    "pregunta": "Según Clemente Linuesa, los proyectos de centro deben apoyarse en tres pilares, ¿cuál NO es uno de ellos?",
+    "opciones": [
+      "Desarrollo profesional del profesorado.",
+      "Coordinación con otros centros.",
+      "Relaciones con la comunidad.",
+      "Seguimiento estricto de una sola ideología política."
+    ],
+    "correcta": 3,
+    "explicacion": "En la página 17, sección 1.2, se mencionan como pilares el desarrollo profesional, la coordinación entre centros y la apertura al entorno [27]."
+  },
+  {
+    "id": 22,
+    "pregunta": "Gimeno Sacristán señala que el currículum tiene una carga utópica que genera una distancia entre:",
+    "opciones": [
+      "El discurso y la realidad.",
+      "El maestro y el director.",
+      "El alumno y su familia.",
+      "La ciencia y la religión."
+    ],
+    "correcta": 0,
+    "explicacion": "En la página 35, sección 2.5, se habla del 'abismo teleológico' o distancia entre el proyecto educativo ideal (discurso) y la realidad de la práctica [28]."
+  },
+  {
+    "id": 23,
+    "pregunta": "En la visión procesual del currículum, ¿qué representa el 'currículum evaluado'?",
+    "opciones": [
+      "El plan escrito en las leyes oficiales.",
+      "La interpretación que hace el profesor en su mente.",
+      "Los contenidos exigidos en las pruebas y resultados escolares.",
+      "Las actividades lúdicas del recreo."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 37, sección 2.6, se define el currículum evaluado como aquel constituido por los contenidos exigidos en las prácticas de evaluación y reflejado en el rendimiento [29]."
+  },
+  {
+    "id": 24,
+    "pregunta": "Según el texto, la 'sospecha epistémica' en el pensamiento pedagógico implica aceptar que:",
+    "opciones": [
+      "La enseñanza equivale siempre al aprendizaje.",
+      "Lo que queremos o decimos que hacemos puede tener escaso reflejo en lo que realmente hacemos.",
+      "Las intenciones del currículum formal se cumplen al 100%.",
+      "Los alumnos siempre aprenden exactamente lo que el libro de texto indica."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 38, sección 2.6, la 'sospecha epistémica' sugiere que la enseñanza no equivale al aprendizaje y las intenciones no siempre coinciden con las prácticas [30]."
+  },
+  {
+    "id": 25,
+    "pregunta": "En el debate sobre contenidos, la posición 'realista' considera que el valor del conocimiento reside en:",
+    "opciones": [
+      "Su utilidad exclusiva para ganar dinero.",
+      "Su capacidad de reflejar una realidad externa con objetividad.",
+      "Ser una construcción social que depende de los valores del grupo.",
+      "Su facilidad para ser memorizado rápidamente."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 14, sección 1.1, se describe la visión realista como aquella donde el conocimiento permite acceder a una realidad objetiva [31]."
+  },
+  {
+    "id": 26,
+    "pregunta": "Para Bourdieu, el 'habitus' es:",
+    "opciones": [
+      "Un uniforme escolar obligatorio.",
+      "Un sistema de disposiciones duraderas que interiorizan los individuos para organizar sus prácticas.",
+      "La lista de temas que entran en un examen final.",
+      "El reglamento de disciplina de un centro escolar."
+    ],
+    "correcta": 1,
+    "explicacion": "En la nota al pie de la página 33 (citando a Bourdieu), se define como una estructura estructurante de esquemas generadores de prácticas [32]."
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Qué autor plantea que la educación debe primar los modos de pensamiento dotados de validez y aplicabilidad general (pensamiento deductivo, experimental, crítico)?",
+    "opciones": [
+      "Bourdieu y Gros",
+      "Apple",
+      "Dewey",
+      "Skilbeck"
+    ],
+    "correcta": 0,
+    "explicacion": "En la página 15, sección 1.1, se resumen las propuestas de Bourdieu y Gros (1990) sobre priorizar modos de pensamiento complejos [33]."
+  },
+  {
+    "id": 28,
+    "pregunta": "La 'vocacionalización' del currículum, según Lauglo y Willis, tiende a priorizar:",
+    "opciones": [
+      "Las humanidades y la cultura clásica.",
+      "Los contenidos por su valor de aplicación inmediata al mercado de trabajo.",
+      "La educación artística y musical.",
+      "La filosofía y la ética."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 45, sección 2.7, se explica que esta tendencia selecciona saberes útiles para el sistema productivo, bajando el peso de las humanidades [34]."
+  },
+  {
+    "id": 29,
+    "pregunta": "Según Clemente, la selección de contenidos no es una cuestión técnica, sino una:",
+    "opciones": [
+      "Opción cultural.",
+      "Obligación burocrática.",
+      "Tarea exclusiva de los científicos.",
+      "Pérdida de tiempo para el docente."
+    ],
+    "correcta": 0,
+    "explicacion": "En la página 20, sección 1.5, la autora subraya que la selección de contenidos debe interpretarse como una opción cultural y no meramente técnica [35]."
+  },
+  {
+    "id": 30,
+    "pregunta": "Gimeno Sacristán vincula la expansión del concepto 'currículum' a:",
+    "opciones": [
+      "La invención de la imprenta.",
+      "La conversión de la escolaridad en un fenómeno de masas.",
+      "La caída del Imperio Romano.",
+      "La creación de los ordenadores personales."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 29, sección 2.1, se indica que el concepto cobró su máxima presencia cuando la escolaridad se hizo universal para todos [36]."
+  },
+  {
+    "id": 31,
+    "pregunta": "¿Qué significa que el currículum es un 'contenedor no neutro'?",
+    "opciones": [
+      "Que no tiene ninguna influencia en la vida de los alumnos.",
+      "Que su estructura (tiempo, espacios, orden) condiciona lo que se aprende y cómo se aprende.",
+      "Que solo sirve para guardar libros y materiales.",
+      "Que todos los profesores lo interpretan siempre de la misma forma."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 30, sección 2.2, se explica que el currículum estructura la vida escolar, distribuye el tiempo e impone normas que determinan el aprendizaje [37]."
+  },
+  {
+    "id": 32,
+    "pregunta": "En el ámbito del aula, el 'criterio socioideológico' para seleccionar contenidos implica considerar:",
+    "opciones": [
+      "Solo la lógica interna de la ciencia.",
+      "Que la escuela es un elemento clave en la socialización y transmisión de visiones culturales.",
+      "Únicamente la edad mental del niño.",
+      "El costo de los libros de texto."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 19, sección 1.5, se detalla que este criterio lleva a cuestionar si los contenidos reflejan distintos valores e ideologías de la sociedad [38]."
+  },
+  {
+    "id": 33,
+    "pregunta": "Según Gimeno, el currículum 'viaja en ambos sentidos'. Esto significa que es un concepto:",
+    "opciones": [
+      "Solo para geógrafos.",
+      "Que une la teoría (ideales) con la práctica (realidad de las aulas).",
+      "Que solo sirve para ir de la primaria a la secundaria.",
+      "Que se mueve entre el pasado y el futuro sin tocar el presente."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 8 de la Introducción, se explica que el currículum transita entre lo que debe hacerse y lo que de verdad se hace [39]."
+  },
+  {
+    "id": 34,
+    "pregunta": "¿Qué tipo de organización del contenido escolar presenta el conocimiento como 'verdades absolutas' y de forma segmentada?",
+    "opciones": [
+      "Áreas de conocimiento.",
+      "Currícula integrados.",
+      "Disciplinas o asignaturas.",
+      "Centros de interés."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 20, sección 1.5, se critica que las disciplinas tradicionales presentan la realidad de forma segmentada y ajena a los problemas sociales [40]."
+  },
+  {
+    "id": 35,
+    "pregunta": "Según el texto, ¿cuál es una de las funciones del currículum básico en relación con la igualdad?",
+    "opciones": [
+      "Permitir que cada niño aprenda algo totalmente distinto.",
+      "Constituir una garantía para la igualdad y base de una educación integral.",
+      "Asegurar que los niños más ricos aprendan más.",
+      "Eliminar la necesidad de que los profesores tomen decisiones."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 14, sección 1.1, se menciona que para autores como Kirk, el currículum común es una garantía para la igualdad y refuerza la comprensividad [41]."
+  },
+  {
+    "id": 36,
+    "pregunta": "Para Stenhouse, el diseño curricular en el aula debe estar protagonizado por:",
+    "opciones": [
+      "El Ministerio de Educación exclusivamente.",
+      "El profesor, conocedor de sus alumnos y su práctica.",
+      "Los padres de familia en asamblea.",
+      "Los directores de los centros privados."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 17, sección 1.3, se cita el modelo de proceso de Stenhouse, donde el profesor es el protagonista que planifica basándose en su experiencia [27, 42]."
+  },
+  {
+    "id": 37,
+    "pregunta": "¿Cuál de estos elementos es competencia del ámbito político/administrativo según la Tabla 1.1?",
+    "opciones": [
+      "Líneas metodológicas del aula.",
+      "Seleccionar la cultura escolar y establecer áreas de contenidos.",
+      "Decidir el agrupamiento de alumnos en el centro.",
+      "Evaluar individualmente a cada alumno."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 16, Tabla 1.1, se especifica que la administración debe seleccionar la cultura escolar y establecer áreas de contenidos [43]."
+  },
+  {
+    "id": 38,
+    "pregunta": "Gimeno Sacristán afirma que el 'abismo teleológico' en educación ocurre porque:",
+    "opciones": [
+      "No hay suficientes puentes en las ciudades.",
+      "Los objetivos educativos ideales no coinciden con los resultados prácticos logrados.",
+      "Los alumnos no quieren ir a clase.",
+      "Los profesores no tienen títulos universitarios."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 35, sección 2.5, se describe como la distancia entre lo que el currículum dice pretender y lo que sucede en la realidad [28]."
+  },
+  {
+    "id": 39,
+    "pregunta": "En la organización del currículum, ¿qué favorece la interdisciplinariedad según Bourdieu?",
+    "opciones": [
+      "La repetición constante de temas.",
+      "La desconexión del conocimiento.",
+      "La coherencia y evitar repeticiones innecesarias.",
+      "El aislamiento de cada profesor en su aula."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 15, sección 1.1, Bourdieu señala que la aspiración a la coherencia debe favorecer la interdisciplinariedad [33]."
+  },
+  {
+    "id": 40,
+    "pregunta": "¿Qué es lo que determina el 'éxito' o 'fracaso' escolar según el funcionamiento del currículum?",
+    "opciones": [
+      "La suerte del alumno.",
+      "El cumplimiento de una norma estándar establecida por el currículum y sus tiempos.",
+      "Solo la inteligencia genética del estudiante.",
+      "La cantidad de dinero que pagan los padres."
+    ],
+    "correcta": 1,
+    "explicacion": "En las páginas 28 y 30, se explica que el currículum establece el estándar (norma) respecto al cual se juzga quién cumple y quién no [44, 45]."
+  },
+{
+    "id": 41,
+    "pregunta": "Según Gimeno Sacristán, ¿cuál es uno de los retos principales de la escuela común al enfrentar la educación obligatoria?",
+    "opciones": [
+      "Fomentar la competitividad extrema para seleccionar a los mejores.",
+      "Hacer compatible un proyecto válido para todos con la realidad de la diversidad.",
+      "Eliminar por completo las asignaturas de ciencias sociales.",
+      "Separar a los alumnos por su origen socioeconómico desde el primer día."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 48, el autor señala que el reto es hacer compatible la enseñanza común con sujetos diversos en condiciones de igualdad simple."
+  },
+  {
+    "id": 42,
+    "pregunta": "¿A qué se refiere la 'variedad interindividual' mencionada en el Capítulo III?",
+    "opciones": [
+      "A los cambios que sufre una misma persona a lo largo de su vida.",
+      "A las diferencias de comportamiento entre un profesor y un alumno.",
+      "A la multiplicidad de características y vidas interiores que existen entre distintos individuos.",
+      "A la disparidad de salarios entre los docentes de distintas regiones."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 50, sección 3.1, se explica que la variedad se manifiesta como multiplicidad entre individuos al ser los intercambios sociales tan variados."
+  },
+  {
+    "id": 43,
+    "pregunta": "Ante la diversidad humana, ¿cuáles son las dos actitudes básicas que Gimeno identifica en las instituciones escolares?",
+    "opciones": [
+      "Ignorarla o fomentarla mediante premios económicos.",
+      "Privatizar la educación o estatizarla por completo.",
+      "Tolerarla organizándola o tratar de someterla a un patrón homogeneizador.",
+      "Delegarla a las familias o encargarla a especialistas médicos."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 51, sección 3.1, se indica que ante el hecho de la diversidad cabe tolerarla organizándola o someterla a un patrón que anule la variedad."
+  },
+  {
+    "id": 44,
+    "pregunta": "Según Walzer, el concepto de 'igualdad simple' en la educación obligatoria implica:",
+    "opciones": [
+      "Que todos los niños deben recibir la misma cantidad de libros.",
+      "Una enseñanza con contenidos y fines comunes para todos.",
+      "Que solo los niños más inteligentes deben ir a la escuela pública.",
+      "La eliminación de cualquier tipo de evaluación escolar."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 48, se cita a Walzer para definir la igualdad simple como una enseñanza basada en contenidos y fines comunes."
+  },
+  {
+    "id": 45,
+    "pregunta": "Para Gimeno Sacristán, la función disciplinante de la escuela es, ante todo:",
+    "opciones": [
+      "Evaluadora.",
+      "Normalizadora.",
+      "Económica.",
+      "Recreativa."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 53, sección 3.2, el autor afirma que la función disciplinante es, ante todo, normalizadora, buscando que el sujeto no se desvíe de lo normal."
+  },
+  {
+    "id": 46,
+    "pregunta": "El concepto de 'fracaso escolar', según el texto, aparece históricamente ligado a:",
+    "opciones": [
+      "La falta de interés de los padres de familia.",
+      "La invención de los exámenes tipo test.",
+      "El momento en que la escolaridad se hizo realmente obligatoria y universal para todos.",
+      "La reducción de los presupuestos estatales en educación."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 53, sección 3.2, se explica que el fracaso escolar aparece como una lacra interna cuando la obligatoriedad se hace efectiva para toda la población."
+  },
+  {
+    "id": 47,
+    "pregunta": "¿Cómo legitima la escuela las desigualdades entre los alumnos según el Capítulo III?",
+    "opciones": [
+      "A través de la teoría del 'mérito personal' y el escalonamiento de logros escolares.",
+      "Mediante el cobro de cuotas diferenciadas según la capacidad económica.",
+      "Asignando diferentes uniformes según el rendimiento académico.",
+      "Prohibiendo la entrada a niños de minorías étnicas."
+    ],
+    "correcta": 0,
+    "explicacion": "En la página 54, se señala que la escuela legitima las desigualdades transformándolas en un escalonamiento de logros basado en el mérito personal."
+  },
+  {
+    "id": 48,
+    "pregunta": "Gimeno identifica una ruptura de estilos entre dos niveles educativos en España, ¿cuáles son?",
+    "opciones": [
+      "La Educación Infantil y la Educación Primaria.",
+      "La Educación Primaria y la Educación Secundaria Obligatoria.",
+      "La Educación Secundaria y la Formación Profesional.",
+      "La Universidad y el Mercado Laboral."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 55, sección 3.2, el autor destaca la ruptura importante en la continuidad de estilos entre la enseñanza primaria y la secundaria."
+  },
+  {
+    "id": 49,
+    "pregunta": "Al volverse contenidos culturales una 'escalera jerarquizadora', ¿qué sucede con los alumnos que ascienden despacio?",
+    "opciones": [
+      "Reciben automáticamente becas de estudio.",
+      "Son excluidos por el propio sistema que los etiqueta como fracasados.",
+      "El sistema se adapta a ellos eliminando los exámenes.",
+      "Son obligados a trabajar en labores agrícolas."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 55, se describe cómo los contenidos se convierten en una escalera que excluye a quienes no siguen el ritmo estándar."
+  },
+  {
+    "id": 50,
+    "pregunta": "La 'escuela graduada' moderna basa su organización en dos pilares: el desarrollo de la psicología evolutiva y:",
+    "opciones": [
+      "La filosofía existencialista.",
+      "La racionalidad taylorista de las organizaciones industriales.",
+      "El pensamiento religioso de la Edad Media.",
+      "Las teorías de la relatividad de Einstein."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 56, sección 3.3, se indica que la escuela graduada se apoyó en la psicología evolutiva y en la racionalidad taylorista orientada a la eficiencia."
+  },
+  {
+    "id": 51,
+    "pregunta": "¿Qué autor es el principal referente de la idea de 'la escuela a la medida del niño' citada en el Capítulo III?",
+    "opciones": [
+      "Skinner",
+      "Claparède",
+      "Vygotsky",
+      "Bourdieu"
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 57, se cita extensamente a Claparède como el padre de la idea de adaptar la escuela a la naturaleza del animal/niño para evitar el fracaso."
+  },
+  {
+    "id": 52,
+    "pregunta": "En el modelo de escuela graduada, ¿qué criterio se utiliza mayoritariamente para clasificar a los alumnos?",
+    "opciones": [
+      "El nivel de ingresos de la familia.",
+      "La religión que profesan.",
+      "La edad cronológica.",
+      "La altura y el peso físico."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 58, sección 3.3, se afirma que la esencia de la graduación es la clasificación de los niños por el criterio de la edad."
+  },
+  {
+    "id": 53,
+    "pregunta": "Según el texto, el modelo 'año de vida-año de escuela' busca fundamentalmente:",
+    "opciones": [
+      "La heterogeneidad máxima en el aula.",
+      "La homogeneidad de los estudiantes para facilitar el trabajo pedagógico.",
+      "Que los niños pasen más tiempo con sus familias.",
+      "Eliminar el uso de libros de texto."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 59, se explica que este modelo de graduación impulsa la búsqueda de la homogeneidad para mejorar las condiciones de trabajo docente."
+  },
+  {
+    "id": 54,
+    "pregunta": "Gimeno afirma que el fracaso y la 'excelencia' académica son:",
+    "opciones": [
+      "Dones genéticos inamovibles.",
+      "Puras derivaciones del funcionamiento de las propias escuelas.",
+      "Responsabilidad exclusiva de los abuelos.",
+      "Resultado del clima meteorológico de la región."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 60, citando a Perrenoud, se señala que tanto el fracaso como la excelencia son construcciones derivadas del funcionamiento escolar."
+  },
+  {
+    "id": 55,
+    "pregunta": "Para abordar la complejidad provocada por la diversidad, Gimeno propone una pedagogía que:",
+    "opciones": [
+      "Trate a todos exactamente igual sin excepción.",
+      "Diversifique el tratamiento pedagógico pero manteniendo la igualdad del currículum común.",
+      "Elimine el currículum común y deje que cada niño decida qué estudiar.",
+      "Separe a los niños en diferentes edificios según su capacidad."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 62, sección 3.4, se defiende la idea de una práctica que diversifique aprovechando la flexibilidad del currículum común."
+  },
+  {
+    "id": 56,
+    "pregunta": "Según la Figura 3.1, la opción de 'Educación igualadora y pedagogía divergente' se caracteriza por:",
+    "opciones": [
+      "Un currículum común flexible y desarrollo curricular/aprendizaje heterogéneo.",
+      "Un currículum diferenciado y aprendizaje homogéneo.",
+      "La expulsión de alumnos con dificultades.",
+      "El uso de un solo libro de texto para todos."
+    ],
+    "correcta": 0,
+    "explicacion": "En la página 62, la Figura 3.1 sitúa la educación igualadora con pedagogía divergente en el cruce del currículum común flexible y el aprendizaje heterogéneo."
+  },
+  {
+    "id": 57,
+    "pregunta": "En una pedagogía para la diversidad, el papel de los contenidos comunes debe ser:",
+    "opciones": [
+      "Ser eliminados para no cansar a los alumnos.",
+      "Lograr que todos alcancen el dominio de lo 'básico' empleando más tiempo y recursos en quienes lo necesiten.",
+      "Ser enseñados solo a los alumnos que sacan mejores notas.",
+      "Ser dictados por el profesor para que se memoricen rápido."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 63, se indica que en los contenidos comunes las estrategias deben ir encaminadas a que todos logren el dominio de lo básico con los apoyos necesarios."
+  },
+  {
+    "id": 58,
+    "pregunta": "¿Qué recurso se considera indispensable para una pedagogía diferenciada que rompa el monopolio del docente?",
+    "opciones": [
+      "El uso exclusivo de un solo libro de texto.",
+      "La televisión encendida todo el día.",
+      "La biblioteca del centro y de aula con documentación variada.",
+      "El castigo físico moderado."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 64, se destaca que la biblioteca de centro y de aula son recursos indispensables para diversificar la pedagogía y los materiales."
+  },
+  {
+    "id": 59,
+    "pregunta": "Gimeno define la escuela pública como un modelo históricamente:",
+    "opciones": [
+      "Segregador.",
+      "Integrador de las diferencias.",
+      "Ineficiente y costoso.",
+      "Exclusivo para la élite política."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 65, se describe a la escuela pública como la apuesta histórica más integradora de las diferencias por su carácter universal."
+  },
+  {
+    "id": 60,
+    "pregunta": "¿Cuál es la característica esencial de la llamada 'escuela comprensiva'?",
+    "opciones": [
+      "Separar a los niños por especialidades desde los 6 años.",
+      "Mantener a todos los estudiantes juntos sin segregarlos por niveles o capacidades bajo un currículum común.",
+      "Permitir que los alumnos elijan si quieren ir o no a clase.",
+      "Ser financiada exclusivamente por empresas privadas."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 66, sección 3.5, se define la escuela comprensiva como aquella que mantiene a los alumnos juntos con un currículum común sin segregación."
+  },
+  {
+    "id": 61,
+    "pregunta": "Según Rafael Feito en el Capítulo IV, el artículo 6 de la LOE define el currículum como el conjunto de:",
+    "opciones": [
+      "Libros de texto, pupitres y pizarras digitales.",
+      "Objetivos, competencias básicas, contenidos, métodos pedagógicos y criterios de evaluación.",
+      "Maestros, directores e inspectores de educación.",
+      "Leyes, reglamentos y decretos sancionadores."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 67, Feito cita textualmente la definición de currículum de la LOE que incluye objetivos, competencias, contenidos, métodos y evaluación."
+  },
+  {
+    "id": 62,
+    "pregunta": "Feito critica que los objetivos de las etapas educativas en la ley suelen ser excesivamente:",
+    "opciones": [
+      "Breves.",
+      "Polisémicos (con múltiples interpretaciones).",
+      "Científicos.",
+      "Inexistentes."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 70, sección 4.1, el autor señala que los objetivos de las etapas educativas son a menudo excesivamente polisémicos."
+  },
+  {
+    "id": 63,
+    "pregunta": "¿Qué crítica hace Feito sobre la selección de contenidos en la educación obligatoria?",
+    "opciones": [
+      "Que no hay suficientes asignaturas.",
+      "Que se omiten contenidos esenciales para la vida (salud, derecho, medios) y se mantiene una arbitrariedad inaceptable.",
+      "Que los libros de texto son demasiado baratos.",
+      "Que se enseñan demasiadas lenguas extranjeras."
+    ],
+    "correcta": 1,
+    "explicacion": "En las páginas 70-71, Feito cuestiona por qué se omiten saberes como medicina o derecho mientras se mantienen contenidos academicistas obsoletos."
+  },
+  {
+    "id": 64,
+    "pregunta": "En cuanto a la secuenciación de contenidos, el autor lamenta que las asignaturas en Secundaria funcionen como:",
+    "opciones": [
+      "Puentes de comunicación.",
+      "Compartimentos estancos sin conexión entre sí.",
+      "Espacios de juego libre.",
+      "Talleres de creación artística."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 72, sección 4.2, se describe cómo la escuela segmenta saberes en asignaturas concebidas como compartimentos estancos."
+  },
+  {
+    "id": 65,
+    "pregunta": "Según el Capítulo IV, ¿cuál es el resultado de centrar la Historia en memorizar fechas y personajes destacados?",
+    "opciones": [
+      "Una comprensión profunda de las leyes sociales.",
+      "Una comprensión superficial y un escaso interés por el tema.",
+      "El desarrollo de dotes de liderazgo político.",
+      "La mejora de la memoria a largo plazo para toda la vida."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 73, Feito afirma que este enfoque da lugar a una comprensión superficial y no desarrolla destrezas de investigación."
+  },
+  {
+    "id": 66,
+    "pregunta": "La escuela tradicional se basa en el esquema de 'aprender y repetir', típico de la época:",
+    "opciones": [
+      "Digital.",
+      "Industrial del siglo XIX y XX.",
+      "Prehistórica.",
+      "De la Antigua Grecia."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 73, sección 4.3, se vincula el funcionamiento escolar tradicional con la época industrial donde las tareas eran segmentadas y repetitivas."
+  },
+  {
+    "id": 67,
+    "pregunta": "¿Cuál es uno de los problemas de la 'pedagogía transmisiva' mencionados por Feito?",
+    "opciones": [
+      "Que los alumnos aprenden demasiado rápido.",
+      "Su tremenda ineficacia: solo sirve para un aprendizaje a corto plazo para sortear un examen.",
+      "Que requiere demasiada tecnología.",
+      "Que fomenta demasiado la creatividad del alumno."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 74, el autor subraya la ineficacia del método transmisivo, indicando que rara vez el alumnado incorpora esos esquemas a su realidad."
+  },
+  {
+    "id": 68,
+    "pregunta": "Estudios citados en el Capítulo IV muestran que la atención del alumno en una explicación magistral:",
+    "opciones": [
+      "Aumenta linealmente hasta el final de la clase.",
+      "Se mantiene constante al 100% durante una hora.",
+      "Va decreciendo velozmente tras los primeros diez minutos.",
+      "Solo existe si el profesor cuenta chistes."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 75, se citan estudios que muestran cómo la atención desciende tras los primeros minutos de adaptación y asimilación."
+  },
+  {
+    "id": 69,
+    "pregunta": "Según Thomas (2006), ¿qué porcentaje de la población aprende mejor con una visión global/holística antes de ver las partes?",
+    "opciones": [
+      "El 10%.",
+      "El 20%.",
+      "El 80%.",
+      "El 100%."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 75, se señala que el 80% de la gente aprende mejor con una visión global, aunque la escuela suele favorecer al 20% con cerebro analítico."
+  },
+  {
+    "id": 70,
+    "pregunta": "Fritjof Capra propone que la revolución científica del siglo XX implica el paso del pensamiento analítico al:",
+    "opciones": [
+      "Pensamiento sistémico (contextualizado y relacional).",
+      "Pensamiento mágico.",
+      "Pensamiento lineal e individualista.",
+      "Pensamiento puramente matemático."
+    ],
+    "correcta": 0,
+    "explicacion": "En la página 75, se explica la propuesta de Capra sobre la necesidad de comprender las cosas sistémicamente dentro de su contexto."
+  },
+  {
+    "id": 71,
+    "pregunta": "Feito sugiere que los centros de Secundaria deberían organizarse en torno a:",
+    "opciones": [
+      "Exámenes diarios obligatorios.",
+      "Proyectos multidisciplinares o temas intercurriculares (ej. por qué hay guerras).",
+      "Competencias deportivas entre clases.",
+      "El orden alfabético de los apellidos de los alumnos."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 76, el autor propone trabajar por proyectos que integren destrezas de diferentes áreas en torno a problemáticas globales."
+  },
+  {
+    "id": 72,
+    "pregunta": "Sobre el uso de las bibliotecas escolares en España, el texto señala que:",
+    "opciones": [
+      "Se usan más en Secundaria que en Primaria.",
+      "Hay un contraste lamentable: se usan mucho más en Primaria que en Secundaria por el peso academicista de esta última.",
+      "No existen bibliotecas en los colegios españoles.",
+      "Están prohibidas para los alumnos de menos de 12 años."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 77, sección 'La aventura de investigar', se destaca que el uso de bibliotecas decae en Secundaria por la dependencia del libro de texto."
+  },
+  {
+    "id": 73,
+    "pregunta": "Feito critica que la escuela ha sido tradicionalmente reacia a:",
+    "opciones": [
+      "La lectura de libros clásicos.",
+      "La introducción de cualquier novedad tecnológica (del bolígrafo a Internet).",
+      "El uso de tizas y borradores.",
+      "La realización de excursiones al campo."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 77, el autor ironiza sobre la resistencia escolar a innovaciones como el bolígrafo, la calculadora o el ordenador."
+  },
+  {
+    "id": 74,
+    "pregunta": "La evaluación escolar dominante en España es criticada por ser un modelo de:",
+    "opciones": [
+      "Investigación científica profunda.",
+      "Usar y tirar (memorizar para el examen y olvidar horas después).",
+      "Apoyo constante al alumno con dificultades.",
+      "Desarrollo de talentos artísticos ocultos."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 80, sección 4.4, se describe la evaluación actual como un proceso de memorización a cortísimo plazo sin comprensión real."
+  },
+  {
+    "id": 75,
+    "pregunta": "¿Qué diferencia hay entre lo que evalúa PISA y lo que suele evaluar la escuela española?",
+    "opciones": [
+      "PISA evalúa el comportamiento y la escuela española la inteligencia.",
+      "PISA evalúa competencias (aplicación a lo real) mientras la escuela española privilegia lo fáctico/memorístico.",
+      "PISA evalúa solo religión y la escuela española solo ciencias.",
+      "No hay ninguna diferencia, evalúan exactamente lo mismo."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 80, se resalta que PISA se enfoca en competencias, lo que pone en desventaja a un sistema basado en repetir datos."
+  },
+  {
+    "id": 76,
+    "pregunta": "Según la definición oficial de la Comisión Europea citada en el Capítulo IV, la 'competencia' es:",
+    "opciones": [
+      "Ganar una medalla en una olimpiada matemática.",
+      "La capacidad demostrada de utilizar conocimientos y destrezas.",
+      "El derecho a elegir el mejor colegio privado.",
+      "Saber el nombre de todos los ríos de Europa."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 86, se cita la definición de la Comisión Europea donde la competencia es la capacidad de usar conocimientos y habilidades."
+  },
+  {
+    "id": 77,
+    "pregunta": "Un elemento clave del aprendizaje por competencias es su 'transferibilidad', que significa:",
+    "opciones": [
+      "Poder pasar de un colegio a otro sin perder el curso.",
+      "Ser capaz de utilizar lo aprendido en situaciones nuevas y variadas de la vida cotidiana.",
+      "Copiar la respuesta de un compañero durante un examen.",
+      "Cambiar de idioma al hablar."
+    ],
+    "correcta": 1,
+    "explicacion": "En las páginas 85 y 86, se explica que saber significa ser capaz de aplicar lo aprendido en escenarios reales y novedosos."
+  },
+  {
+    "id": 78,
+    "pregunta": "Oriol Homs señala que en el mundo laboral actual ya no se evalúa al trabajador solo por tareas prefijadas, sino por:",
+    "opciones": [
+      "Su fuerza física.",
+      "Su capacidad de resolver incidencias y su iniciativa.",
+      "El número de horas que está sentado sin hacer nada.",
+      "Su parentesco con el jefe."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 85, Feito cita a Homs para destacar que las competencias laborales ahora incluyen la resolución de incidencias e iniciativa."
+  },
+  {
+    "id": 79,
+    "pregunta": "El proyecto DeSeCo de la OCDE identifica tres competencias fundamentales, ¿cuál de estas es una de ellas?",
+    "opciones": [
+      "Manejar maquinaria pesada.",
+      "Controlar la propia vida (autonomía y proyectos personales).",
+      "Saber cocinar platos típicos.",
+      "Memorizar la tabla periódica."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 87, se listan como competencias de DeSeCo: interaccionar de modo efectivo, interaccionar con personas y controlar la propia vida."
+  },
+  {
+    "id": 80,
+    "pregunta": "¿Qué país suele ocupar el primer puesto en PISA y tiene un currículum oficial muy reducido para dar autonomía a los centros?",
+    "opciones": [
+      "Estados Unidos.",
+      "Finlandia.",
+      "España.",
+      "Grecia."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 88, sección 4.6, se menciona a Finlandia como el número uno en PISA, destacando su reducida prescripción curricular y buena formación docente."
+  },
+{
+    "id": 81,
+    "pregunta": "Según Philippe Perrenoud, ¿a qué se refiere el término 'currículum real'?",
+    "opciones": [
+      "Al conjunto de objetivos generales mencionados en las leyes educativas.",
+      "A las experiencias, tareas y actividades que originan aprendizajes efectivos en el aula.",
+      "A la planificación escrita que el docente entrega a la dirección del centro.",
+      "Únicamente a los contenidos que aparecen en el índice del libro de texto."
+    ],
+    "correcta": 1,
+    "explicacion": "En las páginas 91 y 94, sección 5.2, el autor define el currículum real como una transposición pragmática compuesta por experiencias y tareas que ocurren en la práctica."
+  },
+  {
+    "id": 82,
+    "pregunta": "¿Qué metáfora utiliza Perrenoud para describir la labor del maestro al interpretar el currículum formal?",
+    "opciones": [
+      "La ejecución de una partitura musical de forma exacta.",
+      "La 'comedia dell'arte', basada en variaciones sobre temas impuestos.",
+      "La construcción de un edificio siguiendo planos rígidos.",
+      "La lectura mecánica de un guion cinematográfico."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 92, sección 5.1, el autor utiliza la metáfora de la 'comedia dell'arte' para explicar que el docente reinventa y concreta la trama del currículum formal."
+  },
+  {
+    "id": 83,
+    "pregunta": "En el desarrollo del currículum real, Perrenoud afirma que este nunca es una intención pura del maestro porque:",
+    "opciones": [
+      "El maestro no tiene formación pedagógica suficiente.",
+      "Es el resultado de una negociación y confrontación constante con las estrategias de los alumnos.",
+      "El Ministerio de Educación supervisa cada minuto de la clase.",
+      "Los libros de texto impiden cualquier tipo de cambio."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 96, sección 5.2, se explica que el currículum real es el resultado de una negociación entre el maestro y sus alumnos, quienes influyen en el ritmo y la selección de actividades."
+  },
+  {
+    "id": 84,
+    "pregunta": "¿Cuál es la definición de 'currículum oculto' en su sentido más profundo según el Capítulo V?",
+    "opciones": [
+      "Contenidos que el maestro enseña en secreto para evitar sanciones.",
+      "Aprendizajes ignotos que la escuela produce regularmente a través de rutinas, sin declararlos.",
+      "Asignaturas que no tienen carga horaria oficial.",
+      "Libros prohibidos por la administración educativa."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 100, sección 5.3, se define como aprendizajes que la escuela desconoce o no declara, pero que se originan por las rutinas de la vida escolar."
+  },
+  {
+    "id": 85,
+    "pregunta": "Según Jackson (1968), citado en el texto, ¿qué aprende un alumno en el currículum oculto respecto a la vida social?",
+    "opciones": [
+      "A ser un líder político desde la infancia.",
+      "A vivir en una masa (ambiente superpoblado) y a esperar (paciencia).",
+      "A memorizar todas las capitales del mundo.",
+      "A cuestionar la autoridad del director en todo momento."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 100, sección 5.4, se indica que Jackson identifica aprendizajes como vivir en masa, ser juzgado y aprender a esperar."
+  },
+  {
+    "id": 86,
+    "pregunta": "¿Qué significa para Perrenoud 'aprender el oficio de alumno'?",
+    "opciones": [
+      "Aprender a barrer y limpiar el aula de clase.",
+      "Adquirir los códigos, valores y saber hacer necesarios para sobrevivir y tener éxito en la organización escolar.",
+      "Elegir una carrera técnica al terminar la secundaria.",
+      "Ayudar al profesor a corregir los exámenes de los compañeros."
+    ],
+    "correcta": 1,
+    "explicacion": "En las páginas 104 y 105, sección 5.5, se describe como el aprendizaje de las reglas del juego para funcionar dentro de la institución."
+  },
+  {
+    "id": 87,
+    "pregunta": "Perrenoud afirma que el trabajo escolar es un 'trabajo distinto a los demás' porque:",
+    "opciones": [
+      "Es el único que se paga con dinero en efectivo cada semana.",
+      "Carece de utilidad inmediata visible y su fin es favorecer aprendizajes o disciplinar.",
+      "Se realiza siempre al aire libre y sin supervisión.",
+      "No requiere ningún tipo de esfuerzo mental."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 110, sección 5.7, se explica que el trabajo escolar no rinde un servicio inmediato, sino que busca consolidar aprendizajes."
+  },
+  {
+    "id": 88,
+    "pregunta": "¿Cuál es una de las características del 'buen trabajo' escolar en el modelo de rutinas dominante?",
+    "opciones": [
+      "Realizar tareas elegidas libremente por el alumno según su interés.",
+      "Realizar un trabajo no escogido, fragmentado, repetitivo y supervisado constantemente.",
+      "Inventar nuevos métodos científicos en cada sesión.",
+      "No entregar nunca tareas por escrito."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 112, sección 5.7, el autor concluye que el buen trabajo escolar suele ser impuesto, fragmentado y supervisado."
+  },
+  {
+    "id": 89,
+    "pregunta": "Según la cita de Juan José Millás que abre el Capítulo VI, ¿por qué critica la compra de manuales en los hipermercados?",
+    "opciones": [
+      "Porque los libros son más caros que en las librerías tradicionales.",
+      "Porque degrada la consideración social del libro y la cultura al nivel de cualquier producto de consumo.",
+      "Porque los hipermercados no tienen aire acondicionado.",
+      "Porque los libros de texto deberían ser regalados por el Estado."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 113, Capítulo VI, Millás ironiza sobre cómo comprar manuales en el 'híper' afecta la creencia del niño en la cultura."
+  },
+  {
+    "id": 90,
+    "pregunta": "Gimeno Sacristán sostiene que el libro de texto ejerce hoy un:",
+    "opciones": [
+      "Papel secundario frente a Internet.",
+      "Monopolio de la transmisión de información y conocimiento en las aulas.",
+      "Efecto negativo en la vista de los alumnos.",
+      "Rol exclusivo para las clases de gimnasia."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 113 y 114, se señala que el libro de texto continúa teniendo el monopolio de la información en los centros escolares."
+  },
+  {
+    "id": 91,
+    "pregunta": "¿A qué se refiere Gimeno con que el libro de texto es un 'reductor de la experiencia'?",
+    "opciones": [
+      "A que es un libro muy pequeño que cabe en el bolsillo.",
+      "A que sustituye la experiencia directa y diversa por una codificación especializada y simplificada.",
+      "A que ayuda a los niños a tener menos años de escolaridad.",
+      "A que reduce el costo económico de la educación."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 115, sección 6.2 y Figura 6.2, se explica que el libro es el último paso en la especialización pedagógica que reduce la complejidad cultural."
+  },
+  {
+    "id": 92,
+    "pregunta": "En la escuela, la 'experiencia directa' (vivencial) es sustituida mayoritariamente por:",
+    "opciones": [
+      "Viajes constantes al extranjero.",
+      "Experiencias codificadas (textos, signos abstractos).",
+      "Trabajo manual en fábricas reales.",
+      "Charlas con científicos famosos todos los días."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 116, se indica que la escuela recurre a fuentes codificadas para acceder a lo que otros pensaron o hicieron en otros tiempos."
+  },
+  {
+    "id": 93,
+    "pregunta": "¿Qué nombre recibe históricamente el tipo de libro ilustrado usado para 'letrar' a los ignorantes, mencionado por Gimeno?",
+    "opciones": [
+      "Diccionario Enciclopédico.",
+      "Biblia de los pobres (Biblia pauperum).",
+      "Manual del Maestro.",
+      "Códice de los reyes."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 116, sección 6.2, se cita este ejemplo histórico de enseñanza a través de imágenes para iletrados."
+  },
+  {
+    "id": 94,
+    "pregunta": "Según Perrenoud, el maestro que sigue de cerca las 'metodologías oficiales' busca principalmente:",
+    "opciones": [
+      "Ser despedido por falta de originalidad.",
+      "Garantizar una normalización del currículum real.",
+      "Hacer que los alumnos se diviertan más.",
+      "Evitar corregir exámenes."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 92, sección 5.1, se explica que la formación docente busca que el maestro normalice el currículum real siguiendo las pautas oficiales."
+  },
+  {
+    "id": 95,
+    "pregunta": "En el 'currículum real', Perrenoud destaca que los 'pecados por omisión' más visibles son:",
+    "opciones": [
+      "No llevar el uniforme limpio.",
+      "Dejar de lado temas esenciales del programa (ej. casi no dar gramática).",
+      "Olvidar el nombre de los alumnos.",
+      "No usar la pizarra en todas las clases."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 94, sección 5.1, se señala que omitir contenidos clave atrae rápidamente la atención de padres y administración."
+  },
+  {
+    "id": 96,
+    "pregunta": "Para Bourdieu, los individuos 'programados' por el sistema de enseñanza poseen un:",
+    "opciones": [
+      "Microchip insertado en el cerebro.",
+      "Programa homogéneo de percepción, pensamiento y acción.",
+      "Odio profundo hacia los libros.",
+      "Título de ingeniería desde los 10 años."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 102, sección 5.4 (citando a Bourdieu), se define a los alumnos como productos de un sistema que dota de esquemas comunes de pensamiento."
+  },
+  {
+    "id": 97,
+    "pregunta": "Un componente del 'oficio de alumno' que facilita el trabajo del profesor es:",
+    "opciones": [
+      "Aprender a copiar sin ser visto.",
+      "Aprender a aprender (autonomía en la organización del trabajo).",
+      "Saber cuándo suena la campana del recreo.",
+      "Aprender a esconder los libros de los compañeros."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 106, sección 5.5, se explica que si el alumno es autónomo, el maestro puede dejarle más libertad y dedicarse a otros alumnos."
+  },
+  {
+    "id": 98,
+    "pregunta": "¿Qué sucede con el interés del alumno ante el carácter repetitivo de las tareas escolares?",
+    "opciones": [
+      "Aumenta exponencialmente con cada repetición.",
+      "Se esfuma, convirtiendo el descubrimiento inicial en rutina aburrida.",
+      "Se mantiene intacto gracias al libro de texto.",
+      "Depende únicamente de si el alumno ha desayunado bien."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 111, sección 5.7, Perrenoud describe cómo el interés por una novedad (ej. las primeras sumas) desaparece por la repetición constante."
+  },
+  {
+    "id": 99,
+    "pregunta": "En la vida en el aula, ¿qué implica para el alumno la 'visibilidad' del trabajo?",
+    "opciones": [
+      "Que debe usar gafas graduadas obligatoriamente.",
+      "Que su proceso de producción es constantemente observado y supervisado por el maestro.",
+      "Que todos los trabajos se cuelgan en las paredes del centro.",
+      "Que no puede trabajar si no hay luz solar."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 112, sección 5.7, se explica que, a diferencia de otros oficios, el trabajo del alumno es siempre visible para el maestro."
+  },
+  {
+    "id": 100,
+    "pregunta": "Según Gimeno, el mayor enemigo de la lectura en la escuela es:",
+    "opciones": [
+      "La televisión y los videojuegos.",
+      "Las desafortunadas prácticas dominantes de leer a las que se somete a los alumnos.",
+      "La falta de bibliotecas en las ciudades.",
+      "El alto precio del papel."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 113, Capítulo VI, el autor afirma que el problema no es lo audiovisual, sino cómo se enseña a leer en la escolaridad."
+  },
+  {
+    "id": 101,
+    "pregunta": "El libro de texto se diferencia de un libro de literatura en que:",
+    "opciones": [
+      "El de texto es para estudiar y hacer ejercicios; el otro para placer o entretenimiento.",
+      "El de texto no tiene autor conocido.",
+      "El de texto siempre está escrito en latín.",
+      "No hay ninguna diferencia, son exactamente iguales."
+    ],
+    "correcta": 0,
+    "explicacion": "En la página 114, sección 6.1, se explica que la apariencia y uso del libro de texto lo ligan a tareas académicas y no al ocio."
+  },
+  {
+    "id": 102,
+    "pregunta": "¿Qué crítica hace Gimeno a la relación entre texto e imagen en los manuales actuales?",
+    "opciones": [
+      "Que no hay ninguna imagen.",
+      "Que la imagen es a menudo solo un elemento de ocupación de espacio sin interacción real con el significado del texto.",
+      "Que las imágenes son demasiado bonitas y distraen.",
+      "Que las imágenes sustituyen completamente a las palabras."
+    ],
+    "correcta": 1,
+    "explicacion": "En las páginas 116 y 118, se señala que el formato a menudo no cuida la interacción pedagógica entre ambos códigos."
+  },
+  {
+    "id": 103,
+    "pregunta": "Para Perrenoud, las clases 'activas' se distinguen de las 'tradicionales' por:",
+    "opciones": [
+      "No tener paredes en el aula.",
+      "El lugar, modo y justificación de las tareas dentro de un proyecto de conjunto.",
+      "Que los alumnos no tienen que hacer exámenes nunca.",
+      "Que el profesor no habla durante toda la mañana."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 92, sección 5.1, se indica que la diferencia reside en cómo se integran las tareas en una metodología más global."
+  },
+  {
+    "id": 104,
+    "pregunta": "En el currículum oculto, ¿qué se aprende sobre la jerarquía según el texto?",
+    "opciones": [
+      "Que todos los seres humanos son iguales ante la ley siempre.",
+      "A vivir como normales y legítimas la desigual distribución del poder y las categorías.",
+      "Que el alumno tiene más poder que el profesor.",
+      "Que el director del centro es un empleado de los alumnos."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 100, sección 5.4, se detalla que la escuela enseña a vivir en una sociedad jerarquizada."
+  },
+  {
+    "id": 105,
+    "pregunta": "Según Perrenoud, el hábito profesional del maestro incluye 'esquemas generadores' que le permiten:",
+    "opciones": [
+      "Generar electricidad para el aula.",
+      "Componer lecciones, encontrar ejemplos e improvisar ante imprevistos.",
+      "Ganar más dinero cada mes automáticamente.",
+      "Dormir mientras los alumnos trabajan."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 93, sección 5.1, se explica que estos esquemas le permiten dar forma y sustancia al currículum real diariamente."
+  },
+  {
+    "id": 106,
+    "pregunta": "La 'fragmentación' del trabajo escolar se debe en gran medida a:",
+    "opciones": [
+      "La falta de papel en las escuelas.",
+      "La existencia de un horario semanal rígido que divide el tiempo en tramos cortos.",
+      "Que los alumnos rompen los libros a propósito.",
+      "Que las clases duran 24 horas seguidas."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 111, sección 5.7, se analiza cómo el horario obliga a saltar de una actividad a otra constantemente."
+  },
+  {
+    "id": 107,
+    "pregunta": "En la evaluación formal, Perrenoud indica que el maestro suele evaluar:",
+    "opciones": [
+      "Lo que el alumno sabe de cultura general fuera de la escuela.",
+      "En función de lo que en realidad ha hecho con los alumnos en clase (currículum real).",
+      "Solo lo que aparece en las noticias de la televisión.",
+      "La ropa que llevan los estudiantes ese día."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 91, sección 5.1, se afirma que al maestro le parece equitativo evaluar lo que efectivamente se trabajó en el aula."
+  },
+  {
+    "id": 108,
+    "pregunta": "Gimeno afirma que si los profesores no tuvieran el libro de texto, se sentirían sin su:",
+    "opciones": [
+      "Enemigo principal.",
+      "Hermano y compañero insustituible.",
+      "Sueldo mensual.",
+      "Coche particular."
+    ],
+    "correcta": 1,
+    "explicacion": "En las páginas 113 y 114, el autor reflexiona sobre la dependencia que el profesorado tiene de esta herramienta para desarrollar su labor."
+  },
+  {
+    "id": 109,
+    "pregunta": "¿Qué tipo de aprendizaje es considerado 'oculto por partida doble'?",
+    "opciones": [
+      "Aprender a leer y escribir al mismo tiempo.",
+      "La transformación del hábito (esquemas de percepción y acción que permanecen inconscientes).",
+      "Hacer trampas en dos exámenes distintos.",
+      "Estudiar dos idiomas extranjeros a la vez."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 101, sección 5.4, se explica que es doblemente oculto porque se desconoce el papel de la escuela y el esquema mismo es inconsciente."
+  },
+  {
+    "id": 110,
+    "pregunta": "Según el texto, la escuela es tradicionalmente más partidaria de:",
+    "opciones": [
+      "La creatividad y la rebeldía.",
+      "El orden y el esfuerzo.",
+      "La pereza y el juego libre permanente.",
+      "La moda y el cine actual."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 107, sección 5.5, se señala que la escuela prioriza el orden y la aplicación en el trabajo escolar."
+  },
+  {
+    "id": 111,
+    "pregunta": "Para Bourdieu, ¿cuál es la función de 'integración lógica' de la escuela?",
+    "opciones": [
+      "Enseñar a usar la calculadora a todos.",
+      "Proveer esquemas de pensamiento comunes que permitan la comunicación entre una generación.",
+      "Asegurar que todos los niños jueguen al mismo deporte.",
+      "Eliminar las diferencias de altura entre los alumnos."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 102, sección 5.4, se cita a Bourdieu explicando que la escuela crea un código común para asociar sentidos similares a las cosas."
+  },
+  {
+    "id": 112,
+    "pregunta": "Un alumno que a los 10 años no sabe leer ni escribir es definido como un:",
+    "opciones": [
+      "Genio incomprendido.",
+      "Inadaptado escolar (aunque sea dócil y pacífico).",
+      "Líder nato.",
+      "Alumno que ahorra papel."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 105, sección 5.5, se explica que sin ese saber básico no puede desempeñar su 'oficio' de alumno."
+  },
+  {
+    "id": 113,
+    "pregunta": "Gimeno califica la metodología que abusa del uso de signos abstractos escritos como:",
+    "opciones": [
+      "Científica.",
+      "Libresca.",
+      "Moderna.",
+      "Artística."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 118, el autor utiliza el término despectivo 'libresca' para referirse al exceso de dependencia del texto escrito."
+  },
+  {
+    "id": 114,
+    "pregunta": "En las situaciones de investigación, el 'trabajar bien' consiste en:",
+    "opciones": [
+      "Terminar en menos de un minuto.",
+      "Dar pruebas de imaginación, curiosidad y perseverancia ante un enigma.",
+      "Copiar la respuesta del libro de soluciones.",
+      "No hacer nada y esperar a que el maestro dé la respuesta."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 109, sección 5.6, se listan los criterios de excelencia para el trabajo de investigación."
+  },
+  {
+    "id": 115,
+    "pregunta": "¿Qué aspecto del espacio se interioriza en el currículum oculto según Hall?",
+    "opciones": [
+      "La altura del techo del aula.",
+      "Las distancias adecuadas en la interacción social y las fronteras invisibles.",
+      "El color de las paredes para pintar mejor.",
+      "La cantidad de baldosas que tiene el pasillo."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 101, sección 5.4, se menciona que se aprende la referencia al espacio privado y público."
+  },
+  {
+    "id": 116,
+    "pregunta": "Perrenoud afirma que 'tener éxito en la escuela' supone, fundamentalmente:",
+    "opciones": [
+      "Ser el más fuerte físicamente.",
+      "Aprender las reglas del juego de la organización.",
+      "Tener los padres más ricos de la zona.",
+      "Llegar el primero todos los días."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 104, sección 5.5, el autor subraya que el éxito implica asimilar la cultura interna de la institución."
+  },
+  {
+    "id": 117,
+    "pregunta": "¿Por qué el maestro puede ser 'prudente' al tratar temas como sexualidad o política?",
+    "opciones": [
+      "Porque no sabe nada de esos temas.",
+      "Porque son temas delicados que pueden causar conflictos con los valores familiares o la neutralidad escolar.",
+      "Porque el libro de texto no tiene fotos de esos temas.",
+      "Porque los alumnos se duermen si se habla de eso."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 93, sección 5.1, se analiza cómo el docente maneja los temas 'delicados' fuera del currículum tradicional."
+  },
+  {
+    "id": 118,
+    "pregunta": "El 'sentido común', según el texto, se define precisamente por el:",
+    "opciones": [
+      "Uso de la lógica matemática avanzada.",
+      "Desconocimiento del carácter arbitrario de nuestra visión del mundo.",
+      "Estudio de la filosofía griega.",
+      "Conocimiento de todas las leyes del país."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 103, sección 5.4, se explica que creemos que nuestra forma de ver la realidad es la única posible."
+  },
+  {
+    "id": 119,
+    "pregunta": "¿Cuál de estas tareas NO forma parte del 'pan nuestro de cada día' del escolar según Perrenoud?",
+    "opciones": [
+      "Copiar, resumir y responder preguntas.",
+      "Resolver problemas y clasificar objetos.",
+      "Pilotar aviones comerciales en horario de clase.",
+      "Analizar formas verbales y buscar en el diccionario."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 92, sección 5.1, se enumeran las tareas rutinarias, entre las cuales obviamente no está pilotar aviones."
+  },
+  {
+    "id": 120,
+    "pregunta": "Para Gimeno, la 'gran oportunidad' que ofrece la escuela a través del lenguaje abstracto es:",
+    "opciones": [
+      "Poder hablar sin usar las manos.",
+      "Poder acceder a todo el archivo de la experiencia humana escrita (alfabetización).",
+      "Poder escribir cartas de amor en secreto.",
+      "Poder leer los carteles de las tiendas de comida."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 116, el autor destaca que estar alfabetizado abre las puertas a toda la cultura codificada de la humanidad."
+  },
+{
+    "id": 121,
+    "pregunta": "Según Perrenoud, en la etapa de preparación el maestro hace un 'trabajo de aficionado', pero en la animación del grupo se enfrenta a:",
+    "opciones": [
+      "Una ejecución mecánica del plan.",
+      "Una supervisión burocrática externa.",
+      "Una desobediencia total y constante.",
+      "Una improvisación obligada ante la complejidad."
+    ],
+    "correcta": 3,
+    "explicacion": "En la página 95, sección 5.2, el autor sitúa la práctica pedagógica entre la preparación previa y la improvisación necesaria para gestionar el grupo real."
+  },
+  {
+    "id": 122,
+    "pregunta": "En la gestión del currículum real, ¿quiénes disponen de un control indirecto sobre el ritmo e intensidad del trabajo escolar?",
+    "opciones": [
+      "Los inspectores de educación.",
+      "Los alumnos, a través de su buena voluntad o resistencia.",
+      "Los editores de libros de texto.",
+      "Los padres de familia desde sus hogares."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 96, sección 5.2, se explica que el volumen de trabajo realizado es independiente de la voluntad del maestro, pues depende del ritmo de los alumnos."
+  },
+  {
+    "id": 123,
+    "pregunta": "A diferencia de siglos anteriores, el discurso pedagógico actual sobre el 'currículum moral' se caracteriza por ser:",
+    "opciones": [
+      "Eufemizado: usa términos como 'autonomía' o 'creatividad' para disimular la integración social.",
+      "Crudo y directo sobre la formación de siervos.",
+      "Inexistente, ya que la escuela hoy solo enseña ciencia.",
+      "Únicamente religioso y basado en el pecado."
+    ],
+    "correcta": 0,
+    "explicacion": "En la página 98, sección 5.3, el autor señala que hoy nos expresamos en términos personalistas (desarrollo, identidad) obviando la contradicción con las exigencias sociales."
+  },
+  {
+    "id": 124,
+    "pregunta": "Para Jackson (1968), uno de los aprendizajes del currículum oculto es aprender a 'matar el tiempo', lo que se traduce pedagógicamente en:",
+    "opciones": [
+      "La pérdida total de la inteligencia.",
+      "El odio hacia el maestro.",
+      "La adquisición de la paciencia ante la espera constante.",
+      "La mejora del rendimiento físico."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 100, sección 5.4, se indica que el alumno aprende a esperar y a acostumbrarse al aburrimiento como componente inevitable de la clase."
+  },
+  {
+    "id": 125,
+    "pregunta": "¿Qué aspecto de la vida escolar ayuda a los adultos a tolerar la promiscuidad con desconocidos en transportes públicos o estadios?",
+    "opciones": [
+      "Las clases de educación física.",
+      "Los exámenes de matemáticas.",
+      "El uso del uniforme escolar.",
+      "El aprendizaje oculto de 'vivir dentro de una masa' en espacios exiguos."
+    ],
+    "correcta": 3,
+    "explicacion": "En la página 101, sección 5.4, se explica que la tolerancia al contacto con otros en la vida adulta se debe, en parte, a la experiencia escolar de vivir siempre rodeado de otros."
+  },
+  {
+    "id": 126,
+    "pregunta": "Según la tesis de Bourdieu, la escuela no solo integra moralmente, sino que cumple una función de:",
+    "opciones": [
+      "Aislamiento geográfico.",
+      "Integración lógica (proveer esquemas de pensamiento comunes).",
+      "Selección genética de los más aptos.",
+      "Promoción exclusiva del deporte."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 102, sección 5.4, Bourdieu afirma que los individuos son 'programados' por la escuela con un código común para asociar sentidos similares a las cosas."
+  },
+  {
+    "id": 127,
+    "pregunta": "El 'sentido común' se define en el texto, desde una perspectiva antropológica, como:",
+    "opciones": [
+      "El desconocimiento del carácter arbitrario de nuestra visión del mundo.",
+      "La capacidad de sumar y restar sin usar los dedos.",
+      "El instinto animal de supervivencia.",
+      "La memorización de las leyes constitucionales."
+    ],
+    "correcta": 0,
+    "explicacion": "En la página 103, sección 5.4, se explica que el sentido común nos hace creer que nuestra forma de ver la realidad es la única con sentido."
+  },
+  {
+    "id": 128,
+    "pregunta": "¿Qué sucede con el alumno que tiene éxito en la escuela según Perrenoud?",
+    "opciones": [
+      "Es siempre el más inteligente de su barrio.",
+      "Ha aprendido a copiar sin que el profesor se dé cuenta.",
+      "Ha aprendido las reglas del juego y desempeña bien su 'oficio' de alumno.",
+      "Recibe un premio económico por parte del Estado."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 104, sección 5.5, se subraya que tener éxito supone aprender las reglas de la organización escolar y su cultura interna."
+  },
+  {
+    "id": 129,
+    "pregunta": "Un componente esencial del 'oficio de alumno' que no figura en los planes de estudio pero es vital para la organización es:",
+    "opciones": [
+      "Saber jugar al fútbol en el recreo.",
+      "No perturbar el orden ni exigir una atención especial constante.",
+      "Saber el nombre de todos los directores anteriores.",
+      "Traer la comida de casa todos los días."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 106, sección 5.5, se explica que asimilar el currículum supone ser capaz de funcionar en el aula sin alterar el orden establecido."
+  },
+  {
+    "id": 130,
+    "pregunta": "En la escuela, ¿qué es la 'excelencia escolar' en términos prácticos y cotidianos?",
+    "opciones": [
+      "Ganar un premio Nobel a los 12 años.",
+      "Sacar un 10 en todas las asignaturas oficiales.",
+      "Ser el más rápido en la carrera de 100 metros.",
+      "El ejercicio cualificado del 'oficio de alumno' (cumplir tareas y normas)."
+    ],
+    "correcta": 3,
+    "explicacion": "En la página 107, sección 5.5, se concluye que la excelencia se identifica muchas veces con el buen desempeño del rol que la institución espera."
+  },
+  {
+    "id": 131,
+    "pregunta": "Al cambiar de curso, ¿a qué debe adaptarse el alumno además de a un nuevo programa?",
+    "opciones": [
+      "A las exigencias particulares y el estilo de autoridad de un nuevo maestro.",
+      "A un nuevo idioma extranjero obligatorio cada año.",
+      "A un edificio escolar diferente en cada nivel.",
+      "A una nueva familia asignada por la escuela."
+    ],
+    "correcta": 0,
+    "explicacion": "En la página 107, sección 5.6, se destaca que el alumno debe adaptarse anualmente a la cultura y reglas específicas de cada profesor."
+  },
+  {
+    "id": 132,
+    "pregunta": "En las rutinas de los 'ejercicios individuales', ¿qué conducta define que un alumno está 'trabajando bien'?",
+    "opciones": [
+      "Hacer preguntas complejas sobre filosofía al maestro.",
+      "Ayudar a todos sus compañeros para terminar juntos.",
+      "Ponerse a trabajar con rapidez sin plantear preguntas inútiles.",
+      "Dibujar en los márgenes del cuaderno para relajarse."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 108, sección 5.6 (punto 3), se listan las normas de excelencia para ejercicios individuales, destacando la rapidez y la falta de interrupciones."
+  },
+  {
+    "id": 133,
+    "pregunta": "En las 'situaciones de investigación', trabajar bien NO consiste en encontrar la respuesta rápido, sino en:",
+    "opciones": [
+      "Esperar a que el maestro dicte la solución.",
+      "Dar pruebas de imaginación, curiosidad y perseverancia ante el enigma.",
+      "Copiar el resultado de una enciclopedia antigua.",
+      "Hacer un dibujo bonito del problema sin resolverlo."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 109, sección 5.6 (punto 5), se definen los criterios para el trabajo de investigación como compromiso intelectual y método."
+  },
+  {
+    "id": 134,
+    "pregunta": "Para la mayoría de los docentes, ¿qué es vital conseguir de sus alumnos a corto plazo?",
+    "opciones": [
+      "Que sean genios científicos.",
+      "Que ganen todas las competiciones deportivas.",
+      "Que critiquen el sistema político del país.",
+      "Orden y aplicación en su trabajo escolar."
+    ],
+    "correcta": 3,
+    "explicacion": "En la página 107, sección 5.5, se indica que la escuela es más partidaria del orden y el esfuerzo que de la creatividad crítica."
+  },
+  {
+    "id": 135,
+    "pregunta": "Perrenoud afirma que el trabajo escolar se aproxima a las tareas profesionales por motivos lucrativos porque:",
+    "opciones": [
+      "Solo se soporta para obtener ventajas (notas) o evitar problemas, sin interés real.",
+      "Los alumnos reciben un sueldo mensual por estudiar.",
+      "El maestro es el dueño de la empresa escolar.",
+      "Se produce mercancía para la venta en el mercado exterior."
+    ],
+    "correcta": 0,
+    "explicacion": "En la página 110, sección 5.7, se analiza que el trabajo escolar a menudo carece de interés intrínseco y se hace por conformismo."
+  },
+  {
+    "id": 136,
+    "pregunta": "La 'fragmentación' extrema del trabajo escolar obliga al alumno a:",
+    "opciones": [
+      "Estudiar un solo tema durante todo el mes.",
+      "Poder volar de un aula a otra en segundos.",
+      "Comprometerse en tareas cortas y saltar de una a otra cada 20 o 30 minutos.",
+      "No usar reloj nunca para no estresarse."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 111, sección 5.7, se describe el 'despropósito' de cambiar constantemente de actividad según el horario rígido."
+  },
+  {
+    "id": 137,
+    "pregunta": "¿Qué diferencia el trabajo del alumno del de otros oficios en cuanto a su proceso de producción?",
+    "opciones": [
+      "Que el alumno trabaja siempre a oscuras.",
+      "Que es siempre visible y supervisado constantemente por el maestro.",
+      "Que el alumno puede ocultar sus errores para siempre.",
+      "Que no requiere el uso de las manos."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 112, sección 5.7, se explica que, a diferencia de otros oficios, el maestro puede 'mirar por encima del hombro' del alumno en todo momento."
+  },
+  {
+    "id": 138,
+    "pregunta": "Gimeno Sacristán afirma que el libro de texto es el 'último reductor de la experiencia' porque:",
+    "opciones": [
+      "Es el libro más barato del mercado.",
+      "Pesa muy poco y es fácil de llevar.",
+      "Tiene muy pocas páginas de lectura real.",
+      "Sustituye la complejidad del mundo por una codificación especializada y simplificada."
+    ],
+    "correcta": 3,
+    "explicacion": "En la página 115, sección 6.2 y Figura 6.2, se explica que el libro de texto representa la máxima especialización pedagógica que limita las fuentes del saber."
+  },
+  {
+    "id": 139,
+    "pregunta": "El concepto de 'experiencia indirecta' o vicaria en la escuela significa que aprendemos a través de:",
+    "opciones": [
+      "El archivo de la experiencia de otros (textos, documentos, imágenes).",
+      "Nuestros propios viajes espaciales personales.",
+      "La manipulación directa de todos los volcanes del mundo.",
+      "Conversaciones diarias con personas muertas hace siglos."
+    ],
+    "correcta": 0,
+    "explicacion": "En la página 116, sección 6.2, se indica que, al no poder vivir todo directamente, la escuela recurre a fuentes codificadas de otros tiempos y lugares."
+  },
+  {
+    "id": 140,
+    "pregunta": "¿Qué denominación despectiva utiliza Gimeno para la metodología que abusa de los signos abstractos escritos?",
+    "opciones": [
+      "Cientificista.",
+      "Tecnológica.",
+      "Libresca.",
+      "Digital."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 118, el autor critica la enseñanza que se queda solo en el código escrito del manual como algo 'libresco'."
+  },
+  {
+    "id": 141,
+    "pregunta": "Según Millás, citado por Gimeno, comprar los libros de texto en un hipermercado:",
+    "opciones": [
+      "Es una gran oportunidad para ahorrar dinero.",
+      "Degrada la consideración social del libro al nivel de las 'huevas de bacalao'.",
+      "Permite que los niños lean más mientras hacen la compra.",
+      "Es la única forma de que la cultura llegue a los pobres."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 113, Capítulo VI, Millás ironiza sobre cómo el lugar de venta afecta la creencia del niño en el valor sagrado de la cultura."
+  },
+  {
+    "id": 142,
+    "pregunta": "¿Cuál es la 'estrella' indiscutible de este libro según la Introducción de Ana Sacristán?",
+    "opciones": [
+      "El maestro de primaria.",
+      "El Ministerio de Educación.",
+      "El presupuesto escolar.",
+      "El currículum."
+    ],
+    "correcta": 3,
+    "explicacion": "En la página 11, sección 'Introducción', se afirma textualmente: 'Como resulta obvio ya desde el título, el currículum es la estrella de este libro'."
+  },
+  {
+    "id": 143,
+    "pregunta": "La 'Biblias de los pobres' (Biblia pauperum) son citadas en el texto como un antecedente de:",
+    "opciones": [
+      "La enseñanza a través de la imagen para iletrados (similar al libro de texto ilustrado).",
+      "Los primeros ordenadores portátiles de la Iglesia.",
+      "La prohibición de leer libros en el siglo XV.",
+      "El uso de la radio en las escuelas rurales."
+    ],
+    "correcta": 0,
+    "explicacion": "En la página 116, sección 6.2, se mencionan como ejemplo histórico de transmisión de mensajes mediante textos e imágenes combinados."
+  },
+  {
+    "id": 144,
+    "pregunta": "Para Perrenoud, el currículum real es el resultado de una confrontación constante llamada:",
+    "opciones": [
+      "Guerra civil pedagógica.",
+      "Examen final trimestral.",
+      "Negociación (hora a hora) de las estrategias de maestro y alumnos.",
+      "Dictadura del libro de texto."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 96, sección 5.2, el autor subraya que el currículum real se negocia en la práctica diaria ante las resistencias de los estudiantes."
+  },
+  {
+    "id": 145,
+    "pregunta": "Según Gimeno, el libro de texto ejerce en las aulas un:",
+    "opciones": [
+      "Papel irrelevante.",
+      "Monopolio de la transmisión de información y conocimiento.",
+      "Efecto de mejora de la visión ocular.",
+      "Rol secundario frente a los experimentos de laboratorio."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 113 y 114, se señala que el libro de texto continúa teniendo el monopolio informativo en los centros escolares."
+  },
+  {
+    "id": 146,
+    "pregunta": "Perrenoud afirma que el maestro 'normaliza' el currículum real basándose en:",
+    "opciones": [
+      "Sus sueños nocturnos.",
+      "Las leyes de la física cuántica.",
+      "Su propia ideología religiosa exclusivamente.",
+      "Las metodologías oficiales y medios de enseñanza propuestos."
+    ],
+    "correcta": 3,
+    "explicacion": "En la página 92, sección 5.1, se explica que el docente utiliza los recursos oficiales para dar forma al trabajo de clase diario."
+  },
+  {
+    "id": 147,
+    "pregunta": "En la formación del maestro, el dominio de la cultura que debe enseñar se apoya tanto en su formación pedagógica como en:",
+    "opciones": [
+      "Su escolaridad general previa.",
+      "Su herencia genética familiar.",
+      "El número de libros que tiene en su casa.",
+      "Su salario mensual actual."
+    ],
+    "correcta": 0,
+    "explicacion": "En las páginas 92 y 93, se indica que el docente moviliza todo lo que sabe (su propia historia escolar) para concretar el currículum."
+  },
+  {
+    "id": 148,
+    "pregunta": "Para Perrenoud, los 'pecados por omisión' en el currículum real se refieren a:",
+    "opciones": [
+      "Olvidar traer la tiza a clase.",
+      "No saludar al director por las mañanas.",
+      "Dejar de lado temas esenciales del programa (como casi no dar gramática).",
+      "No usar el ordenador en las clases de gimnasia."
+    ],
+    "correcta": 2,
+    "explicacion": "En la página 94, sección 5.1, se explica que omitir partes del programa oficial es lo que más rápido detectan los padres y la inspección."
+  },
+  {
+    "id": 149,
+    "pregunta": "El 'currículum oculto' en su sentido más profundo atañe principalmente a:",
+    "opciones": [
+      "Los nombres de los ríos que nadie estudia.",
+      "La formación del hábito y los esquemas de pensamiento (sistemas de percepción).",
+      "Las clases que se dan los domingos por la noche.",
+      "Los códigos secretos para entrar en la biblioteca."
+    ],
+    "correcta": 1,
+    "explicacion": "En la página 99, sección 5.4, se afirma que los aspectos más ocultos son los sistemas de pensamiento interiorizados por los alumnos."
+  },
+  {
+    "id": 150,
+    "pregunta": "Según el texto, aprender el 'oficio de alumno' es condición necesaria para:",
+    "opciones": [
+      "Poder salir de la escuela antes de tiempo.",
+      "Ganar dinero trabajando en una fábrica a los 8 años.",
+      "Ser el jefe de los otros compañeros de clase.",
+      "Sobrevivir y tener éxito dentro de la organización escolar."
+    ],
+    "correcta": 3,
+    "explicacion": "En la página 104, sección 5.5, se describe este aprendizaje como el dominio de los códigos y valores necesarios para funcionar en la institución."
+  }
+]

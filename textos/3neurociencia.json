@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Quién es el autor de la teoría del 'cerebro triuno' que postula que el cerebro humano evolucionó en tres niveles: reptiliano, emocional y racional?",
+    "opciones": [
+      "Daniel Goleman",
+      "Paul D. MacLean",
+      "Howard Gardner",
+      "Paul Ekman"
+    ],
+    "correcta": 1,
+    "explicacion": "El médico y neurocientífico Paul D. MacLean propuso que el cerebro humano es en realidad tres en uno, habiendo evolucionado de abajo hacia arriba conservando estructuras de sus antecesores. Referencia: Página 11, Capítulo 1: Cerebro triuno. [1]"
+  },
+  {
+    "id": 2,
+    "pregunta": "Dentro del modelo del cerebro triuno, ¿de qué funciones se encarga primordialmente el cerebro reptiliano?",
+    "opciones": [
+      "Pensamiento abstracto y funciones ejecutivas.",
+      "Procesamiento de emociones y memoria a largo plazo.",
+      "Acciones y funciones básicas como respirar, latir del corazón y supervivencia instintiva.",
+      "Desarrollo del lenguaje y la inteligencia intrapersonal."
+    ],
+    "correcta": 2,
+    "explicacion": "El cerebro reptil es la estructura más primitiva y regula acciones vitales automáticas para el mantenimiento de la homeostasis y la supervivencia inmediata. Referencia: Página 12, Capítulo 1: Cerebro triuno. [2]"
+  },
+  {
+    "id": 3,
+    "pregunta": "¿A qué se refiere el término 'retraso genómico' mencionado en el texto?",
+    "opciones": [
+      "A la incapacidad del cerebro de generar nuevas redes neuronales después de la infancia.",
+      "Al desfase entre nuestro genoma (diseñado para la sabana) y el mundo artificial creado por el hombre.",
+      "A la pérdida de plasticidad cerebral debido al uso excesivo de tecnología.",
+      "A la mutación genética que impide el aprendizaje de habilidades sociales."
+    ],
+    "correcta": 1,
+    "explicacion": "El retraso genómico describe cómo nuestro cerebro, preparado para la vida en la sabana, enfrenta un entorno artificial muy diferente, lo cual genera enfermedades de la civilización. Referencia: Página 15, Capítulo 1: Cerebro triuno. [3]"
+  },
+  {
+    "id": 4,
+    "pregunta": "La capacidad del cerebro para adaptarse, reorganizarse y modificarse durante toda la vida se denomina:",
+    "opciones": [
+      "Neuroplasticidad",
+      "Neurogénesis",
+      "Sinapsis eléctrica",
+      "Homeostasis"
+    ],
+    "correcta": 0,
+    "explicacion": "La plasticidad es la capacidad innata del sistema nervioso para cambiar su estructura y funciones según el ambiente y la experiencia. Referencia: Página 16, Capítulo 1: Cerebro triuno. [4], [5]"
+  },
+  {
+    "id": 5,
+    "pregunta": "Según el documento, ¿cuál es la 'unidad básica del aprendizaje'?",
+    "opciones": [
+      "El hipocampo",
+      "La dopamina",
+      "La neurona",
+      "La amígdala"
+    ],
+    "correcta": 2,
+    "explicacion": "La neurona es la unidad básica del aprendizaje, responsable de crear nuevas redes ante cada nuevo conocimiento. Referencia: Página 17, Capítulo 1: Cerebro triuno. [6]"
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué nombre recibe el proceso en el que el cerebro desarma o desecha redes neuronales poco activas o inactivas?",
+    "opciones": [
+      "Neuroplasticidad positiva",
+      "Sinapsis química",
+      "Poda neuronal o plasticidad negativa",
+      "Neurogénesis"
+    ],
+    "correcta": 2,
+    "explicacion": "La plasticidad negativa implica desarmar redes poco activas para optimizar recursos cerebrales. Referencia: Página 18, Capítulo 1: Cerebro triuno / Capítulo 6. [7], [8]"
+  },
+  {
+    "id": 7,
+    "pregunta": "Para que un aprendizaje se consolide, ¿cuántas veces aproximadamente es necesario repetir la información con frecuencias diferentes?",
+    "opciones": [
+      "De 1 a 3 veces",
+      "Al menos 20 veces",
+      "De 7 a 10 veces",
+      "Solo una vez si hay emoción"
+    ],
+    "correcta": 2,
+    "explicacion": "Se requiere repetir de siete a diez frecuencias diferentes, reforzando de formas novedosas para que el aprendizaje se consolide. Referencia: Página 20, Capítulo 1: Cerebro triuno. [9]"
+  },
+  {
+    "id": 8,
+    "pregunta": "De acuerdo con Paul Ekman, ¿cuáles son las seis emociones básicas con las que nacemos?",
+    "opciones": [
+      "Miedo, asco, amor, sorpresa, ira y envidia.",
+      "Miedo, aversión, sorpresa, alegría, ira y tristeza.",
+      "Alegría, tristeza, culpa, orgullo, miedo y asombro.",
+      "Felicidad, calma, seguridad, miedo, ira y aversión."
+    ],
+    "correcta": 1,
+    "explicacion": "Las emociones primarias o básicas identificadas por Ekman son miedo, aversión, sorpresa, alegría, ira y tristeza. Referencia: Página 24, Capítulo 2: Las emociones... están en nuestro cerebro. [10]"
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Cómo influyen las emociones en el aprendizaje según el texto?",
+    "opciones": [
+      "No influyen, el aprendizaje es un proceso puramente racional.",
+      "Funcionan como motivadoras si son positivas o bloqueadoras si son negativas.",
+      "Solo las emociones negativas facilitan la memoria a largo plazo.",
+      "Las emociones solo afectan el comportamiento social, no el cognitivo."
+    ],
+    "correcta": 1,
+    "explicacion": "Un estado emocional negativo bloquea el aprendizaje, mientras que uno positivo lo motiva. Referencia: Página 25-26, Capítulo 2: Las emociones... están en nuestro cerebro. [11, 12]"
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Cuál es la diferencia fundamental entre 'emoción' y 'sentimiento'?",
+    "opciones": [
+      "La emoción es voluntaria y el sentimiento es instintivo.",
+      "La emoción es una reacción psicofisiológica inevitable, mientras que el sentimiento es opcional e implica interpretación racional.",
+      "No existe diferencia, son términos sinónimos.",
+      "El sentimiento ocurre en la amígdala y la emoción en los lóbulos prefrontales."
+    ],
+    "correcta": 1,
+    "explicacion": "Las emociones son reacciones automáticas e inevitables; el sentimiento permite elegir cómo manifestarlas usando los lóbulos prefrontales. Referencia: Página 28, Capítulo 2: Las emociones... están en nuestro cerebro. [13]"
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Qué estructura cerebral es responsable de determinar qué recuerdos se almacenan y es considerada el 'banco de la memoria emocional'?",
+    "opciones": [
+      "El hipotálamo",
+      "El neocórtex",
+      "La amígdala cerebral",
+      "El cerebelo"
+    ],
+    "correcta": 2,
+    "explicacion": "La amígdala es responsable de determinar qué recuerdos se almacenan y es el centro de la memoria emocional. Referencia: Página 31, 36-37, Capítulo 2 y 3. [14], [15], [16]"
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Qué sucede en el cerebro durante un 'secuestro amigdalar' según Daniel Goleman?",
+    "opciones": [
+      "La amígdala se apaga permitiendo un razonamiento lógico superior.",
+      "El individuo se deja llevar por el miedo o la angustia de modo no adaptativo, impidiendo una respuesta lógica.",
+      "Se produce una liberación masiva de serotonina que causa calma extrema.",
+      "El hipocampo borra todos los recuerdos recientes de forma permanente."
+    ],
+    "correcta": 1,
+    "explicacion": "El secuestro amigdalar ocurre cuando la desesperación o el miedo impiden encontrar respuestas adecuadas u lógicas. Referencia: Página 40, Capítulo 3: La amígdala cerebral. [17]"
+  },
+  {
+    "id": 13,
+    "pregunta": "En el proceso de enseñanza, ¿por qué es vital 'nivelar los estados emocionales' de los estudiantes?",
+    "opciones": [
+      "Para que la información pueda pasar de las redes instintivas-emocionales a las redes cognitivas-racionales.",
+      "Para asegurar que todos los alumnos saquen la misma nota.",
+      "Porque el cerebro reptiliano no puede funcionar sin emociones fuertes.",
+      "Para evitar que los alumnos utilicen su lóbulo frontal durante la clase."
+    ],
+    "correcta": 0,
+    "explicacion": "La información debe pasar por el filtro emocional antes de llegar al cerebro racional; si la amígdala está activada por amenaza, el paso se cierra. Referencia: Página 41-42, Capítulo 3: La amígdala cerebral. [18, 19]"
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Cuál fue el descubrimiento de Otto Loewi en 1921 respecto a la comunicación neuronal?",
+    "opciones": [
+      "Que las neuronas se comunican exclusivamente por impulsos eléctricos.",
+      "El descubrimiento de la estructura de doble hélice del ADN.",
+      "Que las neuronas se comunican mediante la liberación de sustancias químicas llamadas neurotransmisores.",
+      "Que la amígdala no existe en personas con alta inteligencia emocional."
+    ],
+    "correcta": 2,
+    "explicacion": "Loewi confirmó la teoría química de la transmisión nerviosa y descubrió la acetilcolina. Referencia: Página 43-44, Capítulo 4: Neurotransmisores. [20, 21]"
+  },
+  {
+    "id": 15,
+    "pregunta": "El circuito de recompensa cerebral en el aprendizaje se conoce por las siglas 'DAS'. ¿A qué neurotransmisores corresponden?",
+    "opciones": [
+      "Dopamina, Adrenalina, Serotonina.",
+      "Dopamina, Noradrenalina, Serotonina.",
+      "Dextrosa, Acetilcolina, Sustancia P.",
+      "Dopamina, Aminoácidos, Sales minerales."
+    ],
+    "correcta": 1,
+    "explicacion": "El circuito de recompensa DAS está formado por Dopamina (placer/motivación), Noradrenalina (acción/atención) y Serotonina (satisfacción/calma). Referencia: Página 49, Capítulo 4: Neurotransmisores. [22]"
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Cuál es la función principal de la dopamina en el contexto del aula?",
+    "opciones": [
+      "Inducir el sueño profundo durante las explicaciones largas.",
+      "Regular las emociones placenteras y motivar el movimiento para aprender.",
+      "Aumentar únicamente la presión arterial ante exámenes.",
+      "Inhibir la memoria a largo plazo."
+    ],
+    "correcta": 1,
+    "explicacion": "La dopamina regula el placer y la motivación, facilitando que la información pase al córtex prefrontal. Referencia: Página 45-46, 50, Capítulo 4. [23], [24], [25]"
+  },
+  {
+    "id": 17,
+    "pregunta": "Según el texto, ¿cuáles son los dispositivos básicos que deben estar presentes en cada proceso de aprendizaje?",
+    "opciones": [
+      "Computadora, internet y libros de texto.",
+      "Atención, Motivación, Memoria, Sensopercepción y Emoción.",
+      "Lectura, escritura, cálculo y dibujo.",
+      "Disciplina, silencio, repetición y castigo."
+    ],
+    "correcta": 1,
+    "explicacion": "El aprendizaje requiere de procesos selectivos, estados de excitabilidad y capacidades regulatorias complejas. Referencia: Página 55, Capítulo 5: El aprendizaje. [26]"
+  },
+  {
+    "id": 18,
+    "pregunta": "Howard Gardner identificó ocho campos de la inteligencia. ¿Cuál de ellas se caracteriza por una alta sensibilidad a los sonidos, ritmos y capacidad para cantar o componer?",
+    "opciones": [
+      "Inteligencia lingüística",
+      "Inteligencia musical",
+      "Inteligencia espacial",
+      "Inteligencia naturalista"
+    ],
+    "correcta": 1,
+    "explicacion": "La inteligencia musical implica sensibilidad a los sonidos y ritmos, y habilidad para cantar o tocar instrumentos. Referencia: Página 58, Capítulo 5: El aprendizaje. [27]"
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué funciones ejecutivas permiten a un estudiante organizar tareas y supervisar sus propios errores?",
+    "opciones": [
+      "Las funciones del cerebro reptiliano.",
+      "Las funciones de la neocorteza o cerebro racional.",
+      "Las reacciones automáticas de la amígdala.",
+      "El sistema olfatorio del cerebro mamífero."
+    ],
+    "correcta": 1,
+    "explicacion": "La neocorteza es responsable de planificar, organizar, supervisar errores y prever consecuencias. Referencia: Página 61-62, Capítulo 5: El aprendizaje. [28, 29]"
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Qué necesita el cerebro mamífero o límbico para funcionar correctamente en el aula?",
+    "opciones": [
+      "Oxígeno y rituales de supervivencia.",
+      "Desafíos abstractos y lógica pura.",
+      "Interacción social, buenos vínculos y bienestar emocional.",
+      "Silencio absoluto y aislamiento del grupo."
+    ],
+    "correcta": 2,
+    "explicacion": "Este cerebro necesita sentirse reconocido, motivado y con vínculos afectivos positivos para abrirse al aprendizaje. Referencia: Página 64, Capítulo 5: El aprendizaje. [30]"
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Qué médico recibió el Premio Nobel en 1906 por sus trabajos sobre la estructura del sistema nervioso y la plasticidad de las conexiones neuronales?",
+    "opciones": [
+      "Paul MacLean",
+      "Santiago Ramón y Cajal",
+      "Donald Hebb",
+      "Timothy Blis"
+    ],
+    "correcta": 1,
+    "explicacion": "Ramón y Cajal fue el primero en proponer la plasticidad en el número y fuerza de las conexiones neuronales como base de la memoria. Referencia: Página 66, Capítulo 6: Atención y memoria. [31]"
+  },
+  {
+    "id": 22,
+    "pregunta": "¿A qué se refiere la Potenciación a Largo Plazo (PLP)?",
+    "opciones": [
+      "A la muerte programada de neuronas por desuso.",
+      "A una intensificación duradera de la transmisión de señales entre dos neuronas resultante de su estimulación sincrónica.",
+      "Al proceso de olvidar información irrelevante después de un examen.",
+      "Al crecimiento de la amígdala durante la adolescencia."
+    ],
+    "correcta": 1,
+    "explicacion": "La PLP es uno de los mecanismos principales del aprendizaje y la memoria, armando redes estables. Referencia: Página 67, Capítulo 6: Atención y memoria. [32]"
+  },
+  {
+    "id": 23,
+    "pregunta": "Según Michael Posner, existen dos tipos de atención. ¿Cuál es la que requiere un gasto energético alto, como estudiar para un examen?",
+    "opciones": [
+      "Atención espontánea",
+      "Atención instintiva",
+      "Atención voluntaria",
+      "Atención amigdalar"
+    ],
+    "correcta": 2,
+    "explicacion": "La atención voluntaria es consciente y exige un esfuerzo energético significativo. Referencia: Página 70, Capítulo 6: Atención y memoria. [33]"
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Qué tipo de memoria tiene una duración de meses a años y produce cambios estructurales en el cerebro?",
+    "opciones": [
+      "Memoria sensorial",
+      "Memoria a corto plazo",
+      "Memoria de trabajo",
+      "Memoria a largo plazo o secundaria"
+    ],
+    "correcta": 3,
+    "explicacion": "La memoria a largo plazo implica cambios físicos en el cerebro y permite retener información por periodos prolongados. Referencia: Página 74, Capítulo 6: Atención y memoria. [34]"
+  },
+  {
+    "id": 25,
+    "pregunta": "La memoria declarativa se divide en dos sistemas: episódica y semántica. ¿Qué almacena la memoria semántica?",
+    "opciones": [
+      "Hechos personales y estados mentales del momento.",
+      "Habilidades motoras y procedimientos automáticos.",
+      "Conocimientos conceptuales y archivo de información general.",
+      "Reacciones de lucha o fuga ante peligros."
+    ],
+    "correcta": 2,
+    "explicacion": "La memoria semántica es un archivo de conocimientos conceptuales, a diferencia de la episódica que registra vivencias personales. Referencia: Página 75, Capítulo 6: Atención y memoria. [35]"
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Qué hormona es liberada por la respuesta amigdalina frente a la amenaza o el estrés, bloqueando el aprendizaje?",
+    "opciones": [
+      "Dopamina",
+      "Serotonina",
+      "Cortisol",
+      "Oxitocina"
+    ],
+    "correcta": 2,
+    "explicacion": "El cortisol es la hormona del estrés; altos niveles de esta bloquean la entrada de información a la corteza cerebral. Referencia: Página 78, Capítulo 6: Atención y memoria. [36]"
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Qué función cumple el SARA (Sistema Activador Reticular Ascendente) en el cerebro del estudiante?",
+    "opciones": [
+      "Producir saliva para la digestión.",
+      "Determinar qué tipo de información sensorial debe pasar al sistema límbico y al cerebro superior.",
+      "Almacenar exclusivamente datos matemáticos.",
+      "Controlar los movimientos involuntarios de las piernas."
+    ],
+    "correcta": 1,
+    "explicacion": "El SARA filtra los bits de información que llegan del contexto, decidiendo qué es relevante para ser procesado. Referencia: Página 79, Capítulo 6: Atención y memoria. [37]"
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Cuál es el tiempo de 'Uptime' (atención sostenida ideal) para un estudiante de nivel secundario?",
+    "opciones": [
+      "De 5 a 8 minutos",
+      "De 8 a 12 minutos",
+      "De 12 a 15 minutos",
+      "Más de 60 minutos"
+    ],
+    "correcta": 2,
+    "explicacion": "El tiempo ideal de percepción de información sin intervalos para secundaria es de 12 a 15 minutos. Referencia: Página 81, Capítulo 6: Atención y memoria. [38]"
+  },
+  {
+    "id": 29,
+    "pregunta": "Un aprendizaje es 'profundo' según Noel Entwistle cuando el estudiante:",
+    "opciones": [
+      "Reproduce el contenido con aceptación pasiva de ideas.",
+      "Tiene la intención de desarrollar comprensión personal y relaciona nuevas ideas con experiencias previas.",
+      "Identifica, reconoce y clasifica datos de forma mecánica.",
+      "Solo estudia para aprobar el examen y luego olvida la información."
+    ],
+    "correcta": 1,
+    "explicacion": "El aprendizaje profundo implica interacción activa, elaboración de conclusiones propias y metacognición. Referencia: Página 82, Capítulo 6: Atención y memoria. [39]"
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Cuáles son las cinco capacidades que organizan la Inteligencia Emocional según Daniel Goleman?",
+    "opciones": [
+      "Lectura, escritura, cálculo, dibujo y música.",
+      "Autoconciencia, autorregulación, motivación, empatía y habilidades sociales.",
+      "Miedo, ira, tristeza, alegría y sorpresa.",
+      "Atención, memoria, lenguaje, percepción y razonamiento."
+    ],
+    "correcta": 1,
+    "explicacion": "Goleman organiza la IE en torno a estas cinco habilidades fundamentales para la vida social y personal. Referencia: Página 85, Capítulo 7: La inteligencia emocional. [40]"
+  },
+  {
+    "id": 31,
+    "pregunta": "Según el texto, ¿de dónde surge la 'violencia' como emoción?",
+    "opciones": [
+      "Es una emoción primaria con la que todos nacemos.",
+      "Es una emoción secundaria que se desprende de la ira.",
+      "Es un rasgo genético imposible de modificar.",
+      "Es el resultado de un exceso de dopamina en el cerebro."
+    ],
+    "correcta": 1,
+    "explicacion": "Nadie nace violento; la violencia es una emoción secundaria que depende de la gestión de la emoción primaria (ira) y el entorno. Referencia: Página 89, Capítulo 7: La inteligencia emocional. [41]"
+  },
+  {
+    "id": 32,
+    "pregunta": "¿Cuál es un desafío docente prioritario en el siglo XXI mencionado en el documento?",
+    "opciones": [
+      "Enseñar los mismos contenidos del siglo XIX sin cambios.",
+      "Priorizar solo los logros académicos y las notas altas.",
+      "Abordar tanto lo académico como lo socio-afectivo, brindando herramientas para la vida.",
+      "Evitar el uso de cualquier tecnología dentro del salón."
+    ],
+    "correcta": 2,
+    "explicacion": "El docente actual debe formar personas con habilidades sociales y emocionales que les permitan afrontar desafíos vitales. Referencia: Página 93-94, Capítulo 8: La inteligencia emocional en la escuela. [42, 43]"
+  },
+  {
+    "id": 33,
+    "pregunta": "¿En qué consiste la estrategia del 'Panel de la emoción'?",
+    "opciones": [
+      "En anotar en una lista quiénes se portan mal.",
+      "En que los estudiantes usen emoticones para representar y debatir su estado emocional al inicio de la clase.",
+      "En prohibir cualquier expresión de tristeza dentro del aula.",
+      "En premiar con dulces a los niños que siempre están alegres."
+    ],
+    "correcta": 1,
+    "explicacion": "Esta estrategia enseña a poner en palabras lo que sienten, gestionando el clima del aula de forma conjunta. Referencia: Página 100, Capítulo 9: Estrategias para nivelar estados emocionales en el aula. [44]"
+  },
+  {
+    "id": 34,
+    "pregunta": "El 'Botiquín de primeros auxilios emocionales' es útil para:",
+    "opciones": [
+      "Curar heridas físicas reales como raspaduras o cortes.",
+      "Tratar a alumnos que somatizan emociones (dolores de panza o cabeza por angustia) mediante recursos simbólicos.",
+      "Guardar los exámenes reprobados de los alumnos.",
+      "Almacenar medicamentos controlados para el TDAH."
+    ],
+    "correcta": 1,
+    "explicacion": "Recursos como 'caramelos quita angustias' ayudan a reconocer y gestionar dolores que no son físicos sino emocionales. Referencia: Página 101, Capítulo 9: Estrategias para nivelar estados emocionales en el aula. [45]"
+  },
+  {
+    "id": 35,
+    "pregunta": "¿Por qué son necesarios los 'recreos cerebrales' cada 20 minutos aproximadamente?",
+    "opciones": [
+      "Para que el docente pueda descansar de los alumnos.",
+      "Porque la atención sostenida de un adulto/adolescente decae tras ese tiempo y necesita oxigenar y despertar dopamina.",
+      "Para que los alumnos puedan comer snacks entre horas.",
+      "Porque el cerebro gasta toda su glucosa en exactamente 20 minutos."
+    ],
+    "correcta": 1,
+    "explicacion": "Las pausas cortas de movimiento o humor mantienen los cerebros activos y captan la atención de forma creativa. Referencia: Página 102-103, Capítulo 9. [46, 47]"
+  },
+  {
+    "id": 36,
+    "pregunta": "La técnica de los abrazos en el aula es recomendable porque:",
+    "opciones": [
+      "Hace que el tiempo de clase pase más lento.",
+      "Libera dopamina, genera emociones positivas y fomenta el entusiasmo.",
+      "Es la única forma de que los niños aprendan matemáticas.",
+      "Sustituye la necesidad de estudiar para los exámenes."
+    ],
+    "correcta": 1,
+    "explicacion": "El contacto físico positivo nivela estados emocionales y beneficia al sistema inmunológico y nervioso. Referencia: Página 109-110, Capítulo 9. [48, 49]"
+  },
+  {
+    "id": 37,
+    "pregunta": "¿Qué impacto tiene la falta de hidratación (agua) en el funcionamiento cerebral del estudiante?",
+    "opciones": [
+      "No tiene impacto significativo.",
+      "Afecta el rendimiento cognitivo, la memoria a corto plazo y la coordinación.",
+      "Mejora la capacidad de concentración al mantener el estómago vacío.",
+      "Solo afecta la salud física, no el aprendizaje."
+    ],
+    "correcta": 1,
+    "explicacion": "La hidratación es fundamental para la memoria, el estado de ánimo y la discriminación perceptiva. Referencia: Página 113-114, Capítulo 10: Un aula con cerebro. [50, 51]"
+  },
+  {
+    "id": 38,
+    "pregunta": "Si un aula no cuenta con buena iluminación, el cerebro activa el neurotransmisor llamado __________, provocando sueño.",
+    "opciones": [
+      "Adrenalina",
+      "Melatonina",
+      "Dopamina",
+      "Noradrenalina"
+    ],
+    "correcta": 1,
+    "explicacion": "La luz baja activa la melatonina, que induce el sueño; por ello, un aula con cerebro requiere buena luz natural o artificial. Referencia: Página 115, Capítulo 10: Un aula con cerebro. [52]"
+  },
+  {
+    "id": 39,
+    "pregunta": "¿Qué significan las siglas 'VAK' en los estilos de aprendizaje?",
+    "opciones": [
+      "Valiente, Atento, Kinestésico.",
+      "Visual, Auditivo, Kinestésico.",
+      "Veloz, Analítico, Kinestésico.",
+      "Visual, Artístico, Kinestésico."
+    ],
+    "correcta": 1,
+    "explicacion": "Son las tres vías preferentes de entrada y procesamiento de información según la programación neurolingüística. Referencia: Página 118, Capítulo 10: Un aula con cerebro. [53]"
+  },
+  {
+    "id": 40,
+    "pregunta": "Según el documento, la evaluación debe ser vista por el educador como:",
+    "opciones": [
+      "Un método de castigo para quienes no prestan atención.",
+      "La principal herramienta hacia el desarrollo de la comprensión.",
+      "Una instancia puramente administrativa para poner una nota.",
+      "Una situación de amenaza necesaria para que los alumnos estudien."
+    ],
+    "correcta": 1,
+    "explicacion": "La evaluación asertiva debe ser un proceso de diálogo, mejora y construcción de competencias. Referencia: Página 120-122, Capítulo 11: Evaluar de manera asertiva. [54-56]"
+  },
+  {
+    "id": 41,
+    "pregunta": "¿Cuál es la recomendación respecto al sueño antes de un examen?",
+    "opciones": [
+      "Estudiar toda la noche sin dormir para tener los datos frescos.",
+      "Es más efectivo estudiar e ir a dormir, ya que el cerebro está activo durante el sueño consolidando información.",
+      "No dormir en absoluto para mantener el cortisol alto.",
+      "Dormir solo 2 horas para no perder tiempo."
+    ],
+    "correcta": 1,
+    "explicacion": "El cerebro procesa y fija lo aprendido durante el sueño; la privación de sueño disminuye el rendimiento. Referencia: Página 122, Capítulo 11: Evaluar de manera asertiva. [56]"
+  },
+  {
+    "id": 42,
+    "pregunta": "En la estrategia de evaluación 'Cambio de roles', ¿qué deben hacer los estudiantes?",
+    "opciones": [
+      "Convertirse en directores de la escuela por un día.",
+      "Diseñar la evaluación para su compañero de banco y luego corregirla siguiendo pautas.",
+      "Actuar como si fueran profesores de universidad.",
+      "Intercambiar sus uniformes para confundir al docente."
+    ],
+    "correcta": 1,
+    "explicacion": "Esta técnica fomenta la responsabilidad, el análisis y la creatividad en el proceso evaluativo. Referencia: Página 125, Capítulo 11: Evaluar de manera asertiva. [57]"
+  },
+  {
+    "id": 43,
+    "pregunta": "¿En qué consiste la técnica de los 'Cinco segundos' en una clase?",
+    "opciones": [
+      "En salir del aula durante cinco segundos si se portan mal.",
+      "En dar oportunidad a que todos respondan preguntas rápidas (V/F o Sí/No) simultáneamente en un papel.",
+      "En que el docente debe callarse cada cinco segundos.",
+      "En leer un libro completo en cinco segundos."
+    ],
+    "correcta": 1,
+    "explicacion": "Permite que todos los estudiantes participen al mismo tiempo, respetando diferentes ritmos de respuesta. Referencia: Página 126, Capítulo 11: Evaluar de manera asertiva. [58]"
+  },
+  {
+    "id": 44,
+    "pregunta": "¿Cuál es el objetivo principal de realizar ejercicios de 'fotografía mental'?",
+    "opciones": [
+      "Mejorar la visión periférica.",
+      "Entrenar la atención y la recreación de detalles en la mente.",
+      "Aprender a usar cámaras digitales.",
+      "Evitar el uso de cuadernos en clase."
+    ],
+    "correcta": 1,
+    "explicacion": "Consiste en observar un objeto minuciosamente para luego recrearlo con los ojos cerrados, fortaleciendo el foco atencional. Referencia: Página 138-139, Capítulo 12: Entrenar la atención. [59, 60]"
+  },
+  {
+    "id": 45,
+    "pregunta": "Según el texto, los docentes deben considerarse a sí mismos como:",
+    "opciones": [
+      "Simples transmisores de información enciclopédica.",
+      "Diseñadores del aprendizaje y entrenadores de la atención.",
+      "Jueces que determinan quién es inteligente y quién no.",
+      "Vigilantes de la disciplina estricta."
+    ],
+    "correcta": 1,
+    "explicacion": "El rol docente implica crear entornos propicios y desarrollar las facultades cognitivas y emocionales de los alumnos. Referencia: Página 139, Capítulo 12 / Bibliografía. [60]"
+  },
+  {
+    "id": 46,
+    "pregunta": "La 'atención dividida' se entrena mediante tareas que requieren:",
+    "opciones": [
+      "Prestar atención a un solo estímulo durante horas.",
+      "Focalizar en más de un estímulo a la vez (como colocar números a figuras distintas simultáneamente).",
+      "Ignorar al docente mientras se habla con un compañero.",
+      "Dormir con los ojos abiertos."
+    ],
+    "correcta": 1,
+    "explicacion": "Es la habilidad de atender a varias cosas a la vez, una capacidad esencial en el entorno cotidiano. Referencia: Página 134-135, Capítulo 12: Entrenar la atención. [61, 62]"
+  },
+  {
+    "id": 47,
+    "pregunta": "¿Qué sucede con la red neuronal si un aprendizaje no se utiliza (desuso)?",
+    "opciones": [
+      "Se fortalece automáticamente con el tiempo.",
+      "Ocurre una Depresión a Largo Plazo (DPL) y las neuronas pierden su conexión.",
+      "La información se traslada al cerebro reptiliano de forma permanente.",
+      "Se convierte en una inteligencia múltiple nueva."
+    ],
+    "correcta": 1,
+    "explicacion": "Si no hay estimulación o uso, las conexiones sinápticas se debilitan y se pierden. Referencia: Página 67, Capítulo 6: Atención y memoria. [32]"
+  },
+  {
+    "id": 48,
+    "pregunta": "¿Cuál de las siguientes es una función del hemisferio cerebral izquierdo según los estudios generales citados (aunque el texto enfoca la integración)?",
+    "opciones": [
+      "Reconocimiento de rostros.",
+      "Procesamiento lógico y lingüístico.",
+      "Intuición y creatividad artística.",
+      "Visión global y espacial."
+    ],
+    "correcta": 1,
+    "explicacion": "Tradicionalmente el hemisferio izquierdo se asocia con el pensamiento analítico y el lenguaje. Referencia: Página 14, Capítulo 1 (Menciona hemisferios en cerebro racional). [63]"
+  },
+  {
+    "id": 49,
+    "pregunta": "La inteligencia 'intrapersonal' de Howard Gardner se define como:",
+    "opciones": [
+      "La capacidad de entender a los demás y trabajar en equipo.",
+      "La capacidad de comprender las propias emociones, motivaciones y metas.",
+      "La habilidad para cuidar plantas y animales.",
+      "El manejo excelente de herramientas y deportes."
+    ],
+    "correcta": 1,
+    "explicacion": "Las personas con esta inteligencia suelen ser introspectivas y conscientes de su mundo interior. Referencia: Página 59, Capítulo 5: El aprendizaje. [64]"
+  },
+  {
+    "id": 50,
+    "pregunta": "En un 'aula con cerebro', ¿qué efecto tiene el uso de las TICs según la autora?",
+    "opciones": [
+      "Produce aburrimiento y monotonía.",
+      "Motiva al cerebro de los 'nativos tecnológicos' y permite innovar en los proyectos.",
+      "Debe evitarse porque daña la amígdala.",
+      "Es irrelevante para los procesos de aprendizaje."
+    ],
+    "correcta": 1,
+    "explicacion": "Aprovechar la tecnología sitúa el aprendizaje en un contexto conocido y amplio para los estudiantes actuales. Referencia: Página 115-116, Capítulo 10. [52, 65]"
+  },
+  {
+    "id": 51,
+    "pregunta": "¿Qué ocurre en los primeros cinco años de vida respecto a la sinapsis?",
+    "opciones": [
+      "El cerebro no tiene capacidad de aprendizaje todavía.",
+      "La capacidad para establecer relaciones sinápticas es fantástica y se consolidan aprendizajes fundamentales.",
+      "Se produce la muerte masiva de neuronas sin recuperación.",
+      "Es el periodo donde menos plasticidad cerebral existe."
+    ],
+    "correcta": 1,
+    "explicacion": "En la primera infancia se colocan los fundamentos que sustentarán futuros aprendizajes debido a la gran plasticidad. Referencia: Página 53-54, Capítulo 5. [66, 67]"
+  },
+  {
+    "id": 52,
+    "pregunta": "¿Qué autor es famoso por su libro 'Inteligencia Emocional' e introdujo el concepto de 'secuestro amigdalar'?",
+    "opciones": [
+      "Daniel Goleman",
+      "Paul Ekman",
+      "Marilina Rotger",
+      "Albert Einstein"
+    ],
+    "correcta": 0,
+    "explicacion": "Daniel Goleman popularizó estos conceptos fundamentales para la psicología y educación moderna. Referencia: Página 40, 85, Capítulo 3 y 7. [17], [40]"
+  },
+  {
+    "id": 53,
+    "pregunta": "¿Cuál es la función del neurotransmisor 'serotonina' al final de una actividad motivadora?",
+    "opciones": [
+      "Generar pánico e ira.",
+      "Activar el estado de alerta máximo.",
+      "Inducir satisfacción y volver el cuerpo al estado normal tras lograr un objetivo.",
+      "Borrar la memoria a corto plazo inmediatamente."
+    ],
+    "correcta": 2,
+    "explicacion": "La serotonina es un neurotransmisor inhibidor que regula el humor y la ansiedad, activándose tras el placer de lograr una meta. Referencia: Página 47, 49, Capítulo 4. [68], [22]"
+  },
+  {
+    "id": 54,
+    "pregunta": "La frase 'Educar la mente sin educar el corazón, no es educar nada en absoluto' pertenece a:",
+    "opciones": [
+      "Aristóteles",
+      "Albert Einstein",
+      "Paul MacLean",
+      "Ben Jonson"
+    ],
+    "correcta": 0,
+    "explicacion": "Esta cita clásica encabeza el capítulo sobre las emociones y su importancia en el aula. Referencia: Página 22, Capítulo 2. [69]"
+  },
+  {
+    "id": 55,
+    "pregunta": "¿Qué estrategia para nivelar estados emocionales consiste en escribir situaciones positivas o negativas y lanzarlas como aviones de papel?",
+    "opciones": [
+      "Panel de la emoción",
+      "Cartas que emocionan",
+      "Palabras positivas",
+      "Técnica de los abrazos"
+    ],
+    "correcta": 1,
+    "explicacion": "Esta actividad fomenta la empatía al obligar a los compañeros a contactarse y apoyarse según lo leído en el avión. Referencia: Página 105-106, Capítulo 9. [70, 71]"
+  },
+  {
+    "id": 56,
+    "pregunta": "¿Qué es la 'neurogénesis'?",
+    "opciones": [
+      "La muerte de las neuronas por estrés.",
+      "El proceso de formación de nuevas neuronas a lo largo de la vida.",
+      "Un tipo de examen escrito muy difícil.",
+      "La falta de atención en clase."
+    ],
+    "correcta": 1,
+    "explicacion": "Debido a la neurogénesis, estamos en constante aprendizaje y capacidad de cambio cerebral. Referencia: Página 52, Capítulo 5. [72]"
+  },
+  {
+    "id": 57,
+    "pregunta": "En el entrenamiento de la atención, 'invertir la atención' se trabaja por ejemplo:",
+    "opciones": [
+      "Leyendo un texto al revés.",
+      "Nombrando el color de una palabra en lugar de leer lo que dice la palabra.",
+      "Cerrando los ojos durante toda la clase.",
+      "Dibujando con la mano no dominante."
+    ],
+    "correcta": 1,
+    "explicacion": "Esto obliga al cerebro a inhibir una respuesta automática (leer) para realizar una tarea de razonamiento (color). Referencia: Página 137, Capítulo 12. [73]"
+  },
+  {
+    "id": 58,
+    "pregunta": "¿Qué color en las paredes del aula se asocia con 'pureza, optimismo y frescura' según la tabla de colores?",
+    "opciones": [
+      "Rojo",
+      "Blanco",
+      "Negro",
+      "Gris"
+    ],
+    "correcta": 1,
+    "explicacion": "El blanco se asocia con simplicidad y optimismo. Referencia: Página 118 (Imagen), Capítulo 10. [53]"
+  },
+  {
+    "id": 59,
+    "pregunta": "¿Cuál es la función del hipocampo según el texto?",
+    "opciones": [
+      "Regular el latido del corazón.",
+      "Enviar recuerdos a la parte apropiada del hemisferio cerebral para su almacenamiento a largo plazo.",
+      "Producir la sensación de hambre.",
+      "Mover los brazos y piernas."
+    ],
+    "correcta": 1,
+    "explicacion": "El hipocampo es fundamental para la memoria y la integración de información. Referencia: Página 31, 72, Capítulo 2 y 6. [14], [74]"
+  },
+  {
+    "id": 60,
+    "pregunta": "¿Qué autor propuso la 'plasticidad asociativa' en 1949?",
+    "opciones": [
+      "Donald Hebb",
+      "Santiago Ramón y Cajal",
+      "Paul MacLean",
+      "Michael Posner"
+    ],
+    "correcta": 0,
+    "explicacion": "Hebb propuso que si las neuronas se activan repetidamente de forma simultánea, el valor de su conexión sináptica aumenta. Referencia: Página 66, Capítulo 6. [31]"
+  },
+  {
+    "id": 61,
+    "pregunta": "¿Qué área neuroanatómica está específicamente vinculada con la capacidad de 'evocación' o recuperación de la información almacenada?",
+    "opciones": [
+      "El hipotálamo",
+      "La corteza prefrontal",
+      "El sistema olfatorio",
+      "El cerebelo"
+    ],
+    "correcta": 1,
+    "explicacion": "La capacidad de utilizar y recuperar la información (evocación) está vinculada directamente con la corteza pre-frontal. Referencia: Página 73, Capítulo 6: Atención y memoria [1]."
+  },
+  {
+    "id": 62,
+    "pregunta": "En el contexto de los procesos atencionales, ¿qué caracteriza al estado denominado 'Downtime'?",
+    "opciones": [
+      "Es el estado ideal para percibir estímulos sensoriales externos de forma global.",
+      "Es un estado de alerta máxima sin diálogo interno.",
+      "Es el estado ideal para reflexionar, generar asociaciones visuales y procesar información mediante diálogo interno.",
+      "Es un periodo de sueño profundo necesario para la neurogénesis."
+    ],
+    "correcta": 2,
+    "explicacion": "El 'Downtime' es el proceso de procesamiento de información que requiere intervalos de reflexión y diálogo interno. Referencia: Página 80, Capítulo 6: Atención y memoria [2]."
+  },
+  {
+    "id": 63,
+    "pregunta": "¿Cuál es la duración promedio del periodo atencional 'Uptime' para un niño en Nivel Inicial?",
+    "opciones": [
+      "Entre 5 y 8 minutos",
+      "Entre 8 y 12 minutos",
+      "De 12 a 15 minutos",
+      "Más de 20 minutos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tiempo de percepción de información sin intervalos para el nivel inicial es sumamente corto, oscilando entre los 5 y 8 minutos. Referencia: Página 81, Capítulo 6: Atención y memoria [3]."
+  },
+  {
+    "id": 64,
+    "pregunta": "Según el cuadro de periodos atencionales, ¿cuánto tiempo de 'Uptime' se estima para una persona mayor de 18 años?",
+    "opciones": [
+      "De 5 a 10 minutos",
+      "De 10 a 12 minutos",
+      "De 12 a 15 minutos",
+      "Entre 15 y 18 minutos"
+    ],
+    "correcta": 3,
+    "explicacion": "Incluso en adultos, el cerebro no está preparado para un input completo prolongado, limitando el Uptime ideal a un máximo de 18 minutos. Referencia: Página 81, Capítulo 6: Atención y memoria [3]."
+  },
+  {
+    "id": 65,
+    "pregunta": "¿Qué caracteriza a los 'aprendizajes estratégicos' propuestos por Noel Entwistle?",
+    "opciones": [
+      "La reproducción mecánica de contenidos sin comprensión personal.",
+      "La capacidad de asociar ideas aplicando principios integradores y aplicarlos a vivencias concretas.",
+      "La aceptación pasiva de ideas para aprobar un examen simple.",
+      "El uso exclusivo de la memoria sensorial para retener datos aislados."
+    ],
+    "correcta": 1,
+    "explicacion": "Los aprendizajes estratégicos permiten al estudiante elaborar conclusiones propias y utilizar herramientas para integrar contenidos en su vida. Referencia: Página 83, Capítulo 6: Atención y memoria [4]."
+  },
+  {
+    "id": 66,
+    "pregunta": "Dentro de las cinco capacidades de la Inteligencia Emocional de Goleman, ¿cuál se refiere al reconocimiento de los propios sentimientos?",
+    "opciones": [
+      "Empatía",
+      "Habilidades sociales",
+      "Autoconciencia",
+      "Autorregulación"
+    ],
+    "correcta": 2,
+    "explicacion": "La autoconciencia es la base para identificar qué sentimos y cómo eso influye en nuestras acciones. Referencia: Página 85, Capítulo 7: La inteligencia emocional [5]."
+  },
+  {
+    "id": 67,
+    "pregunta": "Según el texto, ¿de qué depende que una persona sea socialmente integrada o excluida?",
+    "opciones": [
+      "De la manera en que gestione sus emociones y su manifestación.",
+      "Únicamente de su coeficiente intelectual medido en pruebas estandarizadas.",
+      "De factores genéticos inamovibles presentes en el cerebelo.",
+      "Del azar y las circunstancias económicas del entorno escolar."
+    ],
+    "correcta": 0,
+    "explicacion": "La gestión emocional influye en cómo actuamos y nos vinculamos, determinando nuestra integración social. Referencia: Página 86-87, Capítulo 7: La inteligencia emocional [6, 7]."
+  },
+  {
+    "id": 68,
+    "pregunta": "¿Cuál es una de las habilidades que potencia a las personas emocionalmente inteligentes según el documento?",
+    "opciones": [
+      "La capacidad de reaccionar impulsivamente ante la amenaza.",
+      "El almacenamiento masivo de datos enciclopédicos.",
+      "El entusiasmo, la perseverancia y la empatía.",
+      "La inhibición total de cualquier sentimiento en el ámbito laboral."
+    ],
+    "correcta": 2,
+    "explicacion": "Estas habilidades permiten lograr respuestas emocionales razonadas en lugar de reacciones automáticas. Referencia: Página 91, Capítulo 7: La inteligencia emocional [8]."
+  },
+  {
+    "id": 69,
+    "pregunta": "Respecto a la naturaleza de la Inteligencia Emocional, la autora afirma que:",
+    "opciones": [
+      "Es un rasgo genético con el que se nace y no cambia.",
+      "Es una capacidad exclusiva de los docentes del siglo XX.",
+      "Solo puede desarrollarse si el cerebro reptiliano es dominante.",
+      "Es una habilidad y, como tal, puede aprenderse."
+    ],
+    "correcta": 3,
+    "explicacion": "La inteligencia emocional no es estática; se puede entrenar y enseñar en la escuela como cualquier otra competencia. Referencia: Página 92, Capítulo 7: La inteligencia emocional [9]."
+  },
+  {
+    "id": 70,
+    "pregunta": "¿A qué se refiere el texto al describir un sistema educativo con 'docentes del siglo XX y alumnos del siglo XXI'?",
+    "opciones": [
+      "A que la tecnología ha reemplazado totalmente la función del profesor.",
+      "Al desfase entre las prácticas pedagógicas tradicionales y las necesidades actuales de los estudiantes.",
+      "A que los alumnos actuales tienen una estructura cerebral diferente a la de sus maestros.",
+      "A la falta de presupuesto para comprar computadoras en las escuelas."
+    ],
+    "correcta": 1,
+    "explicacion": "El docente actual enfrenta el reto de superar modelos antiguos para abordar la realidad socio-afectiva de alumnos modernos. Referencia: Página 92-93, Capítulo 8: La inteligencia emocional en la escuela [9, 10]."
+  },
+  {
+    "id": 71,
+    "pregunta": "¿Qué factores intelectivos deben fusionarse con lo cognitivo para lograr el éxito académico según el Capítulo 8?",
+    "opciones": [
+      "El afecto, las expectativas, la motivación y la confianza.",
+      "La disciplina rígida, el silencio y la obediencia ciega.",
+      "Únicamente el razonamiento lógico-matemático.",
+      "La competitividad extrema entre los compañeros de clase."
+    ],
+    "correcta": 0,
+    "explicacion": "La formación integral requiere interrelacionar aspectos emocionales con los cognitivos para reducir la frustración. Referencia: Página 94, Capítulo 8: La inteligencia emocional en la escuela [11]."
+  },
+  {
+    "id": 72,
+    "pregunta": "Para trabajar la inteligencia emocional, ¿qué debe evitar el docente prioritariamente en el aula?",
+    "opciones": [
+      "El trabajo cooperativo.",
+      "El uso de música durante los recreos.",
+      "Las situaciones de estrés, ya que bloquean el aprendizaje.",
+      "La evaluación asertiva."
+    ],
+    "correcta": 2,
+    "explicacion": "El estrés activa la amígdala y cierra el paso de información a las redes racionales, dificultando el aprendizaje. Referencia: Página 96, Capítulo 8: La inteligencia emocional en la escuela [12]."
+  },
+  {
+    "id": 73,
+    "pregunta": "¿Por qué es importante enseñar con 'motivación' según las neurociencias?",
+    "opciones": [
+      "Porque la motivación solo sirve para las clases de educación física.",
+      "Porque la motivación implica movimiento, y la memoria motora no se olvida.",
+      "Porque evita que los alumnos tengan que estudiar para los exámenes.",
+      "Porque la motivación apaga los lóbulos prefrontales."
+    ],
+    "correcta": 1,
+    "explicacion": "El movimiento asociado al aprendizaje genera redes neuronales más persistentes y significativas. Referencia: Página 98, Capítulo 8: La inteligencia emocional en la escuela [13]."
+  },
+  {
+    "id": 74,
+    "pregunta": "Según la autora, para que la información llegue a los cerebros racionales de los estudiantes, antes debe pasar por:",
+    "opciones": [
+      "Las redes de cálculo matemático.",
+      "El filtro de la dirección de la escuela.",
+      "Las áreas de lenguaje escrito.",
+      "Las redes instintivas emocionales (cerebros reptiliano y mamífero)."
+    ],
+    "correcta": 3,
+    "explicacion": "El flujo de información en el cerebro es de abajo hacia arriba; lo emocional actúa como puerta de entrada. Referencia: Página 99, Capítulo 9: Estrategias para nivelar estados emocionales... [14]."
+  },
+  {
+    "id": 75,
+    "pregunta": "¿Cuál es el objetivo principal de la estrategia del 'Panel de la emoción'?",
+    "opciones": [
+      "Enseñar a los estudiantes a poner en palabras las emociones que sienten.",
+      "Decorar el aula con colores llamativos y modernos.",
+      "Identificar qué alumnos deben ser castigados por estar tristes.",
+      "Sustituir la asistencia diaria por el uso de emoticones."
+    ],
+    "correcta": 0,
+    "explicacion": "Al debatir el clima del aula basado en el panel, los estudiantes aprenden a gestionar sus estados emocionales. Referencia: Página 100, Capítulo 9: Estrategias para nivelar estados emocionales... [15]."
+  },
+  {
+    "id": 76,
+    "pregunta": "En el 'Botiquín de primeros auxilios emocionales', ¿qué recurso se utiliza simbólicamente para los dolores afectivos?",
+    "opciones": [
+      "Antibióticos de amplio espectro.",
+      "Jarabe para la tos convencional.",
+      "Banditas o curitas 'pega besos'.",
+      "Termómetros digitales de alta precisión."
+    ],
+    "correcta": 2,
+    "explicacion": "Recursos como las 'banditas pega besos' ayudan a tratar somatizaciones emocionales de forma simbólica y contenedora. Referencia: Página 101, Capítulo 9: Estrategias para nivelar estados emocionales... [16]."
+  },
+  {
+    "id": 77,
+    "pregunta": "¿Con qué frecuencia se recomienda realizar 'recreos cerebrales' durante una clase?",
+    "opciones": [
+      "Cada 5 minutos sin falta.",
+      "Cada 20 minutos aproximadamente.",
+      "Solo una vez al finalizar el día escolar.",
+      "Nunca, para no interrumpir el flujo de pensamiento."
+    ],
+    "correcta": 1,
+    "explicacion": "Pausas cortas de movimiento cada 20 minutos ayudan a oxigenar el cerebro y despertar la dopamina. Referencia: Página 103, Capítulo 9: Estrategias para nivelar estados emocionales... [17]."
+  },
+  {
+    "id": 78,
+    "pregunta": "¿Qué beneficio aporta la estrategia de marcar en el dibujo de un cuerpo dónde se siente la emoción?",
+    "opciones": [
+      "Ayuda al autoconocimiento y la autorregulación al identificar sensaciones físicas.",
+      "Sirve para calificar la habilidad artística de los alumnos.",
+      "Es una prueba diagnóstica para enfermedades de la piel.",
+      "Permite que el cerebro reptiliano deje de funcionar por completo."
+    ],
+    "correcta": 0,
+    "explicacion": "Reconocer dónde se experimenta la emoción en el cuerpo permite responder racionalmente en lugar de reaccionar. Referencia: Página 104, Capítulo 9: Estrategias para nivelar estados emocionales... [18]."
+  },
+  {
+    "id": 79,
+    "pregunta": "¿Qué valor fundamental desarrolla la estrategia de las 'Cartas que emocionan' (avioncitos de papel)?",
+    "opciones": [
+      "La competitividad individual.",
+      "La caligrafía y la ortografía.",
+      "La empatía hacia los estados emocionales de los compañeros.",
+      "El conocimiento de números telefónicos de emergencia."
+    ],
+    "correcta": 2,
+    "explicacion": "Al contactar a un compañero para apoyarlo en su estado emocional, se fortalece el vínculo empático. Referencia: Página 105-106, Capítulo 9: Estrategias para nivelar estados emocionales... [19, 20]."
+  },
+  {
+    "id": 80,
+    "pregunta": "¿A qué denomina Marilina Rotger un 'Aula con cerebro'?",
+    "opciones": [
+      "Un salón lleno de maquetas del sistema nervioso.",
+      "Un aula donde solo se estudian ciencias naturales.",
+      "Un espacio donde los alumnos no pueden moverse para no distraerse.",
+      "Un entorno positivo que invita al aprendizaje respetando la naturaleza cerebral."
+    ],
+    "correcta": 3,
+    "explicacion": "Un aula con cerebro utiliza herramientas y ambientes que facilitan los procesos de enseñanza de forma natural. Referencia: Página 110, Capítulo 10: Un aula con cerebro [21]."
+  },
+  {
+    "id": 81,
+    "pregunta": "Para consolidar un aprendizaje en la memoria a largo plazo, ¿cuántas veces se recomienda 'repetir con novedad' un tema?",
+    "opciones": [
+      "Al menos 3 veces de forma idéntica.",
+      "Por lo menos 7 veces de formas novedosas.",
+      "Más de 50 veces para asegurar la fijación.",
+      "Solo una vez, para no aburrir al cerebro."
+    ],
+    "correcta": 1,
+    "explicacion": "La repetición con novedad (variando el estímulo) es clave para que la red neuronal se fortalezca sin caer en la monotonía. Referencia: Página 111, Capítulo 10: Un aula con cerebro [22]."
+  },
+  {
+    "id": 82,
+    "pregunta": "¿Qué efecto tiene en los estudiantes la implementación de una 'agenda' visible en el aula?",
+    "opciones": [
+      "Relaja al cerebro al anticipar las actividades y bajar la ansiedad.",
+      "Aumenta el estrés al poner presión sobre el tiempo.",
+      "Es irrelevante para los procesos de aprendizaje.",
+      "Sirve únicamente para que el docente no olvide qué clase dar."
+    ],
+    "correcta": 0,
+    "explicacion": "Anticipar los contenidos ayuda a que los alumnos se muestren más pacientes y motivados ante lo que vendrá. Referencia: Página 111-112, Capítulo 10: Un aula con cerebro [22, 23]."
+  },
+  {
+    "id": 83,
+    "pregunta": "¿Por qué se recomienda variar la disposición de los bancos (escenarios) en el salón?",
+    "opciones": [
+      "Para que el personal de limpieza pueda trabajar mejor.",
+      "Para evitar que los alumnos se copien en los exámenes.",
+      "Porque romper estructuras oxigena el cerebro y motiva el aprendizaje.",
+      "Porque la ley de educación prohíbe las filas tradicionales."
+    ],
+    "correcta": 2,
+    "explicacion": "Cambiar los escenarios (mesas redondas, trabajar en el piso) afecta positivamente el estado de ánimo y la atención. Referencia: Página 112-113, Capítulo 10: Un aula con cerebro [23, 24]."
+  },
+  {
+    "id": 84,
+    "pregunta": "¿Cómo afecta la deshidratación a las facultades cognitivas del estudiante?",
+    "opciones": [
+      "No afecta en absoluto mientras el alumno haya desayunado.",
+      "Incide negativamente en el rendimiento, la memoria a corto plazo y la coordinación.",
+      "Mejora la capacidad de alerta al mantener al cerebro en modo supervivencia.",
+      "Solo afecta a los deportistas, no a quienes realizan tareas intelectuales."
+    ],
+    "correcta": 1,
+    "explicacion": "El agua es imprescindible para el cerebro; su falta altera la discriminación perceptiva y el tiempo de reacción. Referencia: Página 113-114, Capítulo 10: Un aula con cerebro [24, 25]."
+  },
+  {
+    "id": 85,
+    "pregunta": "Si un aula tiene poca iluminación, ¿qué neurotransmisor se activa provocando somnolencia?",
+    "opciones": [
+      "Dopamina",
+      "Adrenalina",
+      "Serotonina",
+      "Melatonina"
+    ],
+    "correcta": 3,
+    "explicacion": "La luz baja es la señal para que el cerebro secrete melatonina, induciendo el estado de sueño. Referencia: Página 115, Capítulo 10: Un aula con cerebro [26]."
+  },
+  {
+    "id": 86,
+    "pregunta": "¿Cuál es la principal ventaja de incluir las TICs en los proyectos de enseñanza según la autora?",
+    "opciones": [
+      "Motiva al cerebro de los alumnos que son nativos tecnológicos.",
+      "Permite que el docente trabaje menos al usar videos.",
+      "Asegura que todos los alumnos saquen nota máxima.",
+      "Es el único método que garantiza el silencio en el salón."
+    ],
+    "correcta": 0,
+    "explicacion": "Utilizar dispositivos tecnológicos sitúa el aprendizaje en un contexto amplio y familiar para las nuevas generaciones. Referencia: Página 115-116, Capítulo 10: Un aula con cerebro [26, 27]."
+  },
+  {
+    "id": 87,
+    "pregunta": "Según la Programación Neurolingüística (PNL) aplicada al aula, ¿cuáles son los tres estilos de aprendizaje (VAK)?",
+    "opciones": [
+      "Veloz, Atento, Kinético.",
+      "Visual, Artístico, Kinestésico.",
+      "Visual, Auditivo, Kinestésico.",
+      "Valiente, Activo, Kinestésico."
+    ],
+    "correcta": 2,
+    "explicacion": "VAK se refiere a las vías sensoriales preferentes (Visual, Auditiva o Kinestésica) para procesar información. Referencia: Página 118, Capítulo 10: Un aula con cerebro [28]."
+  },
+  {
+    "id": 88,
+    "pregunta": "De acuerdo con la psicología del color mencionada, ¿qué sensaciones transmite el color Azul en el aula?",
+    "opciones": [
+      "Dulzura, delicadeza y sentimientos de gratitud.",
+      "Libertad, verdad, armonía, fidelidad y seriedad.",
+      "Naturaleza, esperanza y equilibrio.",
+      "Silencio, sobriedad y misterio."
+    ],
+    "correcta": 1,
+    "explicacion": "El azul se asocia con estados de armonía y fidelidad, siendo un color común para entornos de aprendizaje. Referencia: Página 118 (Imagen), Capítulo 10: Un aula con cerebro [28]."
+  },
+  {
+    "id": 89,
+    "pregunta": "En el nuevo paradigma educativo, ¿cómo debe considerarse la evaluación asertiva?",
+    "opciones": [
+      "Como un filtro para descartar a los alumnos con dificultades.",
+      "Como una instancia administrativa necesaria para el boletín.",
+      "Como una amenaza que obliga al alumno a estudiar por miedo.",
+      "Como la principal herramienta hacia el desarrollo de la comprensión."
+    ],
+    "correcta": 3,
+    "explicacion": "La evaluación debe ser un proceso de diálogo y mejora, no un evento estresante de 'éxito o fracaso'. Referencia: Página 120, Capítulo 11: Evaluar de manera asertiva [29]."
+  },
+  {
+    "id": 90,
+    "pregunta": "¿Qué relación directa existe entre el estrés y el rendimiento académico durante un examen?",
+    "opciones": [
+      "A mayor nivel de estrés, menor es el rendimiento y desempeño del alumno.",
+      "El estrés aumenta la memoria a largo plazo de forma significativa.",
+      "No existe ninguna relación científica entre ambos factores.",
+      "El estrés solo afecta a los alumnos que no estudiaron."
+    ],
+    "correcta": 0,
+    "explicacion": "El estrés activa la amígdala y provoca síntomas físicos que interfieren con la capacidad de razonamiento. Referencia: Página 122, Capítulo 11: Evaluar de manera asertiva [30]."
+  },
+  {
+    "id": 91,
+    "pregunta": "¿Por qué es más efectivo 'estudiar e ir a dormir' que pasar la noche en vela antes de rendir?",
+    "opciones": [
+      "Porque dormir ayuda a que el docente no note el cansancio.",
+      "Porque el cerebro gasta menos glucosa al dormir.",
+      "Porque el cerebro está activo durante el sueño consolidando la información aprendida.",
+      "Porque el cortisol solo se elimina durmiendo más de 12 horas."
+    ],
+    "correcta": 2,
+    "explicacion": "Respetar las horas de sueño es vital; la privación de descanso disminuye drásticamente el rendimiento cognitivo. Referencia: Página 122, Capítulo 11: Evaluar de manera asertiva [30]."
+  },
+  {
+    "id": 92,
+    "pregunta": "¿En qué consiste la técnica de evaluación asertiva 'Bollo de papel'?",
+    "opciones": [
+      "En tirar a la basura las pruebas mal contestadas.",
+      "En escribir una idea del tema, lanzarla al centro y que un compañero la lea.",
+      "En hacer pelotas de papel para desestresarse antes de una prueba escrita.",
+      "En esconder las respuestas correctas dentro de bollitos de papel."
+    ],
+    "correcta": 1,
+    "explicacion": "Es una forma divertida de realizar una síntesis o cierre de clase permitiendo la socialización de ideas. Referencia: Página 123-124, Capítulo 11: Evaluar de manera asertiva [31, 32]."
+  },
+  {
+    "id": 93,
+    "pregunta": "La técnica 'A pregunta, B responde y Z corrige' sirve para evaluar:",
+    "opciones": [
+      "Únicamente el orden alfabético de los nombres.",
+      "La velocidad con la que los alumnos escriben en el pizarrón.",
+      "La capacidad de los alumnos para trabajar en absoluto silencio.",
+      "La comprensión mutua y la capacidad de revisión crítica entre pares."
+    ],
+    "correcta": 3,
+    "explicacion": "Involucra a tres estudiantes en roles activos de formulación, respuesta y corrección del tema estudiado. Referencia: Página 124, Capítulo 11: Evaluar de manera asertiva [32]."
+  },
+  {
+    "id": 94,
+    "pregunta": "¿Cuál es la principal utilidad de la técnica 'Cinco segundos' en el aula?",
+    "opciones": [
+      "Dar oportunidad a que todos los estudiantes respondan al mismo tiempo respetando diferentes ritmos.",
+      "Hacer que los alumnos salgan al recreo en tiempo récord.",
+      "Evaluar quién tiene los mejores reflejos físicos.",
+      "Lograr que el docente no pierda tiempo explicando el tema."
+    ],
+    "correcta": 0,
+    "explicacion": "Permite la participación total simultánea mediante respuestas rápidas (Sí/No, V/F) en trozos de papel. Referencia: Página 126, Capítulo 11: Evaluar de manera asertiva [33]."
+  },
+  {
+    "id": 95,
+    "pregunta": "¿Cuál es el fin de la estrategia 'La guerrita' en el proceso de evaluación?",
+    "opciones": [
+      "Fomentar la competencia agresiva entre los estudiantes.",
+      "Determinar quién es el alumno más fuerte del grupo.",
+      "Armar juntos un resumen que contiene ideas y opiniones grupales.",
+      "Aprender tácticas militares históricas de forma práctica."
+    ],
+    "correcta": 2,
+    "explicacion": "Mediante varias tiradas de 'bollos de papel' con ideas, el grupo construye una síntesis colectiva del contenido. Referencia: Página 127-128, Capítulo 11: Evaluar de manera asertiva [34, 35]."
+  },
+  {
+    "id": 96,
+    "pregunta": "En la técnica '1, 2, 3, te la tiré', ¿qué sucede si el alumno no sabe la respuesta?",
+    "opciones": [
+      "Debe ser retirado del juego inmediatamente.",
+      "Debe arrojar la pelota a otro compañero hasta encontrar quién responda correctamente.",
+      "El docente le pone una nota negativa de forma automática.",
+      "Se detiene la clase hasta que el alumno encuentre la respuesta en el libro."
+    ],
+    "correcta": 1,
+    "explicacion": "Se busca evaluar jugando, donde la pelota circula hasta que la información es recuperada por el grupo. Referencia: Página 128, Capítulo 11: Evaluar de manera asertiva [35]."
+  },
+  {
+    "id": 97,
+    "pregunta": "Al confeccionar una evaluación asertiva, ¿qué consideración es fundamental según el texto?",
+    "opciones": [
+      "Que las preguntas sean ambiguas para probar la astucia del alumno.",
+      "Que el clima sea de alta tensión para simular la vida real.",
+      "Que todos los exámenes sean individuales y estrictamente de respuesta múltiple.",
+      "Ser coherentes entre lo que se enseña y lo que se evalúa, con desafíos posibles."
+    ],
+    "correcta": 3,
+    "explicacion": "La evaluación debe tener instrucciones claras y un clima distendido para ser un proceso de aprendizaje real. Referencia: Página 128 (Imagen), Capítulo 11: Evaluar de manera asertiva [35]."
+  },
+  {
+    "id": 98,
+    "pregunta": "¿Por qué es tan importante entrenar la atención en los estudiantes según el Capítulo 12?",
+    "opciones": [
+      "Porque si no se atiende correctamente, la información llega al cerebro deformada o incompleta.",
+      "Porque la atención es un rasgo fijo que no puede mejorarse sin cirugía.",
+      "Porque los alumnos que no atienden deben ser enviados al psicólogo escolar.",
+      "Porque la atención es el único proceso que no gasta energía cerebral."
+    ],
+    "correcta": 0,
+    "explicacion": "La atención es el filtro de entrada; si falla, dificulta el resto de las actividades cognitivas superiores. Referencia: Página 130, Capítulo 12: Entrenar la atención [36]."
+  },
+  {
+    "id": 99,
+    "pregunta": "¿En qué ayuda al cerebro el ejercicio de 'Agrupar estímulos en una categoría'?",
+    "opciones": [
+      "En mejorar exclusivamente la visión nocturna.",
+      "En aumentar la velocidad para correr.",
+      "En organizar la mente para prestar atención de forma dirigida y productiva.",
+      "En olvidar la información que no pertenece a esa categoría."
+    ],
+    "correcta": 2,
+    "explicacion": "Al ser capaces de agrupar, simplificamos la tarea atencional y organizamos el procesamiento de datos. Referencia: Página 135, Capítulo 12: Entrenar la atención [37]."
+  },
+  {
+    "id": 100,
+    "pregunta": "Finalmente, el documento define el rol del docente moderno como:",
+    "opciones": [
+      "Un vigilante de la conducta y un calificador de exámenes.",
+      "Un diseñador del aprendizaje y un entrenador de la atención.",
+      "Un conferencista que solo transmite datos teóricos.",
+      "Un administrador de recursos tecnológicos y físicos del aula."
+    ],
+    "correcta": 1,
+    "explicacion": "El docente debe crear las condiciones y entrenar las facultades necesarias para que el alumno descubra su talento. Referencia: Página 139, Capítulo 12: Entrenar la atención [38]."
+  },
+{
+    "id": 101,
+    "pregunta": "¿Qué característica del cerebro reptiliano nos impulsa a buscar ambientes y personas previsibles, manifestándose como resistencia al cambio?",
+    "opciones": [
+      "La territorialidad del territorio interior.",
+      "La necesidad de rituales, hábitos y supersticiones.",
+      "La búsqueda de jerarquías sociales basadas en el poder.",
+      "La capacidad de aprendizaje por condicionamiento clásico."
+    ],
+    "correcta": 1,
+    "explicacion": "El cerebro reptil otorga sentido de resistencia al cambio a través de rituales y la necesidad de entornos previsibles [1]. Referencia: Página 12, Capítulo 1: Cerebro triuno."
+  },
+  {
+    "id": 102,
+    "pregunta": "Según el modelo de MacLean, ¿en qué tiempo cronológico 'vive' predominantemente el sistema límbico o cerebro emocional?",
+    "opciones": [
+      "Vive únicamente en el momento presente.",
+      "Vive proyectado hacia el futuro y la planificación.",
+      "Vive en un tiempo pasado y presente.",
+      "Vive de forma atemporal sin memoria ni aprendizaje."
+    ],
+    "correcta": 2,
+    "explicacion": "A diferencia del reptiliano que solo vive en el presente, el sistema límbico tiene memoria y vive en pasado y presente [2]. Referencia: Página 13, Capítulo 1: Cerebro triuno."
+  },
+  {
+    "id": 103,
+    "pregunta": "¿Cuál es la función principal de los lóbulos prefrontales en relación con las funciones ejecutivas del cerebro racional?",
+    "opciones": [
+      "Regular el latido cardíaco y la respiración automática.",
+      "Procesar exclusivamente los estímulos del sentido del olfato.",
+      "Permitir pensar, planificar, organizar y reflexionar.",
+      "Almacenar los traumas infantiles en el banco de memoria emocional."
+    ],
+    "correcta": 2,
+    "explicacion": "El cerebro racional, mediante la neocorteza y sus funciones ejecutivas, permite la planificación y organización [3]. Referencia: Página 14, Capítulo 1: Cerebro triuno."
+  },
+  {
+    "id": 104,
+    "pregunta": "Factores como la mala nutrición, la educación deficiente y los hábitos tóxicos producen en el cerebro lo que se conoce como:",
+    "opciones": [
+      "Neuroplasticidad positiva.",
+      "Neurogénesis acelerada.",
+      "Plasticidad negativa.",
+      "Sinapsis eléctrica reforzada."
+    ],
+    "correcta": 2,
+    "explicacion": "La plasticidad negativa implica el desarmado de redes por falta de uso o factores ambientales perjudiciales [4]. Referencia: Página 18, Capítulo 1: Cerebro triuno."
+  },
+  {
+    "id": 105,
+    "pregunta": "¿Cómo define la autora el 'proceso cognitivo' dentro del aprendizaje?",
+    "opciones": [
+      "Como la creación o recreación de redes neuronales físicas.",
+      "Como la liberación de acetilcolina en el espacio sináptico.",
+      "Como el acto de crear o recrear patrones mentales.",
+      "Como una respuesta automática del tronco cerebral."
+    ],
+    "correcta": 2,
+    "explicacion": "el texto distingue el proceso neurofisiológico (redes neuronales) del proceso cognitivo (patrones mentales) [5]. Referencia: Página 19, Capítulo 1: Cerebro triuno."
+  },
+  {
+    "id": 106,
+    "pregunta": "¿Cuál de las siguientes es una actividad recomendada por la autora para conservar el cerebro activo y dinámico?",
+    "opciones": [
+      "Mantener siempre la misma rutina diaria sin cambios.",
+      "Evitar aprender cosas nuevas después de los 50 años.",
+      "Cambiar de camino al volver a casa o bajar una parada antes del colectivo.",
+      "Dormir menos de cinco horas para forzar la atención."
+    ],
+    "correcta": 2,
+    "explicacion": "Cambiar rutas habituales obliga al cerebro a generar nuevas redes neuronales [6, 7]. Referencia: Página 21-22, Capítulo 1: Cerebro triuno."
+  },
+  {
+    "id": 107,
+    "pregunta": "Según Paul Ekman, ¿cuál de las emociones básicas se considera 'neutral' por depender enteramente de la situación?",
+    "opciones": [
+      "La alegría.",
+      "La sorpresa o asombro.",
+      "El miedo.",
+      "La aversión."
+    ],
+    "correcta": 1,
+    "explicacion": "Ekman identifica la sorpresa como neutral ya que su valencia positiva o negativa depende del estímulo que la provoque [8]. Referencia: Página 24, Capítulo 2: Las emociones... están en nuestro cerebro."
+  },
+  {
+    "id": 108,
+    "pregunta": "¿Cómo se define una 'emoción' desde el punto de vista psicofisiológico en el texto?",
+    "opciones": [
+      "Como un estado opcional que elegimos racionalmente.",
+      "Como una reacción lenta que tarda varios segundos en aparecer.",
+      "Como una reacción de adaptación a estímulos que ocurre en 125 milésimas de segundos.",
+      "Como una interpretación intelectual de los latidos cardíacos."
+    ],
+    "correcta": 2,
+    "explicacion": "Las emociones son reacciones inevitables y ultra rápidas (medio parpadeo) que nos preparan para actuar [9]. Referencia: Página 26, Capítulo 2: Las emociones... están en nuestro cerebro."
+  },
+  {
+    "id": 109,
+    "pregunta": "¿Qué diferencia a la 'sensación' del 'sentimiento' según el documento?",
+    "opciones": [
+      "La sensación es voluntaria y el sentimiento es instintivo.",
+      "La sensación es la representación fisiológica inevitable de la emoción; el sentimiento es opcional e interpretativo.",
+      "No hay diferencia, ambos ocurren en el corazón.",
+      "El sentimiento es más rápido que la sensación."
+    ],
+    "correcta": 1,
+    "explicacion": "Las sensaciones (sudor, palpitaciones) son inevitables; los sentimientos implican usar los lóbulos prefrontales para dar cualidad a la emoción [10]. Referencia: Página 28, Capítulo 2: Las emociones... están en nuestro cerebro."
+  },
+  {
+    "id": 110,
+    "pregunta": "¿Qué estructura del sistema límbico se encarga de determinar en qué parte del cerebro se almacenan los recuerdos?",
+    "opciones": [
+      "El tálamo.",
+      "La amígdala.",
+      "El hipocampo.",
+      "El hipotálamo."
+    ],
+    "correcta": 1,
+    "explicacion": "La amígdala determina qué se almacena y dónde, mientras que el hipocampo envía los recuerdos a la corteza para el largo plazo [11]. Referencia: Página 31, Capítulo 2: Las emociones... están en nuestro cerebro."
+  },
+  {
+    "id": 111,
+    "pregunta": "Para combatir el 'pensamiento rumiante', la autora propone:",
+    "opciones": [
+      "Ignorar el problema y esperar a que pase solo.",
+      "Aceptar el problema y planificar una posible solución.",
+      "Imaginar escenarios catastróficos para estar preparado.",
+      "Realizar tareas mecánicas sin pensar en nada."
+    ],
+    "correcta": 1,
+    "explicacion": "El pensamiento rumiante genera ansiedad innecesaria; la solución pasa por la aceptación y el planeamiento [12]. Referencia: Página 35, Capítulo 2: Las emociones... están en nuestro cerebro."
+  },
+  {
+    "id": 112,
+    "pregunta": "¿Cuál es la forma física de la amígdala cerebral?",
+    "opciones": [
+      "Forma de caracol.",
+      "Forma de almendra.",
+      "Forma de caballito de mar.",
+      "Forma de mariposa."
+    ],
+    "correcta": 1,
+    "explicacion": "La amígdala es una estructura con forma de almendra situada en los lóbulos temporales [13]. Referencia: Página 36, Capítulo 3: La amígdala cerebral."
+  },
+  {
+    "id": 113,
+    "pregunta": "¿A qué se refiere que el cerebro emocional sea 'categórico'?",
+    "opciones": [
+      "A que puede analizar múltiples matices de una situación.",
+      "A que solo funciona mediante la lógica matemática.",
+      "A que ve las cosas en términos de blanco o negro, bueno o malo.",
+      "A que siempre toma decisiones lentas y meditadas."
+    ],
+    "correcta": 2,
+    "explicacion": "La respuesta emocional es rápida y dicotómica para garantizar la supervivencia inmediata [14]. Referencia: Página 38, Capítulo 3: La amígdala cerebral."
+  },
+  {
+    "id": 114,
+    "pregunta": "Cuando una persona apresura sus pasos al sentir que alguien la sigue de noche, su amígdala está ejecutando una respuesta de:",
+    "opciones": [
+      "Lucha ofensiva.",
+      "Fuga o huida.",
+      "Inmovilización absoluta.",
+      "Reflexión neocortical."
+    ],
+    "correcta": 1,
+    "explicacion": "La huida es una de las respuestas automáticas de la amígdala ante la identificación de un estímulo de miedo [15]. Referencia: Página 39, Capítulo 3: La amígdala cerebral."
+  },
+  {
+    "id": 115,
+    "pregunta": "En el contexto educativo, ¿qué sucede si las amígdalas de los alumnos perciben una situación amenazante en el aula?",
+    "opciones": [
+      "Se facilita la memorización de datos complejos.",
+      "Se abre el paso de información hacia los lóbulos prefrontales.",
+      "Se cierra el paso de información a los centros racionales, impidiendo el aprendizaje.",
+      "Se activa automáticamente la inteligencia lógica-matemática."
+    ],
+    "correcta": 2,
+    "explicacion": "La respuesta de lucha o fuga amigdalar bloquea las redes cognitivas racionales [16]. Referencia: Página 41, Capítulo 3: La amígdala cerebral."
+  },
+  {
+    "id": 116,
+    "pregunta": "¿Cuál fue el neurotransmisor descubierto por Otto Loewi que dio origen a la teoría química de la transmisión nerviosa?",
+    "opciones": [
+      "Dopamina.",
+      "Serotonina.",
+      "Acetilcolina.",
+      "Noradrenalina."
+    ],
+    "correcta": 2,
+    "explicacion": "Loewi descubrió la acetilcolina, demostrando que la comunicación neuronal no era puramente eléctrica [17]. Referencia: Página 43, Capítulo 4: Neurotransmisores."
+  },
+  {
+    "id": 117,
+    "pregunta": "¿Qué neurotransmisor es el responsable de controlar los movimientos voluntarios y regular las emociones placenteras?",
+    "opciones": [
+      "Serotonina.",
+      "Dopamina.",
+      "Melatonina.",
+      "GABA."
+    ],
+    "correcta": 1,
+    "explicacion": "La dopamina está asociada con el mecanismo de recompensa y las sensaciones de placer [18]. Referencia: Página 45, Capítulo 4: Neurotransmisores."
+  },
+  {
+    "id": 118,
+    "pregunta": "La noradrenalina es un neurotransmisor que influye principalmente en:",
+    "opciones": [
+      "El sueño profundo y reparador.",
+      "El enfoque mental, la atención y la excitación física.",
+      "La digestión de alimentos ricos en azúcar.",
+      "La eliminación de recuerdos traumáticos."
+    ],
+    "correcta": 1,
+    "explicacion": "Este neurotransmisor excitador controla el estado de ánimo y la alerta mental [19]. Referencia: Página 46, Capítulo 4: Neurotransmisores."
+  },
+  {
+    "id": 119,
+    "pregunta": "Dentro del circuito DAS, ¿qué función cumple la Serotonina?",
+    "opciones": [
+      "Iniciar la búsqueda del placer.",
+      "Activar el ritmo cardíaco para la huida.",
+      "Inducir calma y satisfacción una vez logrado el objetivo.",
+      "Bloquear la memoria a corto plazo."
+    ],
+    "correcta": 2,
+    "explicacion": "La serotonina actúa como inhibidor que estabiliza el ánimo tras alcanzar la meta motivadora [20-22]. Referencia: Página 47 y 49, Capítulo 4: Neurotransmisores."
+  },
+  {
+    "id": 120,
+    "pregunta": "¿Qué elemento es fundamental para despertar la dopamina en los estudiantes según la lista de recomendaciones?",
+    "opciones": [
+      "El silencio absoluto individual.",
+      "El trabajo en equipo y la actividad física.",
+      "Las pruebas escritas sorpresa.",
+      "El consumo de bebidas energéticas."
+    ],
+    "correcta": 1,
+    "explicacion": "El contacto social y el movimiento son disparadores naturales de dopamina en el aula [22, 23]. Referencia: Página 49-50, Capítulo 4: Neurotransmisores."
+  },
+  {
+    "id": 121,
+    "pregunta": "Según Albert Einstein, el aprendizaje es __________, todo lo demás es información.",
+    "opciones": [
+      "Esfuerzo.",
+      "Memoria.",
+      "Experiencia.",
+      "Disciplina."
+    ],
+    "correcta": 2,
+    "explicacion": "La cita de Einstein abre el capítulo subrayando la importancia de la vivencia en el aprendizaje [24]. Referencia: Página 51, Capítulo 5: El aprendizaje."
+  },
+  {
+    "id": 122,
+    "pregunta": "¿Qué ocurre con el cerebro cada vez que aprendemos algo nuevo?",
+    "opciones": [
+      "Se mantiene idéntico estructuralmente.",
+      "Es modificado y 'esculpido' por la experiencia.",
+      "Pierde neuronas que no puede recuperar.",
+      "Se vuelve menos plástico por el exceso de datos."
+    ],
+    "correcta": 1,
+    "explicacion": "Cada aprendizaje genera un cambio físico en la estructura cerebral a través de la plasticidad [25]. Referencia: Página 55, Capítulo 5: El aprendizaje."
+  },
+  {
+    "id": 123,
+    "pregunta": "¿Cómo define Howard Gardner la 'inteligencia'?",
+    "opciones": [
+      "Como la puntuación obtenida en un test de CI.",
+      "Como un potencial bío-psicológico para resolver problemas o crear productos valiosos.",
+      "Como la capacidad de memorizar libros enteros sin errores.",
+      "Como la habilidad de obedecer órdenes rápidamente."
+    ],
+    "correcta": 1,
+    "explicacion": "Gardner desplaza el concepto de inteligencia única hacia múltiples capacidades culturales [26]. Referencia: Página 56, Capítulo 5: El aprendizaje."
+  },
+  {
+    "id": 124,
+    "pregunta": "Un estudiante que destaca en ajedrez, informática y razonamiento deductivo posee una alta inteligencia:",
+    "opciones": [
+      "Espacial.",
+      "Lógico-matemática.",
+      "Intrapersonal.",
+      "Lingüística."
+    ],
+    "correcta": 1,
+    "explicacion": "Esta inteligencia se relaciona con los números, la lógica y las abstracciones [27]. Referencia: Página 57, Capítulo 5: El aprendizaje."
+  },
+  {
+    "id": 125,
+    "pregunta": "¿Qué inteligencia se caracteriza por la capacidad de visualizar y manipular mentalmente objetos?",
+    "opciones": [
+      "Inteligencia corporal-kinestésica.",
+      "Inteligencia naturalista.",
+      "Inteligencia espacial.",
+      "Inteligencia musical."
+    ],
+    "correcta": 2,
+    "explicacion": "Los individuos con esta inteligencia tienen gran memoria visual y se orientan bien con mapas [28]. Referencia: Página 58, Capítulo 5: El aprendizaje."
+  },
+  {
+    "id": 126,
+    "pregunta": "La capacidad de planificar estrategias y supervisar los propios errores es una función de:",
+    "opciones": [
+      "El sistema límbico.",
+      "La neocorteza (funciones ejecutivas).",
+      "El tronco encefálico.",
+      "Los lóbulos olfatorios."
+    ],
+    "correcta": 1,
+    "explicacion": "Las funciones ejecutivas permiten administrar tareas y rectificar fallos de forma consciente [29, 30]. Referencia: Página 61-62, Capítulo 5: El aprendizaje."
+  },
+  {
+    "id": 127,
+    "pregunta": "¿Qué necesita el cerebro reptil para funcionar correctamente en los procesos de enseñanza?",
+    "opciones": [
+      "Desafíos lógicos complejos.",
+      "Vínculos afectivos profundos.",
+      "Oxígeno, rituales y sentirse seguro en el grupo.",
+      "Música instrumental de fondo."
+    ],
+    "correcta": 2,
+    "explicacion": "Al ser el cerebro de supervivencia, requiere seguridad básica y rutinas para no activarse defensivamente [31]. Referencia: Página 63, Capítulo 5: El aprendizaje."
+  },
+  {
+    "id": 128,
+    "pregunta": "En 1973, Timothy Bliss descubrió la PLP en el hipocampo. ¿Qué significan estas siglas?",
+    "opciones": [
+      "Plasticidad Límbica Primaria.",
+      "Potenciación a Largo Plazo.",
+      "Proceso Lógico de Percepción.",
+      "Poda Lenta de Proyecciones."
+    ],
+    "correcta": 1,
+    "explicacion": "La PLP es la intensificación duradera de señales entre neuronas, base de la memoria estable [32]. Referencia: Página 67, Capítulo 6: Atención y memoria."
+  },
+  {
+    "id": 129,
+    "pregunta": "La 'poda neuronal' es un proceso que busca:",
+    "opciones": [
+      "Eliminar conexiones poco utilizadas para optimizar la capacidad cerebral.",
+      "Hacer que el cerebro crezca de tamaño indefinidamente.",
+      "Destruir las neuronas responsables del miedo.",
+      "Impedir que el niño aprenda nuevos idiomas."
+    ],
+    "correcta": 0,
+    "explicacion": "Este proceso asegura que los recursos cerebrales se centren en las conexiones utilizadas frecuentemente [33]. Referencia: Página 68, Capítulo 6: Atención y memoria."
+  },
+  {
+    "id": 130,
+    "pregunta": "Según Posner, ¿cuál es el epicentro de la 'atención ejecutiva' que permite mantener el foco de forma voluntaria?",
+    "opciones": [
+      "La amígdala derecha.",
+      "La corteza cingulada anterior.",
+      "El cerebelo posterior.",
+      "El bulbo raquídeo."
+    ],
+    "correcta": 1,
+    "explicacion": "El entrenamiento atencional aumenta la actividad en esta zona específica de la corteza [34]. Referencia: Página 71, Capítulo 6: Atención y memoria."
+  },
+  {
+    "id": 131,
+    "pregunta": "¿Qué nombre recibe el sistema de memoria que registra hechos personales y el estado mental del momento?",
+    "opciones": [
+      "Memoria semántica.",
+      "Memoria procedimental.",
+      "Memoria episódica.",
+      "Memoria sensorial kinestésica."
+    ],
+    "correcta": 2,
+    "explicacion": "La memoria episódica es parte de la declarativa y almacena vivencias personales [35]. Referencia: Página 75, Capítulo 6: Atención y memoria."
+  },
+  {
+    "id": 132,
+    "pregunta": "La memoria que guarda habilidades motoras y esquemas automáticos (como andar en bicicleta) se llama:",
+    "opciones": [
+      "Memoria explícita.",
+      "Memoria implícita o procedimental.",
+      "Memoria de trabajo.",
+      "Memoria inmediata visual."
+    ],
+    "correcta": 1,
+    "explicacion": "Esta memoria no requiere intervención de la conciencia para ejecutarse [36]. Referencia: Página 76, Capítulo 6: Atención y memoria."
+  },
+  {
+    "id": 133,
+    "pregunta": "¿Cuál es la función del SARA (Sistema Activador Reticular Ascendente)?",
+    "opciones": [
+      "Regular el nivel de azúcar en la sangre.",
+      "Determinar qué información sensorial pasa al sistema límbico y al cerebro superior.",
+      "Almacenar exclusivamente datos de la memoria episódica.",
+      "Controlar los movimientos involuntarios del ojo."
+    ],
+    "correcta": 1,
+    "explicacion": "El SARA actúa como el primer filtro de los millones de bits de información que recibe el cerebro [37]. Referencia: Página 79, Capítulo 6: Atención y memoria."
+  },
+  {
+    "id": 134,
+    "pregunta": "El estado ideal para reflexionar, con diálogo interno e intervalos de 15 minutos, se denomina:",
+    "opciones": [
+      "Uptime.",
+      "Downtime.",
+      "Overtime.",
+      "SARA activo."
+    ],
+    "correcta": 1,
+    "explicacion": "El Downtime es el proceso de procesamiento interno de la información recibida [38]. Referencia: Página 80, Capítulo 6: Atención y memoria."
+  },
+  {
+    "id": 135,
+    "pregunta": "Un aprendizaje 'superficial' se caracteriza por:",
+    "opciones": [
+      "La intención de desarrollar comprensión personal.",
+      "La reproducción del contenido con aceptación pasiva de ideas.",
+      "La asociación de ideas con vivencias concretas.",
+      "La capacidad de monitorear y evaluar el propio aprendizaje."
+    ],
+    "correcta": 1,
+    "explicacion": "En el nivel superficial, el alumno solo reconoce, identifica y clasifica sin profundidad [39]. Referencia: Página 82, Capítulo 6: Atención y memoria."
+  },
+  {
+    "id": 136,
+    "pregunta": "Las emociones secundarias, a diferencia de las primarias, dependen de:",
+    "opciones": [
+      "La genética pura e invariable.",
+      "La cultura, el entorno y la gestión emocional de la persona.",
+      "El tamaño de la corteza prefrontal al nacer.",
+      "La cantidad de horas de sueño del individuo."
+    ],
+    "correcta": 1,
+    "explicacion": "Nadie nace con emociones secundarias como la depresión o violencia; estas surgen del contexto y la memética [40, 41]. Referencia: Página 89-90, Capítulo 7: La inteligencia emocional."
+  },
+  {
+    "id": 137,
+    "pregunta": "¿Qué autor propuso en 1996 que la IE es 'la capacidad de reconocer los sentimientos propios y ajenos'?",
+    "opciones": [
+      "Daniel Goleman.",
+      "Howard Gardner.",
+      "Paul MacLean.",
+      "Frederick Dodson."
+    ],
+    "correcta": 0,
+    "explicacion": "Goleman es el referente principal citado para la definición de Inteligencia Emocional [42]. Referencia: Página 85, Capítulo 7: La inteligencia emocional."
+  },
+  {
+    "id": 138,
+    "pregunta": "¿Cuál es un desafío docente prioritario en el siglo XXI mencionado en el Capítulo 8?",
+    "opciones": [
+      "Enseñar contenidos enciclopédicos de forma estática.",
+      "Centrarse exclusivamente en los resultados numéricos de las pruebas.",
+      "Abordar tanto lo académico como lo socio-afectivo en el aula.",
+      "Evitar el uso de cualquier tecnología para no distraer."
+    ],
+    "correcta": 2,
+    "explicacion": "El docente actual debe formar personas con herramientas para la vida, no solo impartir datos [43, 44]. Referencia: Página 93-94, Capítulo 8: La inteligencia emocional en la escuela."
+  },
+  {
+    "id": 139,
+    "pregunta": "¿Por qué es importante enseñar con 'Emoción' según la autora?",
+    "opciones": [
+      "Porque la memoria emocional no se olvida.",
+      "Porque hace que el docente sea más popular entre los alumnos.",
+      "Porque evita que se tenga que evaluar al final del año.",
+      "Porque las emociones bloquean la serotonina de forma positiva."
+    ],
+    "correcta": 0,
+    "explicacion": "Los aprendizajes ligados a una emoción positiva se consolidan con mayor fuerza en el cerebro [45]. Referencia: Página 98, Capítulo 8: La inteligencia emocional en la escuela."
+  },
+  {
+    "id": 140,
+    "pregunta": "En la estrategia de nivelación emocional 'Panel de la emoción', ¿qué deben hacer los estudiantes?",
+    "opciones": [
+      "Dibujar el cerebro humano con sus partes.",
+      "Diseñar sus propios emoticones y elegir el que representa su emoción del día.",
+      "Hacer una lista de quiénes se portan mal.",
+      "Escribir una carta a sus padres explicando su nota."
+    ],
+    "correcta": 1,
+    "explicacion": "Esta dinámica enseña a gestionar la emoción al ponerla en palabras y compartir el clima del aula [46]. Referencia: Página 100, Capítulo 9: Estrategias para nivelar estados emocionales...."
+  },
+  {
+    "id": 141,
+    "pregunta": "El 'Botiquín de primeros auxilios emocionales' incluye recursos como el 'cepillo saca risas' para:",
+    "opciones": [
+      "Limpiar el aula al final del día.",
+      "Tratar somatizaciones emocionales que los alumnos no reconocen como tales.",
+      "Castigar a los alumnos que hacen bromas.",
+      "Medir la higiene bucal de los niños."
+    ],
+    "correcta": 1,
+    "explicacion": "Ayuda a registrar y tratar simbólicamente dolores que tienen una raíz emocional, no física [47]. Referencia: Página 101, Capítulo 9: Estrategias para nivelar estados emocionales...."
+  },
+  {
+    "id": 142,
+    "pregunta": "¿Cuál es la recomendación sobre los 'recreos cerebrales' en una clase de 80 minutos?",
+    "opciones": [
+      "No realizarlos para no perder el hilo de la explicación.",
+      "Hacer pausas de 10-15 segundos cada 20 minutos aproximadamente.",
+      "Hacer una pausa de 30 minutos a la mitad de la clase.",
+      "Solo realizarlos si los alumnos se portan bien."
+    ],
+    "correcta": 1,
+    "explicacion": "Las pausas breves de movimiento o humor oxigenan el cerebro y despiertan dopamina [48]. Referencia: Página 103, Capítulo 9: Estrategias para nivelar estados emocionales...."
+  },
+  {
+    "id": 143,
+    "pregunta": "En un 'Aula con cerebro', ¿qué efecto tiene la anticipación de contenidos mediante una agenda?",
+    "opciones": [
+      "Aumenta la ansiedad por el futuro.",
+      "Relaja al cerebro, baja la ansiedad y prepara la motivación.",
+      "Hace que los alumnos se aburran antes de empezar.",
+      "No tiene ningún efecto comprobado."
+    ],
+    "correcta": 1,
+    "explicacion": "Saber qué pasará después permite que el estudiante sea más paciente y esté mejor dispuesto [49, 50]. Referencia: Página 111-112, Capítulo 10: Un aula con cerebro."
+  },
+  {
+    "id": 144,
+    "pregunta": "Según la Programación Neurolingüística (PNL), ¿qué significan las siglas VAK?",
+    "opciones": [
+      "Voluntad, Acción, Kinestesia.",
+      "Visual, Auditivo, Kinestésico.",
+      "Velocidad, Atención, Kinética.",
+      "Visión, Audición, Conocimiento."
+    ],
+    "correcta": 1,
+    "explicacion": "Son las tres vías sensoriales preferentes para la entrada y procesamiento de información [51]. Referencia: Página 118, Capítulo 10: Un aula con cerebro."
+  },
+  {
+    "id": 145,
+    "pregunta": "¿Qué color se asocia con 'naturaleza, esperanza y equilibrio' para decorar el aula?",
+    "opciones": [
+      "Rojo.",
+      "Verde.",
+      "Púrpura.",
+      "Negro."
+    ],
+    "correcta": 1,
+    "explicacion": "La tabla de colores asocia el verde con el crecimiento y la estabilidad [51]. Referencia: Página 118, Capítulo 10: Un aula con cerebro."
+  },
+  {
+    "id": 146,
+    "pregunta": "Respecto a la evaluación asertiva, ¿cuál es la recomendación sobre el sueño?",
+    "opciones": [
+      "Es mejor estudiar toda la noche sin dormir para no olvidar nada.",
+      "Estudiar e ir a dormir es más efectivo, pues el cerebro consolida lo aprendido al dormir.",
+      "Dormir solo 3 horas para mantener el cortisol alto.",
+      "No dormir la siesta el día anterior al examen."
+    ],
+    "correcta": 1,
+    "explicacion": "El cerebro está muy activo durante el sueño fijando los conocimientos del día [52]. Referencia: Página 122, Capítulo 11: Evaluar de manera asertiva."
+  },
+  {
+    "id": 147,
+    "pregunta": "La técnica de evaluación 'A pregunta, B responde y Z corrige' fomenta:",
+    "opciones": [
+      "La competencia individual extrema.",
+      "La revisión crítica entre pares y la socialización del conocimiento.",
+      "El silencio absoluto durante la prueba.",
+      "La memorización de fechas exactas."
+    ],
+    "correcta": 1,
+    "explicacion": "Involucra a los estudiantes en roles activos de formulación y corrección compartida [53]. Referencia: Página 124, Capítulo 11: Evaluar de manera asertiva."
+  },
+  {
+    "id": 148,
+    "pregunta": "¿En qué consiste el ejercicio de entrenamiento atencional 'Fotografía mental'?",
+    "opciones": [
+      "En sacarse una selfie antes de estudiar.",
+      "En observar un objeto minuciosamente para luego recrearlo mentalmente con los ojos cerrados.",
+      "En memorizar una página entera de un libro en un segundo.",
+      "En dibujar el aula desde una perspectiva aérea."
+    ],
+    "correcta": 1,
+    "explicacion": "Esta práctica fortalece el foco atencional y la capacidad de recrear detalles internamente [54, 55]. Referencia: Página 138-139, Capítulo 12: Entrenar la atención."
+  },
+  {
+    "id": 149,
+    "pregunta": "Un docente que se considera 'entrenador de la atención' sabe que si la atención falla:",
+    "opciones": [
+      "El alumno simplemente es perezoso.",
+      "La información llega al cerebro deformada o incompleta, dificultando el resto de procesos cognitivos.",
+      "Se debe castigar al estudiante quitándole el recreo.",
+      "No pasa nada, ya que el cerebro reptiliano compensará el error."
+    ],
+    "correcta": 1,
+    "explicacion": "La atención es el filtro crítico; sin ella, el aprendizaje es disfuncional [56]. Referencia: Página 130, Capítulo 12: Entrenar la atención."
+  },
+  {
+    "id": 150,
+    "pregunta": "¿Cuál es la reflexión final de Marilina Rotger sobre el talento de los estudiantes?",
+    "opciones": [
+      "Solo los alumnos con alto CI tienen talento real.",
+      "Todos tenemos talentos y somos inteligentes en algo; el desafío docente es ayudar a descubrirlo.",
+      "El talento es algo que no se puede modificar con la educación.",
+      "La inteligencia emocional es menos importante que las notas académicas."
+    ],
+    "correcta": 1,
+    "explicacion": "La autora cierra el libro enfatizando la diversidad de inteligencias y el rol facilitador del maestro [57]. Referencia: Página 141, Final del libro."
+  }
+]

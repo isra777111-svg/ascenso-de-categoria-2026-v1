@@ -1,0 +1,2042 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Cuál es la relación numérica de estudiantes por ítem completo que debe atender un maestro de apoyo en el área de Dificultades Específicas en el Aprendizaje?",
+    "opciones": [
+      "Más de 10 estudiantes.",
+      "Más de 15 estudiantes.",
+      "Más de 20 estudiantes.",
+      "No aplica un número específico."
+    ],
+    "correcta": 2,
+    "explicacion": "La normativa técnica establece una relación de más de 20 estudiantes para el área de dificultades específicas cuando el maestro cuenta con ítem completo [1]. Capítulo X, Gestión Organizacional, Artículo 55."
+  },
+  {
+    "id": 2,
+    "pregunta": "Para la atención de estudiantes con Talento Extraordinario, ¿cuántos estudiantes se asignan por ítem completo al maestro de apoyo?",
+    "opciones": [
+      "Más de 5 estudiantes.",
+      "Más de 15 estudiantes.",
+      "Más de 25 estudiantes.",
+      "Más de 10 estudiantes."
+    ],
+    "correcta": 1,
+    "explicacion": "El cuadro de relación docente-estudiante especifica que en el área de talento extraordinario la relación es de más de 15 estudiantes [2]. Capítulo X, Gestión Organizacional, Artículo 55."
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Cuál es la carga horaria individualizada promedio mensual establecida para la atención en el área de Discapacidad Visual?",
+    "opciones": [
+      "4 horas mensuales.",
+      "8 horas mensuales.",
+      "12 horas mensuales.",
+      "16 horas mensuales."
+    ],
+    "correcta": 2,
+    "explicacion": "Para el área de discapacidad visual, se determina una carga horaria individualizada de 12 horas mensuales promedio [2]. Capítulo X, Gestión Organizacional, Artículo 55."
+  },
+  {
+    "id": 4,
+    "pregunta": "En el área de Discapacidad Auditiva, ¿cuál es la relación mínima de estudiantes por ítem completo y su carga horaria individualizada?",
+    "opciones": [
+      "Más de 4 estudiantes y 8 horas mensuales.",
+      "Más de 5 estudiantes y 4 horas mensuales.",
+      "Más de 10 estudiantes y 12 horas mensuales.",
+      "Más de 8 estudiantes y 6 horas mensuales."
+    ],
+    "correcta": 0,
+    "explicacion": "La tabla de gestión organizacional indica que para discapacidad auditiva corresponden más de 4 estudiantes y una carga de 8 horas mensuales [2]. Capítulo X, Gestión Organizacional, Artículo 55."
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Qué carga horaria individualizada promedio mensual corresponde al área de Discapacidad Intelectual según la normativa vigente?",
+    "opciones": [
+      "No aplica carga horaria.",
+      "4 horas mensuales.",
+      "8 horas mensuales.",
+      "12 horas mensuales."
+    ],
+    "correcta": 1,
+    "explicacion": "Aunque no se especifica un número de estudiantes por ítem para discapacidad intelectual en el cuadro, sí se define una carga horaria individualizada de 4 horas mensuales promedio [2]. Capítulo X, Gestión Organizacional, Artículo 55."
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Cuál es la carga horaria individualizada para el área de Talento Extraordinario según los criterios de gestión organizacional?",
+    "opciones": [
+      "4 horas mensuales.",
+      "12 horas mensuales.",
+      "8 horas mensuales.",
+      "No aplica."
+    ],
+    "correcta": 3,
+    "explicacion": "En la relación docente-estudiante para el área de talento extraordinario, la columna de carga horaria individualizada figura expresamente como 'No aplica' [2]. Capítulo X, Gestión Organizacional, Artículo 55."
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Bajo qué criterio deben desarrollar el apoyo educativo los maestros que tienen horas destinadas a la modalidad indirecta por organización curricular?",
+    "opciones": [
+      "Carga horaria colectiva.",
+      "Carga horaria individualizada.",
+      "Carga horaria semestral.",
+      "Carga horaria por distrito."
+    ],
+    "correcta": 1,
+    "explicacion": "La normativa indica que los maestros con horas para la modalidad indirecta deben tomar en cuenta la 'carga horaria individualizada' del cuadro técnico de referencia [2]. Capítulo X, Gestión Organizacional, Artículo 55, Inciso b."
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Cuál es el número de estudiantes por ítem completo definido para el área de atención de Discapacidad Visual?",
+    "opciones": [
+      "Más de 2 estudiantes.",
+      "Más de 10 estudiantes.",
+      "Más de 4 estudiantes.",
+      "Más de 5 estudiantes."
+    ],
+    "correcta": 3,
+    "explicacion": "El reglamento establece que para discapacidad visual la relación es de más de 5 estudiantes por ítem completo [2]. Capítulo X, Gestión Organizacional, Artículo 55."
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Qué se entiende por 'Evaluación Multidisciplinaria' en el contexto de la educación inclusiva boliviana?",
+    "opciones": [
+      "Un examen médico anual obligatorio para todos los estudiantes del sistema educativo.",
+      "Un proceso de obtención y análisis de información especializada que sintetiza una valoración del neurodesarrollo integral y educativo.",
+      "Una calificación trimestral realizada por el consejo de maestros de aula.",
+      "Un censo poblacional para identificar personas con discapacidad en áreas rurales."
+    ],
+    "correcta": 1,
+    "explicacion": "La evaluación multidisciplinaria es un proceso especializado que permite crear condiciones para el desarrollo curricular más pertinente basado en el neurodesarrollo [3]. Capítulo I, Disposiciones Generales, Artículo 4."
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Cuál es la diferencia máxima de edad permitida para la inscripción de estudiantes con discapacidad intelectual en Educación Inicial y Primaria respecto a sus pares?",
+    "opciones": [
+      "Hasta 12 meses.",
+      "Hasta 36 meses.",
+      "Hasta 24 meses.",
+      "Hasta 48 meses."
+    ],
+    "correcta": 2,
+    "explicacion": "El reglamento permite una flexibilidad en la edad de inscripción de hasta 24 meses de diferencia con relación a la edad establecida para sus pares, previa evaluación [4]. Capítulo II, Artículo 6, Inciso d."
+  },
+  {
+    "id": 11,
+    "pregunta": "¿De quién dependen directamente los maestros de apoyo de la Modalidad Indirecta que trabajan en Educación Regular y Alternativa?",
+    "opciones": [
+      "De la Dirección Distrital de Educación exclusivamente.",
+      "Del Centro de Educación Especial (CEE) y su control está a cargo de los directores de dichos centros.",
+      "De la Junta de Padres de Familia de la unidad educativa receptora.",
+      "Directamente del Ministerio de Educación a través de su unidad de sistemas."
+    ],
+    "correcta": 1,
+    "explicacion": "La normativa establece que los maestros de apoyo dependen directamente de los Centros de Educación Especial (CEE) [5]. Capítulo X, Gestión Organizacional, Artículo 56."
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Qué instrumento es obligatorio para los estudiantes con discapacidad intelectual que transitan por el Sistema Educativo Plurinacional para proyectar su recorrido educativo?",
+    "opciones": [
+      "Libreta escolar electrónica de los últimos cinco años.",
+      "Certificado de nacimiento original y actualizado.",
+      "Informe de Evaluación Integral realizado por Equipos Multidisciplinarios.",
+      "Carta de recomendación de la unidad educativa de origen."
+    ],
+    "correcta": 2,
+    "explicacion": "Las recomendaciones de este informe son decisivas para proyectar el recorrido educativo más pertinente del estudiante [6]. Capítulo II, Artículo 7, Inciso b."
+  },
+  {
+    "id": 13,
+    "pregunta": "¿En qué grados de Educación Primaria Comunitaria Vocacional se prioriza el apoyo educativo en sentido preventivo para dificultades en el aprendizaje?",
+    "opciones": [
+      "En todos los grados de primaria y secundaria.",
+      "Únicamente en el nivel de Educación Inicial.",
+      "En los grados de 1ro, 2do y 3ro.",
+      "En los grados de 4to, 5to y 6to."
+    ],
+    "correcta": 2,
+    "explicacion": "La cobertura se enfoca preventivamente en los tres primeros grados de primaria y en sentido reeducativo de 4to a 6to [7]. Capítulo VII, Artículo 41."
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Cuál es el objetivo principal del Plan de Apoyo Técnico Pedagógico?",
+    "opciones": [
+      "Sustituir la planificación curricular del maestro de aula.",
+      "Viabilizar procesos educativos pertinentes en igualdad de oportunidades para estudiantes con discapacidad o talento extraordinario.",
+      "Registrar las faltas y atrasos de los estudiantes de la modalidad indirecta.",
+      "Establecer el cronograma de vacaciones y feriados escolares."
+    ],
+    "correcta": 1,
+    "explicacion": "Es el instrumento que contempla acciones operativas para garantizar procesos educativos en igualdad de condiciones en el SEP [3]. Capítulo I, Artículo 4, Inciso c."
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué requisito es indispensable para que un estudiante con discapacidad acceda a los apoyos educativos de los Centros de Educación Especial (CEE)?",
+    "opciones": [
+      "Realizar una doble matriculación (simultánea) con el mismo código RUDE.",
+      "Renunciar a su inscripción en la educación regular.",
+      "Tener un promedio de calificaciones superior a 70 puntos.",
+      "Contar con un seguro de salud privado."
+    ],
+    "correcta": 0,
+    "explicacion": "Para recibir el apoyo, los estudiantes deben matricularse de forma simultánea en el CEE y en la institución de otro subsistema con el mismo código RUDE [8]. Capítulo X, Artículo 61."
+  },
+{
+    "id": 16,
+    "pregunta": "¿Cuál es el objeto fundamental del reglamento para el fortalecimiento de la Educación Inclusiva en el Sistema Educativo Plurinacional?",
+    "opciones": [
+      "Regular únicamente el pago de bonos para estudiantes con discapacidad.",
+      "Garantizar el acceso, permanencia y conclusión de procesos educativos para estudiantes con discapacidad, dificultades en el aprendizaje y talento extraordinario.",
+      "Establecer el currículo único para las escuelas de formación de maestros de educación especial.",
+      "Definir las sanciones para directores que no inscriban a estudiantes con talento extraordinario."
+    ],
+    "correcta": 1,
+    "explicacion": "El reglamento busca garantizar el recorrido educativo completo (acceso, permanencia y conclusión) mediante lineamientos pedagógicos y organizativos. Capítulo I, Disposiciones Generales, Artículo 1. [1]"
+  },
+  {
+    "id": 17,
+    "pregunta": "¿A qué instituciones educativas es de aplicación obligatoria la normativa de educación inclusiva bajo la modalidad indirecta?",
+    "opciones": [
+      "Solo a Unidades Educativas Fiscales del Subsistema de Educación Regular.",
+      "Únicamente a Centros de Educación Especial del área urbana.",
+      "A instituciones educativas fiscales, de convenio y privadas de los diferentes subsistemas.",
+      "Exclusivamente a los centros dependientes de las Direcciones Departamentales de Educación."
+    ],
+    "correcta": 2,
+    "explicacion": "El ámbito de aplicación abarca instituciones fiscales, privadas y de convenio en los subsistemas de Educación Regular, Superior y el Ámbito de Educación Alternativa. Capítulo I, Disposiciones Generales, Artículo 2. [2]"
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Cómo se define a los 'Estudiantes con Dificultades en el Aprendizaje' según el marco normativo vigente?",
+    "opciones": [
+      "Estudiantes con diagnóstico médico de discapacidad intelectual o sensorial grave.",
+      "Estudiantes que presentan necesidades educativas temporales o permanentes no provocadas por factores intelectuales o sensoriales que interfieren en su rendimiento.",
+      "Aquellos que requieren el uso obligatorio de la Lengua de Señas Boliviana para su aprendizaje.",
+      "Estudiantes que han sido expulsados de unidades educativas regulares por problemas de conducta."
+    ],
+    "correcta": 1,
+    "explicacion": "Se definen por presentar necesidades que interfieren en el rendimiento académico sin ser causadas por factores intelectuales o sensoriales. Capítulo I, Disposiciones Generales, Artículo 4, inciso e. [3]"
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué componente define el 'Diseño Plural para los Aprendizajes' en el marco de la educación inclusiva?",
+    "opciones": [
+      "Un software educativo obligatorio para todas las áreas rurales.",
+      "Un conjunto de orientaciones para el desarrollo del currículo que busca alcanzar a todos los estudiantes en la mayor medida posible.",
+      "Una lista de materiales escolares que los padres deben comprar anualmente.",
+      "Un examen de ingreso para estudiantes con talento extraordinario."
+    ],
+    "correcta": 1,
+    "explicacion": "El Diseño Plural permite generar condiciones educativas basadas en los principios de inclusión para toda la diversidad de estudiantes. Capítulo I, Disposiciones Generales, Artículo 4, inciso g. [3]"
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Cuál es el propósito del registro de la 'Trayectoria Educativa' de un estudiante con discapacidad?",
+    "opciones": [
+      "Sustituir el certificado de nacimiento para trámites legales.",
+      "Registrar el historial secuencial y cronológico de su recorrido educativo, logros, dificultades y recomendaciones pedagógicas.",
+      "Controlar la asistencia diaria del estudiante a las sesiones de fisioterapia externa.",
+      "Determinar el monto económico de las becas escolares en instituciones privadas."
+    ],
+    "correcta": 1,
+    "explicacion": "Es el historial individual que incorpora información relevante sobre potencialidades, necesidades e intervenciones pedagógicas del estudiante. Capítulo I, Disposiciones Generales, Artículo 4, inciso j. [4]"
+  },
+  {
+    "id": 21,
+    "pregunta": "Según la normativa, ¿qué criterio debe prevalecer en la matriculación de estudiantes con discapacidad, dificultades en el aprendizaje o talento extraordinario?",
+    "opciones": [
+      "Deben inscribirse obligatoriamente primero en un Centro de Educación Especial.",
+      "La inscripción se realiza sin discriminación alguna, independientemente de sus condiciones del neurodesarrollo o sociales.",
+      "Solo pueden inscribirse si presentan un seguro de salud privado vigente.",
+      "Requieren la aprobación previa de la junta escolar del distrito."
+    ],
+    "correcta": 1,
+    "explicacion": "Las instituciones deben inscribir a los estudiantes independientemente de sus condiciones personales, culturales o sociales. Capítulo II, Inscripciones, Artículo 6, inciso a. [5]"
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Qué requisito es fundamental para estudiantes con Trastorno del Espectro Autista (TEA) que desean inscribirse simultáneamente en Educación Especial y Regular?",
+    "opciones": [
+      "Tener un promedio de notas superior a 90 puntos.",
+      "Contar con una recomendación de un informe de evaluación integral y multidisciplinaria.",
+      "Haber cursado al menos 3 años en un centro de rehabilitación privado.",
+      "Contar con una carta de aceptación de todos los padres de familia del curso."
+    ],
+    "correcta": 1,
+    "explicacion": "La inscripción simultánea se basa en las recomendaciones del informe multidisciplinario que establezca el currículo más adecuado. Capítulo II, Inscripciones, Artículo 6, inciso e. [6]"
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Cuál es una de las responsabilidades de las Direcciones Departamentales de Educación (DDEs) respecto a la educación inclusiva?",
+    "opciones": [
+      "Elaborar los exámenes trimestrales para cada unidad educativa.",
+      "Planificar, organizar, monitorear y evaluar las disposiciones establecidas en el reglamento de educación inclusiva.",
+      "Comprar el mobiliario para todas las unidades educativas privadas del departamento.",
+      "Realizar la evaluación médica de los estudiantes con dificultades de aprendizaje."
+    ],
+    "correcta": 1,
+    "explicacion": "Las DDEs son responsables de la gestión operativa (planificación, monitoreo y evaluación) de la normativa en su jurisdicción. Capítulo III, Responsabilidades, Artículo 10, inciso a. [7]"
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Qué acción deben desarrollar las Direcciones Distritales Educativas para garantizar el apoyo educativo?",
+    "opciones": [
+      "Contratar personal de limpieza para los centros de educación especial.",
+      "Desarrollar procesos de seguimiento a los centros y unidades educativas para asegurar el apoyo a estudiantes con discapacidad.",
+      "Sustituir a los maestros de aula que no hablen lengua de señas.",
+      "Organizar las ferias dominicales de los barrios educativos."
+    ],
+    "correcta": 1,
+    "explicacion": "Tienen la función de seguimiento para garantizar que el apoyo educativo llegue efectivamente a los estudiantes. Capítulo III, Responsabilidades, Artículo 11, inciso a. [8]"
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Cuál es una responsabilidad crítica de los directores de instituciones de Educación Regular en favor de la accesibilidad?",
+    "opciones": [
+      "Cobrar cuotas extras para la construcción de rampas.",
+      "Viabilizar ante las instancias correspondientes el diseño o remodelación de infraestructura bajo el enfoque de 'Usos Universales'.",
+      "Prohibir el ingreso de estudiantes con discapacidad motora si no hay ascensores.",
+      "Delegar toda la responsabilidad de la infraestructura a los maestros de apoyo."
+    ],
+    "correcta": 1,
+    "explicacion": "El director debe gestionar la eliminación de barreras arquitectónicas mediante remodelaciones con criterios de diseño universal. Capítulo III, Responsabilidades, Artículo 12, inciso f. [9]"
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Qué tarea debe cumplir el maestro de aula que atiende a estudiantes con discapacidad, dificultades en el aprendizaje o talento extraordinario?",
+    "opciones": [
+      "Exigir que el estudiante solo asista cuando esté presente el maestro de apoyo.",
+      "Desarrollar la Planificación Curricular de Aula y procesos educativos accesibles en el marco del Diseño Plural para los Aprendizajes.",
+      "Encargar la calificación del estudiante exclusivamente al centro de educación especial.",
+      "Modificar el 100% de los contenidos curriculares sin considerar el grado del estudiante."
+    ],
+    "correcta": 1,
+    "explicacion": "Es deber del maestro de aula adaptar su planificación para que sea accesible a toda la diversidad de su grupo. Capítulo III, Responsabilidades, Artículo 13, inciso a. [10]"
+  },
+  {
+    "id": 27,
+    "pregunta": "¿De qué son responsables los padres, madres o tutores de estudiantes con necesidades educativas según el reglamento?",
+    "opciones": [
+      "De realizar las tareas escolares por sus hijos para asegurar que aprueben.",
+      "De apoyar y orientar a sus hijos con el fin de generar condiciones educativas favorables.",
+      "De pagar el salario del maestro de apoyo que visita la unidad educativa.",
+      "De decidir si el estudiante debe o no ser evaluado por el equipo multidisciplinario."
+    ],
+    "correcta": 1,
+    "explicacion": "La responsabilidad familiar se centra en el apoyo y orientación para facilitar el proceso educativo. Capítulo III, Responsabilidades, Artículo 15, inciso a. [11]"
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Cuál es una función específica del Maestro de Apoyo en la Modalidad Indirecta?",
+    "opciones": [
+      "Reemplazar al maestro de aula cuando este falta.",
+      "Asesorar, orientar, supervisar y capacitar al personal docente en la aplicación del Diseño Plural y adaptaciones curriculares.",
+      "Realizar tareas administrativas de la Dirección Distrital de Educación.",
+      "Evaluar y certificar la salud física de todos los estudiantes del nivel inicial."
+    ],
+    "correcta": 1,
+    "explicacion": "Su rol es técnico-pedagógico, orientando al maestro de aula para que este pueda atender mejor a la diversidad. Capítulo III, Responsabilidades, Artículo 17, inciso a. [12]"
+  },
+  {
+    "id": 29,
+    "pregunta": "Respecto a la Discapacidad Auditiva, ¿qué característica debe cumplir la vestimenta del maestro de apoyo durante el acto interpretativo de la LSB?",
+    "opciones": [
+      "Debe usar joyas vistosas para atraer la atención del estudiante.",
+      "Debe ser adecuada y cómoda, sin distractores visuales (prendas de colores vistosos o estampados).",
+      "Debe ser obligatoriamente un uniforme militar o policial.",
+      "No existe ninguna recomendación sobre la vestimenta en la normativa."
+    ],
+    "correcta": 1,
+    "explicacion": "Para no interferir con la visibilidad de las señas, la vestimenta debe ser sobria y sin distractores. Capítulo IV, Apoyo Educativo Discapacidad Auditiva, Artículo 23. [13]"
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Cuál es una función del maestro de apoyo en el área de Discapacidad Visual?",
+    "opciones": [
+      "Dictar todas las clases del grado en lugar del maestro de aula.",
+      "Acompañar el desarrollo educativo en aspectos de signografía Braille, macrotipo y transcripción de materiales.",
+      "Proporcionar anteojos graduados de forma gratuita a todos los estudiantes.",
+      "Sancionar a los estudiantes que no aprendan Braille en el primer trimestre."
+    ],
+    "correcta": 1,
+    "explicacion": "El apoyo se centra en la mediación técnica como el Braille y la adaptación de materiales para garantizar el acceso a la información. Capítulo V, Apoyo Educativo Discapacidad Visual, Artículo 30, inciso f. [14]"
+  },
+  {
+    "id": 31,
+    "pregunta": "¿Qué nivel de formación se requiere para ser Maestro de Apoyo en el área de Discapacidad Intelectual?",
+    "opciones": [
+      "Bachillerato en humanidades únicamente.",
+      "Formación inicial de maestro y complementariamente formación post gradual inherente al área de atención.",
+      "Ser profesional en medicina general o enfermería.",
+      "Tener un curso de capacitación de 20 horas en manualidades."
+    ],
+    "correcta": 1,
+    "explicacion": "Se exige una formación especializada post gradual debido a la complejidad de la atención requerida. Capítulo VI, Discapacidad Intelectual, Artículo 32. [15]"
+  },
+  {
+    "id": 32,
+    "pregunta": "Para estudiantes con Trastornos del Espectro Autista (TEA), ¿cuál es el objetivo del proceso de apoyo educativo?",
+    "opciones": [
+      "Curar el autismo mediante terapias intensivas de lenguaje.",
+      "Garantizar el acceso, permanencia y conclusión de procesos educativos para estudiantes sin compromiso intelectual ni trastornos funcionales del lenguaje.",
+      "Aislar al estudiante en una sala especial durante toda la jornada escolar.",
+      "Eximir al estudiante de cumplir con cualquier tipo de tarea o evaluación."
+    ],
+    "correcta": 1,
+    "explicacion": "El objetivo es la inclusión efectiva en los niveles y modalidades del SEP asegurando su recorrido educativo. Capítulo VI, Sección II, TEA, Artículo 37. [16]"
+  },
+  {
+    "id": 33,
+    "pregunta": "¿Cuál es una de las funciones del maestro de aula que atiende a estudiantes con discapacidad intelectual o autismo?",
+    "opciones": [
+      "Solicitar que el estudiante sea retirado de la unidad educativa si no avanza al ritmo de los demás.",
+      "Desarrollar la detección temprana de señales de alerta en Educación Inicial o Primaria.",
+      "Encargar a los otros estudiantes que le den las lecciones al compañero con discapacidad.",
+      "Evitar coordinar con el centro de educación especial para no perder autonomía."
+    ],
+    "correcta": 1,
+    "explicacion": "La detección temprana de señales de alerta es fundamental para iniciar los apoyos pertinentes de forma oportuna. Capítulo VI, Sección III, Artículo 39, inciso a. [17]"
+  },
+  {
+    "id": 34,
+    "pregunta": "En el área de Dificultades en el Aprendizaje, ¿qué enfoque se prioriza en los grados de 1ro, 2do y 3ro de primaria?",
+    "opciones": [
+      "Sentido reeducativo.",
+      "Sentido preventivo.",
+      "Sentido sancionatorio.",
+      "No existe ninguna prioridad específica."
+    ],
+    "correcta": 1,
+    "explicacion": "La normativa establece énfasis preventivo en los tres primeros años y reeducativo de cuarto a sexto. Capítulo VII, Dificultades en el Aprendizaje, Artículo 41. [18]"
+  },
+  {
+    "id": 35,
+    "pregunta": "¿Qué debe hacer un maestro de aula si observa señales de riesgo de dificultades de aprendizaje en un estudiante?",
+    "opciones": [
+      "Asignarle una calificación reprobatoria inmediatamente.",
+      "Aplicar la 'Guía de Observación - Detección de Signos de Riesgo' y derivar para evaluación multidisciplinaria.",
+      "Informar a la junta de padres para que el estudiante sea cambiado de colegio.",
+      "Ignorar las señales y esperar a que el estudiante madure por sí solo."
+    ],
+    "correcta": 1,
+    "explicacion": "Existe un procedimiento formal que incluye el uso de guías específicas y la derivación técnica para obtener un diagnóstico válido. Capítulo VII, Procedimientos, Artículo 44, inciso c. [19]"
+  },
+  {
+    "id": 36,
+    "pregunta": "¿Quiénes son los responsables de realizar la identificación de estudiantes con Talento Extraordinario?",
+    "opciones": [
+      "Los medios de comunicación locales mediante concursos.",
+      "Los Equipos Multidisciplinarios a través de procesos de evaluación psicológica y psicopedagógica integral.",
+      "Únicamente el director de la unidad educativa basándose en la libreta de notas.",
+      "Los mismos estudiantes mediante una autoevaluación en línea."
+    ],
+    "correcta": 1,
+    "explicacion": "La identificación requiere el uso de pruebas estandarizadas y la intervención de profesionales especializados. Capítulo VIII, Talento Extraordinario, Artículo 49. [20]"
+  },
+  {
+    "id": 37,
+    "pregunta": "¿Qué entidad debe garantizar la dotación de mobiliario adecuado y pertinente para estudiantes con discapacidad?",
+    "opciones": [
+      "El Ministerio de Salud.",
+      "Los Gobiernos Autónomos Municipales.",
+      "Las iglesias locales de cada zona.",
+      "El Fondo Monetario Internacional."
+    ],
+    "correcta": 1,
+    "explicacion": "Según la Ley 070 y este reglamento, la infraestructura y equipamiento (mobiliario) es competencia de los municipios. Capítulo IX, Artículo 54. [21]"
+  },
+  {
+    "id": 38,
+    "pregunta": "¿Bajo qué condición puede el apoyo educativo de un maestro extenderse a un radio territorial intermunicipal?",
+    "opciones": [
+      "Cuando el maestro desee conocer otros municipios.",
+      "Ante la inexistencia de Centros de Educación Especial en el municipio o distrito educativo correspondiente.",
+      "Si el alcalde del municipio vecino ofrece un mejor salario.",
+      "Solo durante las vacaciones de invierno."
+    ],
+    "correcta": 1,
+    "explicacion": "Se permite el alcance intermunicipal para asegurar que ningún estudiante se quede sin atención por falta de centros locales. Capítulo X, Gestión Organizacional, Artículo 57, inciso a. [22]"
+  },
+  {
+    "id": 39,
+    "pregunta": "¿Qué instrumento permite vincular a los Centros de Educación Especial con las Unidades Educativas Inclusivas?",
+    "opciones": [
+      "El Plan de Apoyo Técnico Pedagógico.",
+      "El Reglamento de Faltas y Sanciones del magisterio.",
+      "El contrato de alquiler de la unidad educativa.",
+      "La lista de asistencia del personal administrativo."
+    ],
+    "correcta": 0,
+    "explicacion": "Este plan viabiliza el desarrollo de procesos educativos y vincula a ambas instituciones para el apoyo del estudiante. Capítulo X, Gestión Organizacional, Artículo 59. [23]"
+  },
+  {
+    "id": 40,
+    "pregunta": "¿Qué establece la normativa respecto a la modificación del Escalafón Docente por parte del reglamento de educación inclusiva?",
+    "opciones": [
+      "El reglamento modifica el escalafón para dar más puntos a los maestros de apoyo.",
+      "Los artículos mencionados en el reglamento no modifican el Escalafón docente.",
+      "Solo modifica el escalafón para los maestros de unidades educativas privadas.",
+      "Establece un nuevo sistema de categorías exclusivamente para educación especial."
+    ],
+    "correcta": 1,
+    "explicacion": "La normativa aclara expresamente que sus disposiciones no alteran el régimen del Escalafón docente vigente. Disposiciones Finales, Segunda. [24]"
+  },
+{
+    "id": 41,
+    "pregunta": "¿Qué competencias específicas debe demostrar un maestro de apoyo en el área de Discapacidad Auditiva respecto a la comunicación?",
+    "opciones": [
+      "Conocimiento básico de señas para comunicación cotidiana solamente.",
+      "Experiencia y fluidez en la interpretación de la Lengua de Señas Boliviana-castellano y viceversa.",
+      "Capacidad para enseñar inglés técnico a estudiantes sordos.",
+      "Dominio exclusivo de la lectura labial y terapia de lenguaje oral."
+    ],
+    "correcta": 1,
+    "explicacion": "El perfil profesional exige fluidez interpretativa para garantizar el acceso real a los contenidos curriculares. Capítulo IV, Apoyo Educativo Discapacidad Auditiva, Artículo 20, inciso b [1]."
+  },
+  {
+    "id": 42,
+    "pregunta": "¿Cuál es el propósito central del proceso de interpretación de la LSB en los espacios educativos?",
+    "opciones": [
+      "Realizar una traducción literal palabra por palabra del castellano a señas.",
+      "Eliminar las barreras de comunicación para transmitir información y contenidos de forma accesible, clara y confiable.",
+      "Sustituir la explicación del maestro de aula por un resumen en video.",
+      "Evaluar la conducta social del estudiante sordo durante el recreo."
+    ],
+    "correcta": 1,
+    "explicacion": "El objetivo es la transmisión fiel de la información evitando traducciones literales o incoherencias que afecten el aprendizaje. Capítulo IV, Apoyo Educativo Discapacidad Auditiva, Artículo 22 [2]."
+  },
+  {
+    "id": 43,
+    "pregunta": "Para garantizar un acto interpretativo respetuoso hacia la cultura sorda, ¿qué condición debe cumplir el maestro de apoyo en su presentación personal?",
+    "opciones": [
+      "Usar joyas llamativas para que el estudiante mantenga la atención.",
+      "Utilizar vestimenta adecuada, sin distractores visuales como colores vistosos o estampados.",
+      "Llevar el cabello suelto y usar maquillaje artístico.",
+      "Vestir obligatoriamente el uniforme de gala de la unidad educativa."
+    ],
+    "correcta": 1,
+    "explicacion": "La vestimenta sobria evita distractores visuales que interfieran con la visibilidad y comprensión de las señas. Capítulo IV, Apoyo Educativo Discapacidad Auditiva, Artículo 23 [3]."
+  },
+  {
+    "id": 44,
+    "pregunta": "¿En qué consiste la evaluación diagnóstica inicial para estudiantes sordos dentro de la modalidad indirecta?",
+    "opciones": [
+      "En un examen escrito sobre historia de Bolivia.",
+      "En verificar el dominio de la LSB, competencias en castellano escrito y bagaje de conocimientos de la vida cotidiana.",
+      "En una prueba de audición clínica realizada en el aula.",
+      "En una entrevista psicológica exclusivamente con los padres de familia."
+    ],
+    "correcta": 1,
+    "explicacion": "Esta evaluación permite precisar el apoyo educativo pertinente según las competencias lingüísticas del estudiante. Capítulo IV, Apoyo Educativo Discapacidad Auditiva, Artículo 26, inciso a [4]."
+  },
+  {
+    "id": 45,
+    "pregunta": "¿Qué conocimientos especializados se requieren para el perfil de maestro de apoyo en Discapacidad Visual?",
+    "opciones": [
+      "Conocimiento de oftalmología y cirugía ocular.",
+      "Dominio de la signografía Braille, Código Matemático Unificado y Tiflología.",
+      "Manejo de lenguaje de señas y sistemas pictográficos.",
+      "Capacidad para fabricar anteojos y lentes de contacto."
+    ],
+    "correcta": 1,
+    "explicacion": "El perfil requiere competencias técnicas en lectoescritura táctil y herramientas específicas de acceso a la información para ciegos. Capítulo V, Apoyo Educativo Discapacidad Visual, Artículo 28, incisos a y b [5]."
+  },
+  {
+    "id": 46,
+    "pregunta": "¿Cuál es la función del maestro de apoyo respecto a la producción de materiales para estudiantes con baja visión?",
+    "opciones": [
+      "Comprar libros de texto comerciales para todos los estudiantes.",
+      "Garantizar la transcripción de formatos de tinta a macrotipo o sistemas digitales accesibles.",
+      "Dibujar ilustraciones a mano alzada en el pizarrón.",
+      "Solicitar que los padres de familia dicten las lecciones al estudiante."
+    ],
+    "correcta": 1,
+    "explicacion": "El maestro de apoyo debe asegurar que los materiales educativos sean legibles y accesibles según la necesidad visual. Capítulo V, Apoyo Educativo Discapacidad Visual, Artículo 30, inciso f [6]."
+  },
+  {
+    "id": 47,
+    "pregunta": "¿Qué estrategia pedagógica debe privilegiar el maestro de aula que trabaja con estudiantes con discapacidad visual?",
+    "opciones": [
+      "El uso intensivo de diapositivas con mucho texto.",
+      "Estrategias que privilegien elementos sonoros, en relieve, macrotipo o contrastes de color adecuados.",
+      "La proyección de películas sin audiodescripción.",
+      "El trabajo individual aislado en silencio absoluto."
+    ],
+    "correcta": 1,
+    "explicacion": "La mediación pedagógica debe utilizar canales sensoriales alternativos al visual para garantizar el aprendizaje. Capítulo V, Apoyo Educativo Discapacidad Visual, Artículo 31, inciso a [7]."
+  },
+  {
+    "id": 48,
+    "pregunta": "En el Subsistema de Educación Superior, ¿qué requisito es necesario para estudiantes con discapacidad intelectual?",
+    "opciones": [
+      "Un certificado de bachiller con promedio excelente.",
+      "Un informe multidisciplinario que corrobore el cumplimiento del perfil de entrada para el ejercicio profesional.",
+      "La aprobación de un examen de admisión especial sin límite de tiempo.",
+      "No se requiere ningún requisito adicional al de sus pares."
+    ],
+    "correcta": 1,
+    "explicacion": "Para el nivel superior, se debe validar que el estudiante posee las capacidades básicas para la profesión elegida. Capítulo VI, Discapacidad Intelectual, Artículo 33, inciso c [8]."
+  },
+  {
+    "id": 49,
+    "pregunta": "¿Cuál es una de las funciones del maestro de apoyo respecto a la Comisión Técnica Pedagógica de la unidad educativa?",
+    "opciones": [
+      "Presidir todas las reuniones de la comisión sin voz ni voto.",
+      "Participar en las reuniones para orientar el desarrollo de los procesos educativos de estudiantes con discapacidad intelectual.",
+      "Realizar las actas administrativas de la comisión exclusivamente.",
+      "Sancionar a los maestros que no asistan a las reuniones de la comisión."
+    ],
+    "correcta": 1,
+    "explicacion": "Su rol es técnico-orientador dentro de las instancias de decisión pedagógica de la institución. Capítulo VI, Discapacidad Intelectual, Artículo 35, inciso f [9]."
+  },
+  {
+    "id": 50,
+    "pregunta": "¿Qué población es el foco de atención del apoyo educativo para estudiantes con Trastornos del Espectro Autista (TEA)?",
+    "opciones": [
+      "Estudiantes con autismo severo que requieren hospitalización permanente.",
+      "Estudiantes con TEA sin compromiso intelectual ni trastornos funcionales del lenguaje.",
+      "Únicamente estudiantes con diagnóstico de síndrome de Down asociado.",
+      "Personas adultas con autismo que no están matriculadas en el sistema educativo."
+    ],
+    "correcta": 1,
+    "explicacion": "La modalidad indirecta se enfoca en estudiantes con TEA que pueden transitar el currículo regular con apoyos específicos. Capítulo VI, Sección II, TEA, Artículo 37 [10]."
+  },
+  {
+    "id": 51,
+    "pregunta": "Según la normativa, ¿cuándo deben iniciar los procesos de detección de señales de alerta en estudiantes de Educación Regular?",
+    "opciones": [
+      "Al finalizar la educación primaria.",
+      "Desde el momento en que las niñas y niños inician sus procesos de aprendizaje en el nivel inicial o primaria.",
+      "Únicamente cuando el estudiante reprueba tres materias consecutivas.",
+      "Cuando los padres de familia lo soliciten formalmente por escrito ante un notario."
+    ],
+    "correcta": 1,
+    "explicacion": "La detección temprana es responsabilidad del maestro de aula desde los primeros grados para una intervención oportuna. Capítulo VI, Sección III, Artículo 39, inciso a [11]."
+  },
+  {
+    "id": 52,
+    "pregunta": "¿Cuál es el énfasis de la cobertura educativa en el área de Dificultades en el Aprendizaje para los grados de 4to, 5to y 6to de primaria?",
+    "opciones": [
+      "Énfasis preventivo.",
+      "Énfasis reeducativo.",
+      "Énfasis administrativo.",
+      "Énfasis en la formación técnica."
+    ],
+    "correcta": 1,
+    "explicacion": "Mientras los primeros grados son preventivos, los últimos grados de primaria se enfocan en la reeducación de las dificultades detectadas. Capítulo VII, Dificultades en el Aprendizaje, Artículo 41 [12]."
+  },
+  {
+    "id": 53,
+    "pregunta": "¿Qué acción debe tomar un maestro de aula tras observar señales de riesgo en la lectura y escritura de un estudiante?",
+    "opciones": [
+      "Recomendar clases particulares externas de forma obligatoria.",
+      "Aplicar la 'Guía de Observación - Detección de Signos de Riesgo' y derivar para evaluación multidisciplinaria.",
+      "Esperar al siguiente año escolar para ver si el problema persiste.",
+      "Cambiar al estudiante a un curso de nivel inferior."
+    ],
+    "correcta": 1,
+    "explicacion": "La normativa establece un procedimiento técnico formal de detección y derivación basado en guías específicas. Capítulo VII, Dificultades en el Aprendizaje, Artículo 44, inciso c [13]."
+  },
+  {
+    "id": 54,
+    "pregunta": "¿Cuál es una función del profesional de apoyo en el área de Talento Extraordinario respecto a los maestros de aula?",
+    "opciones": [
+      "Elaborar todos los exámenes de los estudiantes con talento extraordinario.",
+      "Apoyar, orientar y sugerir diversas estrategias educativas para la atención de estos estudiantes.",
+      "Prohibir que los estudiantes con talento asistan a las clases regulares.",
+      "Asignarles tareas adicionales de limpieza para fomentar la humildad."
+    ],
+    "correcta": 1,
+    "explicacion": "El apoyo es de carácter técnico-pedagógico para que el maestro de aula sepa cómo potenciar las capacidades del estudiante. Capítulo VIII, Talento Extraordinario, Artículo 47, inciso b [14]."
+  },
+  {
+    "id": 55,
+    "pregunta": "¿Quién es responsable de la primera evaluación educativa en el proceso de detección de talento extraordinario?",
+    "opciones": [
+      "El psicólogo del centro de salud más cercano.",
+      "Los maestros de aula a través de la Comisión Técnica Pedagógica.",
+      "El Ministerio de Deportes mediante pruebas físicas.",
+      "La junta distrital de padres de familia."
+    ],
+    "correcta": 1,
+    "explicacion": "La detección inicial nace en el aula y es canalizada por la comisión técnica de la propia institución. Capítulo VIII, Talento Extraordinario, Artículo 48 [15]."
+  },
+  {
+    "id": 56,
+    "pregunta": "¿Qué entidad realiza la identificación definitiva de estudiantes con Talento Extraordinario mediante instrumentos estandarizados?",
+    "opciones": [
+      "La policía nacional mediante pruebas de integridad.",
+      "Los Equipos Multidisciplinarios mediante procesos de evaluación psicológica y psicopedagógica integral.",
+      "Un jurado de maestros de artes plásticas y música.",
+      "El director distrital basándose en el promedio histórico de notas."
+    ],
+    "correcta": 1,
+    "explicacion": "La identificación formal requiere el uso de pruebas psicométricas aplicadas por especialistas. Capítulo VIII, Talento Extraordinario, Artículo 49 [16]."
+  },
+  {
+    "id": 57,
+    "pregunta": "¿A qué instancia deben acudir las instituciones educativas para solicitar la eliminación de barreras arquitectónicas?",
+    "opciones": [
+      "Al Ministerio de Economía directamente.",
+      "A los Gobiernos Subnacionales (Municipios) correspondientes.",
+      "A las organizaciones no gubernamentales de su barrio.",
+      "A los propios estudiantes para que realicen las obras en artes plásticas."
+    ],
+    "correcta": 1,
+    "explicacion": "La gestión de infraestructura es competencia de los gobiernos municipales en cumplimiento de la normativa de accesibilidad. Capítulo IX, Artículo 52 [17]."
+  },
+  {
+    "id": 58,
+    "pregunta": "En caso de matricular estudiantes con discapacidad físico-motora, ¿qué previsión debe tomar la dirección sobre la ubicación del aula?",
+    "opciones": [
+      "Ubicar el curso en el piso más alto para que el estudiante haga ejercicio físico.",
+      "Ubicar el aula en proximidad a la puerta principal de entrada o salida y a los baños.",
+      "Asignar un aula aislada en el patio trasero para evitar choques con otros estudiantes.",
+      "No se requiere ninguna previsión especial sobre la ubicación física."
+    ],
+    "correcta": 1,
+    "explicacion": "La accesibilidad física exige ubicar las aulas en lugares que faciliten la movilidad y el uso de servicios básicos. Capítulo IX, Artículo 53 [18]."
+  },
+  {
+    "id": 59,
+    "pregunta": "¿Qué base legal garantiza que los municipios doten de mobiliario adecuado para estudiantes con discapacidad?",
+    "opciones": [
+      "La Ley General del Trabajo.",
+      "El Artículo 80 numeral 2 de la Ley N° 070 de la Educación.",
+      "El Código de Comercio boliviano.",
+      "La Ley de Hidrocarburos vigente."
+    ],
+    "correcta": 1,
+    "explicacion": "La Ley Avelino Siñani-Elizardo Pérez establece las competencias municipales sobre el equipamiento escolar. Capítulo IX, Artículo 54 [18]."
+  },
+  {
+    "id": 60,
+    "pregunta": "¿En qué situación puede el apoyo educativo extenderse a un radio territorial interdistrital?",
+    "opciones": [
+      "Cuando el maestro de apoyo tenga vehículo propio.",
+      "Ante la inexistencia de Centros de Educación Especial en el distrito educativo correspondiente.",
+      "Si el director del centro de educación especial vive en el otro distrito.",
+      "Solo durante los periodos de exámenes finales."
+    ],
+    "correcta": 1,
+    "explicacion": "Se busca optimizar los recursos humanos para que ningún estudiante quede sin atención por falta de centros en su zona. Capítulo X, Gestión Organizacional, Artículo 57, inciso a [19]."
+  },
+  {
+    "id": 61,
+    "pregunta": "¿Qué criterio justifica la atención de un maestro itinerante en lugares de difícil acceso o zonas fronterizas?",
+    "opciones": [
+      "Que el estudiante hable al menos tres idiomas nativos.",
+      "La cobertura a personas con discapacidad en lugares dispersos donde habitan sin límites territoriales.",
+      "Que el municipio tenga un presupuesto superior al millón de bolivianos.",
+      "La solicitud de la junta de vecinos para alfabetizar adultos."
+    ],
+    "correcta": 1,
+    "explicacion": "La normativa garantiza el derecho a la educación incluso en zonas geográficamente aisladas mediante maestros itinerantes. Capítulo X, Gestión Organizacional, Artículo 58, inciso a [20]."
+  },
+  {
+    "id": 62,
+    "pregunta": "¿Qué instrumento permite vincular técnicamente a un Centro de Educación Especial con una Unidad Educativa Inclusiva?",
+    "opciones": [
+      "El acta de fundación del colegio.",
+      "El Plan de Apoyo Técnico Pedagógico.",
+      "El contrato laboral del personal administrativo.",
+      "La lista de útiles escolares aprobada por el distrito."
+    ],
+    "correcta": 1,
+    "explicacion": "Este plan es el eje que articula las acciones entre ambas instituciones para beneficiar al estudiante. Capítulo X, Gestión Organizacional, Artículo 59 [21]."
+  },
+  {
+    "id": 63,
+    "pregunta": "¿Bajo qué marco pedagógico debe realizarse la Planificación Curricular de Aula que responda a la diversidad?",
+    "opciones": [
+      "Bajo el método de enseñanza tradicional memorística.",
+      "En el marco del Diseño Plural para los Aprendizajes.",
+      "Siguiendo exclusivamente los libros de texto de editoriales privadas.",
+      "Sin tomar en cuenta las potencialidades individuales del estudiante."
+    ],
+    "correcta": 1,
+    "explicacion": "El Diseño Plural es el enfoque oficial para garantizar que la planificación sea accesible a todos. Capítulo X, Gestión Organizacional, Artículo 60 [22]."
+  },
+  {
+    "id": 64,
+    "pregunta": "¿Qué requisito es indispensable para que un estudiante reciba apoyo educativo de la modalidad indirecta?",
+    "opciones": [
+      "Presentar un certificado de buena conducta del barrio.",
+      "Proceder a matricularse de forma simultánea en el Centro de Educación Especial e institución del otro subsistema.",
+      "Pagar una tasa de inscripción especial en el Ministerio de Educación.",
+      "Tener un seguro de vida internacional vigente."
+    ],
+    "correcta": 1,
+    "explicacion": "La doble matriculación con el mismo RUDE es obligatoria para formalizar el apoyo técnico-pedagógico. Capítulo X, Gestión Organizacional, Artículo 61 [22]."
+  },
+  {
+    "id": 65,
+    "pregunta": "¿Qué establece la Disposición Final Segunda respecto al Escalafón Docente y este reglamento?",
+    "opciones": [
+      "Que el reglamento anula todas las categorías del escalafón actual.",
+      "Que los artículos mencionados en el presente reglamento no modifican el Escalafón docente.",
+      "Que se otorgan 50 puntos automáticos al escalafón por leer este reglamento.",
+      "Que solo los maestros de apoyo pueden ascender de categoría anualmente."
+    ],
+    "correcta": 1,
+    "explicacion": "Se aclara la jerarquía normativa indicando que no hay alteración del régimen del escalafón docente. Disposiciones Finales, Segunda [23]."
+  },
+  {
+    "id": 66,
+    "pregunta": "¿Qué proceso técnico permite sintetizar una valoración de las áreas del neurodesarrollo integral y educativo para crear condiciones de aprendizaje pertinentes?",
+    "opciones": [
+      "El censo escolar anual de salud.",
+      "La Evaluación Multidisciplinaria realizada por equipos especializados.",
+      "El examen de ingreso trimestral del subsistema regular.",
+      "La entrevista de preinscripción con la junta escolar."
+    ],
+    "correcta": 1,
+    "explicacion": "Este proceso recoge conclusiones de evaluaciones a estudiantes con sospecha de discapacidad o talento para proyectar su recorrido educativo. Capítulo I, Definiciones, Artículo 4, inciso a. [1]"
+  },
+  {
+    "id": 67,
+    "pregunta": "¿Cuál es la función principal de los Maestros de Apoyo Educativo en la Modalidad Indirecta?",
+    "opciones": [
+      "Sustituir de forma permanente al maestro de aula en materias técnicas.",
+      "Realizar el control de asistencia de los padres de familia.",
+      "Evaluar la salud física y nutricional de la comunidad educativa.",
+      "Brindar orientación, asesoramiento pedagógico, sensibilización y capacitación al personal docente-administrativo."
+    ],
+    "correcta": 3,
+    "explicacion": "Los maestros de apoyo son responsables de fortalecer las condiciones de acceso a los procesos de aula mediante el asesoramiento técnico. Capítulo I, Definiciones, Artículo 4, inciso b. [1]"
+  },
+  {
+    "id": 68,
+    "pregunta": "¿Qué instrumento de planificación contempla las acciones operativas de apoyo educativo coordinadas entre el maestro de apoyo y el de aula?",
+    "opciones": [
+      "El Plan de Apoyo Técnico Pedagógico.",
+      "El Proyecto Educativo Institucional (PEI).",
+      "El Plan Anual Trimestralizado de la Unidad Educativa.",
+      "El Registro Único de Estudiantes (RUDE)."
+    ],
+    "correcta": 0,
+    "explicacion": "Este instrumento permite viabilizar procesos educativos pertinentes y en igualdad de oportunidades para estudiantes con necesidades específicas. Capítulo I, Definiciones, Artículo 4, inciso c. [1]"
+  },
+  {
+    "id": 69,
+    "pregunta": "¿Cómo se clasifican las necesidades educativas que presentan los estudiantes con dificultades en el aprendizaje según su duración?",
+    "opciones": [
+      "Únicamente como necesidades crónicas e irreversibles.",
+      "Como necesidades exclusivamente físicas y motoras.",
+      "Como necesidades educativas temporales o permanentes.",
+      "Como necesidades derivadas únicamente de factores intelectuales."
+    ],
+    "correcta": 2,
+    "explicacion": "Estas dificultades interfieren en el rendimiento académico sin ser provocadas por factores intelectuales o sensoriales. Capítulo I, Definiciones, Artículo 4, inciso e. [1]"
+  },
+  {
+    "id": 70,
+    "pregunta": "¿Qué dimensiones del ser humano se consideran para definir a un estudiante con Talento Extraordinario?",
+    "opciones": [
+      "Únicamente la dimensión del saber y el promedio académico.",
+      "La capacidad de memoria y la velocidad de lectura exclusivamente.",
+      "La aptitud física y el cumplimiento de normas de conducta.",
+      "Las dimensiones del ser, saber, hacer y decidir."
+    ],
+    "correcta": 3,
+    "explicacion": "El talento extraordinario se manifiesta en capacidades superiores y transformadoras en uno o varios campos de saberes en las cuatro dimensiones. Capítulo I, Definiciones, Artículo 4, inciso f. [1]"
+  },
+  {
+    "id": 71,
+    "pregunta": "¿Cuál es la finalidad del Diseño Plural para los Aprendizajes en el desarrollo del currículo?",
+    "opciones": [
+      "Establecer un examen único nacional para todos los niveles.",
+      "Generar orientaciones que permitan alcanzar a todos los estudiantes en la mayor medida posible.",
+      "Reducir los contenidos curriculares a la mitad para facilitar la enseñanza.",
+      "Sustituir el uso de libros de texto por materiales puramente digitales."
+    ],
+    "correcta": 1,
+    "explicacion": "Busca generar condiciones educativas inclusivas que respeten la diversidad de formas de aprendizaje de todos los estudiantes. Capítulo I, Definiciones, Artículo 4, inciso g. [1]"
+  },
+  {
+    "id": 72,
+    "pregunta": "¿Qué principio fundamenta la Educación Inclusiva dentro del Modelo Educativo Sociocomunitario Productivo?",
+    "opciones": [
+      "El ejercicio del derecho a la educación para todas y todos sin distinción.",
+      "La separación de estudiantes por niveles de coeficiente intelectual.",
+      "La obligatoriedad de estudiar en centros privados para personas con discapacidad.",
+      "El cobro de tasas diferenciadas según el tipo de discapacidad."
+    ],
+    "correcta": 0,
+    "explicacion": "La educación inclusiva brinda respuestas oportunas a las necesidades y ritmos de aprendizaje de toda la diversidad poblacional. Capítulo I, Definiciones, Artículo 4, inciso h. [1]"
+  },
+  {
+    "id": 73,
+    "pregunta": "¿Qué sistemas se consideran parte de la Comunicación Alternativa y Aumentativa para facilitar el aprendizaje?",
+    "opciones": [
+      "Únicamente el uso de traductores en línea comerciales.",
+      "El lenguaje corporal y las señas caseras no reglamentadas.",
+      "Sistemas como la Lengua de Señas Boliviana, el Sistema Braille y otras formas que favorecen el acceso.",
+      "Cualquier sistema de códigos secretos desarrollado por los estudiantes."
+    ],
+    "correcta": 2,
+    "explicacion": "Estos sistemas lingüísticos y comunicacionales facilitan el aprendizaje de estudiantes con discapacidad. Capítulo I, Definiciones, Artículo 4, inciso i. [2]"
+  },
+  {
+    "id": 74,
+    "pregunta": "¿Qué tipo de información se incorpora en el Archivo Personal de la Trayectoria Educativa de un estudiante?",
+    "opciones": [
+      "Información sobre potencialidades, necesidades, logros e intervenciones pedagógicas.",
+      "Únicamente el registro de pagos y aportes de los padres de familia.",
+      "El historial de vacunas y enfermedades infantiles exclusivamente.",
+      "La lista de útiles escolares entregada cada año."
+    ],
+    "correcta": 0,
+    "explicacion": "Es el historial secuencial y cronológico que permite determinar los avances y dificultades en la formación integral. Capítulo I, Definiciones, Artículo 4, inciso j. [2]"
+  },
+  {
+    "id": 75,
+    "pregunta": "¿Cuál es una de las finalidades del reglamento para consolidar la Educación Inclusiva respecto a la matriculación?",
+    "opciones": [
+      "Restringir la inscripción de estudiantes con discapacidad a centros especiales.",
+      "Cobrar multas a los padres que no inscriban a sus hijos en el nivel inicial.",
+      "Priorizar la inscripción de estudiantes con talento extraordinario en colegios privados.",
+      "Promover la matriculación e inscripción sin discriminación alguna en todos los subsistemas."
+    ],
+    "correcta": 3,
+    "explicacion": "Se busca garantizar el acceso a instituciones fiscales, de convenio o privadas conforme a la normativa vigente. Capítulo I, Finalidades, Artículo 5, inciso d. [3]"
+  },
+  {
+    "id": 76,
+    "pregunta": "Para estudiantes con discapacidad intelectual, ¿qué determina el nivel y grado de inscripción en Educación Inicial o Primaria?",
+    "opciones": [
+      "La edad cronológica exacta del estudiante sin excepciones.",
+      "Las recomendaciones del informe de evaluación integral y multidisciplinaria.",
+      "La decisión unilateral del director de la unidad educativa receptora.",
+      "El sorteo público de cupos realizado en la dirección distrital."
+    ],
+    "correcta": 1,
+    "explicacion": "El informe determina el currículo más adecuado y el nivel correspondiente para recibir el apoyo educativo. Capítulo II, Inscripciones, Artículo 6, inciso c. [4]"
+  },
+  {
+    "id": 77,
+    "pregunta": "¿Qué obligación tiene la unidad educativa de origen cuando un estudiante con discapacidad se traslada a otra institución?",
+    "opciones": [
+      "Remitir el archivo de trayectoria educativa a la institución destinataria.",
+      "Anular todos los registros previos del estudiante en el sistema RUDE.",
+      "Cobrar una tasa de transferencia administrativa al tutor.",
+      "Retener la documentación hasta que el estudiante apruebe el año."
+    ],
+    "correcta": 0,
+    "explicacion": "Es obligatorio transferir el historial para garantizar la continuidad de los apoyos pedagógicos. Capítulo II, Trayectoria Educativa, Artículo 7, inciso a. [5]"
+  },
+  {
+    "id": 78,
+    "pregunta": "¿Por qué es decisivo el Informe de Evaluación Integral para los estudiantes con discapacidad intelectual?",
+    "opciones": [
+      "Porque sirve para exonerar al estudiante de cualquier tipo de evaluación escrita.",
+      "Porque define el monto de la beca alimentaria que recibirá el estudiante.",
+      "Porque sus recomendaciones permiten proyectar el recorrido educativo más pertinente.",
+      "Porque es el único documento válido para obtener la cédula de identidad."
+    ],
+    "correcta": 2,
+    "explicacion": "Las conclusiones de los equipos multidisciplinarios guían la trayectoria del estudiante en el Sistema Educativo Plurinacional. Capítulo II, Trayectoria Educativa, Artículo 7, inciso b. [6]"
+  },
+  {
+    "id": 79,
+    "pregunta": "¿Cómo deben incorporar las instituciones educativas el Diseño Plural para los Aprendizajes de forma progresiva?",
+    "opciones": [
+      "Como una materia extracurricular opcional los días sábados.",
+      "En su Proyecto Educativo y Planificación Curricular en todos sus componentes.",
+      "Únicamente mediante la compra de software educativo extranjero.",
+      "Delegando la responsabilidad exclusivamente a los maestros de apoyo."
+    ],
+    "correcta": 1,
+    "explicacion": "La accesibilidad pedagógica debe integrarse en la planificación institucional para beneficiar a toda la diversidad. Capítulo III, Responsabilidades, Artículo 8, inciso a. [7]"
+  },
+  {
+    "id": 80,
+    "pregunta": "¿Qué acciones deben coordinar los directores de Centros de Educación Especial e Instituciones Educativas Inclusivas?",
+    "opciones": [
+      "La organización de eventos deportivos interdepartamentales solamente.",
+      "El intercambio de mobiliario y activos fijos entre ambas instituciones.",
+      "La contratación de personal administrativo compartido.",
+      "Acciones pedagógicas y administrativas que garanticen una atención educativa de calidad."
+    ],
+    "correcta": 3,
+    "explicacion": "La interacción interinstitucional es clave para el éxito del apoyo técnico-pedagógico. Capítulo III, Responsabilidades, Artículo 9. [8]"
+  },
+  {
+    "id": 81,
+    "pregunta": "¿Qué acción de promoción deben realizar las Direcciones Distritales Educativas según el reglamento?",
+    "opciones": [
+      "Promover el acceso a la educación de estudiantes con discapacidad en el marco de la normativa vigente.",
+      "Promover la venta de materiales educativos producidos por el Ministerio.",
+      "Organizar concursos de talentos solo para estudiantes sin discapacidad.",
+      "Gestionar la jubilación forzosa de maestros que no usen LSB."
+    ],
+    "correcta": 0,
+    "explicacion": "Es responsabilidad distrital asegurar que el derecho al acceso se cumpla efectivamente en su jurisdicción. Capítulo III, Responsabilidades, Artículo 11, inciso b. [9]"
+  },
+  {
+    "id": 82,
+    "pregunta": "¿Cuál es la responsabilidad de los directores de educación regular respecto a la infraestructura escolar?",
+    "opciones": [
+      "Prohibir el uso de rampas para evitar accidentes de otros estudiantes.",
+      "Viabilizar el diseño o remodelación bajo el enfoque de 'Usos Universales' para eliminar barreras.",
+      "Delegar el mantenimiento de baños a los padres de estudiantes con discapacidad.",
+      "Solicitar que los estudiantes con discapacidad motora traigan su propia rampa portátil."
+    ],
+    "correcta": 1,
+    "explicacion": "La eliminación de barreras arquitectónicas es una gestión administrativa prioritaria del director. Capítulo III, Responsabilidades, Artículo 12, inciso f. [10]"
+  },
+  {
+    "id": 83,
+    "pregunta": "¿Qué debe aplicar el maestro de aula para emitir las calificaciones de estudiantes con necesidades específicas?",
+    "opciones": [
+      "El mismo examen estandarizado que se aplica a todos sus pares sin cambios.",
+      "Una calificación automática de aprobación por motivos humanitarios.",
+      "Estrategias, instrumentos y materiales adecuados para los procesos de evaluación.",
+      "La calificación que sugiera el consejo de padres de familia."
+    ],
+    "correcta": 2,
+    "explicacion": "La evaluación debe ser coherente con las adaptaciones y el Diseño Plural aplicados durante el proceso. Capítulo III, Responsabilidades, Artículo 13, inciso d. [11]"
+  },
+  {
+    "id": 84,
+    "pregunta": "¿Qué deber tienen los estudiantes que requieren apoyo educativo respecto a sus procesos de aprendizaje?",
+    "opciones": [
+      "Cumplir las tareas propias del grado o nivel con las adecuaciones necesarias.",
+      "Asistir solo a las materias que consideren fáciles de aprobar.",
+      "Realizar tareas de nivel inferior aunque estén registrados en un grado superior.",
+      "Exigir que el maestro de apoyo realice sus exámenes por ellos."
+    ],
+    "correcta": 0,
+    "explicacion": "La corresponsabilidad del estudiante implica cumplir con sus obligaciones académicas ajustadas a sus necesidades. Capítulo III, Responsabilidades, Artículo 14, inciso a. [12]"
+  },
+  {
+    "id": 85,
+    "pregunta": "¿Qué acción pueden tomar los padres de familia si detectan señales de alerta relacionadas con dificultades en el aprendizaje?",
+    "opciones": [
+      "Cambiar al estudiante de colegio inmediatamente sin avisar.",
+      "Obligar al maestro a que le asigne la nota máxima.",
+      "Solicitar la aplicación de pruebas de detección o evaluación mediante el conducto regular.",
+      "Realizar ellos mismos la evaluación pedagógica y entregarla al director."
+    ],
+    "correcta": 2,
+    "explicacion": "Los tutores tienen el derecho y responsabilidad de activar los mecanismos de evaluación institucional. Capítulo III, Responsabilidades, Artículo 15, inciso c. [13]"
+  },
+  {
+    "id": 86,
+    "pregunta": "¿Quién realiza el seguimiento y acompañamiento a las acciones técnico-pedagógicas que desarrollan los maestros de apoyo?",
+    "opciones": [
+      "La junta vecinal de la zona donde se encuentra la unidad educativa.",
+      "La dirección del Centro de Educación Especial correspondiente.",
+      "El personal administrativo del Ministerio de Salud.",
+      "Únicamente los padres de familia mediante informes mensuales."
+    ],
+    "correcta": 1,
+    "explicacion": "El director del CEE es el responsable inmediato de supervisar la calidad del apoyo brindado por su personal. Capítulo III, Responsabilidades, Artículo 16, inciso d. [14]"
+  },
+  {
+    "id": 87,
+    "pregunta": "¿Con qué frecuencia deben trasladarse los maestros de apoyo a las instituciones donde se encuentran sus estudiantes?",
+    "opciones": [
+      "Solo una vez al inicio del año escolar.",
+      "Únicamente durante la semana de exámenes finales.",
+      "Periódicamente según la planificación aprobada por su superior.",
+      "Cada vez que el padre de familia lo solicite por llamada telefónica."
+    ],
+    "correcta": 2,
+    "explicacion": "La movilidad del maestro de apoyo es parte de su rol operativo para garantizar la permanencia del estudiante. Capítulo III, Responsabilidades, Artículo 17, inciso f. [15]"
+  },
+  {
+    "id": 88,
+    "pregunta": "¿Qué requerimiento de capacitación tiene el personal administrativo y de servicio en unidades inclusivas?",
+    "opciones": [
+      "No requieren capacitación por no ser personal docente.",
+      "Capacitación exclusiva en contabilidad y presupuestos públicos.",
+      "Deben formarse en defensa personal para situaciones de crisis.",
+      "Capacitación progresiva para apoyar a estudiantes con necesidades, garantizando respeto y calidez."
+    ],
+    "correcta": 3,
+    "explicacion": "Toda la comunidad educativa, incluyendo administrativos, debe estar preparada para la convivencia comunitaria inclusiva. Capítulo III, Responsabilidades, Artículo 18. [16]"
+  },
+  {
+    "id": 89,
+    "pregunta": "¿Qué nivel de conocimiento de la Lengua de Señas Boliviana (LSB) se exige al maestro de apoyo en discapacidad auditiva?",
+    "opciones": [
+      "Un alto nivel de conocimiento y dominio profundo para el grado y nivel académico.",
+      "Conocimiento de señas básicas para saludos y despedidas.",
+      "No requiere conocer LSB si el estudiante sabe leer los labios.",
+      "Nivel intermedio con certificación de un curso de 40 horas."
+    ],
+    "correcta": 0,
+    "explicacion": "Se requiere un perfil profesional con alto dominio lingüístico para garantizar la fidelidad del mensaje educativo. Capítulo IV, Apoyo Educativo Discapacidad Auditiva, Artículo 19, inciso a. [17]"
+  },
+  {
+    "id": 90,
+    "pregunta": "¿Cuál es el objetivo principal de eliminar las barreras de comunicación mediante la interpretación de la LSB?",
+    "opciones": [
+      "Fomentar que el estudiante sordo hable oralmente lo más pronto posible.",
+      "Transmitir información y contenidos de forma accesible, clara, precisa y confiable.",
+      "Realizar una traducción literal palabra por palabra del castellano.",
+      "Facilitar que el estudiante sordo copie exactamente lo que dice el libro."
+    ],
+    "correcta": 1,
+    "explicacion": "La interpretación busca garantizar el acceso a la información evitando incoherencias o 'español señado'. Capítulo IV, Apoyo Educativo Discapacidad Auditiva, Artículo 22. [18]"
+  },
+  {
+    "id": 91,
+    "pregunta": "¿Qué conocimientos técnicos específicos debe poseer el maestro de apoyo para el área de Discapacidad Visual?",
+    "opciones": [
+      "Conocimientos profundos en oftalmología clínica y cirugía.",
+      "Dominio de signografía Braille, Código Matemático Unificado y Musicografía Braille.",
+      "Manejo avanzado de Lengua de Señas Boliviana y sistemas pictográficos.",
+      "Capacidad para la fabricación manual de lentes y prótesis oculares."
+    ],
+    "correcta": 1,
+    "explicacion": "El perfil exige competencias específicas en lectoescritura táctil y códigos especializados para el acceso a contenidos curriculares. Capítulo V, Perfil del Maestro de Apoyo, Artículo 28, inciso b. [1]"
+  },
+  {
+    "id": 92,
+    "pregunta": "¿Cuál es una función del maestro de apoyo respecto a la comunidad educativa en el área de Discapacidad Visual?",
+    "opciones": [
+      "Realizar el mantenimiento de la infraestructura eléctrica de la escuela.",
+      "Cobrar los aportes de los padres para la compra de máquinas Braille.",
+      "Promover un ambiente comunitario favorable para desarrollar la inclusión educativa de estudiantes ciegos o con baja visión.",
+      "Sustituir al director en las reuniones distritales sobre presupuesto."
+    ],
+    "correcta": 2,
+    "explicacion": "El maestro debe trabajar en la sensibilización y el entorno social para facilitar la inclusión. Capítulo V, Funciones Específicas, Artículo 30, inciso b. [2]"
+  },
+  {
+    "id": 93,
+    "pregunta": "¿Qué temática debe abordar el maestro de apoyo en los procesos de sensibilización dirigidos al personal administrativo y de servicio?",
+    "opciones": [
+      "Salud visual, prevención de la ceguera y trato adecuado a personas con discapacidad visual.",
+      "Capacitación en el uso de software contable para el registro de estudiantes.",
+      "Primeros auxilios para accidentes deportivos en el patio de recreo.",
+      "Historia universal de la educación inclusiva en el siglo XIX."
+    ],
+    "correcta": 0,
+    "explicacion": "Se busca que todo el personal sepa interactuar y apoyar correctamente a los estudiantes con baja visión o ceguera. Capítulo V, Funciones Específicas, Artículo 30, inciso e. [3]"
+  },
+  {
+    "id": 94,
+    "pregunta": "¿Cómo debe realizarse la coordinación entre el maestro de apoyo y el maestro de aula para estudiantes con discapacidad visual?",
+    "opciones": [
+      "Debe ser opcional y solo si el estudiante presenta problemas de conducta.",
+      "Se realiza únicamente al finalizar el año para acordar la nota de aprobación.",
+      "A través de llamadas telefónicas fuera del horario de clases.",
+      "Previa y obligatoriamente sobre el avance de contenidos planificados para consolidar condiciones educativas."
+    ],
+    "correcta": 3,
+    "explicacion": "La coordinación es un requisito obligatorio para asegurar que el apoyo pedagógico sea coherente con el avance del aula. Capítulo V, Funciones Específicas, Artículo 30, inciso g. [4]"
+  },
+  {
+    "id": 95,
+    "pregunta": "¿Qué tipo de estrategias pedagógicas debe privilegiar el maestro de aula para un estudiante con discapacidad visual?",
+    "opciones": [
+      "Uso intensivo de videos sin audio descriptivo para fomentar la imaginación.",
+      "Estrategias que privilegien elementos sonoros, en relieve, macrotipo o contrastes de color.",
+      "Lectura silenciosa de libros en tinta de letra pequeña.",
+      "Exámenes puramente visuales basados en la observación de láminas."
+    ],
+    "correcta": 1,
+    "explicacion": "La mediación debe utilizar otros canales sensoriales para garantizar el acceso al conocimiento. Capítulo V, Responsabilidades del Maestro de Aula, Artículo 31, inciso a. [4]"
+  },
+  {
+    "id": 96,
+    "pregunta": "¿Qué recursos debe utilizar el maestro de aula para evaluar a estudiantes con discapacidad visual?",
+    "opciones": [
+      "Únicamente evaluaciones orales frente a todo el curso.",
+      "Evaluaciones estandarizadas en tinta sin ninguna modificación.",
+      "Instrumentos y materiales en Sistema Braille, macrotipo o formato digital pertinente.",
+      "Dibujos técnicos complejos que requieran el uso de colores específicos."
+    ],
+    "correcta": 2,
+    "explicacion": "La evaluación debe ser accesible utilizando el mismo sistema de comunicación que el estudiante usa para aprender. Capítulo V, Responsabilidades del Maestro de Aula, Artículo 31, inciso b. [5]"
+  },
+  {
+    "id": 97,
+    "pregunta": "¿Cuál es el requisito de formación para un maestro de apoyo en el área de Discapacidad Intelectual?",
+    "opciones": [
+      "Formación inicial de maestro y complementariamente formación post gradual inherente al área.",
+      "Título de técnico superior en enfermería o medicina general.",
+      "Cualquier profesional con experiencia en trabajo social comunitario.",
+      "Bachiller con un curso de capacitación en manualidades de 40 horas."
+    ],
+    "correcta": 0,
+    "explicacion": "Se requiere especialización post gradual debido a la complejidad de la atención técnica en esta área. Capítulo VI, Discapacidad Intelectual, Artículo 32. [6]"
+  },
+  {
+    "id": 98,
+    "pregunta": "Para estudiantes con discapacidad intelectual en Educación Superior, ¿qué documento es indispensable presentar?",
+    "opciones": [
+      "Certificado de vacunación actualizado y completo.",
+      "Declaración jurada de los padres garantizando el éxito académico.",
+      "Carta de recomendación de la junta de vecinos de su zona.",
+      "Informe Multidisciplinario que corrobore el cumplimiento del perfil de entrada para el ejercicio profesional."
+    ],
+    "correcta": 3,
+    "explicacion": "En el nivel superior se debe verificar que el estudiante tiene las capacidades básicas para la profesión. Capítulo VI, Discapacidad Intelectual, Artículo 33, inciso c. [7]"
+  },
+  {
+    "id": 99,
+    "pregunta": "¿Cuál es el objetivo del proceso de apoyo educativo para estudiantes con discapacidad intelectual?",
+    "opciones": [
+      "Lograr la curación total de la condición intelectual del estudiante.",
+      "Garantizar el acceso, permanencia y conclusión de procesos educativos mediante lineamientos y orientaciones pedagógicas.",
+      "Eximir al estudiante de cumplir con los objetivos del currículo base.",
+      "Trasladar al estudiante a un centro de salud mental de forma permanente."
+    ],
+    "correcta": 1,
+    "explicacion": "El objetivo es asegurar el recorrido educativo completo en igualdad de oportunidades. Capítulo VI, Discapacidad Intelectual, Artículo 34. [8]"
+  },
+  {
+    "id": 100,
+    "pregunta": "¿Qué tipo de orientación debe brindar el maestro de apoyo a las familias de estudiantes con discapacidad intelectual?",
+    "opciones": [
+      "Orientación sobre inversiones financieras para el futuro del estudiante.",
+      "Recomendaciones sobre la compra de medicamentos psiquiátricos específicos.",
+      "Sobre el acompañamiento familiar pertinente y la proyección educativa más favorable.",
+      "Instrucciones para que los padres realicen los exámenes de sus hijos."
+    ],
+    "correcta": 2,
+    "explicacion": "El apoyo familiar es clave para la continuidad educativa y debe ser orientado técnicamente. Capítulo VI, Discapacidad Intelectual, Artículo 35, incisos a y h. [9, 10]"
+  },
+  {
+    "id": 101,
+    "pregunta": "¿Con quién debe coordinar el maestro de apoyo para la aplicación de adaptaciones curriculares en discapacidad intelectual?",
+    "opciones": [
+      "Con la o el maestro de aula del subsistema donde está matriculado el estudiante.",
+      "Directamente con el Ministerio de Economía para el pago del bono.",
+      "Únicamente con el portero de la unidad educativa inclusiva.",
+      "Con los otros estudiantes del curso mediante votación democrática."
+    ],
+    "correcta": 0,
+    "explicacion": "La coordinación técnica con el maestro de aula permite implementar los materiales y adaptaciones necesarias. Capítulo VI, Discapacidad Intelectual, Artículo 35, inciso e. [11]"
+  },
+  {
+    "id": 102,
+    "pregunta": "¿Cuál es la función del maestro de apoyo dentro de la Comisión Técnica Pedagógica de la unidad educativa receptora?",
+    "opciones": [
+      "Presidir la comisión con poder de veto sobre todas las decisiones académicas.",
+      "Redactar las actas de faltas disciplinarias de todo el plantel docente.",
+      "Cobrar las multas por atrasos a los maestros de aula.",
+      "Participar en reuniones para orientar el desarrollo de los procesos educativos."
+    ],
+    "correcta": 3,
+    "explicacion": "Su rol es orientador para que la comisión tome decisiones pedagógicas inclusivas. Capítulo VI, Discapacidad Intelectual, Artículo 35, inciso f. [11]"
+  },
+  {
+    "id": 103,
+    "pregunta": "¿Qué población de estudiantes con TEA es atendida bajo la modalidad indirecta de educación inclusiva?",
+    "opciones": [
+      "Estudiantes con autismo severo que no pueden asistir al aula regular.",
+      "Estudiantes con TEA sin compromiso intelectual ni trastornos funcionales del lenguaje.",
+      "Únicamente personas adultas con autismo fuera del sistema educativo.",
+      "Estudiantes con diagnóstico de psicosis infantil crónica."
+    ],
+    "correcta": 1,
+    "explicacion": "La modalidad indirecta se enfoca en estudiantes que pueden transitar el currículo regular con apoyos. Capítulo VI, Sección II, TEA, Artículo 37. [12]"
+  },
+  {
+    "id": 104,
+    "pregunta": "¿Qué perfil profesional se requiere para el apoyo educativo a estudiantes con TEA?",
+    "opciones": [
+      "Licenciado en derecho con especialidad en derechos humanos.",
+      "Médico pediatra con especialidad en neurología infantil.",
+      "Maestro o profesional con formación especializada inherente al área y formación continua.",
+      "Personal administrativo con curso de relaciones públicas."
+    ],
+    "correcta": 2,
+    "explicacion": "Se requiere formación especializada complementaria a la formación inicial. Capítulo VI, Sección II, TEA, Artículo 36. [10]"
+  },
+  {
+    "id": 105,
+    "pregunta": "¿Cuál es una función del profesional de apoyo respecto al contexto del estudiante con TEA?",
+    "opciones": [
+      "Coordinar con el equipo multidisciplinario para determinar características, potencialidades y contexto.",
+      "Sancionar a los vecinos que no interactúen con el estudiante en su barrio.",
+      "Prohibir que el estudiante participe en actividades sociales fuera de la escuela.",
+      "Evaluar la situación económica de la familia para asignarles un subsidio."
+    ],
+    "correcta": 0,
+    "explicacion": "La coordinación técnica permite entender integralmente las necesidades del estudiante en su entorno. Capítulo VI, Sección II, TEA, Artículo 38, inciso d. [13]"
+  },
+  {
+    "id": 106,
+    "pregunta": "¿Cuándo debe iniciar el maestro de aula la detección de señales de alerta en estudiantes de educación regular?",
+    "opciones": [
+      "Solo cuando el estudiante reprueba el año escolar.",
+      "Al finalizar la educación secundaria obligatoriamente.",
+      "Únicamente si los padres presentan una queja formal por escrito.",
+      "Desde el momento que las niñas y niños inician sus procesos de aprendizaje."
+    ],
+    "correcta": 3,
+    "explicacion": "La detección temprana es crucial y debe realizarse desde el nivel inicial o primaria. Capítulo VI, Sección III, Artículo 39, inciso a. [14]"
+  },
+  {
+    "id": 107,
+    "pregunta": "¿Qué formación debe tener el maestro de apoyo para el área de Dificultades en el Aprendizaje?",
+    "opciones": [
+      "Conocimiento básico de primeros auxilios y recreación infantil.",
+      "Conocimiento amplio de los Lineamientos de Educación Inclusiva y el Programa de Atención del área.",
+      "Ser profesional en fonoaudiología o terapia ocupacional exclusivamente.",
+      "Tener un título de contador público para gestionar recursos del centro."
+    ],
+    "correcta": 1,
+    "explicacion": "El perfil requiere manejo de los programas específicos y conocimientos en el Diseño Plural. Capítulo VII, Dificultades en el Aprendizaje, Artículo 40. [15]"
+  },
+  {
+    "id": 108,
+    "pregunta": "¿Qué énfasis tiene la cobertura educativa para dificultades en el aprendizaje en los grados de 1ro a 3ro de primaria?",
+    "opciones": [
+      "Énfasis en la formación técnica y vocacional.",
+      "Énfasis administrativo y de registro documental.",
+      "Sentido preventivo.",
+      "Sentido sancionatorio y de expulsión."
+    ],
+    "correcta": 2,
+    "explicacion": "En los primeros grados de primaria se busca prevenir la consolidación de las dificultades detectadas. Capítulo VII, Cobertura Educativa, Artículo 41. [16]"
+  },
+  {
+    "id": 109,
+    "pregunta": "¿Cuál es el énfasis de atención para dificultades en el aprendizaje en los grados de 4to a 6to de primaria?",
+    "opciones": [
+      "Sentido reeducativo.",
+      "Sentido de jubilación temprana.",
+      "Énfasis en deportes de alto rendimiento.",
+      "No existe ningún énfasis definido para estos grados."
+    ],
+    "correcta": 0,
+    "explicacion": "En los últimos grados de primaria el trabajo se enfoca en reeducar las dificultades ya presentes. Capítulo VII, Cobertura Educativa, Artículo 41. [16]"
+  },
+  {
+    "id": 110,
+    "pregunta": "¿En qué momento debe promoverse la detección temprana de posibles dificultades en el aprendizaje?",
+    "opciones": [
+      "Durante las vacaciones de verano de forma voluntaria.",
+      "Solo en el nivel de educación superior técnica.",
+      "Al cumplir los 12 años de edad cronológica.",
+      "Desde el momento que inician el aprendizaje de la lectura y escritura."
+    ],
+    "correcta": 3,
+    "explicacion": "La detección debe ser inmediata al inicio del proceso de lectoescritura para aplicar instrumentos adecuados. Capítulo VII, Funciones del Maestro de Apoyo, Artículo 43, inciso b. [17]"
+  },
+  {
+    "id": 111,
+    "pregunta": "¿Qué procedimiento sigue el maestro de aula tras observar señales de alerta de dificultades en el aprendizaje?",
+    "opciones": [
+      "Cambiar al estudiante de curso sin mediar palabra.",
+      "Aplicar la 'Guía de Observación' y derivar para evaluación multidisciplinaria integral.",
+      "Ignorar las señales para no estigmatizar al estudiante.",
+      "Realizar una colecta económica para pagar un tutor externo."
+    ],
+    "correcta": 1,
+    "explicacion": "Existe un procedimiento normativo que incluye el uso de guías específicas y la derivación técnica. Capítulo VII, Procedimientos, Artículo 44, inciso c. [18]"
+  },
+  {
+    "id": 112,
+    "pregunta": "¿Qué capacidad técnica se exige al profesional de apoyo en el área de Talento Extraordinario?",
+    "opciones": [
+      "Capacidad para enseñar artes marciales a nivel competitivo.",
+      "Manejo de idiomas extranjeros como lengua materna.",
+      "Manejo de instrumentos de evaluación psicométrica y conocimiento de lineamientos del área.",
+      "Experiencia en la organización de certámenes de belleza escolares."
+    ],
+    "correcta": 2,
+    "explicacion": "La identificación de talento requiere el uso técnico de pruebas psicométricas estandarizadas. Capítulo VIII, Talento Extraordinario, Artículo 46. [19]"
+  },
+  {
+    "id": 113,
+    "pregunta": "¿Cuál es una función del profesional de apoyo respecto a estudiantes con talento extraordinario?",
+    "opciones": [
+      "Gestionar la atención de programas y servicios extracurriculares según características individuales.",
+      "Obligar al estudiante a realizar las tareas de todos sus compañeros.",
+      "Prohibir que el estudiante asista a la universidad antes de los 18 años.",
+      "Cobrar una comisión por cada premio que el estudiante gane."
+    ],
+    "correcta": 0,
+    "explicacion": "El apoyo incluye gestionar servicios que potencien las capacidades extraordinarias del estudiante. Capítulo VIII, Talento Extraordinario, Artículo 47, inciso c. [20]"
+  },
+  {
+    "id": 114,
+    "pregunta": "¿Quiénes son los responsables directos de los procesos de detección de señales de alerta de talento extraordinario?",
+    "opciones": [
+      "Los medios de prensa mediante concursos de televisión.",
+      "Los propios estudiantes mediante una encuesta de satisfacción.",
+      "Únicamente los médicos de los centros de salud distritales.",
+      "Los maestros de aula a través de la Comisión Técnica Pedagógica."
+    ],
+    "correcta": 3,
+    "explicacion": "La detección inicial es responsabilidad docente dentro de la estructura pedagógica de la escuela. Capítulo VIII, Talento Extraordinario, Artículo 48. [21]"
+  },
+  {
+    "id": 115,
+    "pregunta": "¿Cómo se realiza la identificación definitiva de estudiantes con Talento Extraordinario?",
+    "opciones": [
+      "Por votación simple de la junta escolar y el centro de estudiantes.",
+      "Por los Equipos Multidisciplinarios mediante evaluación psicológica y psicopedagógica integral.",
+      "Por el promedio de notas más alto de toda la unidad educativa.",
+      "Por una entrevista personal con el director departamental de educación."
+    ],
+    "correcta": 1,
+    "explicacion": "La identificación formal es un proceso científico que requiere equipos especializados y pruebas estandarizadas. Capítulo VIII, Talento Extraordinario, Artículo 49. [22]"
+  },
+  {
+    "id": 116,
+    "pregunta": "¿Qué requisito es indispensable para que un estudiante con discapacidad acceda a los apoyos educativos de los Centros de Educación Especial (CEE)?",
+    "opciones": [
+      "Realizar un pago único de inscripción anual al Ministerio de Educación.",
+      "Presentar un certificado de salud emitido mensualmente por un hospital público.",
+      "Proceder a matricularse de forma simultánea en el CEE y en la institución de otro subsistema con el mismo código RUDE.",
+      "Contar con la aprobación previa de la junta de vecinos de su zona de residencia."
+    ],
+    "correcta": 2,
+    "explicacion": "La normativa establece la doble matriculación simultánea con el mismo código de Registro Único de Estudiante como condición obligatoria para recibir el apoyo. Capítulo X, Gestión Organizacional, Artículo 61 [1]."
+  },
+  {
+    "id": 117,
+    "pregunta": "¿Con qué propósitos puede la Comisión Técnica Pedagógica de una institución educativa convocar a los maestros de apoyo?",
+    "opciones": [
+      "Para fines de información, orientación, asesoramiento y capacitación pedagógica.",
+      "Exclusivamente para que reemplacen al maestro de aula en sus horas de descanso.",
+      "Para que realicen las tareas administrativas de secretaría y kárdex escolar.",
+      "Únicamente para supervisar el comportamiento de los estudiantes durante el recreo."
+    ],
+    "correcta": 0,
+    "explicacion": "La comisión tiene la potestad de convocar a estos especialistas para fortalecer técnicamente los procesos de inclusión mediante el asesoramiento y la orientación. Capítulo X, Gestión Organizacional, Artículo 62 [2]."
+  },
+  {
+    "id": 118,
+    "pregunta": "¿Qué instancia es la responsable de revisar y actualizar periódicamente el reglamento de educación inclusiva basándose en su aplicación?",
+    "opciones": [
+      "La Confederación Nacional de Maestros Rurales de Bolivia.",
+      "El Ministerio de Educación a través del Viceministerio de Educación Alternativa y Especial.",
+      "Cada Dirección Distrital de forma independiente según su contexto local.",
+      "La junta nacional de padres y madres de familia de centros especiales."
+    ],
+    "correcta": 1,
+    "explicacion": "El reglamento otorga la responsabilidad de revisión y actualización normativa al Ministerio de Educación mediante su viceministerio competente. Capítulo X, Gestión Organizacional, Artículo 63 [2]."
+  },
+  {
+    "id": 119,
+    "pregunta": "¿A partir de qué momento entra en vigencia oficial el reglamento para el fortalecimiento de la Educación Inclusiva?",
+    "opciones": [
+      "Al inicio del siguiente año escolar tras su redacción inicial.",
+      "Después de un periodo de prueba piloto de dos años en ciudades capitales.",
+      "A partir de la emisión de la Resolución Ministerial de aprobación y su respectiva publicación.",
+      "Una vez que el 100% de los maestros del país cuenten con título de postgrado."
+    ],
+    "correcta": 2,
+    "explicacion": "La vigencia normativa se establece inmediatamente tras la emisión de la Resolución Ministerial y su difusión por los medios definidos. Disposiciones Finales, Disposición Final Primera [2]."
+  },
+  {
+    "id": 120,
+    "pregunta": "¿Cómo deben resolverse los aspectos técnico-pedagógicos de apoyo educativo que no estén previstos en el reglamento vigente?",
+    "opciones": [
+      "A través de instructivos emitidos por el Viceministerio respectivo, previo informe técnico.",
+      "Mediante votación simple en asambleas de padres de familia de cada unidad educativa.",
+      "Quedarán sin resolución hasta la próxima actualización quinquenal del reglamento.",
+      "A criterio personal del director de cada Centro de Educación Especial."
+    ],
+    "correcta": 0,
+    "explicacion": "Para situaciones no contempladas, la autoridad nacional emite instructivos específicos basados en informes técnicos de la Dirección General correspondiente. Disposiciones Finales, Disposición Final Tercera [3]."
+  },
+  {
+    "id": 121,
+    "pregunta": "¿Qué principio constitucional fundamenta la obligación del Estado boliviano de sostener, garantizar y gestionar el sistema educativo, incluyendo la Educación Especial?",
+    "opciones": [
+      "La educación como un servicio privado regulado por el mercado.",
+      "La educación como función suprema y primera responsabilidad financiera del Estado.",
+      "La educación como responsabilidad exclusiva de los Gobiernos Municipales.",
+      "La educación como un derecho opcional dependiendo del presupuesto anual."
+    ],
+    "correcta": 1,
+    "explicacion": "La Constitución Política del Estado establece que la educación es la función suprema del Estado, quien tiene la obligación indeclinable de sostenerla. Vistos y Considerando I (CPE Art. 77)."
+  },
+  {
+    "id": 122,
+    "pregunta": "¿Cuál es el fundamento de la educación inclusiva según la Ley N° 070 Avelino Siñani - Elizardo Pérez en relación con la diversidad poblacional?",
+    "opciones": [
+      "La segregación de grupos según su capacidad intelectual.",
+      "La homogeneización de todos los estudiantes bajo un solo ritmo de aprendizaje.",
+      "La asunción de la diversidad de grupos poblacionales y la equiparación de condiciones.",
+      "La priorización de la educación urbana sobre la educación rural y especial."
+    ],
+    "correcta": 2,
+    "explicacion": "La Ley 070 fundamenta que la educación es inclusiva al asumir la diversidad y ofrecer oportunidades pertinentes con equiparación de condiciones. Vistos y Considerando I (Ley 070, Art. 3)."
+  },
+  {
+    "id": 123,
+    "pregunta": "En el marco de la Educación Especial, ¿qué áreas comprende la atención educativa para consolidar la inclusión en el Sistema Educativo Plurinacional?",
+    "opciones": [
+      "Únicamente el área de discapacidad visual y auditiva.",
+      "Discapacidad, dificultades en el aprendizaje y talento extraordinario.",
+      "Exclusivamente la formación técnica para adultos con discapacidad.",
+      "Solo la atención a estudiantes con excelencia académica y promedios altos."
+    ],
+    "correcta": 1,
+    "explicacion": "La Educación Especial comprende acciones para promover la inclusión de personas con discapacidad, dificultades en el aprendizaje y talento extraordinario. Vistos y Considerando I (Ley 070, Art. 25)."
+  },
+  {
+    "id": 124,
+    "pregunta": "¿Cómo se define legalmente la Modalidad Indirecta de educación inclusiva dentro de la normativa boliviana vigente?",
+    "opciones": [
+      "Como la atención exclusiva en centros hospitalarios privados.",
+      "Como la inclusión de estudiantes en el sistema educativo sensibilizando a la comunidad educativa.",
+      "Como la educación a distancia mediada exclusivamente por plataformas virtuales.",
+      "Como el apoyo económico directo a las familias de estudiantes con discapacidad."
+    ],
+    "correcta": 1,
+    "explicacion": "La modalidad indirecta se realiza a través de la inclusión de los estudiantes en los diferentes subsistemas, sensibilizando al entorno. Vistos y Considerando I (Ley 070, Art. 27)."
+  },
+  {
+    "id": 125,
+    "pregunta": "¿Cuál es el propósito de establecer lineamientos y orientaciones pedagógicas en el Reglamento para el Fortalecimiento de la Educación Inclusiva?",
+    "opciones": [
+      "Sustituir el currículo base por uno simplificado para todos los estudiantes.",
+      "Eliminar la calificación numérica para estudiantes con discapacidad.",
+      "Garantizar el acceso, permanencia y conclusión de procesos educativos de la población objetivo.",
+      "Restringir la inscripción de estudiantes con talento extraordinario en el nivel superior."
+    ],
+    "correcta": 2,
+    "explicacion": "El objeto del reglamento es garantizar el recorrido educativo completo (acceso, permanencia y conclusión) mediante lineamientos técnicos. Capítulo I, Disposiciones Generales, Artículo 1."
+  },
+  {
+    "id": 126,
+    "pregunta": "Dentro del proceso de inclusión educativa, ¿qué implica el concepto de 'Evaluación Multidisciplinaria' para un estudiante con sospecha de discapacidad?",
+    "opciones": [
+      "Un examen de conocimientos generales aplicado por el director distrital.",
+      "Un proceso de obtención y análisis de información especializada que sintetiza una valoración del neurodesarrollo.",
+      "Una entrevista psicológica obligatoria para la expulsión de estudiantes problemáticos.",
+      "Un censo de salud realizado por el personal de servicio de la unidad educativa."
+    ],
+    "correcta": 1,
+    "explicacion": "La evaluación multidisciplinaria permite crear condiciones para el desarrollo curricular pertinente basándose en el neurodesarrollo integral. Capítulo I, Disposiciones Generales, Artículo 4, inciso a."
+  },
+  {
+    "id": 127,
+    "pregunta": "¿Qué responsabilidad técnica tienen los Maestros de Apoyo Educativo que operan bajo la Modalidad Indirecta?",
+    "opciones": [
+      "Reemplazar al maestro de aula en materias de educación física y música.",
+      "La orientación, asesoramiento pedagógico, sensibilización y capacitación al personal docente-administrativo.",
+      "Evaluar y calificar el 100% de los contenidos de todos los estudiantes del curso.",
+      "Realizar el mantenimiento de los equipos tecnológicos del centro de educación especial."
+    ],
+    "correcta": 1,
+    "explicacion": "Los maestros de apoyo son responsables de equiparar y fortalecer las condiciones de acceso mediante el asesoramiento técnico. Capítulo I, Disposiciones Generales, Artículo 4, inciso b."
+  },
+  {
+    "id": 128,
+    "pregunta": "¿Qué documento de planificación vincula las acciones operativas entre el maestro de apoyo y el maestro de aula para favorecer a estudiantes con necesidades específicas?",
+    "opciones": [
+      "El Proyecto Socioproductivo (PSP) de la comunidad.",
+      "El Registro de Asistencia Mensual del personal administrativo.",
+      "El Plan de Apoyo Técnico Pedagógico.",
+      "La Libreta Escolar Electrónica del último trimestre."
+    ],
+    "correcta": 2,
+    "explicacion": "Es el instrumento que contempla acciones de apoyo educativo planeadas sistemáticamente entre ambos docentes. Capítulo I, Disposiciones Generales, Artículo 4, inciso c."
+  },
+  {
+    "id": 129,
+    "pregunta": "Según la normativa de educación inclusiva, ¿cómo se caracterizan las necesidades de los estudiantes con dificultades en el aprendizaje?",
+    "opciones": [
+      "Como necesidades provocadas exclusivamente por factores sensoriales graves.",
+      "Como necesidades educativas temporales o permanentes que interfieren en el rendimiento académico.",
+      "Como una falta de interés voluntaria del estudiante por el estudio.",
+      "Como un retraso mental profundo diagnosticado médicamente."
+    ],
+    "correcta": 1,
+    "explicacion": "Estas dificultades no son provocadas por factores intelectuales o sensoriales, pero afectan el desempeño escolar. Capítulo I, Disposiciones Generales, Artículo 4, inciso e."
+  },
+  {
+    "id": 130,
+    "pregunta": "¿Qué define a un estudiante con Talento Extraordinario en el Sistema Educativo Plurinacional boliviano?",
+    "opciones": [
+      "Poseer un promedio de notas de 100 puntos en todas las materias de forma constante.",
+      "Presentar un desarrollo mayor de capacidades superiores y transformadoras en dimensiones como el ser, saber, hacer y decidir.",
+      "Haber ganado al menos tres concursos deportivos de nivel nacional.",
+      "Ser el estudiante con mayor edad cronológica dentro de un grupo de estudio."
+    ],
+    "correcta": 1,
+    "explicacion": "El talento extraordinario se manifiesta en capacidades y habilidades extraordinarias superiores a lo esperado para su edad. Capítulo I, Disposiciones Generales, Artículo 4, inciso f."
+  },
+  {
+    "id": 131,
+    "pregunta": "¿Cuál es la función del 'Diseño Plural para los Aprendizajes' en el desarrollo del currículo educativo?",
+    "opciones": [
+      "Establecer una evaluación única y estandarizada para todos los departamentos del país.",
+      "Generar orientaciones que permitan alcanzar a todos los estudiantes en la mayor medida posible respetando su diversidad.",
+      "Crear un currículo paralelo exclusivamente para estudiantes con discapacidad física.",
+      "Prohibir el uso de materiales didácticos tradicionales en favor de la tecnología."
+    ],
+    "correcta": 1,
+    "explicacion": "El Diseño Plural busca generar condiciones inclusivas para toda la diversidad de formas de aprendizaje. Capítulo I, Disposiciones Generales, Artículo 4, inciso g."
+  },
+  {
+    "id": 132,
+    "pregunta": "¿Qué sistemas se incluyen bajo la categoría de 'Comunicación Alternativa y Aumentativa' para facilitar el aprendizaje?",
+    "opciones": [
+      "El uso exclusivo de traductores digitales de idiomas extranjeros.",
+      "La Lengua de Señas Boliviana (LSB), el Sistema Braille y otras formas que favorezcan el acceso.",
+      "Cualquier forma de comunicación verbal tradicional sin apoyo visual.",
+      "Únicamente el uso de altavoces y micrófonos en el aula."
+    ],
+    "correcta": 1,
+    "explicacion": "Son sistemas lingüísticos y comunicacionales que facilitan el aprendizaje de estudiantes con discapacidad. Capítulo I, Disposiciones Generales, Artículo 4, inciso i."
+  },
+  {
+    "id": 133,
+    "pregunta": "¿Qué información debe contener obligatoriamente el Archivo Personal de la Trayectoria Educativa de un estudiante?",
+    "opciones": [
+      "El historial de multas y sanciones disciplinarias del estudiante.",
+      "Información relativa a potencialidades, capacidades, logros, necesidades e intervenciones pedagógicas.",
+      "Únicamente los datos del seguro de salud y tipo de sangre.",
+      "La lista de todos los compañeros de curso con los que ha interactuado."
+    ],
+    "correcta": 1,
+    "explicacion": "Este historial permite determinar los avances, dificultades y recomendaciones para la formación integral. Capítulo I, Disposiciones Generales, Artículo 4, inciso j."
+  },
+  {
+    "id": 134,
+    "pregunta": "Respecto a la inscripción de estudiantes con discapacidad, ¿qué criterio deben seguir las instituciones educativas del Sistema Educativo Plurinacional?",
+    "opciones": [
+      "Inscribirlos solo si el centro cuenta con un presupuesto especial para discapacidad.",
+      "Inscribirlos independientemente de sus condiciones del neurodesarrollo, culturales o sociales.",
+      "Solicitar que los padres de familia firmen una renuncia al apoyo del maestro de aula.",
+      "Exigir un examen de admisión previo para evaluar si el estudiante es apto para el grado."
+    ],
+    "correcta": 1,
+    "explicacion": "La inscripción debe realizarse sin discriminación alguna conforme a la normativa vigente. Capítulo II, Inscripciones, Artículo 6, inciso a."
+  },
+  {
+    "id": 135,
+    "pregunta": "¿Es obligatorio estar inscrito previamente en un Centro de Educación Especial para matricularse en una unidad de educación regular?",
+    "opciones": [
+      "Sí, es un pre-requisito administrativo indispensable.",
+      "No, la inscripción en el ámbito especial no es un pre-requisito para la educación regular.",
+      "Solo en el caso de estudiantes con talento extraordinario.",
+      "Solo si el estudiante tiene más de 15 años de edad."
+    ],
+    "correcta": 1,
+    "explicacion": "La normativa aclara que la inscripción previa en educación especial no es un pre-requisito para la inclusión. Capítulo II, Inscripciones, Artículo 6, inciso b."
+  },
+  {
+    "id": 136,
+    "pregunta": "Para estudiantes con Discapacidad Intelectual, ¿qué flexibilidad existe en la edad de inscripción en los niveles inicial y primaria?",
+    "opciones": [
+      "No existe ninguna flexibilidad, deben cumplir la edad cronológica exacta.",
+      "Pueden inscribirse con una diferencia de hasta 24 meses respecto a la edad de sus pares.",
+      "Pueden inscribirse con hasta 5 años de diferencia sin necesidad de informes.",
+      "La flexibilidad es ilimitada y depende únicamente del criterio de los padres."
+    ],
+    "correcta": 1,
+    "explicacion": "Se permite una diferencia de hasta 24 meses previa presentación del informe de evaluación multidisciplinaria. Capítulo II, Inscripciones, Artículo 6, inciso d."
+  },
+  {
+    "id": 137,
+    "pregunta": "¿Bajo qué condiciones pueden inscribirse simultáneamente estudiantes con Trastorno del Espectro Autista (TEA) en educación especial y regular?",
+    "opciones": [
+      "Solo si aprueban un test de inteligencia superior a 120 puntos.",
+      "Según recomendaciones del informe de evaluación integral que establezca el currículo más adecuado.",
+      "Únicamente si la unidad educativa regular está a menos de 500 metros del centro especial.",
+      "Bajo ninguna circunstancia se permite la inscripción simultánea para TEA."
+    ],
+    "correcta": 1,
+    "explicacion": "La inscripción simultánea se basa en el informe que define la pertinencia del apoyo educativo. Capítulo II, Inscripciones, Artículo 6, inciso e."
+  },
+  {
+    "id": 138,
+    "pregunta": "Cuando un estudiante con discapacidad se traslada de unidad educativa, ¿qué obligación tiene la institución de origen?",
+    "opciones": [
+      "Entregar todos los documentos originales al padre de familia y borrar los archivos digitales.",
+      "Remitir obligatoriamente el archivo de trayectoria educativa a la institución destinataria.",
+      "Cobrar una tasa de transferencia por el historial pedagógico acumulado.",
+      "Retener la documentación hasta que la nueva unidad educativa confirme la plaza."
+    ],
+    "correcta": 1,
+    "explicacion": "La unidad de origen debe asegurar la continuidad de la información pedagógica para el apoyo del estudiante. Capítulo II, Inscripciones, Artículo 7, inciso a."
+  },
+  {
+    "id": 139,
+    "pregunta": "¿Qué importancia tiene el Informe de Evaluación Integral para los estudiantes con discapacidad intelectual que transitan por el sistema educativo?",
+    "opciones": [
+      "Es meramente informativo y no tiene peso en las decisiones pedagógicas.",
+      "Sus recomendaciones son decisivas para proyectar el recorrido educativo más pertinente.",
+      "Sirve únicamente para que el estudiante obtenga el carnet de discapacidad.",
+      "Es un requisito para exonerar al estudiante del pago de pensiones en colegios privados."
+    ],
+    "correcta": 1,
+    "explicacion": "El informe realizado por equipos multidisciplinarios guía la trayectoria educativa del estudiante. Capítulo II, Inscripciones, Artículo 7, inciso b."
+  },
+  {
+    "id": 140,
+    "pregunta": "Según las acciones de accesibilidad, ¿cómo deben incorporar las instituciones educativas el 'Diseño Plural para los Aprendizajes'?",
+    "opciones": [
+      "Como un taller extracurricular opcional dictado por voluntarios externos.",
+      "Progresivamente en su Proyecto Educativo y Planificación Curricular en todos sus componentes.",
+      "Únicamente mediante la traducción de libros de texto a lenguas nativas.",
+      "Delegando la responsabilidad exclusiva al personal administrativo de la escuela."
+    ],
+    "correcta": 1,
+    "explicacion": "La accesibilidad pedagógica debe integrarse en el corazón de la planificación institucional. Capítulo III, Responsabilidades, Artículo 8, inciso a."
+  },
+  {
+    "id": 141,
+    "pregunta": "¿Qué instituciones están obligadas a aplicar sistemas como el Braille o la Lengua de Señas Boliviana para facilitar el aprendizaje?",
+    "opciones": [
+      "Solo los Centros de Educación Especial del área urbana.",
+      "Unidades y centros de todos los subsistemas (Regular, Superior, Alternativa), ya sean fiscales o privados.",
+      "Exclusivamente las escuelas normales de formación de maestros.",
+      "Únicamente aquellas que tengan más de 10 estudiantes con discapacidad por curso."
+    ],
+    "correcta": 1,
+    "explicacion": "La aplicación de sistemas de comunicación accesibles es obligatoria en todos los subsistemas del SEP. Capítulo III, Responsabilidades, Artículo 8, inciso b."
+  },
+  {
+    "id": 142,
+    "pregunta": "¿Cuál es la responsabilidad de las autoridades educativas departamentales (DDEs) respecto al reglamento de educación inclusiva?",
+    "opciones": [
+      "Realizar el pago directo de salarios a los maestros de apoyo de su región.",
+      "Planificar, organizar, monitorear y evaluar las disposiciones establecidas en el reglamento.",
+      "Vender los materiales educativos adaptados a las familias de los estudiantes.",
+      "Decidir quiénes aprueban o reprueban el año escolar en el área de especial."
+    ],
+    "correcta": 1,
+    "explicacion": "Las DDEs gestionan el cumplimiento operativo y el monitoreo de la normativa en su jurisdicción. Capítulo III, Responsabilidades, Artículo 10, inciso a."
+  },
+  {
+    "id": 143,
+    "pregunta": "¿Qué acción deben desarrollar las Direcciones Distritales Educativas para asegurar el apoyo pedagógico?",
+    "opciones": [
+      "Contratar buses de transporte escolar para todos los centros especiales.",
+      "Desarrollar procesos de seguimiento a centros y unidades educativas para garantizar el apoyo.",
+      "Elaborar los exámenes trimestrales de todos los estudiantes con talento extraordinario.",
+      "Organizar las ferias gastronómicas de los centros de educación especial."
+    ],
+    "correcta": 1,
+    "explicacion": "El seguimiento distrital garantiza que el apoyo educativo llegue efectivamente al estudiante matriculado. Capítulo III, Responsabilidades, Artículo 11, inciso a."
+  },
+  {
+    "id": 144,
+    "pregunta": "Respecto a la infraestructura escolar, ¿cuál es el deber del director de una unidad educativa inclusiva?",
+    "opciones": [
+      "Prohibir el uso de sillas de ruedas dentro de las aulas para evitar dañar el piso.",
+      "Viabilizar ante las instancias correspondientes el diseño o remodelación bajo el enfoque de 'Usos Universales'.",
+      "Solicitar a los padres de familia que ellos mismos construyan las rampas de acceso.",
+      "Mantener la infraestructura original sin cambios para preservar el patrimonio histórico."
+    ],
+    "correcta": 1,
+    "explicacion": "El director debe gestionar la eliminación de barreras arquitectónicas mediante criterios de accesibilidad universal. Capítulo III, Responsabilidades, Artículo 12, inciso f."
+  },
+  {
+    "id": 145,
+    "pregunta": "¿Qué debe proporcionar la dirección de una unidad educativa al maestro de apoyo para facilitar su labor pedagógica?",
+    "opciones": [
+      "Las llaves maestras de todas las instalaciones del centro.",
+      "Las planificaciones curriculares e institucionales cuando los requiera con fines de apoyo.",
+      "Un bono económico adicional por cada visita técnica realizada.",
+      "El control de asistencia de todos los maestros de la unidad educativa."
+    ],
+    "correcta": 1,
+    "explicacion": "El acceso a las planificaciones es vital para que el maestro de apoyo pueda coordinar las adaptaciones. Capítulo III, Responsabilidades, Artículo 12, inciso i."
+  },
+  {
+    "id": 146,
+    "pregunta": "¿Cuál es la responsabilidad principal del maestro de aula en la atención a la diversidad?",
+    "opciones": [
+      "Delegar el 100% de la enseñanza del estudiante con discapacidad al maestro de apoyo.",
+      "Desarrollar la Planificación Curricular de Aula y procesos educativos accesibles bajo el Diseño Plural.",
+      "Exigir que el estudiante solo asista a clases dos días por semana.",
+      "Evaluar al estudiante solo mediante exámenes orales para evitar el uso de materiales."
+    ],
+    "correcta": 1,
+    "explicacion": "El maestro de aula lidera el proceso educativo adaptando su planificación a las necesidades del grupo. Capítulo III, Responsabilidades, Artículo 13, inciso a."
+  },
+  {
+    "id": 147,
+    "pregunta": "¿Cómo deben actuar los estudiantes que no presentan necesidades educativas frente a sus compañeros con discapacidad?",
+    "opciones": [
+      "Deben encargarse de realizar las tareas escolares de sus compañeros con discapacidad.",
+      "Promover acciones que prevengan todo tipo de violencia, acoso y bullying, respetando la individualidad.",
+      "Ignorar la presencia de sus compañeros para no hacerlos sentir diferentes.",
+      "Exigir que se les evalúe con la misma dificultad que a sus compañeros con adaptaciones."
+    ],
+    "correcta": 1,
+    "explicacion": "La convivencia pacífica y el respeto a la diversidad son deberes de toda la comunidad estudiantil. Capítulo III, Responsabilidades, Artículo 14, inciso b."
+  },
+  {
+    "id": 148,
+    "pregunta": "¿De qué son responsables las madres, padres de familia o tutores según el reglamento de educación inclusiva?",
+    "opciones": [
+      "De dictar las clases de apoyo pedagógico en lugar de los maestros.",
+      "De apoyar y orientar a sus hijos con el fin de generar condiciones educativas favorables.",
+      "De pagar el salario de los equipos multidisciplinarios externos.",
+      "De decidir si el estudiante debe o no realizar las evaluaciones curriculares."
+    ],
+    "correcta": 1,
+    "explicacion": "El rol familiar es el de apoyo y orientación para facilitar el proceso educativo del estudiante. Capítulo III, Responsabilidades, Artículo 15, inciso a."
+  },
+  {
+    "id": 149,
+    "pregunta": "Si un padre de familia detecta señales de alerta de dificultades en el aprendizaje en su hijo, ¿qué acción puede tomar?",
+    "opciones": [
+      "Retirar al estudiante del sistema educativo para enseñarle en casa sin supervisión.",
+      "Solicitar la aplicación de pruebas de detección o evaluación mediante el conducto regular.",
+      "Obligar al maestro de aula a que le asigne una nota de aprobación automática.",
+      "Contratar a un médico privado para que reemplace al equipo multidisciplinario del Ministerio."
+    ],
+    "correcta": 1,
+    "explicacion": "Los tutores tienen el derecho de activar los mecanismos oficiales de evaluación ante sospechas fundadas. Capítulo III, Responsabilidades, Artículo 15, inciso c."
+  },
+  {
+    "id": 150,
+    "pregunta": "¿Qué función cumplen los directores de los Centros de Educación Especial respecto a los maestros de apoyo?",
+    "opciones": [
+      "Supervisar que los maestros de apoyo cumplan funciones de portería en las unidades inclusivas.",
+      "Realizar el seguimiento y acompañamiento a las acciones técnico-pedagógicas que desarrollan.",
+      "Asignarles tareas de cobro de pensiones en unidades educativas privadas.",
+      "Prohibirles que coordinen con los maestros de aula para mantener la independencia."
+    ],
+    "correcta": 1,
+    "explicacion": "El director del CEE es el responsable inmediato de velar por la calidad técnica del apoyo brindado. Capítulo III, Responsabilidades, Artículo 16, inciso d."
+  },
+  {
+    "id": 151,
+    "pregunta": "¿Cuál es una tarea específica de los maestros de apoyo respecto al personal docente de las instituciones inclusivas?",
+    "opciones": [
+      "Evaluar el desempeño laboral de los maestros de aula para asignarles sanciones.",
+      "Asesorar, orientar, supervisar y capacitar en la aplicación del Diseño Plural y adaptaciones curriculares.",
+      "Sustituir al maestro de aula durante sus periodos de licencia por enfermedad.",
+      "Elaborar los informes económicos trimestrales de la unidad educativa."
+    ],
+    "correcta": 1,
+    "explicacion": "Su rol es fortalecer las capacidades del docente regular para atender la diversidad. Capítulo III, Responsabilidades, Artículo 17, inciso a."
+  },
+  {
+    "id": 152,
+    "pregunta": "¿Con qué frecuencia deben los maestros de apoyo trasladarse a las instituciones donde se encuentran sus estudiantes?",
+    "opciones": [
+      "Únicamente una vez al año durante la clausura escolar.",
+      "Periódicamente según la planificación aprobada y autorizada por su superior.",
+      "Todos los días de la semana de forma obligatoria durante toda la jornada.",
+      "Solo cuando el estudiante repruebe más de tres materias."
+    ],
+    "correcta": 1,
+    "explicacion": "La movilidad es parte fundamental de la modalidad indirecta según la planificación técnica. Capítulo III, Responsabilidades, Artículo 17, inciso f."
+  },
+  {
+    "id": 153,
+    "pregunta": "¿Qué deben presentar mensualmente los maestros de apoyo para fines de asistencia y reporte de su función?",
+    "opciones": [
+      "Una carta de agradecimiento de los padres de familia.",
+      "Fichas de seguimiento o de control el último día hábil de cada mes.",
+      "El registro de gastos en transporte y alimentación debidamente facturado.",
+      "Una lista de los juguetes utilizados en las sesiones de apoyo."
+    ],
+    "correcta": 1,
+    "explicacion": "El control administrativo y técnico se realiza mediante fichas de seguimiento mensuales. Capítulo III, Responsabilidades, Artículo 17, inciso g."
+  },
+  {
+    "id": 154,
+    "pregunta": "¿Cuál es el requerimiento de capacitación para el personal administrativo y de servicio en centros educativos inclusivos?",
+    "opciones": [
+      "No requieren ninguna capacitación por no tener contacto directo con la enseñanza.",
+      "Capacitarse progresivamente para apoyar a estudiantes con necesidades, garantizando respeto y calidez.",
+      "Realizar un curso de especialización en medicina deportiva de alto rendimiento.",
+      "Capacitación exclusiva en normas de seguridad y vigilancia nocturna."
+    ],
+    "correcta": 1,
+    "explicacion": "Todo el personal debe estar preparado para una interacción respetuosa y comunitaria. Capítulo III, Responsabilidades, Artículo 18."
+  },
+  {
+    "id": 155,
+    "pregunta": "Para trabajar con estudiantes con discapacidad auditiva, ¿qué nivel de dominio de la LSB se exige al maestro de apoyo?",
+    "opciones": [
+      "Conocimiento de señas básicas para saludos y direcciones.",
+      "Alto nivel de conocimiento, manejo de la Lengua de Señas Boliviana y actualización progresiva.",
+      "No necesita conocer LSB si el estudiante utiliza audífonos potentes.",
+      "Nivel intermedio avalado por un curso de capacitación de 20 horas."
+    ],
+    "correcta": 1,
+    "explicacion": "El perfil profesional exige un dominio profundo para garantizar la fidelidad del mensaje educativo. Capítulo IV, Discapacidad Auditiva, Artículo 19, inciso a."
+  },
+  {
+    "id": 156,
+    "pregunta": "En el contexto de la discapacidad auditiva, ¿cuál es el objetivo del proceso de interpretación de la LSB en el aula?",
+    "opciones": [
+      "Traducir literalmente palabra por palabra del castellano a señas.",
+      "Transmitir información y contenidos curriculares de forma accesible, clara, precisa y confiable.",
+      "Sustituir la voz del maestro de aula por un sistema de subtitulado automático.",
+      "Evaluar si el estudiante sordo es capaz de leer los labios sin ayuda."
+    ],
+    "correcta": 1,
+    "explicacion": "La interpretación busca eliminar barreras de comunicación para el acceso real al conocimiento. Capítulo IV, Discapacidad Auditiva, Artículo 22."
+  },
+  {
+    "id": 157,
+    "pregunta": "Para asegurar un acto interpretativo respetuoso en discapacidad auditiva, ¿qué se recomienda respecto a la vestimenta del intérprete?",
+    "opciones": [
+      "Usar colores muy llamativos para que el estudiante no se distraiga.",
+      "Vestimenta adecuada y cómoda, sin distractores visuales como joyas vistosas o estampados.",
+      "Utilizar obligatoriamente un guardapolvo blanco médico.",
+      "No existe ninguna recomendación específica sobre la vestimenta."
+    ],
+    "correcta": 1,
+    "explicacion": "La sobriedad visual en la vestimenta es crucial para la visibilidad de las señas. Capítulo IV, Discapacidad Auditiva, Artículo 23."
+  },
+  {
+    "id": 158,
+    "pregunta": "¿Qué conocimientos especializados definen el perfil del maestro de apoyo para estudiantes con Discapacidad Visual?",
+    "opciones": [
+      "Manejo de equipos de rayos X y diagnóstico oftalmológico.",
+      "Dominio de signografía Braille, Código Matemático Unificado y Tiflología.",
+      "Capacidad para enseñar danza folclórica a grupos numerosos.",
+      "Experiencia en la venta de insumos ópticos y lentes de contacto."
+    ],
+    "correcta": 1,
+    "explicacion": "El perfil requiere competencias técnicas en lectoescritura táctil y códigos específicos. Capítulo V, Discapacidad Visual, Artículo 28, inciso b."
+  },
+  {
+    "id": 159,
+    "pregunta": "¿Cuál es el objetivo central del apoyo educativo para estudiantes con Discapacidad Visual?",
+    "opciones": [
+      "Lograr que el estudiante recupere la visión mediante ejercicios oculares.",
+      "Garantizar el acceso, permanencia y conclusión educativa para el logro de la independencia personal.",
+      "Aislar al estudiante en una sala con luz tenue durante toda la jornada.",
+      "Sustituir todos los libros de texto por grabaciones de audio de baja calidad."
+    ],
+    "correcta": 1,
+    "explicacion": "Se busca la autonomía y el éxito escolar mediante estrategias tiflológicas. Capítulo V, Discapacidad Visual, Artículo 29."
+  },
+  {
+    "id": 160,
+    "pregunta": "Respecto a la planificación, ¿qué coordinación es obligatoria para el maestro de apoyo en discapacidad visual?",
+    "opciones": [
+      "Coordinar el avance de contenidos planificados con el maestro de aula previo al desarrollo de clases.",
+      "Coordinar los horarios de limpieza del aula con el personal de servicio.",
+      "Coordinar la compra de meriendas escolares con la junta de padres.",
+      "No se requiere coordinación previa, el apoyo es improvisado según la necesidad."
+    ],
+    "correcta": 0,
+    "explicacion": "La coordinación anticipada asegura que los materiales y adaptaciones estén listos para el aprendizaje. Capítulo V, Discapacidad Visual, Artículo 30, inciso g."
+  },
+  {
+    "id": 161,
+    "pregunta": "¿Qué tipo de estrategias pedagógicas debe privilegiar el maestro de aula para un estudiante con baja visión o ceguera?",
+    "opciones": [
+      "Estrategias basadas exclusivamente en la observación de videos sin sonido.",
+      "Estrategias que privilegien elementos sonoros, en relieve, macrotipo o contrastes de color.",
+      "El uso de pizarras tradicionales con tiza de poco contraste.",
+      "La lectura individual en silencio de textos con letra pequeña (tinta)."
+    ],
+    "correcta": 1,
+    "explicacion": "La mediación pedagógica debe utilizar canales sensoriales alternativos al visual. Capítulo V, Discapacidad Visual, Artículo 31, inciso a."
+  },
+  {
+    "id": 162,
+    "pregunta": "¿Qué nivel de formación se exige para ser Maestro de Apoyo en la subárea de Discapacidad Intelectual?",
+    "opciones": [
+      "Título de bachiller y un año de experiencia como auxiliar de guardería.",
+      "Formación inicial de maestro y complementariamente formación post gradual inherente al área.",
+      "Ser profesional en psiquiatría o neurología clínica exclusivamente.",
+      "Haber realizado un curso virtual de sensibilización de 10 horas de duración."
+    ],
+    "correcta": 1,
+    "explicacion": "Se requiere especialización académica de postgrado debido a la complejidad de la atención. Capítulo VI, Discapacidad Intelectual, Artículo 32."
+  },
+  {
+    "id": 163,
+    "pregunta": "En el caso de Educación Superior, ¿qué documento es indispensable para estudiantes con discapacidad intelectual?",
+    "opciones": [
+      "Un certificado de bautismo o pertenencia a una comunidad religiosa.",
+      "Un Informe Multidisciplinario que corrobore el cumplimiento de perfil de entrada para el ejercicio profesional.",
+      "Una carta de fianza económica firmada por dos garantes con propiedad inmueble.",
+      "Un examen de aptitud física aprobado por un tribunal militar."
+    ],
+    "correcta": 1,
+    "explicacion": "Se debe validar que el estudiante posee las capacidades fundamentales para la profesión elegida. Capítulo VI, Discapacidad Intelectual, Artículo 33, inciso c."
+  },
+  {
+    "id": 164,
+    "pregunta": "¿Cuál es una función del profesional de apoyo respecto a los estudiantes con Trastornos del Espectro Autista (TEA)?",
+    "opciones": [
+      "Aplicar castigos físicos para corregir conductas disruptivas en el aula.",
+      "Coordinar con el equipo multidisciplinario para determinar características, potencialidades y contexto.",
+      "Prohibir que el estudiante interactúe con sus pares para evitar sobreestimulación.",
+      "Medicar al estudiante con sedantes antes del inicio de la jornada escolar."
+    ],
+    "correcta": 1,
+    "explicacion": "La comprensión integral del contexto y las capacidades es vital para el apoyo técnico en TEA. Capítulo VI, Sección II, Artículo 38, inciso d."
+  },
+  {
+    "id": 165,
+    "pregunta": "¿Cuándo debe iniciar la detección temprana de señales de alerta en estudiantes de educación regular según la normativa boliviana?",
+    "opciones": [
+      "Al finalizar el sexto año de secundaria como requisito de graduación.",
+      "Desde el momento que las niñas y niños inician sus procesos de aprendizaje en nivel inicial o primaria.",
+      "Solo cuando el estudiante reprueba tres materias de forma consecutiva.",
+      "A partir de los 12 años, cuando se considera que el neurodesarrollo ha concluido."
+    ],
+    "correcta": 1,
+    "explicacion": "La detección precoz es responsabilidad docente desde los primeros años de escolaridad. Capítulo VI, Sección III, Artículo 39, inciso a."
+  },
+  {
+    "id": 166,
+    "pregunta": "En el área de Dificultades en el Aprendizaje, ¿qué enfoque se prioriza en los grados de 1ro, 2do y 3ro de primaria?",
+    "opciones": [
+      "Sentido reeducativo.",
+      "Sentido preventivo.",
+      "Sentido sancionatorio.",
+      "Sentido de formación técnica."
+    ],
+    "correcta": 1,
+    "explicacion": "La cobertura en los primeros años se enfoca en prevenir la consolidación de las dificultades detectadas. Capítulo VII, Artículo 41."
+  },
+  {
+    "id": 167,
+    "pregunta": "¿Qué procedimiento debe seguir el maestro de aula tras observar señales de alerta de dificultades en el aprendizaje en un estudiante?",
+    "opciones": [
+      "Sugerir al padre de familia que cambie al estudiante a una escuela nocturna.",
+      "Aplicar la 'Guía de Observación - Detección de Signos de Riesgo' y derivar para evaluación multidisciplinaria.",
+      "Asignarle tareas adicionales de castigo para que practique más en casa.",
+      "Ignorar las señales y esperar a que el desarrollo natural del niño resuelva el problema."
+    ],
+    "correcta": 1,
+    "explicacion": "Existe un conducto regular técnico que incluye el uso de instrumentos específicos de detección. Capítulo VII, Artículo 44, inciso c."
+  },
+  {
+    "id": 168,
+    "pregunta": "¿Qué perfil profesional se requiere para el área de apoyo a estudiantes con Talento Extraordinario?",
+    "opciones": [
+      "Maestro con formación en artes plásticas exclusivamente.",
+      "Profesionales con formación académica pertinente y manejo de instrumentos de evaluación psicométrica.",
+      "Entrenadores deportivos con experiencia en competencias internacionales.",
+      "Cualquier profesional que hable al menos tres idiomas extranjeros."
+    ],
+    "correcta": 1,
+    "explicacion": "La identificación de talento requiere competencias técnicas en psicometría y evaluación especializada. Capítulo VIII, Artículo 46."
+  },
+  {
+    "id": 169,
+    "pregunta": "¿Quiénes son los responsables directos de los procesos de detección de señales de alerta de talento extraordinario en las unidades educativas?",
+    "opciones": [
+      "Los equipos de prensa y medios de comunicación locales.",
+      "Las maestras y maestros de aula a través de la Comisión Técnica Pedagógica.",
+      "Únicamente los médicos pediatras de los centros de salud distritales.",
+      "Los mismos estudiantes mediante un proceso de autoevaluación en línea."
+    ],
+    "correcta": 1,
+    "explicacion": "La detección inicial nace en el aula y es canalizada por las instancias pedagógicas de la escuela. Capítulo VIII, Artículo 48."
+  },
+  {
+    "id": 170,
+    "pregunta": "Para estudiantes con discapacidad físico-motora, ¿qué previsión debe tomar la dirección sobre la ubicación de sus aulas?",
+    "opciones": [
+      "Ubicarlas en el último piso para fomentar el ejercicio físico.",
+      "Prever la ubicación en proximidad a la puerta principal de entrada/salida y a los baños.",
+      "Asignarles un aula en el patio trasero lejos del ruido de los demás estudiantes.",
+      "No se requiere ninguna previsión especial sobre la ubicación física del aula."
+    ],
+    "correcta": 1,
+    "explicacion": "La accesibilidad física exige minimizar las distancias y barreras para estudiantes con movilidad reducida. Capítulo IX, Artículo 53."
+  }
+]

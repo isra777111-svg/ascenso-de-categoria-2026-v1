@@ -1,0 +1,2762 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Qué es el Escalafón Nacional del Servicio de Educación según la normativa vigente?",
+    "opciones": [
+      "Un gremio de maestros encargado de la defensa de los derechos laborales.",
+      "El registro sistemático, permanente y centralizado de los datos personales y profesionales de maestros y funcionarios.",
+      "Una escala salarial basada exclusivamente en los méritos académicos obtenidos en el extranjero.",
+      "Un organismo dependiente de las universidades para la formación docente."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 1° define explícitamente al Escalafón como el registro sistemático y centralizado de los datos de maestros y funcionarios. (Capítulo I, Artículo 1°)."
+  },
+  {
+    "id": 2,
+    "pregunta": "Según el Artículo 2°, ¿cuál es una de las finalidades principales del Escalafón Nacional?",
+    "opciones": [
+      "Determinar el currículo base del sistema educativo plurinacional.",
+      "Organizar sindicatos en cada distrito escolar del país.",
+      "Regular el ingreso y garantizar la continuidad de los maestros y funcionarios del ramo.",
+      "Fiscalizar la infraestructura de las unidades educativas fiscales."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 2°, inciso a), señala que el Escalafón tiene como fin regular el ingreso y garantizar la continuidad laboral. (Capítulo I, Artículo 2°)."
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Qué agencia es la encargada central de atender el Escalafón Nacional del Servicio de Educación?",
+    "opciones": [
+      "El Departamento de Estadística y Personal, dependiente del Ministerio de Educación.",
+      "La Dirección General de Trabajo y Previsión Social.",
+      "La Confederación Nacional de Maestros Urbanos de Bolivia.",
+      "El Instituto de Investigaciones Pedagógicas únicamente."
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 3° establece que el Departamento de Estadística y Personal es la Agencia Central encargada del Escalafón. (Capítulo I, Artículo 3°)."
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Quiénes integran la Comisión Nacional del Escalafón según el Reglamento?",
+    "opciones": [
+      "El Ministro de Educación y dos representantes de los padres de familia.",
+      "Los Jefes de Distrito de los nueve departamentos de Bolivia.",
+      "El Jefe del Departamento de Estadística y Personal, el Jefe del Escalafón y un delegado de la Federación de Maestros Urbanos.",
+      "El Director de la Normal Superior y representantes de la Central Obrera Boliviana."
+    ],
+    "correcta": 2,
+    "explicacion": "La composición de la Comisión Nacional está detallada en el punto 2, inciso a) del Artículo 3°. (Capítulo I, Artículo 3°)."
+  },
+  {
+    "id": 5,
+    "pregunta": "El Servicio de Educación comprende dos sectores principales. ¿Cuáles son?",
+    "opciones": [
+      "Sector de educación regular y sector de educación alternativa.",
+      "Sector docente y sector administrativo.",
+      "Sector urbano y sector rural exclusivamente.",
+      "Sector de formación inicial y sector de postgrado."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 4° divide el servicio en sector docente (atención del sistema educativo) y administrativo (funciones no docentes). (Capítulo II, Artículo 4°)."
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Cuál es el requisito de edad para ingresar en el sector docente y ejercer el magisterio fiscal?",
+    "opciones": [
+      "Tener entre 21 y 65 años de edad.",
+      "Tener no menos de 18 ni más de 50 años de edad.",
+      "Haber cumplido la mayoría de edad (21 años en 1957) sin límite superior.",
+      "No existe un límite de edad siempre que se tenga el título normalista."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 5°, inciso c), estipula el rango de edad de 18 a 50 años para el ingreso. (Capítulo II, Artículo 5°)."
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Qué clases de maestros se reconocen en mérito al grado de preparación y experiencia profesional?",
+    "opciones": [
+      "Maestros de aula, directores y supervisores.",
+      "Maestros con licenciatura, maestros con maestría y doctores.",
+      "Normalistas, titulares e interinos.",
+      "Maestros urbanos, rurales y técnicos."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 7° reconoce oficialmente tres categorías de maestros: normalistas, titulares e interinos. (Capítulo II, Artículo 7°)."
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Quiénes son considerados maestros normalistas según el Artículo 8°?",
+    "opciones": [
+      "Aquellos que aprueban un examen de capacidad después de 10 años de servicio.",
+      "Los profesionales que tienen un título universitario en ramas técnicas.",
+      "Los que siguen el curso regular de formación pedagógica en escuelas o institutos normales del Estado.",
+      "Maestros que trabajan en escuelas nocturnas de alfabetización."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 8° define a los normalistas por su formación regular en escuelas o institutos normales estatales. (Capítulo II, Artículo 8°)."
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Qué requisito es imprescindible para la admisión de maestros interinos en la docencia?",
+    "opciones": [
+      "Poseer un certificado de haber ganado un concurso de méritos.",
+      "Un examen de capacidad y acreditar grados mínimos de instrucción.",
+      "Tener 10 años de experiencia previa en la administración pública.",
+      "Haber cursado al menos dos años en una escuela normal urbana."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 9° exige examen de capacidad y grados mínimos de instrucción (como bachillerato o título universitario) para los interinos. (  Capítulo II, Artículo 9°)."
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Cómo se define a un maestro titular según el Reglamento?",
+    "opciones": [
+      "Es el maestro normalista que acaba de egresar con honores.",
+      "Es el interino que, tras 10 años de servicio, aprueba un examen de capacidad para su incorporación definitiva.",
+      "Es cualquier funcionario administrativo con más de 5 años de antigüedad.",
+      "Es el profesional extranjero contratado por el Ministerio de Educación."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 10° especifica que los titulares son interinos con 10 años de servicio y examen de capacidad aprobado. (  Capítulo II, Artículo 10°)."
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Cuál de las siguientes es una causa por la que NO podrán ser admitidos en el ejercicio de la docencia?",
+    "opciones": [
+      "Ser mayor de 45 años al momento de la primera inscripción.",
+      "No tener hijos o carga familiar comprobada.",
+      "Llevar una vida notoriamente inmoral.",
+      "Haber trabajado previamente en el sector privado de educación."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 11°, inciso c), prohíbe la admisión de personas con vida notoriamente inmoral. (  Capítulo II, Artículo 11°)."
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Es obligatoria la inscripción en el Escalafón para los maestros y funcionarios administrativos?",
+    "opciones": [
+      "No, es de carácter voluntario solo para quienes buscan cargos directivos.",
+      "Sí, es requisito para gozar de las garantías, derechos y recompensas del Reglamento.",
+      "Solo para los maestros que trabajan en zonas rurales o fronterizas.",
+      "Es obligatoria únicamente para los maestros interinos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 12° establece la obligatoriedad de la inscripción para gozar de los beneficios del reglamento. (  Capítulo III, Artículo 12°)."
+  },
+  {
+    "id": 13,
+    "pregunta": "¿A partir de qué momento deben los maestros normalistas solicitar su inscripción en el Escalafón?",
+    "opciones": [
+      "Después de 5 años de ejercicio docente ininterrumpido.",
+      "Al momento de jubilarse para tramitar sus beneficios.",
+      "Desde que se inician en el ejercicio docente.",
+      "Solo cuando deciden ascender a la categoría jerárquica de Director."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 13° indica que los normalistas deben solicitar su inscripción desde el inicio de su carrera. (  Capítulo III, Artículo 13°)."
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Cuántos años de servicio deben cumplir los maestros interinos para optar a la inscripción en el Escalafón?",
+    "opciones": [
+      "Un año de servicio bajo contrato temporal.",
+      "Diez años de servicio y examen de titularidad.",
+      "Cinco años de servicio y satisfacer requisitos adicionales.",
+      "No pueden inscribirse hasta obtener el título de normalista."
+    ],
+    "correcta": 2,
+    "explicacion": "Según el Artículo 14°, los interinos tienen opción a inscribirse después de cumplir cinco años de servicio. (  Capítulo III, Artículo 14°)."
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué sucede con un maestro titular que reprueba por segunda vez el examen de capacidad para su incorporación definitiva?",
+    "opciones": [
+      "Se le otorga una tercera oportunidad en el plazo de un mes.",
+      "Es descendido automáticamente a la categoría de interino sin derecho a sueldo.",
+      "Quedará privado de las garantías que el Reglamento reconoce en favor del magisterio.",
+      "Debe volver a estudiar la carrera completa en una Normal Urbana."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 15° determina que tras una segunda reprobación, el maestro pierde las garantías del reglamento. (  Capítulo III, Artículo 15°)."
+  },
+  {
+    "id": 16,
+    "pregunta": "¿En qué proyecciones complementarias se desarrolla la carrera docente y administrativa?",
+    "opciones": [
+      "Formación académica y participación sindical activa.",
+      "Ascensos de jerarquía y promociones de categoría.",
+      "Antigüedad en el cargo y cantidad de alumnos aprobados.",
+      "Servicio en áreas urbanas y servicio en áreas rurales."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 18° establece que la carrera se proyecta a través de ascensos de jerarquía y promociones de categoría. (  Capítulo IV, Artículo 18°)."
+  },
+  {
+    "id": 17,
+    "pregunta": "¿En función de qué se determinan las promociones de categoría?",
+    "opciones": [
+      "En función de las necesidades políticas del Ministerio.",
+      "En función de los méritos académicos acumulados.",
+      "En función de la antigüedad en el servicio.",
+      "En función de los resultados de los exámenes trimestrales de los alumnos."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 18° vincula las promociones de categoría directamente con la antigüedad en el servicio. (  Capítulo IV, Artículo 18°)."
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Cuántas promociones de categoría establece el Reglamento para recompensar el tiempo de servicio?",
+    "opciones": [
+      "Tres categorías (Tercera, Segunda y Primera).",
+      "Siete categorías empezando desde la categoría inicial.",
+      "Cinco promociones de categoría.",
+      "Diez categorías, una por cada cinco años de trabajo."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 19° establece una escala de cinco promociones de categoría. (  Capítulo IV, Artículo 19°)."
+  },
+  {
+    "id": 19,
+    "pregunta": "Dentro de la escala jerárquica docente, ¿cuál es el rango más alto mencionado?",
+    "opciones": [
+      "Director de Establecimiento Educativo.",
+      "Jefe de Distrito o de Zona Escolar.",
+      "Director General de Educación.",
+      "Ministro de Educación y Bellas Artes."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 20°, inciso a), señala al Director General de Educación como el primer rango de la escala jerárquica docente. (  Capítulo IV, Artículo 20°)."
+  },
+  {
+    "id": 20,
+    "pregunta": "¿A qué rango de la escala jerárquica administrativa pertenecen los Porteros?",
+    "opciones": [
+      "Rango g)",
+      "Rango j)",
+      "Rango i)",
+      "Rango f)"
+    ],
+    "correcta": 2,
+    "explicacion": "En la escala jerárquica administrativa del Artículo 21°, los porteros están situados en el inciso i). (  Capítulo IV, Artículo 21°)."
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Cómo se determinan los ascensos a las direcciones de establecimientos educativos?",
+    "opciones": [
+      "Por designación directa del Jefe de Distrito por lealtad.",
+      "Por antigüedad pura sin necesidad de exámenes.",
+      "Por concurso de méritos y examen de competencia.",
+      "Por votación de los maestros del mismo establecimiento."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 22° establece que los ascensos a direcciones se definen por concurso de méritos y examen de competencia. (  Capítulo V, Artículo 22°)."
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Cuál es el puntaje máximo asignado al aspecto de 'Estudios y títulos profesionales' en la calificación de méritos?",
+    "opciones": [
+      "50 puntos.",
+      "200 puntos.",
+      "100 puntos.",
+      "80 puntos."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 24°, inciso a), asigna hasta 100 puntos por estudios y títulos profesionales. (  Capítulo V, Artículo 24°)."
+  },
+  {
+    "id": 23,
+    "pregunta": "Según la escala de calificación, ¿cuántos puntos se asignan por el Título de Doctor en Pedagogía?",
+    "opciones": [
+      "10 puntos.",
+      "15 puntos.",
+      "20 puntos.",
+      "25 puntos."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 25°, inciso m), otorga 20 puntos por el título de Doctor en Pedagogía. (  Capítulo V, Artículo 25°)."
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Cuántos puntos se otorgan por el desempeño de cátedra en cursos nacionales de capacitación pedagógica (por curso)?",
+    "opciones": [
+      "De 1 a 2 puntos, hasta un máximo de 10.",
+      "5 puntos por cada curso sin límite máximo.",
+      "10 puntos fijos por ser instructor.",
+      "3 puntos por curso si es en área rural."
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 26°, inciso h), establece de 1 a 2 puntos por curso nacional de capacitación, hasta un tope de 10. (  Capítulo V, Artículo 26°)."
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Cómo se califica el tiempo de servicios en el magisterio?",
+    "opciones": [
+      "1 punto por cada año de trabajo cumplido.",
+      "5 puntos por cada quinquenio.",
+      "1 punto por cada trimestre de trabajo.",
+      "0.5 puntos por cada mes de labores."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 27° indica que el tiempo de servicios se califica asignando 1 punto por cada trimestre. (  Capítulo V, Artículo 27°)."
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Qué beneficio tienen los maestros normalistas que prestan 2 años de servicio en zonas declaradas fronterizas (no siendo oriundos del lugar)?",
+    "opciones": [
+      "Derecho a un bono mensual del 50% extra.",
+      "Cómputo de 3 años de antigüedad.",
+      "Cómputo de 4 años de antigüedad.",
+      "Ascenso inmediato a la Primera Categoría."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 29° otorga el beneficio de doble cómputo (4 años por 2 de servicio) a normalistas en fronteras. (  Capítulo V, Artículo 29°)."
+  },
+  {
+    "id": 27,
+    "pregunta": "En la calificación de méritos generales, ¿cuántos puntos máximos se pueden obtener por libros editados o inéditos?",
+    "opciones": [
+      "10 puntos.",
+      "15 puntos.",
+      "20 puntos.",
+      "30 puntos."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 32°, inciso b), asigna de 1 a 2 puntos por libro, hasta un máximo de 20 puntos. (  Capítulo V, Artículo 32°)."
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Cuál es la sanción en puntos de escalafón por abandono de funciones?",
+    "opciones": [
+      "De 1 a 5 puntos.",
+      "De 1 a 10 puntos.",
+      "De 1 a 20 puntos.",
+      "Retiro definitivo sin pérdida de puntos."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 33°, punto 1 (Faltas de asistencia), penaliza el abandono de funciones con 1 a 20 puntos. (  Capítulo V, Artículo 33°)."
+  },
+  {
+    "id": 29,
+    "pregunta": "¿Qué porcentaje de reprobados en un curso se considera una 'falta de rendimiento' punible?",
+    "opciones": [
+      "Más del 10% de reprobados.",
+      "Más del 50% de reprobados.",
+      "Más del 30% de reprobados.",
+      "Cualquier cantidad de reprobados es falta del maestro."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 33°, punto 3 (Faltas de rendimiento), tipifica como falta tener más del 30% de reprobados. (  Capítulo V, Artículo 33°)."
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Qué sanción se aplica por el uso de castigos corporales y vejaciones graves contra los alumnos?",
+    "opciones": [
+      "Una amonestación verbal privada.",
+      "De 1 a 20 puntos de demérito.",
+      "Suspensión por tres días sin goce de haberes.",
+      "Traslado inmediato a una zona fronteriza."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 33°, punto 4 (Abusos contra alumnos), establece una sanción de 1 a 20 puntos por castigos corporales. (  Capítulo V, Artículo 33°)."
+  },
+  {
+    "id": 31,
+    "pregunta": "¿Cuántos ejemplares de la ficha de calificación debe anotar la autoridad superior y para quiénes son?",
+    "opciones": [
+      "Un solo ejemplar para el archivo central del Ministerio.",
+      "Dos ejemplares: uno para el distrito y otro para el maestro.",
+      "Tres ejemplares: dos para la Comisión Distrital (uno para el interesado) y uno para el Ministerio.",
+      "Cuatro ejemplares incluyendo uno para el sindicato local."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 35° especifica la triplicación de la ficha y su distribución respectiva. (  Capítulo V, Artículo 35°)."
+  },
+  {
+    "id": 32,
+    "pregunta": "¿Qué bonificación sobre el haber básico corresponde a la 1ra Categoría?",
+    "opciones": [
+      "75%",
+      "80%",
+      "100%",
+      "120%"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 37° establece que la 1° categoría recibe el 100% de bonificación sobre el básico. (  Capítulo VI, Artículo 37°)."
+  },
+  {
+    "id": 33,
+    "pregunta": "¿Cuál es la bonificación porcentual para la 5ta Categoría?",
+    "opciones": [
+      "15%",
+      "25%",
+      "30%",
+      "45%"
+    ],
+    "correcta": 2,
+    "explicacion": "Según el Artículo 37°, la 5° categoría asigna un 30% de bonificación. (  Capítulo VI, Artículo 37°)."
+  },
+  {
+    "id": 34,
+    "pregunta": "¿A partir de cuándo perciben los maestros normalistas la bonificación de la 5ta Categoría?",
+    "opciones": [
+      "Después de 5 años de servicio docente.",
+      "Desde su iniciación en la carrera.",
+      "Solo después de aprobar el examen de idoneidad.",
+      "Al cumplir 25 años de edad."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 38° indica que los normalistas perciben la 5° categoría desde que inician su carrera. (  Capítulo VI, Artículo 38°)."
+  },
+  {
+    "id": 35,
+    "pregunta": "¿A los cuántos años de servicio alcanzan los maestros normalistas la 1ra Categoría de forma regular (por antigüedad)?",
+    "opciones": [
+      "A los 15 años.",
+      "A los 25 años.",
+      "A los 20 años.",
+      "A los 30 años."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 38° señala que los normalistas ascienden por antigüedad cada 5 años (5, 10, 15 y 20 para llegar a la 1ra). (  Capítulo VI, Artículo 38°)."
+  },
+  {
+    "id": 36,
+    "pregunta": "¿A los cuántos años de servicio alcanzan los maestros interinos y titulares la 1ra Categoría por antigüedad?",
+    "opciones": [
+      "A los 20 años.",
+      "A los 22 años.",
+      "A los 25 años.",
+      "A los 30 años."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 39° establece que para interinos, titulares y administrativos, la 1ra categoría se alcanza a los 25 años cumplidos. (-7, Capítulo VI, Artículo 39°)."
+  },
+  {
+    "id": 37,
+    "pregunta": "Mediante examen voluntario, ¿a cuántos años de servicio puede un maestro normalista ascender a la 1ra Categoría?",
+    "opciones": [
+      "A los 12 años.",
+      "A los 16 años.",
+      "A los 18 años.",
+      "A los 20 años."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 40°, inciso b), permite a los normalistas llegar a la 1ra categoría con 16 años y examen aprobado. (-8, Capítulo VI, Artículo 40°)."
+  },
+  {
+    "id": 38,
+    "pregunta": "¿Qué institución atiende los exámenes voluntarios para la promoción de categoría?",
+    "opciones": [
+      "La Normal Superior de Varones.",
+      "La Dirección Nacional de Escalafón.",
+      "El Instituto de Investigaciones Pedagógicas.",
+      "La Contraloría General de la República."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 41° establece que el Instituto de Investigaciones Pedagógicas es el encargado de estos exámenes. (-9, Capítulo VI, Artículo 41°)."
+  },
+  {
+    "id": 39,
+    "pregunta": "¿Qué sucede con los maestros interinos que, tras 6 años de servicio y por negligencia, no rinden la prueba de idoneidad?",
+    "opciones": [
+      "Son transferidos obligatoriamente al sector administrativo.",
+      "Quedarán inhabilitados para el ejercicio de la docencia.",
+      "Se les descuenta el 20% de su haber básico mensualmente.",
+      "Deben esperar 4 años más para intentar el examen nuevamente."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 43° sanciona con inhabilitación la negligencia del interino tras 6 años sin rendir la prueba de idoneidad. (-0, Capítulo VI, Artículo 43°)."
+  },
+  {
+    "id": 40,
+    "pregunta": "¿Quién preside las Comisiones Calificadoras Distritales?",
+    "opciones": [
+      "El representante sindical de la federación local.",
+      "El Inspector de Ciclo.",
+      "El Jefe de Distrito Escolar o de Zona.",
+      "El Alcalde Municipal del distrito respectivo."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 47°, inciso a), designa al Jefe de Distrito Escolar como presidente de la comisión. (-1, Capítulo VII, Artículo 47°)."
+  },
+  {
+    "id": 41,
+    "pregunta": "¿Cuál es el plazo para apelar ante la Comisión Nacional una calificación considerada inexacta o inequitativa?",
+    "opciones": [
+      "5 días a partir de la notificación.",
+      "10 días a partir de la notificación.",
+      "15 días hábiles.",
+      "30 días calendario."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 50° otorga un término de 10 días para apelar las calificaciones de la Comisión Distrital. (-3, Capítulo VII, Artículo 50°)."
+  },
+  {
+    "id": 42,
+    "pregunta": "¿Qué requisito de puntaje de méritos se exige para ser Director de Escuela?",
+    "opciones": [
+      "No menos de 50 puntos.",
+      "No menos de 80 puntos.",
+      "No menos de 100 puntos.",
+      "No menos de 150 puntos."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 54°, inciso a), exige poseer título de formación pedagógica, 5 años de servicio y no menos de 100 puntos de méritos. (-5, Capítulo VIII, Artículo 54°)."
+  },
+  {
+    "id": 43,
+    "pregunta": "¿Cuántos años de servicio son necesarios para optar al cargo de Director General de Educación?",
+    "opciones": [
+      "No menos de 10 años.",
+      "No menos de 12 años.",
+      "No menos de 15 años.",
+      "No menos de 20 años."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 54°, inciso d), estipula un mínimo de 15 años de servicio para este cargo jerárquico superior. (-6, Capítulo VIII, Artículo 54°)."
+  },
+  {
+    "id": 44,
+    "pregunta": "En caso de paridad de varios postulantes en un concurso de méritos para un cargo directivo, ¿cómo se define la designación?",
+    "opciones": [
+      "Por sorteo público ante notario.",
+      "Por decisión discrecional del Director Nacional.",
+      "Por examen de competencia.",
+      "Se otorga el cargo al de mayor edad cronológica."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 56°, inciso d), señala que el examen de competencia definirá la paridad en concursos de méritos. (-8, Capítulo IX, Artículo 56°)."
+  },
+  {
+    "id": 45,
+    "pregunta": "¿En qué consiste la 'acumulación' según el Artículo 59°?",
+    "opciones": [
+      "En guardar días de vacación para el año siguiente.",
+      "En el desempeño de un cargo principal y de otro cargo docente adicional.",
+      "En sumar los años de servicio del sector público y privado.",
+      "En ocupar un cargo docente y uno político simultáneamente."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 59° define la acumulación como el desempeño de un cargo principal más otro docente (cursos o horas). (-0, 'De la acumulación...')."
+  },
+  {
+    "id": 46,
+    "pregunta": "¿Cuándo se pueden conceder acumulaciones de cargos?",
+    "opciones": [
+      "Siempre que el maestro lo solicite por escrito.",
+      "Solo cuando no haya maestros normalistas o titulares sin colocación en ese ciclo o especialidad.",
+      "Cuando el presupuesto de educación tenga excedentes al final de gestión.",
+      "Únicamente en las capitales de departamento."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 60° condiciona las acumulaciones a la inexistencia de maestros sin cargo (colocación). (-0, 'De la acumulación...')."
+  },
+  {
+    "id": 47,
+    "pregunta": "¿Cuántas horas semanales puede acumular un profesor de secundaria que está en Primera Categoría?",
+    "opciones": [
+      "Hasta 4 horas semanales.",
+      "Hasta 6 horas semanales.",
+      "Hasta 10 horas semanales.",
+      "Hasta 12 horas semanales."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 61°, inciso a), permite hasta 10 horas semanales de acumulación para la Primera Categoría. (-1, 'De la acumulación...')."
+  },
+  {
+    "id": 48,
+    "pregunta": "Para los maestros de primaria, ¿desde qué categoría pueden acumular un cargo docente en escuelas nocturnas?",
+    "opciones": [
+      "Desde la Quinta Categoría.",
+      "Desde la Cuarta Categoría.",
+      "Desde la Tercera Categoría.",
+      "Solo en la Primera Categoría."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 65° especifica que los maestros de primaria pueden acumular desde la tercera categoría. (-2, 'De la acumulación...')."
+  },
+  {
+    "id": 49,
+    "pregunta": "¿Qué se considera 'jefe de familia' para efectos de la acumulación de cargos?",
+    "opciones": [
+      "Cualquier maestro casado.",
+      "El maestro que sostenga económicamente a sus padres ancianos.",
+      "Quien tenga por lo menos un hijo menor a su cargo.",
+      "El varón que sea el único aportante en el hogar."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 71° define como jefe de familia a quien tiene al menos un hijo menor a su cargo. (-4, 'De la acumulación...')."
+  },
+  {
+    "id": 50,
+    "pregunta": "¿Qué garantiza la 'inamovilidad docente' según el Artículo 73°?",
+    "opciones": [
+      "Que el maestro no podrá ser trasladado de ciudad nunca.",
+      "Que los maestros inscritos en el Escalafón no pueden ser destituidos ni suspendidos sin proceso y sentencia.",
+      "Que el sueldo del maestro subirá anualmente de forma automática.",
+      "Que el cargo docente es hereditario para los hijos normalistas."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 73° fundamenta la inamovilidad en la prohibición de destitución sin proceso previo por causas específicas. (-5, Capítulo XI, Artículo 73°)."
+  },
+  {
+    "id": 51,
+    "pregunta": "¿Cuáles son las únicas causas para destituir o suspender a un maestro según la normativa de 1957?",
+    "opciones": [
+      "Incompatibilidad ideológica con el gobierno de turno.",
+      "Bajo rendimiento académico de los alumnos en pruebas nacionales.",
+      "Comisión de actos inmorales, indisciplinarios o delictuosos (previa sentencia).",
+      "No asistir a desfiles escolares en feriados nacionales."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 73° limita las causas de destitución a actos inmorales, indisciplinarios o delitos con sentencia. (-5, Capítulo XI, Artículo 73°)."
+  },
+  {
+    "id": 52,
+    "pregunta": "Si un maestro queda cesante sin culpabilidad, ¿qué porcentaje de su haber tiene derecho a percibir y por cuánto tiempo máximo?",
+    "opciones": [
+      "50% del haber por 30 días.",
+      "75% del haber por 60 días.",
+      "100% del haber hasta por 90 días (hasta su restitución).",
+      "No percibe nada hasta que encuentre un nuevo cargo."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 74° protege al maestro cesante sin culpa con el 100% del sueldo hasta por 90 días. (-6, Capítulo XI, Artículo 74°)."
+  },
+  {
+    "id": 53,
+    "pregunta": "¿A qué edad es obligatorio que los maestros se acojan al beneficio de la jubilación?",
+    "opciones": [
+      "A los 55 años de edad.",
+      "A los 60 años de edad.",
+      "A los 65 años de edad.",
+      "No es obligatoria a ninguna edad."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 75°, inciso a), establece el retiro obligatorio por edad a los 60 años. (-7, Capítulo XI, Artículo 75°)."
+  },
+  {
+    "id": 54,
+    "pregunta": "¿Cómo se acredita el tiempo de servicios en la educación fiscal?",
+    "opciones": [
+      "Mediante declaración jurada ante un juez de partido.",
+      "Mediante certificados expedidos por la Contraloría u otras oficinas pagadoras.",
+      "Por testimonios de tres colegas con más antigüedad.",
+      "A través del carnet de identidad y el título normalista."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 76° indica que la acreditación oficial es vía certificados de la Contraloría o pagadurías. (-8, Capítulo XII, Artículo 76°)."
+  },
+  {
+    "id": 55,
+    "pregunta": "¿Son las asignaciones por categoría parte del haber para efectos de jubilación y aguinaldo?",
+    "opciones": [
+      "No, se consideran bonos temporales no computables.",
+      "Solo para el aguinaldo, pero no para la jubilación.",
+      "Sí, son parte integrante del haber y se toman en cuenta para todos los beneficios sociales.",
+      "Depende de si el maestro es normalista o interino."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 78° especifica que las categorías integran el haber para jubilación, aguinaldo y otros beneficios. (-0, Disposiciones Generales, Artículo 78°)."
+  },
+  {
+    "id": 56,
+    "pregunta": "¿Qué requisito deben cumplir los maestros normalistas rurales para pasar al servicio urbano?",
+    "opciones": [
+      "Solo tener 10 años de servicio en el área rural.",
+      "Haber nacido en una ciudad capital.",
+      "Servir al menos 5 años en escuelas campesinas y aprobar los dos últimos cursos de normales urbanas.",
+      "Ganar un examen de competencia a nivel nacional."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 80° establece el requisito de 5 años de servicio rural y complementación de estudios para el pase al área urbana. (-1, Disposiciones Generales, Artículo 80°)."
+  },
+  {
+    "id": 57,
+    "pregunta": "¿En qué plazo deben los normalistas recabar su Título y Visación para poder ascender de categoría?",
+    "opciones": [
+      "En el término de 1 año después del egreso.",
+      "En el término de 2 años después de su egreso.",
+      "En el término de 5 años después de su egreso.",
+      "No tienen plazo límite."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 81° obliga a recabar el título en 2 años para no frenar el ascenso de categoría. (-1, Disposiciones Generales, Artículo 81°)."
+  },
+  {
+    "id": 58,
+    "pregunta": "¿Qué servicios son tomados en cuenta 'única y exclusivamente' para los efectos de la categorización docente?",
+    "opciones": [
+      "Cualquier trabajo realizado en la administración pública.",
+      "Servicios prestados en países extranjeros con convenio.",
+      "Los servicios prestados en el ramo de Educación.",
+      "Trabajos en empresas industriales siempre que hayan sido de capacitación."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 84° restringe el cómputo de categorización exclusivamente a los servicios en educación. (-2, Disposiciones Generales, Artículo 84°)."
+  },
+  {
+    "id": 59,
+    "pregunta": "¿Quién quedó encargado de la ejecución y cumplimiento del Decreto Supremo No. 04688?",
+    "opciones": [
+      "El Presidente de la República únicamente.",
+      "El Ministro de Educación y Bellas Artes.",
+      "El Jefe del Escalafón Nacional.",
+      "El Oficial Mayor de Educación."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 87° y la parte final del decreto encargan su cumplimiento al Ministro de Educación. (-3, Artículo 87°)."
+  },
+  {
+    "id": 60,
+    "pregunta": "¿Qué porcentaje de bonificación corresponde a la 3ra Categoría?",
+    "opciones": [
+      "30%",
+      "45%",
+      "60%",
+      "75%"
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 37° asigna un 60% de bonificación a la tercera categoría. (  Capítulo VI, Artículo 37°)."
+  },
+  {
+    "id": 61,
+    "pregunta": "¿Qué grado de instrucción mínimo se requiere para que un maestro interino pueda enseñar en el ciclo primario?",
+    "opciones": [
+      "Título de Maestro Normalista Rural.",
+      "Haber cursado hasta el tercer año de secundaria.",
+      "Diploma de Bachiller.",
+      "Certificado de egreso de un Instituto Técnico."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 9°, inciso a), exige el Diploma de Bachiller para enseñar en el ciclo primario como interino. [1], Capítulo II, Artículo 9°."
+  },
+  {
+    "id": 62,
+    "pregunta": "¿Cuál es el requisito de instrucción para que un interino pueda enseñar en el ciclo secundario o superior?",
+    "opciones": [
+      "Ser egresado de una Normal Urbana.",
+      "Poseer Título Universitario.",
+      "Tener 10 años de experiencia administrativa.",
+      "Haber aprobado un curso de capacitación pedagógica de 3 meses."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 9°, inciso b), establece que para el ciclo secundario o superior se requiere Título Universitario. [2], Capítulo II, Artículo 9°."
+  },
+  {
+    "id": 63,
+    "pregunta": "¿Qué sucede con los maestros interinos que tienen 11 años de servicios y, por negligencia, no han sido declarados titulares?",
+    "opciones": [
+      "Son ascendidos automáticamente a la 4ta Categoría.",
+      "Quedarán inhabilitados para ejercer el magisterio.",
+      "Se les concede una prórroga de dos años para rendir examen.",
+      "Deben realizar un año de servicio social en zonas rurales."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 44° sanciona con inhabilitación a los interinos que por negligencia no logren la titularidad tras 11 años de servicio. [3], Capítulo VI, Artículo 44°."
+  },
+  {
+    "id": 64,
+    "pregunta": "Según la escala de calificación de estudios y títulos, ¿cuántos puntos se asignan por la inscripción en el escalafón?",
+    "opciones": [
+      "2 puntos.",
+      "5 puntos.",
+      "10 puntos.",
+      "1 punto."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 25°, inciso a), otorga 5 puntos por el simple hecho de la inscripción en el escalafón. [4], Capítulo V, Artículo 25°."
+  },
+  {
+    "id": 65,
+    "pregunta": "¿Cuántos puntos se asignan por poseer el título de Bachiller en la calificación de méritos?",
+    "opciones": [
+      "2 puntos.",
+      "3 puntos.",
+      "5 puntos.",
+      "10 puntos."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 25°, inciso d), establece una calificación de 5 puntos por el título de bachiller. [4], Capítulo V, Artículo 25°."
+  },
+  {
+    "id": 66,
+    "pregunta": "¿Qué puntaje se asigna por títulos universitarios como Médico, Abogado o Ingeniero en el Escalafón Docente?",
+    "opciones": [
+      "5 puntos por cada uno.",
+      "10 puntos por cada uno.",
+      "15 puntos por cada uno.",
+      "20 puntos en total, sin importar la cantidad."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 25°, inciso e), asigna 10 puntos por cada título de nivel universitario mencionado. [4], Capítulo V, Artículo 25°."
+  },
+  {
+    "id": 67,
+    "pregunta": "En la escala de títulos, ¿cuántos puntos reciben los maestros normalistas rurales?",
+    "opciones": [
+      "5 puntos.",
+      "10 puntos.",
+      "15 puntos.",
+      "20 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 25°, inciso f), asigna específicamente 10 puntos a los normalistas rurales. [4], Capítulo V, Artículo 25°."
+  },
+  {
+    "id": 68,
+    "pregunta": "¿Cuántos puntos se asignan por ser Técnico en administración escolar e investigación pedagógica con título de postgraduado?",
+    "opciones": [
+      "10 puntos.",
+      "15 puntos.",
+      "20 puntos.",
+      "25 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 25°, inciso l), otorga 15 puntos por este título específico de postgrado. [5], Capítulo V, Artículo 25°."
+  },
+  {
+    "id": 69,
+    "pregunta": "¿Cuál es el puntaje máximo por 'Asistencia, puntualidad y disciplina' dentro de las condiciones personales?",
+    "opciones": [
+      "5 puntos.",
+      "10 puntos.",
+      "15 puntos.",
+      "20 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 26°, inciso a), establece un máximo de 10 puntos para este aspecto del cumplimiento de deberes. [5], Capítulo V, Artículo 26°."
+  },
+  {
+    "id": 70,
+    "pregunta": "¿Cuántos puntos se otorgan por la alfabetización voluntaria y no remunerada de cada 10 sujetos?",
+    "opciones": [
+      "2 puntos, hasta un máximo de 10.",
+      "5 puntos, hasta un máximo de 20.",
+      "10 puntos, hasta un máximo de 50.",
+      "1 punto por cada sujeto alfabetizado."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 26°, inciso i), premia la alfabetización voluntaria con 5 puntos por cada 10 personas, con un tope de 20 puntos. [5], Capítulo V, Artículo 26°."
+  },
+  {
+    "id": 71,
+    "pregunta": "¿Cómo se computa el tiempo de permanencia en la zona de operaciones de la Guerra del Chaco para fines de jubilación?",
+    "opciones": [
+      "Como tiempo simple de servicio.",
+      "Como triple tiempo de servicios.",
+      "Como doble tiempo de servicios.",
+      "No se computa si no fue en funciones docentes."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 28° establece que dicho tiempo se computa con doble tiempo de servicios en el ramo de educación. [5], Capítulo V, Artículo 28°."
+  },
+  {
+    "id": 72,
+    "pregunta": "¿Qué beneficio de antigüedad tienen los maestros titulares o interinos que prestan 4 años de servicio en fronteras (no siendo oriundos)?",
+    "opciones": [
+      "Cómputo de 5 años de antigüedad.",
+      "Cómputo de 6 años de antigüedad.",
+      "Cómputo de 8 años de antigüedad.",
+      "Derecho a ascenso automático de dos categorías."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 30° otorga a interinos y titulares el cómputo de 6 años por cada 4 de servicio en fronteras. [6], Capítulo V, Artículo 30°."
+  },
+  {
+    "id": 73,
+    "pregunta": "¿Se computan los años de servicios prestados en países extranjeros para fines de jubilación en Bolivia?",
+    "opciones": [
+      "Sí, siempre que haya un tratado de reciprocidad.",
+      "Solo si fueron prestados en misiones diplomáticas.",
+      "No, no se computan para jubilación ni calificación de servicios.",
+      "Sí, pero solo el 50% del tiempo servido."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 31° prohíbe explícitamente el cómputo de servicios prestados en el extranjero para estos fines. [6], Capítulo V, Artículo 31°."
+  },
+  {
+    "id": 74,
+    "pregunta": "¿Cuántos puntos se asignan por el desempeño de funciones públicas destacadas en los méritos generales?",
+    "opciones": [
+      "Hasta 5 puntos.",
+      "Hasta 10 puntos.",
+      "Hasta 15 puntos.",
+      "Hasta 20 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 32°, inciso d), asigna hasta 10 puntos por el desempeño de funciones públicas destacadas. [6], Capítulo V, Artículo 32°."
+  },
+  {
+    "id": 75,
+    "pregunta": "¿Cuál es el puntaje de mérito por haber asimilado el rango de Director Nacional de Educación?",
+    "opciones": [
+      "4 puntos.",
+      "6 puntos.",
+      "8 puntos.",
+      "10 puntos."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 32°, inciso g), asigna 8 puntos por haber desempeñado funciones equivalentes a Director Nacional. [7], Capítulo V, Artículo 32°."
+  },
+  {
+    "id": 76,
+    "pregunta": "Dentro de los deméritos, ¿qué sanción en puntos corresponde a los atrasos frecuentes durante el año?",
+    "opciones": [
+      "De 1 a 2 puntos.",
+      "De 1 a 5 puntos.",
+      "De 5 a 10 puntos.",
+      "1 punto por cada atraso."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 33°, sección 1 (Faltas de asistencia), sanciona los atrasos frecuentes con 1 a 5 puntos. [7], Capítulo V, Artículo 33°."
+  },
+  {
+    "id": 77,
+    "pregunta": "¿Qué rango de puntos de demérito se aplica por actos de inmoralidad?",
+    "opciones": [
+      "De 1 a 5 puntos.",
+      "De 1 a 10 puntos.",
+      "De 1 a 20 puntos.",
+      "Destitución inmediata sin pérdida de puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 33°, sección 2 (Faltas de comportamiento), establece de 1 a 10 puntos por actos de inmoralidad. [8], Capítulo V, Artículo 33°."
+  },
+  {
+    "id": 78,
+    "pregunta": "¿Cuál es la sanción por la omisión de registros, planes y preparaciones de clase?",
+    "opciones": [
+      "De 1 a 5 puntos.",
+      "De 5 a 10 puntos.",
+      "De 1 a 10 puntos.",
+      "Amonestación verbal únicamente."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 33°, sección 3 (Faltas de rendimiento), sanciona esta omisión con 1 a 10 puntos. [8], Capítulo V, Artículo 33°."
+  },
+  {
+    "id": 79,
+    "pregunta": "¿Qué sanción se aplica si el trato indebido del maestro provoca la deserción de más del 20% de los alumnos?",
+    "opciones": [
+      "De 1 a 5 puntos.",
+      "De 1 a 10 puntos.",
+      "De 10 a 20 puntos.",
+      "Retiro definitivo del servicio."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 33°, sección 4 (Abusos contra alumnos), penaliza esto con 1 a 10 puntos. [9], Capítulo V, Artículo 33°."
+  },
+  {
+    "id": 80,
+    "pregunta": "¿Cuántos puntos de demérito se asignan por la instigación inmoral a los alumnos?",
+    "opciones": [
+      "De 1 a 10 puntos.",
+      "De 1 a 15 puntos.",
+      "De 1 a 20 puntos.",
+      "Suspensión por un año escolar."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 33°, sección 4, establece una sanción de 1 a 15 puntos por instigación inmoral. [9], Capítulo V, Artículo 33°."
+  },
+  {
+    "id": 81,
+    "pregunta": "¿Qué bonificación porcentual corresponde a la 2da Categoría?",
+    "opciones": [
+      "60%",
+      "75%",
+      "80%",
+      "90%"
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 37° indica que la 2da categoría recibe el 75% de bonificación sobre el haber básico. [10], Capítulo VI, Artículo 37°."
+  },
+  {
+    "id": 82,
+    "pregunta": "¿Cuál es el porcentaje de bonificación para la 4ta Categoría?",
+    "opciones": [
+      "35%",
+      "40%",
+      "45%",
+      "50%"
+    ],
+    "correcta": 2,
+    "explicacion": "Según el Artículo 37°, la 4ta categoría otorga un 45% de bonificación. [10], Capítulo VI, Artículo 37°."
+  },
+  {
+    "id": 83,
+    "pregunta": "Para la promoción de maestros interinos y titulares, ¿con cuántos años y examen aprobado se llega a la 2da Categoría?",
+    "opciones": [
+      "15 años.",
+      "18 años.",
+      "20 años.",
+      "22 años."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 40°, inciso a), requiere 18 años de servicio más examen para que interinos/titulares lleguen a la 2da categoría. [11], Capítulo VI, Artículo 40°."
+  },
+  {
+    "id": 84,
+    "pregunta": "Un maestro normalista desea ascender a la 3ra Categoría mediante examen voluntario. ¿Cuántos años de servicio requiere?",
+    "opciones": [
+      "6 años.",
+      "8 años.",
+      "10 años.",
+      "12 años."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 40°, inciso b), permite el ascenso a la 3ra categoría con 8 años de servicio y examen. [11], Capítulo VI, Artículo 40°."
+  },
+  {
+    "id": 85,
+    "pregunta": "¿Qué sucede con los postulantes que reprueban el examen voluntario de promoción de categoría?",
+    "opciones": [
+      "Deben esperar 5 años para volver a postular.",
+      "Tienen opción a ser promovidos por el simple cómputo de antigüedad.",
+      "Se les descuenta el 10% de su bono de categoría actual.",
+      "Son obligados a tomar un curso de nivelación en el IPP."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 42° aclara que si reprueban, aún pueden ser promovidos cuando cumplan los años por antigüedad. [3], Capítulo VI, Artículo 42°."
+  },
+  {
+    "id": 86,
+    "pregunta": "¿Qué requisito de puntaje de méritos se exige para ser Inspector de Distrito?",
+    "opciones": [
+      "No menos de 100 puntos.",
+      "No menos de 120 puntos.",
+      "No menos de 150 puntos.",
+      "No menos de 200 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 54°, inciso b), establece un mínimo de 120 puntos de méritos para este cargo. [12], Capítulo VIII, Artículo 54°."
+  },
+  {
+    "id": 87,
+    "pregunta": "¿Cuántos puntos de méritos debe tener un postulante para ser Jefe de Distrito?",
+    "opciones": [
+      "No menos de 120 puntos.",
+      "No menos de 150 puntos.",
+      "No menos de 180 puntos.",
+      "No menos de 200 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 54°, inciso c), exige no menos de 150 puntos de méritos para ser Jefe de Distrito. [13], Capítulo VIII, Artículo 54°."
+  },
+  {
+    "id": 88,
+    "pregunta": "¿Quién preside el Tribunal que califica los concursos de méritos para provisión de cargos?",
+    "opciones": [
+      "El Ministro de Educación.",
+      "El Jefe de Distrito.",
+      "Un delegado de la Dirección General de Educación.",
+      "El representante de la Federación de Maestros."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 57°, inciso a), otorga la presidencia al delegado de la Dirección General de Educación. [14], Capítulo IX, Artículo 57°."
+  },
+  {
+    "id": 89,
+    "pregunta": "¿Cuántas horas semanales puede acumular un profesor de secundaria en Segunda Categoría?",
+    "opciones": [
+      "Hasta 4 horas.",
+      "Hasta 6 horas.",
+      "Hasta 8 horas.",
+      "Hasta 10 horas."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 61°, inciso b), permite hasta 8 horas semanales de acumulación para la 2da categoría. [15], 'De la acumulación...')."
+  },
+  {
+    "id": 90,
+    "pregunta": "¿Cuántas horas semanales puede acumular un profesor de secundaria en Cuarta Categoría?",
+    "opciones": [
+      "Hasta 4 horas.",
+      "Hasta 2 horas.",
+      "No tiene derecho a acumulación.",
+      "Hasta 6 horas."
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 61°, inciso d), establece un límite de 4 horas semanales para la 4ta categoría. [15], 'De la acumulación...')."
+  },
+  {
+    "id": 91,
+    "pregunta": "¿Qué restricción tienen los profesores de Institutos Normales, Industriales y Comerciales con haberes altos respecto a la acumulación?",
+    "opciones": [
+      "No pueden acumular bajo ninguna circunstancia.",
+      "Solo pueden acumular horas en el mismo establecimiento donde trabajan.",
+      "Pueden acumular hasta 20 horas en colegios particulares.",
+      "Deben ceder sus horas de acumulación a maestros interinos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 63° restringe su acumulación solo al plan de estudios del mismo establecimiento. [16], 'De la acumulación...')."
+  },
+  {
+    "id": 92,
+    "pregunta": "Según el Artículo 64°, ¿puede un mismo curso en una misma asignatura ser atendido por más de un profesor?",
+    "opciones": [
+      "Sí, si el curso tiene más de 50 alumnos.",
+      "Solo en las materias de educación física y música.",
+      "En ningún caso, para no malograr la acción educativa.",
+      "Sí, si ambos profesores son de la misma categoría."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 64° prohíbe explícitamente que una materia en un mismo curso sea dictada por más de un profesor. [16], 'De la acumulación...')."
+  },
+  {
+    "id": 93,
+    "pregunta": "¿A quiénes se debe encomendar preferentemente los cargos de escuelas nocturnas y alfabetización?",
+    "opciones": [
+      "A maestros normalistas sin colocación.",
+      "A estudiantes del último año de la Normal.",
+      "A maestros jubilados que deseen retornar al servicio.",
+      "A funcionarios administrativos con título de bachiller."
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 66° prioriza a los maestros normalistas que no tengan un cargo (colocación). [17], 'De la acumulación...')."
+  },
+  {
+    "id": 94,
+    "pregunta": "¿Qué tipo de actividades pueden atender los maestros que no tienen acumulación en el servicio fiscal?",
+    "opciones": [
+      "Cargos en la administración pública nacional.",
+      "Cargos en la administración municipal.",
+      "Actividades en instituciones autárquicas o privadas con horario compatible.",
+      "Cualquier cargo político de confianza."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 67° permite trabajar en instituciones privadas o autárquicas, pero prohíbe la administración pública o municipal. [17], 'De la acumulación...')."
+  },
+  {
+    "id": 95,
+    "pregunta": "¿Cuál es el límite de acumulación para los Directores de Colegios Secundarios dentro de su establecimiento?",
+    "opciones": [
+      "Hasta 6 horas semanales.",
+      "Hasta 8 horas semanales.",
+      "Hasta 10 horas semanales.",
+      "No pueden acumular horas de clase."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 69° les permite acumular hasta 10 horas semanales en su propio colegio. [17], 'De la acumulación...')."
+  },
+  {
+    "id": 96,
+    "pregunta": "¿En qué circunstancias pueden los maestros de provincias alejadas acumular hasta dos cargos completos?",
+    "opciones": [
+      "Solo si son de la Primera Categoría.",
+      "Cuando haya falta de personal docente idóneo y exista compatibilidad de horario.",
+      "Si tienen más de 5 hijos a su cargo.",
+      "Únicamente si son maestros de ramas técnicas."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 72° permite esta excepción en distritos alejados por falta de personal. [18], 'De la acumulación...')."
+  },
+  {
+    "id": 97,
+    "pregunta": "Si un maestro es retirado por causas culpables (delitos comunes), ¿qué tipo de pena debe mediar?",
+    "opciones": [
+      "Denuncia formal ante el Ministerio.",
+      "Condena a pena corporal por sentencia.",
+      "Amonestación de la junta de padres de familia.",
+      "Informe negativo del Director Nacional."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 75°, inciso b), especifica que el retiro ocurre si son condenados a pena corporal. [19], Capítulo XI, Artículo 75°."
+  },
+  {
+    "id": 98,
+    "pregunta": "¿Es válido el tiempo servido en cargos administrativos para la categorización de un maestro normalista?",
+    "opciones": [
+      "No, solo cuenta el tiempo frente a alumnos.",
+      "Sí, son válidos para los efectos de categorización y jubilación.",
+      "Solo si el cargo administrativo fue de Director.",
+      "Sí, pero solo el 50% del tiempo acumulado."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 79° valida los servicios administrativos de normalistas para su antigüedad y beneficios. [20], Disposiciones Generales, Artículo 79°."
+  },
+  {
+    "id": 99,
+    "pregunta": "Según el Artículo 82°, ¿pueden los maestros normalistas ser privados del beneficio de la 5ta Categoría?",
+    "opciones": [
+      "Sí, por bajo rendimiento en el aula.",
+      "Solo por sentencia judicial ejecutoriada.",
+      "No podrán ser privados de este beneficio por ningún motivo.",
+      "Sí, si no recaban su título en 2 años."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 82° protege este beneficio inicial de los normalistas de forma absoluta. [21], Disposiciones Generales, Artículo 82°."
+  },
+  {
+    "id": 100,
+    "pregunta": "¿A partir de qué fecha se dispuso la calificación de los ascensos de categoría bajo este 'nuevo' sistema de 1957?",
+    "opciones": [
+      "Julio de 1957.",
+      "Agosto de 1957.",
+      "Enero de 1958.",
+      "Enero de 1960."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 85° establece que los ascensos bajo el nuevo sistema se calificarían desde enero de 1958. [22], Disposiciones Generales, Artículo 85°."
+  },
+  {
+    "id": 101,
+    "pregunta": "Según el Artículo 24°, ¿cuál es el puntaje máximo que puede obtener un maestro en el aspecto de 'Condiciones personales y docentes'?",
+    "opciones": [
+      "50 puntos.",
+      "75 puntos.",
+      "100 puntos.",
+      "150 puntos."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 24°, inciso b), establece que la valoración cuantitativa para las condiciones personales y docentes es de hasta 100 puntos. (  Capítulo V, Artículo 24°)."
+  },
+  {
+    "id": 102,
+    "pregunta": "¿Qué puntaje asigna el Artículo 25° por poseer el título en la especialidad de Kindergarten o Educación Física?",
+    "opciones": [
+      "10 puntos.",
+      "15 puntos.",
+      "20 puntos.",
+      "5 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 25°, inciso g), asigna 15 puntos por títulos en Kindergarten, Educación Física, Idiomas, Música y Labores. (  Capítulo V, Artículo 25°)."
+  },
+  {
+    "id": 103,
+    "pregunta": "¿Cuántos puntos se otorgan específicamente por el título de maestro de Primaria y Secundaria en la calificación de estudios?",
+    "opciones": [
+      "15 puntos.",
+      "20 puntos.",
+      "25 puntos.",
+      "30 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 25°, inciso h), establece una asignación de 20 puntos por los títulos de Primaria y Secundaria. (  Capítulo V, Artículo 25°)."
+  },
+  {
+    "id": 104,
+    "pregunta": "Para orientadores, consejeros y profesionales, ¿cuál es el puntaje asignado por su título en el Escalafón?",
+    "opciones": [
+      "10 puntos.",
+      "12 puntos.",
+      "15 puntos.",
+      "20 puntos."
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 25°, inciso i), asigna 10 puntos a los títulos de orientadores, consejeros y profesionales. (  Capítulo V, Artículo 25°)."
+  },
+  {
+    "id": 105,
+    "pregunta": "¿Qué puntaje reciben los Directores y supervisores que poseen un título de Postgraduado?",
+    "opciones": [
+      "5 puntos.",
+      "10 puntos.",
+      "15 puntos.",
+      "20 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 25°, inciso k), otorga 10 puntos por el título de Postgraduado para directores y supervisores. (  Capítulo V, Artículo 25°)."
+  },
+  {
+    "id": 106,
+    "pregunta": "En la calificación de méritos, ¿cuántos puntos se asignan por cada curso completo de capacidad aprobado?",
+    "opciones": [
+      "1 punto.",
+      "2 puntos.",
+      "3 puntos.",
+      "5 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 25°, inciso c), establece 2 puntos por cada curso completo de capacidad. (  Capítulo V, Artículo 25°)."
+  },
+  {
+    "id": 107,
+    "pregunta": "¿Cuál es el tope máximo de puntos que un maestro puede recibir por 'Rasgos positivos de personalidad, carácter, simpatía y cordialidad'?",
+    "opciones": [
+      "5 puntos.",
+      "10 puntos.",
+      "15 puntos.",
+      "20 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 26°, inciso b), permite calificar estos rasgos personales hasta un máximo de 10 puntos. (  Capítulo V, Artículo 26°)."
+  },
+  {
+    "id": 108,
+    "pregunta": "Según el Artículo 26°, ¿qué puntaje máximo se asigna por la 'Ascendencia moral y disposición de ánimo estimulante para los alumnos'?",
+    "opciones": [
+      "20 puntos.",
+      "15 puntos.",
+      "10 puntos.",
+      "5 puntos."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 26°, inciso c), fija en 10 puntos el máximo para la ascendencia moral y ánimo estimulante. (  Capítulo V, Artículo 26°)."
+  },
+  {
+    "id": 109,
+    "pregunta": "¿Cuántos puntos se pueden obtener por demostrar 'Interés por perfeccionar su preparación técnica y cultural'?",
+    "opciones": [
+      "Hasta 10 puntos.",
+      "Hasta 5 puntos.",
+      "Hasta 15 puntos.",
+      "Hasta 20 puntos."
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 26°, inciso d), otorga hasta 10 puntos por el interés demostrado en el perfeccionamiento técnico. (  Capítulo V, Artículo 26°)."
+  },
+  {
+    "id": 110,
+    "pregunta": "¿Qué puntaje se asigna por la iniciativa en beneficio del mejoramiento de la educación?",
+    "opciones": [
+      "Hasta 5 puntos.",
+      "Hasta 8 puntos.",
+      "Hasta 10 puntos.",
+      "Hasta 12 puntos."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 26°, inciso e), establece hasta 10 puntos por iniciativas que beneficien la educación. (  Capítulo V, Artículo 26°)."
+  },
+  {
+    "id": 111,
+    "pregunta": "Por la participación en misiones de importancia dentro del país (reuniones pedagógicas/sindicales), ¿cuántos puntos se asignan por cada misión?",
+    "opciones": [
+      "0.5 a 1 punto.",
+      "1 a 2 puntos.",
+      "2 a 3 puntos.",
+      "5 puntos fijos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 26°, inciso f), asigna de 1 a 2 puntos por cada misión nacional, hasta un máximo de 10. (  Capítulo V, Artículo 26°)."
+  },
+  {
+    "id": 112,
+    "pregunta": "¿Cuál es el puntaje por cada asistencia a reuniones pedagógicas y sindicales de alcance internacional?",
+    "opciones": [
+      "1 a 2 puntos.",
+      "5 puntos.",
+      "2 a 4 puntos.",
+      "10 puntos."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 26°, inciso g), establece de 2 a 4 puntos por asistencia a reuniones internacionales. (  Capítulo V, Artículo 26°)."
+  },
+  {
+    "id": 113,
+    "pregunta": "¿Cuál es el beneficio de puntuación para los maestros que alfabetizan voluntariamente a un grupo de 10 sujetos?",
+    "opciones": [
+      "2 puntos por grupo.",
+      "5 puntos por cada 10 sujetos.",
+      "10 puntos por grupo.",
+      "1 punto por cada sujeto alfabetizado."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 26°, inciso i), premia con 5 puntos la alfabetización de cada 10 sujetos, hasta un tope de 20 puntos. (  Capítulo V, Artículo 26°)."
+  },
+  {
+    "id": 114,
+    "pregunta": "Según el Artículo 27°, ¿tienen los maestros derecho al cómputo de los meses de vacaciones para el tiempo de servicios?",
+    "opciones": [
+      "No, las vacaciones son periodos de interrupción no computables.",
+      "Solo si realizan cursos de capacitación durante el descanso.",
+      "Sí, tienen derecho al cómputo de las vacaciones como parte del trimestre si hacen rendir exámenes.",
+      "Solo se computa el 50% del tiempo de vacaciones."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 27° indica que los maestros que hacen rendir exámenes computan los meses de vacaciones en el trimestre correspondiente. (  Capítulo V, Artículo 27°)."
+  },
+  {
+    "id": 115,
+    "pregunta": "¿Qué entidad debe calificar el tiempo de permanencia en la zona de operaciones de la Guerra del Chaco para que sea válido?",
+    "opciones": [
+      "El Ministerio de Defensa Nacional.",
+      "La Confederación de Ex-combatientes.",
+      "El Tribunal Supremo de Justicia Militar.",
+      "El Estado Mayor General de Educación."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 28° especifica que el tiempo debe ser debidamente calificado por el Tribunal Supremo de Justicia Militar. (  Capítulo V, Artículo 28°)."
+  },
+  {
+    "id": 116,
+    "pregunta": "Para gozar del cómputo de 4 años de antigüedad por 2 años de servicio en fronteras, ¿qué condición personal debe cumplir el normalista?",
+    "opciones": [
+      "Ser oriundo del lugar de frontera donde trabaja.",
+      "Tener al menos 5 años de servicio previos en ciudades.",
+      "No ser oriundo del lugar donde presta el servicio.",
+      "Estar casado con una persona del lugar."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 29° aclara que este beneficio es para normalistas que NO sean oriundos del lugar de frontera. (  Capítulo V, Artículo 29°)."
+  },
+  {
+    "id": 117,
+    "pregunta": "¿Qué beneficio de antigüedad otorga el Artículo 30° a los maestros titulares o interinos en zonas fronterizas?",
+    "opciones": [
+      "Cómputo de 3 años por cada 2 servidos.",
+      "Cómputo de 6 años por cada 4 años de servicios.",
+      "Cómputo de 5 años por cada 3 servidos.",
+      "Ascenso automático a la categoría inmediata superior."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 30° otorga 6 años de antigüedad por 4 de servicios fronterizos a titulares e interinos (no oriundos). (  Capítulo V, Artículo 30°)."
+  },
+  {
+    "id": 118,
+    "pregunta": "De acuerdo al Artículo 31°, ¿cómo se consideran los servicios prestados en países extranjeros?",
+    "opciones": [
+      "Se computan al 100% si hay convenios culturales.",
+      "Se computan solo para méritos, pero no para jubilación.",
+      "No se computan para fines de jubilación ni de calificación de servicios.",
+      "Se computan si el maestro trabajó en la embajada boliviana."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 31° es tajante al señalar que los servicios en el extranjero no se computan para jubilación ni calificación. (  Capítulo V, Artículo 31°)."
+  },
+  {
+    "id": 119,
+    "pregunta": "En la calificación de méritos generales, ¿cuántos puntos se asignan por cada artículo de importancia o conferencia científica?",
+    "opciones": [
+      "0.5 puntos.",
+      "1 a 2 puntos.",
+      "3 puntos.",
+      "5 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 32°, inciso a), otorga de 1 a 2 puntos por cada artículo, estudio o conferencia. (  Capítulo V, Artículo 32°)."
+  },
+  {
+    "id": 120,
+    "pregunta": "¿Cuál es el puntaje máximo que se puede acumular por 'artículos de importancia, estudios o conferencias'?",
+    "opciones": [
+      "5 puntos.",
+      "10 puntos.",
+      "15 puntos.",
+      "20 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "Según el Artículo 32°, inciso a), el tope máximo para este rubro es de 10 puntos. (  Capítulo V, Artículo 32°)."
+  },
+  {
+    "id": 121,
+    "pregunta": "¿Cuántos puntos se otorgan por la fundación y dirección de publicaciones de importancia?",
+    "opciones": [
+      "Hasta 2 puntos.",
+      "Hasta 5 puntos.",
+      "Hasta 10 puntos.",
+      "1 punto por cada ejemplar publicado."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 32°, inciso c), asigna hasta 5 puntos por la fundación y dirección de publicaciones. (  Capítulo V, Artículo 32°)."
+  },
+  {
+    "id": 122,
+    "pregunta": "¿Qué puntaje máximo se asigna por obtener premios y distinciones honoríficas en concursos científicos?",
+    "opciones": [
+      "5 puntos.",
+      "10 puntos.",
+      "15 puntos.",
+      "20 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 32°, inciso e), establece un máximo de 10 puntos por premios y distinciones en concursos. (  Capítulo V, Artículo 32°)."
+  },
+  {
+    "id": 123,
+    "pregunta": "¿Cuántos puntos se asignan por fundar y sostener escuelas por propia iniciativa con resultados eficientes?",
+    "opciones": [
+      "Hasta 5 puntos.",
+      "Hasta 10 puntos.",
+      "Hasta 15 puntos.",
+      "Hasta 20 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 32°, inciso f), otorga hasta 10 puntos por la fundación y sostenimiento de escuelas aprobadas oficialmente. (--21, Capítulo V, Artículo 32°)."
+  },
+  {
+    "id": 124,
+    "pregunta": "Por el desempeño de funciones jerárquicas asimiladas al rango de Director de escuela o colegio, ¿cuántos puntos se asignan?",
+    "opciones": [
+      "1 punto.",
+      "2 puntos.",
+      "3 puntos.",
+      "4 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 32°, inciso g), asigna 2 puntos por cargos asimilados al rango de Director de escuela. (  Capítulo V, Artículo 32°)."
+  },
+  {
+    "id": 125,
+    "pregunta": "¿Qué puntaje de mérito general se asigna por haber asimilado el rango de Inspector Distrital?",
+    "opciones": [
+      "2 puntos.",
+      "4 puntos.",
+      "6 puntos.",
+      "8 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 32°, inciso g), otorga 4 puntos por cargos asimilados al rango de Inspector Distrital. (  Capítulo V, Artículo 32°)."
+  },
+  {
+    "id": 126,
+    "pregunta": "Según el Artículo 32°, ¿cuántos puntos de mérito se asignan por haber desempeñado funciones de Jefe de Distrito Escolar?",
+    "opciones": [
+      "4 puntos.",
+      "6 puntos.",
+      "8 puntos.",
+      "10 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 32°, inciso g), establece 6 puntos para los cargos asimilados al rango de Jefe de Distrito. (  Capítulo V, Artículo 32°)."
+  },
+  {
+    "id": 127,
+    "pregunta": "¿Cuál es el puntaje de mérito por el desempeño del cargo de Director General u Oficial Mayor de Educación?",
+    "opciones": [
+      "8 puntos.",
+      "10 puntos.",
+      "12 puntos.",
+      "15 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 32°, inciso g), asigna el puntaje máximo de 10 puntos por estos cargos jerárquicos superiores. (  Capítulo V, Artículo 32°)."
+  },
+  {
+    "id": 128,
+    "pregunta": "¿Cuál es el rango de puntos de demérito asignado a las 'Faltas injustificadas frecuentes'?",
+    "opciones": [
+      "De 1 a 5 puntos.",
+      "De 1 a 10 puntos.",
+      "De 5 a 15 puntos.",
+      "Pérdida de la categoría actual."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 33°, sección 1, sanciona las faltas injustificadas frecuentes con 1 a 10 puntos. (  Capítulo V, Artículo 33°)."
+  },
+  {
+    "id": 129,
+    "pregunta": "¿Qué sanción en puntos de escalafón corresponde al 'Incumplimiento de comisiones'?",
+    "opciones": [
+      "De 1 a 5 puntos.",
+      "De 1 a 10 puntos.",
+      "De 1 a 20 puntos.",
+      "Amonestación escrita únicamente."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 33°, sección 1, establece de 1 a 10 puntos por incumplir comisiones asignadas. (  Capítulo V, Artículo 33°)."
+  },
+  {
+    "id": 130,
+    "pregunta": "Dentro de las faltas de comportamiento, ¿cuántos puntos se descuentan por 'Indisciplina reiterada y manifiesta'?",
+    "opciones": [
+      "De 1 a 5 puntos.",
+      "De 1 a 10 puntos.",
+      "De 1 a 20 puntos.",
+      "De 5 a 15 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 33°, sección 2, asigna de 1 a 10 puntos de demérito por indisciplina reiterada. (  Capítulo V, Artículo 33°)."
+  },
+  {
+    "id": 131,
+    "pregunta": "¿Cuál es la sanción por generar 'Conflictos con los compañeros' de trabajo?",
+    "opciones": [
+      "Traslado a otro distrito.",
+      "De 1 a 10 puntos de demérito.",
+      "Suspensión de un mes de sueldo.",
+      "De 1 a 5 puntos de demérito."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 33°, sección 2, tipifica los conflictos con compañeros con un demérito de 1 a 10 puntos. (  Capítulo V, Artículo 33°)."
+  },
+  {
+    "id": 132,
+    "pregunta": "En caso de 'Malversación de fondos o deterioro de útiles y equipos', ¿qué sanción establece el reglamento?",
+    "opciones": [
+      "De 1 a 10 puntos de demérito.",
+      "De 10 a 20 puntos y reposición del bien.",
+      "Destitución automática sin proceso.",
+      "Suspensión definitiva del escalafón."
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 33°, sección 2, establece de 1 a 10 puntos por malversación o daño a equipo escolar. (  Capítulo V, Artículo 33°)."
+  },
+  {
+    "id": 133,
+    "pregunta": "¿Qué rango de puntos de demérito se aplica por 'Deficiencias manifiestas para el cargo'?",
+    "opciones": [
+      "De 1 a 5 puntos.",
+      "De 1 a 10 puntos.",
+      "De 5 a 10 puntos.",
+      "De 1 a 20 puntos."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 33°, sección 3, asigna un rango específico de 5 a 10 puntos por deficiencias para el cargo. (  Capítulo V, Artículo 33°)."
+  },
+  {
+    "id": 134,
+    "pregunta": "¿Cuál es el demérito por la 'Resistencia a normas técnicas' dictadas por las autoridades?",
+    "opciones": [
+      "De 1 a 5 puntos.",
+      "De 1 a 10 puntos.",
+      "De 5 a 10 puntos.",
+      "Descenso de categoría."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 33°, sección 3, sanciona la resistencia a normas técnicas con 1 a 10 puntos. (  Capítulo V, Artículo 33°)."
+  },
+  {
+    "id": 135,
+    "pregunta": "¿Qué sanción se aplica por la 'Explotación y empleo de alumnos y funcionarios en servicios indebidos'?",
+    "opciones": [
+      "De 1 a 10 puntos.",
+      "De 1 a 20 puntos.",
+      "De 5 a 15 puntos.",
+      "Retiro definitivo."
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 33°, sección 4, establece de 1 a 10 puntos por explotación de alumnos o funcionarios. (  Capítulo V, Artículo 33°)."
+  },
+  {
+    "id": 136,
+    "pregunta": "Según el Artículo 33°, sección 4, ¿cuál es el demérito por la 'Instigación inmoral a los alumnos'?",
+    "opciones": [
+      "De 1 a 10 puntos.",
+      "De 1 a 15 puntos.",
+      "De 1 a 20 puntos.",
+      "Pérdida de la inamovilidad docente."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 33°, sección 4, asigna de 1 a 15 puntos por instigación inmoral a los estudiantes. (  Capítulo V, Artículo 33°)."
+  },
+  {
+    "id": 137,
+    "pregunta": "¿Cuántos puntos de demérito implica la sanción de 'Retiro definitivo' tras un proceso escolar?",
+    "opciones": [
+      "De 1 a 5 puntos.",
+      "De 1 a 10 puntos.",
+      "De 10 a 20 puntos.",
+      "No suma puntos, implica la salida total."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 33°, sección 5, indica que el retiro definitivo conlleva un demérito de 1 a 10 puntos. (  Capítulo V, Artículo 33°)."
+  },
+  {
+    "id": 138,
+    "pregunta": "En la escala de estudios, ¿cuántos puntos se otorgan a los maestros que aprobaron el 'Examen de titular por antigüedad'?",
+    "opciones": [
+      "5 puntos.",
+      "10 puntos.",
+      "15 puntos.",
+      "2 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 25°, inciso b), asigna 10 puntos por el examen de titular por antigüedad. (  Capítulo V, Artículo 25°)."
+  },
+  {
+    "id": 139,
+    "pregunta": "¿Qué puntaje máximo se puede obtener por el rubro de 'Tiempo de servicios'?",
+    "opciones": [
+      "80 puntos.",
+      "100 puntos.",
+      "120 puntos.",
+      "150 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 24°, inciso c), establece un máximo de 100 puntos para la calificación del tiempo de servicios. (  Capítulo V, Artículo 24°)."
+  },
+  {
+    "id": 140,
+    "pregunta": "¿Cuál es el tope de puntos establecido para los 'Méritos generales' en la valoración cuantitativa?",
+    "opciones": [
+      "50 puntos.",
+      "100 puntos.",
+      "150 puntos.",
+      "200 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 24°, inciso d), fija en 100 puntos el tope para los méritos generales. (  Capítulo V, Artículo 24°)."
+  },
+  {
+    "id": 141,
+    "pregunta": "¿Cuántos puntos de estudio se asignan por ser 'Técnico en administración escolar e investigación pedagógica con título de postgraduado'?",
+    "opciones": [
+      "10 puntos.",
+      "12 puntos.",
+      "15 puntos.",
+      "20 puntos."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 25°, inciso l), otorga 15 puntos por este título técnico de postgrado específico. (  Capítulo V, Artículo 25°)."
+  },
+  {
+    "id": 142,
+    "pregunta": "Por cada curso de capacidad aprobado, ¿cuál es el puntaje?",
+    "opciones": [
+      "1 punto.",
+      "2 puntos.",
+      "5 puntos.",
+      "10 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 25°, inciso c), asigna 2 puntos por cada curso completo de capacidad. (  Capítulo V, Artículo 25°)."
+  },
+  {
+    "id": 143,
+    "pregunta": "¿Cuál es el límite máximo de puntos por 'Asistencia a reuniones pedagógicas y sindicales nacionales'?",
+    "opciones": [
+      "5 puntos.",
+      "10 puntos.",
+      "15 puntos.",
+      "20 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 26°, inciso f), pone un tope de 10 puntos para las misiones y reuniones nacionales. (  Capítulo V, Artículo 26°)."
+  },
+  {
+    "id": 144,
+    "pregunta": "Según el Artículo 26°, inciso i), ¿cuál es el tope máximo de puntos por labor de alfabetización?",
+    "opciones": [
+      "10 puntos.",
+      "15 puntos.",
+      "20 puntos.",
+      "30 puntos."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 26°, inciso i), permite acumular hasta 20 puntos por alfabetización voluntaria. (  Capítulo V, Artículo 26°)."
+  },
+  {
+    "id": 145,
+    "pregunta": "En la calificación de antigüedad, ¿cuántos trimestres de trabajo equivalen a 10 puntos de escalafón?",
+    "opciones": [
+      "5 trimestres.",
+      "10 trimestres.",
+      "20 trimestres.",
+      "40 trimestres."
+    ],
+    "correcta": 1,
+    "explicacion": "Puesto que el Artículo 27° da 1 punto por trimestre, 10 trimestres equivalen a 10 puntos. (  Capítulo V, Artículo 27°)."
+  },
+  {
+    "id": 146,
+    "pregunta": "Por cada libro editado o inédito, ¿qué puntaje se asigna?",
+    "opciones": [
+      "1 punto fijo.",
+      "De 1 a 2 puntos.",
+      "5 puntos.",
+      "10 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 32°, inciso b), asigna de 1 a 2 puntos por cada libro (máximo 20). (  Capítulo V, Artículo 32°)."
+  },
+  {
+    "id": 147,
+    "pregunta": "¿Qué sanción de demérito corresponde a los 'Actos de inmoralidad'?",
+    "opciones": [
+      "De 1 a 5 puntos.",
+      "De 1 a 10 puntos.",
+      "De 1 a 20 puntos.",
+      "De 10 a 30 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 33°, sección 2, penaliza actos de inmoralidad con 1 a 10 puntos. (  Capítulo V, Artículo 33°)."
+  },
+  {
+    "id": 148,
+    "pregunta": "Tener más del 30% de reprobados en el curso se sanciona con:",
+    "opciones": [
+      "De 1 a 5 puntos.",
+      "De 5 a 10 puntos.",
+      "Amonestación verbal.",
+      "10 puntos de descuento fijos."
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 33°, sección 3, establece de 1 a 5 puntos por exceso de reprobados (>30%). (  Capítulo V, Artículo 33°)."
+  },
+  {
+    "id": 149,
+    "pregunta": "¿Cuál es el porcentaje de deserción de alumnos por trato indebido que activa un demérito de 1 a 10 puntos?",
+    "opciones": [
+      "Más del 10%.",
+      "Más del 20%.",
+      "Más del 30%.",
+      "Más del 50%."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 33°, sección 4, especifica que debe ser más del 20% de deserción. (  Capítulo V, Artículo 33°)."
+  },
+  {
+    "id": 150,
+    "pregunta": "¿Quién emite la sentencia para que se aplique la pérdida de puntos en el Escalafón o el descenso de categoría?",
+    "opciones": [
+      "El Director Nacional de Educación.",
+      "La Junta de Padres de Familia.",
+      "Un proceso escolar con sentencia.",
+      "El Ministro de Educación directamente."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 33°, sección 5, indica que estas sanciones deben ser 'conforme a sentencia' dictada en proceso. (  Capítulo V, Artículo 33°)."
+  },
+{
+    "id": 151,
+    "pregunta": "¿Qué aspecto específico del personal se busca recompensar mediante la promoción periódica de categorías según el Artículo 37°?",
+    "opciones": [
+      "La antigüedad en el servicio.",
+      "La cantidad de títulos de postgrado obtenidos.",
+      "El número de alumnos aprobados por gestión.",
+      "La participación en misiones diplomáticas."
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 37° establece explícitamente que la promoción periódica se realiza para recompensar la antigüedad en el servicio. (  Capítulo VI, Artículo 37°)."
+  },
+  {
+    "id": 152,
+    "pregunta": "Según el Artículo 37°, ¿sobre qué base se calculan los porcentajes de bonificación de las categorías?",
+    "opciones": [
+      "Sobre el salario mínimo nacional vigente.",
+      "Sobre el haber básico del cargo desempeñado.",
+      "Sobre el total ganado incluyendo bonos fronterizos.",
+      "Sobre el promedio de los últimos tres sueldos."
+    ],
+    "correcta": 1,
+    "explicacion": "La normativa indica que los porcentajes se asignan 'sobre el haber básico del cargo desempeñado'. (  Capítulo VI, Artículo 37°)."
+  },
+  {
+    "id": 153,
+    "pregunta": "¿Cuántos años de servicio debe cumplir un maestro normalista para alcanzar la 2da Categoría por simple antigüedad?",
+    "opciones": [
+      "10 años.",
+      "12 años.",
+      "15 años.",
+      "18 años."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 38° establece una escala de 5, 10, 15 y 20 años para normalistas; a los 15 años les corresponde la 2da categoría. (  Capítulo VI, Artículo 38°)."
+  },
+  {
+    "id": 154,
+    "pregunta": "¿A qué categoría asciende un funcionario administrativo al cumplir 15 años de servicios según la escala del Artículo 39°?",
+    "opciones": [
+      "4ta Categoría.",
+      "3ra Categoría.",
+      "2da Categoría.",
+      "1ra Categoría."
+    ],
+    "correcta": 1,
+    "explicacion": "La escala para administrativos en el Artículo 39° asigna la 3ra categoría a los 15 años cumplidos. (Capítulo VI, Artículo 39°)."
+  },
+  {
+    "id": 155,
+    "pregunta": "Comparando las escalas de antigüedad, ¿cuántos años de diferencia existen entre un normalista y un interino para llegar a la 1ra Categoría?",
+    "opciones": [
+      "2 años.",
+      "3 años.",
+      "5 años.",
+      "10 años."
+    ],
+    "correcta": 2,
+    "explicacion": "El normalista llega a los 20 años (Art. 38) y el interino a los 25 años (Art. 39), resultando en una diferencia de 5 años. (Capítulo VI, Artículos 38° y 39°)."
+  },
+  {
+    "id": 156,
+    "pregunta": "Según el Artículo 40°, ¿cuál es el propósito principal de establecer la opción a examen voluntario?",
+    "opciones": [
+      "Recaudar fondos para el Instituto de Investigaciones.",
+      "Evaluar la moralidad de los maestros antiguos.",
+      "Abreviar el proceso de promociones de categoría.",
+      "Sustituir el requisito de antigüedad por méritos."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 40° señala que el examen voluntario se establece como 'medio de abreviar el proceso de promociones'. (Capítulo VI, Artículo 40°)."
+  },
+  {
+    "id": 157,
+    "pregunta": "Para maestros interinos y titulares, ¿qué artículos del Código de Educación rigen la promoción a la 5ta y 4ta categoría respectivamente?",
+    "opciones": [
+      "Artículos 101 y 105.",
+      "Artículos 252 y 255.",
+      "Artículos 232 y 233.",
+      "Artículos 18 y 19."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 40°, inciso a), vincula estas promociones directamente a los Artículos 232 y 233 del Código de Educación. (Capítulo VI, Artículo 40°)."
+  },
+  {
+    "id": 158,
+    "pregunta": "¿Cuántos años de servicio y examen aprobado necesita un maestro titular para alcanzar la 1ra Categoría?",
+    "opciones": [
+      "16 años.",
+      "20 años.",
+      "22 años.",
+      "25 años."
+    ],
+    "correcta": 2,
+    "explicacion": "Según el Artículo 40°, inciso a), los interinos y titulares requieren 22 años y examen para la 1ra categoría. (Capítulo VI, Artículo 40°)."
+  },
+  {
+    "id": 159,
+    "pregunta": "¿A partir de cuántos años de servicio puede un maestro normalista postular al examen para la 4ta Categoría?",
+    "opciones": [
+      "A los 2 años.",
+      "A los 4 años.",
+      "A los 5 años.",
+      "No existe examen para esta categoría."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 40°, inciso b), permite a los normalistas rendir examen para la 4ta categoría con 4 años de servicio. (Capítulo VI, Artículo 40°)."
+  },
+  {
+    "id": 160,
+    "pregunta": "¿Cuál es el tiempo mínimo requerido para que un normalista opte a la 2da Categoría mediante examen?",
+    "opciones": [
+      "8 años.",
+      "10 años.",
+      "12 años.",
+      "15 años."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 40°, inciso b), estipula 12 años de servicio y examen aprobado para la 2da categoría en normalistas. (Capítulo VI, Artículo 40°)."
+  },
+  {
+    "id": 161,
+    "pregunta": "Un maestro titular que cuenta con 20 años de servicio por antigüedad, ¿a qué categoría tiene derecho según el reglamento?",
+    "opciones": [
+      "3ra Categoría.",
+      "2da Categoría.",
+      "1ra Categoría.",
+      "Categoría Especial."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 39° indica que a los 20 años cumplidos les corresponde la 2da categoría. (Capítulo VI, Artículo 39°)."
+  },
+  {
+    "id": 162,
+    "pregunta": "Según el Artículo 38°, ¿en qué categoría se encuentra un normalista que ha cumplido exactamente 10 años de servicio?",
+    "opciones": [
+      "5ta Categoría.",
+      "4ta Categoría.",
+      "3ra Categoría.",
+      "2da Categoría."
+    ],
+    "correcta": 2,
+    "explicacion": "La escala de antigüedad para normalistas sitúa la 3ra categoría a los 10 años de servicio. (Capítulo VI, Artículo 38°)."
+  },
+  {
+    "id": 163,
+    "pregunta": "¿Qué categoría le corresponde a un administrativo con 10 años de servicio cumplidos?",
+    "opciones": [
+      "5ta Categoría.",
+      "4ta Categoría.",
+      "3ra Categoría.",
+      "2da Categoría."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 39° asigna la 4ta categoría a los 10 años cumplidos para el sector administrativo e interinos. (Capítulo VI, Artículo 39°)."
+  },
+  {
+    "id": 164,
+    "pregunta": "¿Cuál es la categoría con la que un maestro normalista inicia su carrera docente?",
+    "opciones": [
+      "Categoría de ingreso (sin bonificación).",
+      "5ta Categoría.",
+      "4ta Categoría.",
+      "Depende de su promedio de graduación."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 38° establece que los normalistas perciben la 5ta categoría 'desde su iniciación en la carrera'. (Capítulo VI, Artículo 38°)."
+  },
+  {
+    "id": 165,
+    "pregunta": "¿Cuál es la diferencia porcentual de bonificación entre la 1ra y la 2da categoría?",
+    "opciones": [
+      "15%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "correcta": 2,
+    "explicacion": "La 1ra tiene 100% y la 2da 75%, por lo que la diferencia es del 25%. (Capítulo VI, Artículo 37°)."
+  },
+  {
+    "id": 166,
+    "pregunta": "¿Qué incremento porcentual existe al pasar de la 5ta a la 4ta categoría?",
+    "opciones": [
+      "10%",
+      "15%",
+      "20%",
+      "25%"
+    ],
+    "correcta": 1,
+    "explicacion": "La 5ta tiene 30% y la 4ta 45%, resultando en un incremento del 15%. (Capítulo VI, Artículo 37°)."
+  },
+  {
+    "id": 167,
+    "pregunta": "¿Cuántos años de servicio requiere un interino para ascender a la 3ra Categoría mediante examen voluntario?",
+    "opciones": [
+      "10 años.",
+      "12 años.",
+      "14 años.",
+      "15 años."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 40°, inciso a), exige 14 años de servicio y examen aprobado para la 3ra categoría. (Capítulo VI, Artículo 40°)."
+  },
+  {
+    "id": 168,
+    "pregunta": "¿Cuánto tiempo de servicio ahorra un normalista para llegar a la 4ta categoría si opta por el examen voluntario?",
+    "opciones": [
+      "1 año.",
+      "2 años.",
+      "3 años.",
+      "5 años."
+    ],
+    "correcta": 0,
+    "explicacion": "Por antigüedad son 5 años (Art. 38) y por examen 4 años (Art. 40b), ahorrando 1 año. (Capítulo VI)."
+  },
+  {
+    "id": 169,
+    "pregunta": "¿Cuánto tiempo ahorra un normalista para llegar a la 3ra categoría mediante el examen voluntario?",
+    "opciones": [
+      "1 año.",
+      "2 años.",
+      "3 años.",
+      "No ahorra tiempo."
+    ],
+    "correcta": 1,
+    "explicacion": "Por antigüedad son 10 años (Art. 38) y por examen 8 años (Art. 40b), ahorrando 2 años. (Capítulo VI)."
+  },
+  {
+    "id": 170,
+    "pregunta": "¿Cuánto tiempo de servicio abrevia un normalista para alcanzar la 2da categoría usando la vía del examen?",
+    "opciones": [
+      "2 años.",
+      "3 años.",
+      "4 años.",
+      "5 años."
+    ],
+    "correcta": 1,
+    "explicacion": "Por antigüedad son 15 años (Art. 38) y por examen 12 años (Art. 40b), abreviando 3 años. (Capítulo VI)."
+  },
+  {
+    "id": 171,
+    "pregunta": "¿Cuál es el ahorro total de años de servicio para un normalista que busca la 1ra categoría por examen?",
+    "opciones": [
+      "2 años.",
+      "3 años.",
+      "4 años.",
+      "5 años."
+    ],
+    "correcta": 2,
+    "explicacion": "Por antigüedad son 20 años (Art. 38) y por examen 16 años (Art. 40b), ahorrando 4 años. (Capítulo VI)."
+  },
+  {
+    "id": 172,
+    "pregunta": "¿Cuánto tiempo abrevia un interino para llegar a la 3ra categoría si aprueba el examen voluntario?",
+    "opciones": [
+      "1 año.",
+      "2 años.",
+      "3 años.",
+      "4 años."
+    ],
+    "correcta": 0,
+    "explicacion": "Por antigüedad son 15 años (Art. 39) y por examen 14 años (Art. 40a), ahorrando 1 año. (Capítulo VI)."
+  },
+  {
+    "id": 173,
+    "pregunta": "¿Cuánto tiempo ahorra un interino para alcanzar la 2da categoría mediante examen aprobado?",
+    "opciones": [
+      "1 año.",
+      "2 años.",
+      "3 años.",
+      "4 años."
+    ],
+    "correcta": 1,
+    "explicacion": "Por antigüedad son 20 años (Art. 39) y por examen 18 años (Art. 40a), ahorrando 2 años. (Capítulo VI)."
+  },
+  {
+    "id": 174,
+    "pregunta": "¿Cuál es el tiempo que abrevia un interino para llegar a la 1ra categoría por la vía del examen?",
+    "opciones": [
+      "2 años.",
+      "3 años.",
+      "4 años.",
+      "5 años."
+    ],
+    "correcta": 1,
+    "explicacion": "Por antigüedad son 25 años (Art. 39) y por examen 22 años (Art. 40a), ahorrando 3 años. (Capítulo VI)."
+  },
+  {
+    "id": 175,
+    "pregunta": "Según la escala del Artículo 37°, ¿qué categoría otorga exactamente el doble de bonificación que la 5ta categoría?",
+    "opciones": [
+      "4ta Categoría.",
+      "3ra Categoría.",
+      "2da Categoría.",
+      "1ra Categoría."
+    ],
+    "correcta": 1,
+    "explicacion": "La 5ta otorga 30% y la 3ra otorga 60%, que es el doble. (Capítulo VI, Artículo 37°)."
+  },
+  {
+    "id": 176,
+    "pregunta": "¿Cuántos años de servicio debe acreditar un administrativo para acceder a la bonificación inicial de la 5ta Categoría?",
+    "opciones": [
+      "Desde su ingreso.",
+      "2 años.",
+      "5 años.",
+      "10 años."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 39° establece que los administrativos ascienden a la 5ta categoría a los 5 años cumplidos. (Capítulo VI, Artículo 39°)."
+  },
+  {
+    "id": 177,
+    "pregunta": "¿Cuántas categorías componen la escala de promociones para recompensar el tiempo de servicio?",
+    "opciones": [
+      "Tres categorías.",
+      "Cuatro categorías.",
+      "Cinco categorías.",
+      "Siete categorías."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 37° establece una escala de cinco categorías sucesivas (de la 5ta a la 1ra). (  Capítulo VI, Artículo 37°)."
+  },
+  {
+    "id": 178,
+    "pregunta": "El Artículo 40° define la naturaleza del examen para abreviar promociones como:",
+    "opciones": [
+      "Obligatorio anualmente.",
+      "Voluntario.",
+      "Exclusivo para normalistas.",
+      "Por designación superior."
+    ],
+    "correcta": 1,
+    "explicacion": "El texto menciona explícitamente la 'opción a examen voluntario'. (Capítulo VI, Artículo 40°)."
+  },
+  {
+    "id": 179,
+    "pregunta": "¿Qué categoría asigna una bonificación equivalente a las tres cuartas partes (75%) del haber básico?",
+    "opciones": [
+      "3ra Categoría.",
+      "2da Categoría.",
+      "1ra Categoría.",
+      "Categoría de Mérito."
+    ],
+    "correcta": 1,
+    "explicacion": "La 2da categoría asigna el 75% de bonificación sobre el básico. (  Capítulo VI, Artículo 37°)."
+  },
+  {
+    "id": 180,
+    "pregunta": "Además de interinos y titulares, ¿qué otro grupo está incluido específicamente en la escala de antigüedad del Artículo 39°?",
+    "opciones": [
+      "Maestros jubilados.",
+      "Personal de servicio doméstico.",
+      "Funcionarios del servicio administrativo.",
+      "Becarios en el extranjero."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 39° nombra explícitamente a los 'maestros interinos, titulares y los funcionarios del servicio administrativo'. (  Capítulo VI, Artículo 39°)."
+  },
+   {
+    "id": 181,
+    "pregunta": "¿Cómo define el Reglamento del Escalafón Nacional a los maestros normalistas?",
+    "opciones": [
+      "Docentes con más de 10 años de experiencia comprobada en el aula.",
+      "Maestros que aprueban un examen de capacidad tras 5 años de servicio.",
+      "Quienes siguen el curso regular de formación pedagógica en escuelas o institutos normales del Estado.",
+      "Profesionales universitarios de otras áreas que ejercen la docencia por emergencia."
+    ],
+    "correcta": 2,
+    "explicacion": "El Artículo 8° del Reglamento del Escalafón Nacional define a los maestros normalistas como aquellos que completan su formación pedagógica regular en instituciones estatales y obtienen el certificado profesional habilitante [1, 2]."
+  },
+  {
+    "id": 182,
+    "pregunta": "¿Cuál es el límite de edad máximo para ingresar al sector docente fiscal según el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "40 años de edad.",
+      "50 años de edad.",
+      "60 años de edad.",
+      "no existe límite de edad para el ingreso."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 5°, inciso c), del Reglamento del Escalafón Nacional establece taxativamente que para ingresar al sector docente se requiere tener no más de 50 años de edad [1, 3]."
+  },
+  {
+    "id": 183,
+    "pregunta": "¿Qué impedimento de salud establece el Reglamento del Escalafón Nacional para el ejercicio de la docencia?",
+    "opciones": [
+      "Padecer cualquier tipo de alergia estacional.",
+      "Sufrir de enfermedades graves o defectos que impidan trabajar normalmente.",
+      "No contar con un seguro de salud privado.",
+      "Haber tenido bajas médicas por más de 30 días en el último año."
+    ],
+    "correcta": 1,
+    "explicacion": "Según el Artículo 11°, inciso a), del Reglamento del Escalafón Nacional, no pueden ser admitidos quienes padezcan enfermedades graves o defectos que les imposibiliten el desempeño laboral normal [2]."
+  },
+  {
+    "id": 184,
+    "pregunta": "¿Qué proceso deben seguir los maestros interinos para convertirse en titulares dentro del Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "Cumplir 5 años de servicio y presentar un proyecto pedagógico.",
+      "Cumplir 10 años de servicio y aprobar un examen de capacidad.",
+      "Obtener un título de postgrado en educación.",
+      "Solicitarlo directamente al Ministerio tras 20 años de servicio."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 10° del Reglamento del Escalafón Nacional señala que los interinos pasan a ser titulares tras 10 años de servicio y la aprobación de un examen de capacidad para su incorporación definitiva [2, 4]."
+  },
+  {
+    "id": 185,
+    "pregunta": "¿Qué documentos de identidad son aceptados por el Reglamento del Escalafón Nacional para la inscripción inicial de normalistas?",
+    "opciones": [
+      "Únicamente el Certificado de Nacimiento original.",
+      "Certificado de nacimiento, fe de bautismo o prueba supletoria judicial/eclesiástica.",
+      "Declaración jurada de dos testigos ante notario de fe pública.",
+      "Carnet de identidad y pasaporte vigente."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 13°, inciso a), del Reglamento del Escalafón Nacional acepta el certificado de nacimiento, la fe de bautismo o pruebas supletorias expedidas por autoridad competente [5]."
+  },
+  {
+    "id": 186,
+    "pregunta": "¿Quién ocupa el primer rango en la escala jerárquica docente del Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "El Ministro de Educación y Cultura.",
+      "El Director General de Educación.",
+      "El Oficial Mayor del Ministerio.",
+      "El Jefe de Distrito Escolar."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 20°, inciso a), del Reglamento del Escalafón Nacional sitúa al Director General de Educación a la cabeza de la escala jerárquica docente [6]."
+  },
+  {
+    "id": 187,
+    "pregunta": "¿Cuál es el cargo de mayor jerarquía administrativa según el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "Jefe de Departamento del Ministerio.",
+      "Oficial Mayor del Ministerio de Educación.",
+      "Secretario General de la Dirección General.",
+      "Habilitado de las Jefaturas de Distrito."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 21°, inciso a), del Reglamento del Escalafón Nacional establece que el Oficial Mayor del Ministerio ocupa el rango superior en la jerarquía administrativa [7]."
+  },
+  {
+    "id": 188,
+    "pregunta": "¿Cuáles son los cuatro aspectos fundamentales que el Reglamento del Escalafón Nacional valora cuantitativamente para los méritos?",
+    "opciones": [
+      "Antigüedad, puntualidad, asistencia y comportamiento sindical.",
+      "Títulos, condiciones personales, tiempo de servicios y méritos generales.",
+      "Grado académico, número de hijos, zona de trabajo y publicaciones.",
+      "Capacitación técnica, idiomas, años en frontera y premios nacionales."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 24° del Reglamento del Escalafón Nacional divide la valoración cuantitativa en estudios/títulos, condiciones personales/docentes, tiempo de servicios y méritos generales [8, 9]."
+  },
+  {
+    "id": 189,
+    "pregunta": "¿Cuántos puntos otorga el Reglamento del Escalafón Nacional por el título de Normalista Rural?",
+    "opciones": [
+      "5 puntos.",
+      "10 puntos.",
+      "15 puntos.",
+      "20 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "En la escala de calificación de estudios y títulos, el Artículo 25°, inciso f), asigna 10 puntos específicamente por ser Normalista Rural [9, 10]."
+  },
+  {
+    "id": 190,
+    "pregunta": "¿Qué puntaje de mérito asigna el Reglamento del Escalafón Nacional al título de Técnico en Administración Escolar con postgrado?",
+    "opciones": [
+      "10 puntos.",
+      "15 puntos.",
+      "20 puntos.",
+      "5 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 25°, inciso l), del Reglamento del Escalafón Nacional otorga 15 puntos por el título de técnico en administración escolar e investigación pedagógica con postgraduado [10]."
+  },
+  {
+    "id": 191,
+    "pregunta": "¿Cómo califica el Reglamento del Escalafón Nacional la simpatía y cordialidad en las relaciones profesionales?",
+    "opciones": [
+      "No se califican por ser criterios subjetivos.",
+      "Como rasgos positivos de personalidad con hasta 10 puntos.",
+      "Dentro de los méritos generales con 5 puntos fijos.",
+      "Como una condición de ascenso jerárquico obligatorio."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 26°, inciso b), del Reglamento del Escalafón Nacional incluye la simpatía y cordialidad como rasgos evaluables en la ficha personal con un máximo de 10 puntos [10]."
+  },
+  {
+    "id": 192,
+    "pregunta": "¿Qué puntaje se otorga por asistir a reuniones pedagógicas internacionales según el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "5 puntos por cada reunión asistida.",
+      "De 2 a 4 puntos por asistencia, hasta un máximo de 10.",
+      "10 puntos fijos si el docente fue expositor.",
+      "No otorga puntos, solo permiso con goce de haberes."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 26°, inciso g), del Reglamento del Escalafón Nacional establece una calificación de 2 a 4 puntos para la asistencia a eventos internacionales, con un tope de 10 [10, 11]."
+  },
+  {
+    "id": 193,
+    "pregunta": "¿Cuál es el incentivo para la alfabetización voluntaria dentro del Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "10 puntos por cada persona alfabetizada.",
+      "5 puntos por cada 10 sujetos alfabetizados, hasta 20 puntos.",
+      "Un ascenso de categoría automático tras alfabetizar a 50 personas.",
+      "Un bono económico equivalente al 10% del haber básico."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 26°, inciso i), del Reglamento del Escalafón Nacional premia la alfabetización voluntaria con 5 puntos por cada 10 personas, hasta un límite de 20 puntos [10, 11]."
+  },
+  {
+    "id": 194,
+    "pregunta": "¿De qué manera se computa el tiempo de servicios en el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "1 punto por cada año calendario completo.",
+      "1 punto por cada trimestre de trabajo realizado.",
+      "2 puntos por cada semestre académico.",
+      "5 puntos por cada quinquenio de servicio."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 27° del Reglamento del Escalafón Nacional determina que el tiempo de servicios se califica asignando 1 punto por cada trimestre trabajado [10, 11]."
+  },
+  {
+    "id": 195,
+    "pregunta": "¿Qué beneficio de jubilación otorga el Reglamento del Escalafón Nacional por el servicio en la Guerra del Chaco?",
+    "opciones": [
+      "Jubilación inmediata sin importar la edad.",
+      "Cómputo de doble tiempo de servicios por la permanencia en zona de operaciones.",
+      "Un incremento del 50% en la renta de jubilación.",
+      "Exención del pago de aportes laborales por 10 años."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 28° del Reglamento del Escalafón Nacional establece que el tiempo en la zona de operaciones de la Guerra del Chaco se computa como doble tiempo para fines de jubilación [10, 11]."
+  },
+  {
+    "id": 196,
+    "pregunta": "¿Qué beneficio de antigüedad reciben los normalistas no oriundos por trabajar en frontera según el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "Derecho al cómputo de 3 años por cada año servido.",
+      "Derecho al cómputo de 4 años de antigüedad por cada 2 años de servicio.",
+      "Traslado inmediato a la ciudad al tercer año de servicio.",
+      "Doble bonificación de categoría de forma permanente."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 29° del Reglamento del Escalafón Nacional otorga a los normalistas no oriundos el cómputo de 4 años por cada 2 años servidos en zonas fronterizas [11]."
+  },
+  {
+    "id": 197,
+    "pregunta": "¿Cuál es la política del Reglamento del Escalafón Nacional respecto a los años servidos en el extranjero?",
+    "opciones": [
+      "Se computan solo si existe un convenio de reciprocidad.",
+      "No se computan para fines de jubilación ni calificación de servicios.",
+      "Se valoran como méritos generales con 10 puntos.",
+      "Valen la mitad del tiempo para la antigüedad."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 31° del Reglamento del Escalafón Nacional excluye los servicios prestados en el extranjero de los cómputos de jubilación y calificación [11]."
+  },
+  {
+    "id": 198,
+    "pregunta": "¿Cuál es el puntaje máximo por producción intelectual (libros) en el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "10 puntos.",
+      "20 puntos.",
+      "30 puntos.",
+      "5 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 32°, inciso b), del Reglamento del Escalafón Nacional asigna de 1 a 2 puntos por libro editado o inédito, hasta un máximo de 20 puntos [11]."
+  },
+  {
+    "id": 199,
+    "pregunta": "¿Cómo penaliza el Reglamento del Escalafón Nacional los atrasos frecuentes durante el año?",
+    "opciones": [
+      "Con una multa del 5% del salario.",
+      "Con una deducción de 1 a 5 puntos de demérito.",
+      "Con la suspensión de funciones por tres días.",
+      "Con la pérdida automática de la bonificación de categoría."
+    ],
+    "correcta": 1,
+    "explicacion": "Dentro de las faltas de asistencia, el Artículo 33°, sección 1, sanciona los atrasos frecuentes con 1 a 5 puntos en el escalafón [12, 13]."
+  },
+  {
+    "id": 200,
+    "pregunta": "¿Qué sanción de demérito establece el Reglamento del Escalafón Nacional por malversación de fondos?",
+    "opciones": [
+      "1 a 5 puntos.",
+      "1 a 10 puntos.",
+      "20 puntos y retiro inmediato.",
+      "Amonestación escrita únicamente."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 33°, sección 2, del Reglamento del Escalafón Nacional califica la malversación de fondos o deterioro de equipo escolar con una sanción de 1 a 10 puntos [13]."
+  },
+  {
+    "id": 201,
+    "pregunta": "¿En qué caso el rendimiento de los alumnos genera un demérito para el docente según el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "Si el promedio del curso es menor a 51/100.",
+      "Cuando hay más del 30% de reprobados en el curso.",
+      "Si los padres de familia presentan una queja colectiva.",
+      "Cuando no se cumplen los objetivos curriculares al 100%."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 33°, sección 3, del Reglamento del Escalafón Nacional penaliza con 1 a 5 puntos si el índice de reprobación supera el 30% [13]."
+  },
+  {
+    "id": 202,
+    "pregunta": "¿Cuál es el rango de demérito por el uso de castigos corporales según el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "1 a 10 puntos.",
+      "1 a 20 puntos.",
+      "5 puntos fijos y suspensión.",
+      "Retiro definitivo del magisterio sin opción a puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 33°, sección 4, del Reglamento del Escalafón Nacional sanciona el uso de castigos corporales y vejaciones graves con 1 a 20 puntos [14]."
+  },
+  {
+    "id": 203,
+    "pregunta": "¿Qué autoridad es responsable de anotar la ficha de calificación según el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "El propio interesado mediante autoevaluación.",
+      "La autoridad inmediata superior del maestro o funcionario.",
+      "El Director General de Educación exclusivamente.",
+      "El representante sindical de la unidad educativa."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 35° del Reglamento del Escalafón Nacional establece que la autoridad inmediata superior debe anotar la ficha en tres ejemplares [15]."
+  },
+  {
+    "id": 204,
+    "pregunta": "¿A qué instancia debe acudir un docente disconforme con su calificación según el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "Al Ministerio de Trabajo.",
+      "A las Comisiones Calificadoras Distritales y, en última instancia, a la Nacional.",
+      "A la justicia ordinaria mediante un amparo constitucional.",
+      "Únicamente a su sindicato local."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 36° permite a los interesados recurrir ante las Comisiones Distritales y la Comisión Nacional para solicitar la revisión de su valoración [16]."
+  },
+  {
+    "id": 205,
+    "pregunta": "¿Qué porcentaje de bonificación corresponde a la Primera Categoría en el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "75% sobre el haber básico.",
+      "100% sobre el haber básico.",
+      "150% sobre el haber básico.",
+      "60% sobre el haber básico."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 37° del Reglamento del Escalafón Nacional establece que la 1° categoría otorga una bonificación del 100% [16, 17]."
+  },
+  {
+    "id": 206,
+    "pregunta": "¿Con qué periodicidad ascienden de categoría los maestros normalistas en el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "Cada 4 años de servicio.",
+      "Cada 5 años cumplidos (5, 10, 15 y 20 años).",
+      "Cada 3 años tras rendir un examen obligatorio.",
+      "Anualmente según el rendimiento académico."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 38° del Reglamento del Escalafón Nacional indica que los normalistas ascienden a categorías sucesivas en periodos de 5, 10, 15 y 20 años [17]."
+  },
+  {
+    "id": 207,
+    "pregunta": "¿A los cuántos años alcanzan la Primera Categoría los maestros interinos y administrativos en el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "A los 20 años.",
+      "A los 25 años cumplidos.",
+      "A los 30 años.",
+      "A los 15 años."
+    ],
+    "correcta": 1,
+    "explicacion": "Según la escala del Artículo 39° del Reglamento del Escalafón Nacional, este personal llega a la 1° categoría a los 25 años de servicio [18]."
+  },
+  {
+    "id": 208,
+    "pregunta": "¿Cuál es la finalidad principal del examen voluntario dentro del Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "Obtener el título de licenciatura en pedagogía.",
+      "Servir como medio para abreviar el proceso de promociones de categoría.",
+      "Sustituir los años de antigüedad por una nota mínima.",
+      "Permitir el acceso a cargos de ministros y viceministros."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 40° del Reglamento del Escalafón Nacional establece el examen voluntario para estimular la preparación y acortar el tiempo entre promociones [18]."
+  },
+  {
+    "id": 209,
+    "pregunta": "¿Qué sanción impone el Reglamento del Escalafón Nacional a los interinos negligentes tras 6 años de servicio?",
+    "opciones": [
+      "Una multa económica permanente del 10%.",
+      "Quedar inhabilitados para el ejercicio de la docencia.",
+      "Deben retroceder a la 5° categoría.",
+      "Ser trasladados obligatoriamente a una zona rural."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 43° del Reglamento del Escalafón Nacional inhabilita para la docencia a interinos que no rindan su prueba de idoneidad tras 6 años por negligencia [19]."
+  },
+  {
+    "id": 210,
+    "pregunta": "¿Qué funciones desempeña la Comisión Nacional del Escalafón según el Reglamento?",
+    "opciones": [
+      "Pagar los sueldos y bonos de todo el país.",
+      "Actuar como Tribunal de Apelación con facultades revisoras y supervisoras.",
+      "Diseñar el currículo único de formación docente.",
+      "Contratar al personal administrativo del Ministerio."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 46° del Reglamento del Escalafón Nacional define a la Comisión Nacional como un organismo de apelación y supervisión [20]."
+  },
+  {
+    "id": 211,
+    "pregunta": "¿Quién representa al sector docente en las Comisiones Distritales del Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "El maestro con mayor puntaje del distrito.",
+      "Un representante sindical acreditado por la Federación respectiva.",
+      "Un delegado de los padres de familia.",
+      "El director de la normal más cercana."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 47°, inciso c), del Reglamento del Escalafón Nacional integra a un representante sindical como vocal en dichas comisiones [20, 21]."
+  },
+  {
+    "id": 212,
+    "pregunta": "¿Qué responsabilidad tienen los miembros de las Comisiones Distritales ante pagos indebidos según el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "Ninguna, el error es responsabilidad del sistema informático.",
+      "Son pasibles de sanciones penales y deben devolver lo indebidamente pagado.",
+      "Solo una amonestación verbal en su expediente.",
+      "Deben cumplir un mes de trabajo sin goce de haberes."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 49° del Reglamento del Escalafón Nacional establece responsabilidad penal y civil (repetición del pago) para quienes autoricen categorías indebidas [21]."
+  },
+  {
+    "id": 213,
+    "pregunta": "¿Cuál es el plazo para apelar una calificación ante la Comisión Nacional según el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "48 horas.",
+      "10 días a partir de la notificación.",
+      "30 días calendario.",
+      "5 días hábiles."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 50° del Reglamento del Escalafón Nacional otorga un término de 10 días para presentar apelaciones [22]."
+  },
+  {
+    "id": 214,
+    "pregunta": "¿En qué tiempo debe la Comisión Distrital resolver una apelación admitida dentro del Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "En el término de 24 horas.",
+      "En el término de 3 días.",
+      "En el término de una semana.",
+      "Al finalizar el año escolar."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 51° del Reglamento del Escalafón Nacional obliga a la comisión distrital a resolver la apelación en un plazo de 3 días [22]."
+  },
+  {
+    "id": 215,
+    "pregunta": "¿Qué requisitos de antigüedad y mérito exige el Reglamento del Escalafón Nacional para ser Director de Escuela?",
+    "opciones": [
+      "2 años de servicio y 50 puntos.",
+      "No menos de 5 años de servicio ni menos de 100 puntos de mérito.",
+      "10 años de servicio y 150 puntos.",
+      "Ser normalista sin importar los años de servicio."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 54°, inciso a), del Reglamento del Escalafón Nacional establece estos mínimos obligatorios para optar a la dirección [23]."
+  },
+  {
+    "id": 216,
+    "pregunta": "¿Qué condición previa de cargo exige el Reglamento del Escalafón Nacional para ser Inspector de Distrito?",
+    "opciones": [
+      "Haber sido Jefe de Sección del Ministerio.",
+      "Haber ejercido previamente el cargo de director.",
+      "Haber trabajado al menos 10 años en aula.",
+      "Ser el profesor más antiguo del distrito escolar."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 54°, inciso b), del Reglamento del Escalafón Nacional requiere haber sido director antes de aspirar a inspector [23]."
+  },
+  {
+    "id": 217,
+    "pregunta": "¿Cuál es el puntaje de mérito mínimo para ser Director General de Educación según el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "100 puntos.",
+      "200 puntos.",
+      "150 puntos.",
+      "300 puntos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 54°, inciso d), del Reglamento del Escalafón Nacional fija en 200 puntos el mérito mínimo para este alto cargo [24]."
+  },
+  {
+    "id": 218,
+    "pregunta": "¿Qué requisito moral enfatiza el Reglamento del Escalafón Nacional para los candidatos a cargos superiores?",
+    "opciones": [
+      "No tener ninguna multa de tránsito.",
+      "Gozar de ascendiente y autoridad moral en las bases del magisterio.",
+      "Tener el apoyo unánime de los padres de familia.",
+      "Pertenecer a la misma religión que la mayoría de los docentes."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 55° del Reglamento del Escalafón Nacional subraya la importancia de la autoridad moral de los candidatos para la administración escolar [25]."
+  },
+  {
+    "id": 219,
+    "pregunta": "¿Cómo se define una designación ante paridad de méritos en un concurso del Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "Por sorteo público ante notario.",
+      "Mediante un examen de competencia.",
+      "Se elige al postulante con más hijos menores.",
+      "Decisión directa del Ministro de Educación."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 56°, inciso d), del Reglamento del Escalafón Nacional establece el examen de competencia como definitorio en casos de paridad [26]."
+  },
+  {
+    "id": 220,
+    "pregunta": "¿Quién preside el Tribunal calificador de concursos y exámenes en el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "El Jefe de Distrito local.",
+      "Un delegado de la Dirección General de Educación.",
+      "El representante de la Federación Sindical.",
+      "El oficial mayor del Ministerio."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 57°, inciso a), del Reglamento del Escalafón Nacional designa a un delegado de la Dirección General para presidir el tribunal [26, 27]."
+  },
+  {
+    "id": 221,
+    "pregunta": "¿Qué rol tienen las Federaciones Sindicales ante infracciones en la provisión de cargos según el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "Ninguno, solo tienen funciones de bienestar social.",
+      "Gestionar ante autoridades la correcta aplicación de los preceptos legales.",
+      "Nombrar directamente a los reemplazantes del cargo en conflicto.",
+      "Anular el examen de competencia de forma autónoma."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 58° del Reglamento del Escalafón Nacional faculta a los sindicatos para velar por la legalidad en la asignación de cargos [27, 28]."
+  },
+  {
+    "id": 222,
+    "pregunta": "¿Bajo qué restricción de personal se conceden las acumulaciones en el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "Solo si el presupuesto anual lo permite.",
+      "Cuando no haya maestros normalistas o titulares sin colocación en el ciclo.",
+      "Si el maestro tiene más de 10 años de antigüedad.",
+      "Únicamente en el turno nocturno o de alfabetización."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 60° del Reglamento del Escalafón Nacional prohíbe acumulaciones si hay personal idóneo esperando cargo [28]."
+  },
+  {
+    "id": 223,
+    "pregunta": "¿Cuántas horas puede acumular un profesor de Primera Categoría en secundaria según el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "Hasta 4 horas semanales.",
+      "Hasta 10 horas semanales.",
+      "Hasta 20 horas semanales.",
+      "No existe límite de horas para esta categoría."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 61°, inciso a), del Reglamento del Escalafón Nacional permite a la 1° categoría acumular hasta 10 horas semanales [29]."
+  },
+  {
+    "id": 224,
+    "pregunta": "¿Qué límite de acumulación tienen los profesores de Institutos Normales según el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "Pueden trabajar en cualquier establecimiento fiscal.",
+      "Solamente las horas disponibles en su propio establecimiento.",
+      "Hasta 12 horas en el ciclo primario.",
+      "No pueden acumular bajo ninguna circunstancia."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 63° del Reglamento del Escalafón Nacional restringe la acumulación de estos profesores a su mismo plantel de trabajo [29, 30]."
+  },
+  {
+    "id": 225,
+    "pregunta": "¿Cómo prohíbe el Reglamento del Escalafón Nacional la dispersión de la labor docente?",
+    "opciones": [
+      "Obligando a los maestros a vivir cerca de la escuela.",
+      "Impidiendo que un mismo curso en una misma asignatura sea atendido por más de un profesor.",
+      "Limitando el número de alumnos por cada profesor.",
+      "Prohibiendo que el docente trabaje en dos distritos distintos."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 64° del Reglamento del Escalafón Nacional busca la continuidad pedagógica evitando dividir materias entre varios docentes [30]."
+  },
+  {
+    "id": 226,
+    "pregunta": "¿A quiénes se encomiendan preferentemente los cargos de escuelas nocturnas según el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "A maestros jubilados con buena salud.",
+      "A maestros normalistas sin colocación.",
+      "A estudiantes de último año de la Normal.",
+      "A cualquier bachiller con vocación docente."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 66° del Reglamento del Escalafón Nacional prioriza a normalistas desempleados para estos servicios nocturnos [31]."
+  },
+  {
+    "id": 227,
+    "pregunta": "¿Qué límite de acumulación tienen los Directores de Colegios Secundarios en su propio plantel según el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "Hasta 4 horas.",
+      "Hasta 10 horas semanales.",
+      "No pueden dictar clases, solo funciones administrativas.",
+      "Hasta el doble de su haber básico."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 69° del Reglamento del Escalafón Nacional autoriza a directores de secundaria a acumular hasta 10 horas en su establecimiento [31]."
+  },
+  {
+    "id": 228,
+    "pregunta": "¿A qué maestros prohíbe taxativamente el Reglamento del Escalafón Nacional la acumulación de cargos?",
+    "opciones": [
+      "A los maestros solteros sin carga familiar.",
+      "A quienes no sean jefes de familia o tengan rentas por bienes inmuebles/comercio.",
+      "A los maestros con menos de 5 años de servicio.",
+      "A quienes ya tengan el grado de doctorado."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 70° del Reglamento del Escalafón Nacional restringe este beneficio a jefes de familia sin ingresos económicos paralelos significativos [31, 32]."
+  },
+  {
+    "id": 229,
+    "pregunta": "¿Bajo qué circunstancia excepcional se permite acumular dos cargos completos según el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "Si el maestro es pariente de una autoridad ministerial.",
+      "En provincias y distritos alejados por falta de personal docente idóneo.",
+      "Cuando el maestro ha ganado un premio nacional de educación.",
+      "Durante los periodos de vacaciones invernales."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 72° del Reglamento del Escalafón Nacional flexibiliza los límites en zonas de difícil acceso y carencia de maestros titulados [32]."
+  },
+  {
+    "id": 230,
+    "pregunta": "¿Qué condición garantiza la inamovilidad docente en el Reglamento del Escalafón Nacional?",
+    "opciones": [
+      "No pueden ser removidos sin aviso de un año.",
+      "No pueden ser destituidos ni suspendidos sin sentencia previa tras proceso legal.",
+      "Tienen derecho a elegir su lugar de trabajo cada bienio.",
+      "El cargo es hereditario para los hijos normalistas."
+    ],
+    "correcta": 1,
+    "explicacion": "El Artículo 73° del Reglamento del Escalafón Nacional protege al docente contra destituciones arbitrarias mediante el debido proceso [33]."
+  }
+]

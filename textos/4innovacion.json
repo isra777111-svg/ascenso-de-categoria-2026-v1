@@ -1,0 +1,1022 @@
+[
+  {
+    "id": 1,
+    "pregunta": "Según la UNESCO (2014), ¿cuál es el propósito central de la innovación educativa?",
+    "opciones": [
+      "Implementar tecnologías de última generación en el aula de forma obligatoria.",
+      "Lograr una mayor calidad en los aprendizajes de los estudiantes superando el paradigma tradicional.",
+      "Aumentar la carga horaria de las materias academicistas para mejorar el rendimiento.",
+      "Sustituir el rol del docente por sistemas de autoaprendizaje digitalizado."
+    ],
+    "correcta": 1,
+    "explicacion": "El documento define la innovación como un acto planificado para lograr calidad en los aprendizajes, pasando del aprendizaje pasivo a la interacción. Página 3 (Presentación, párrafo 3)."
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Qué implica trascender el 'conocimiento academicista' en el marco de la innovación educativa?",
+    "opciones": [
+      "Eliminar los contenidos teóricos del currículo nacional.",
+      "Pasar de un aprendizaje pasivo a una concepción donde el aprendizaje se construye entre todos.",
+      "Priorizar la memorización de datos sobre la resolución de problemas.",
+      "Centrar la educación exclusivamente en la formación para el trabajo técnico."
+    ],
+    "correcta": 1,
+    "explicacion": "La innovación busca superar el paradigma tradicional academicista mediante la construcción colectiva del conocimiento. Página 3 (Presentación, párrafo 3)."
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Cuál es una condición fundamental para garantizar la calidad y equidad de los sistemas educativos según el texto?",
+    "opciones": [
+      "La infraestructura moderna de los locales escolares.",
+      "El incremento anual de la bibliografía escolar.",
+      "La calidad y el compromiso de las y los docentes.",
+      "La estandarización de las evaluaciones internacionales."
+    ],
+    "correcta": 2,
+    "explicacion": "El texto señala explícitamente que el compromiso docente es condición fundamental para la calidad. Página 3 (Presentación, párrafo 2)."
+  },
+  {
+    "id": 4,
+    "pregunta": "La innovación educativa se fundamenta en el aprendizaje, especialmente cuando este se encuentra ligado a:",
+    "opciones": [
+      "La repetición de modelos exitosos extranjeros.",
+      "La acción transformadora del mundo.",
+      "El cumplimiento estricto de la normativa vigente.",
+      "La competencia entre instituciones educativas."
+    ],
+    "correcta": 1,
+    "explicacion": "La innovación tiene un sentido de cambio porque está ligada a la capacidad de transformar la realidad. Página 11 (Unidad 1, La innovación en los tiempos actuales)."
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Qué término utiliza el texto (citando a Maturana y Varela) para describir la reorganización de un sistema abierto que se produce en la innovación?",
+    "opciones": [
+      "Sinergia educativa.",
+      "Homeostasis pedagógica.",
+      "Autopoiesis.",
+      "Entropía institucional."
+    ],
+    "correcta": 2,
+    "explicacion": "La innovación produce una reorganización del sistema llamada autopoiesis, que hace visible su carácter abierto. Página 12 (Unidad 1, aspectos de la innovación)."
+  },
+  {
+    "id": 6,
+    "pregunta": "Para evitar 'la trampa del cambio por el cambio', el docente debe trabajar la innovación desde:",
+    "opciones": [
+      "Una actitud crítica enmarcada en principios claros.",
+      "La adopción inmediata de cualquier tendencia tecnológica.",
+      "El rechazo absoluto a toda práctica del pasado.",
+      "La obediencia a las modas administrativas de turno."
+    ],
+    "correcta": 0,
+    "explicacion": "Se requiere una actitud crítica para que la innovación sea una cultura y no solo una moda. Página 11 (Unidad 1, La innovación en los tiempos actuales)."
+  },
+  {
+    "id": 7,
+    "pregunta": "Según el enfoque de derechos humanos (OREALC/UNESCO, 2007), la calidad de la educación se relaciona con una educación pertinente, lo que significa que debe ser:",
+    "opciones": [
+      "Igual para todos los países del mundo.",
+      "Adecuada a las necesidades y características de los sujetos.",
+      "Enfocada únicamente en resultados medibles.",
+      "Determinada exclusivamente por el mercado laboral."
+    ],
+    "correcta": 1,
+    "explicacion": "La pertinencia se refiere a que la educación sea adecuada a quienes aprenden. Página 13 (Unidad 1, Lectura 2: Calidad de la Educación e Innovación)."
+  },
+  {
+    "id": 8,
+    "pregunta": "¿En qué década llegó el término 'innovación' al campo educativo proveniente de la administración?",
+    "opciones": [
+      "En los años 50.",
+      "En los años 60.",
+      "En los años 90.",
+      "En el año 2010."
+    ],
+    "correcta": 1,
+    "explicacion": "El término innovación proviene de la administración y se introdujo en educación en los 60. Página 13 (Unidad 1, ¿Con qué significados se ha identificado?)."
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Qué diferencia fundamental establece el texto entre 'mejora' e 'innovación'?",
+    "opciones": [
+      "La mejora es cualitativa y la innovación es cuantitativa.",
+      "La mejora es un ajuste; la innovación es una transformación de esquemas y cultura.",
+      "La mejora requiere dinero y la innovación solo requiere voluntad.",
+      "No existe diferencia; son sinónimos en el ámbito educativo."
+    ],
+    "correcta": 1,
+    "explicacion": "La innovación implica una ruptura con los esquemas vigentes, no es solo un ajuste. Página 14 (Unidad 1, Diferenciamos entre innovación y mejora)."
+  },
+  {
+    "id": 10,
+    "pregunta": "Introducir computadoras en una escuela se considera una 'mejora' pero NO una 'innovación' a menos que:",
+    "opciones": [
+      "Se compren los modelos más costosos del mercado.",
+      "Cada estudiante tenga su propia computadora.",
+      "Se produzcan transformaciones en el enfoque pedagógico y el rol docente.",
+      "Se utilicen para reemplazar los libros de texto físicos."
+    ],
+    "correcta": 2,
+    "explicacion": "La innovación requiere cambios estructurales en las estrategias de enseñanza. Página 14 (Unidad 1, Diferenciamos entre innovación y mejora)."
+  },
+  {
+    "id": 11,
+    "pregunta": "Al reflexionar sobre '¿Por qué es difícil cambiar?', el texto identifica que los obstáculos suelen ser de tipo:",
+    "opciones": [
+      "Únicamente económicos y de infraestructura.",
+      "Personal, conductual y cultural.",
+      "Legales y administrativos exclusivamente.",
+      "Tecnológicos y de conectividad."
+    ],
+    "correcta": 1,
+    "explicacion": "El cambio es difícil porque intervienen factores personales y culturales internos. Página 20 (Unidad 2, Lectura 1: ¿Por qué es difícil cambiar?)."
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Qué son los 'modelos mentales' según el documento?",
+    "opciones": [
+      "Esquemas de planificación de clases semanales.",
+      "Estructuras de pensamiento que condicionan nuestra forma de mirar y explicar el mundo.",
+      "Programas informáticos diseñados para la gestión escolar.",
+      "Técnicas de memorización para estudiantes de primaria."
+    ],
+    "correcta": 1,
+    "explicacion": "Son estructuras que condicionan el pensar y actuar, a menudo de forma inconsciente. Página 21 (Unidad 2, Modelos mentales)."
+  },
+  {
+    "id": 13,
+    "pregunta": "En un proceso de innovación, el momento inicial de desequilibrio y confusión es causado por:",
+    "opciones": [
+      "La falta de presupuesto para el proyecto.",
+      "La confrontación entre lo nuevo y lo viejo.",
+      "La desobediencia de los estudiantes.",
+      "La mala organización del director."
+    ],
+    "correcta": 1,
+    "explicacion": "Probar nuevas ideas genera desequilibrio debido al conflicto cognitivo. Página 22 (Unidad 2, Desequilibrio y contradicción)."
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Por qué se afirma que la innovación es un proceso 'siempre inconcluso'?",
+    "opciones": [
+      "Porque los docentes nunca terminan de planificar sus clases.",
+      "Porque para no caer en la rutina, debe someterse a revisión crítica constante.",
+      "Porque el Ministerio de Educación cambia las leyes cada año.",
+      "Porque no existen indicadores para medir su éxito total."
+    ],
+    "correcta": 1,
+    "explicacion": "Si se considera un producto acabado, se corre el riesgo de caer en la rutina. Página 22 (Unidad 2, La innovación es un proceso siempre inconcluso)."
+  },
+  {
+    "id": 15,
+    "pregunta": "Según Blase (2002), ¿a qué se refiere el término 'micropolítica' en las escuelas?",
+    "opciones": [
+      "A las elecciones de alcaldes escolares por parte de los niños.",
+      "Al uso del poder formal e informal para alcanzar metas en las organizaciones.",
+      "A las políticas de financiamiento del gobierno central.",
+      "Al reglamento interno de convivencia escolar."
+    ],
+    "correcta": 1,
+    "explicacion": "La micropolítica trata sobre el poder y la influencia entre individuos y grupos. Página 23 (Unidad 2, Lectura 3: Las micropolíticas)."
+  },
+  {
+    "id": 16,
+    "pregunta": "En las organizaciones tradicionales, el cambio suele ocurrir como:",
+    "opciones": [
+      "Una construcción democrática desde las bases.",
+      "Una imposición jerárquica de arriba abajo.",
+      "Un proceso de investigación-acción docente.",
+      "Una respuesta a las necesidades de los padres."
+    ],
+    "correcta": 1,
+    "explicacion": "En instituciones tradicionales el cambio es visto como una estrategia política impuesta. Página 25 (Unidad 2, Factores que dificultan los cambios)."
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Qué factor del liderazgo directivo favorece la implicación y compromiso de los docentes en la innovación?",
+    "opciones": [
+      "El control estricto de la asistencia diaria.",
+      "El liderazgo facilitador y el gobierno compartido.",
+      "La asignación unilateral de tareas administrativas.",
+      "El otorgamiento de premios económicos individuales."
+    ],
+    "correcta": 1,
+    "explicacion": "El liderazgo facilitador fomenta la autonomía y la toma de decisiones democrática. Página 25 (Unidad 2, Factores que favorecen los cambios)."
+  },
+  {
+    "id": 18,
+    "pregunta": "Según el Proyecto Educativo Nacional al 2021, ¿cuál es el Objetivo Estratégico 2?",
+    "opciones": [
+      "Oportunidades y resultados educativos de igual calidad para todos.",
+      "Estudiantes e instituciones que logran aprendizajes pertinentes y de calidad.",
+      "Maestros bien preparados que ejercen profesionalmente la docencia.",
+      "Una gestión descentralizada y democrática."
+    ],
+    "correcta": 1,
+    "explicacion": "El objetivo 2 se centra específicamente en los aprendizajes pertinentes. Página 31 (Unidad 3, cuadro de objetivos estratégicos)."
+  },
+  {
+    "id": 19,
+    "pregunta": "Etimológicamente, ¿qué diferencia existe entre 'innovar' e 'inventar' según el texto?",
+    "opciones": [
+      "Innovar es comprar algo nuevo; inventar es crearlo.",
+      "Innovar es mudar o alterar cosas introduciendo novedades; inventar es hallar algo desconocido.",
+      "Son exactamente lo mismo según la Real Academia.",
+      "Innovar es para maestros; inventar es para científicos."
+    ],
+    "correcta": 1,
+    "explicacion": "El texto aclara la distinción etimológica para resaltar que innovar puede partir de lo existente. Página 31 (Unidad 3, Lectura 1: Señas de identidad)."
+  },
+  {
+    "id": 20,
+    "pregunta": "Para que una escuela sea innovadora, los docentes deben pasar del 'lenguaje de los actores' al 'lenguaje de los autores'. Esto significa:",
+    "opciones": [
+      "Escribir sus propios libros de texto para venderlos.",
+      "Dejar de ejecutar libretos establecidos para convertirse en creadores del cambio.",
+      "Actuar frente a los padres para convencerlos del cambio.",
+      "Memorizar las teorías de autores famosos de la educación."
+    ],
+    "correcta": 1,
+    "explicacion": "El autor es quien crea y define su papel, no quien solo sigue instrucciones. Página 33 (Unidad 3, Señas de identidad, punto 3)."
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Por qué es fundamental el trabajo en equipo y la colaboración en una escuela innovadora?",
+    "opciones": [
+      "Para terminar más rápido las tareas administrativas.",
+      "Porque genera nexos significativos, relaciones horizontales y complementariedad de enfoques.",
+      "Para que el director tenga menos trabajo de supervisión.",
+      "Porque así se pueden dividir los gastos de materiales."
+    ],
+    "correcta": 1,
+    "explicacion": "La colaboración permite una definición compartida de los problemas a resolver. Página 35 (Unidad 3, punto 7: Ambiente de colaboración)."
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Qué metáfora musical utiliza el texto para describir la innovación educativa?",
+    "opciones": [
+      "Una orquesta sinfónica dirigida rígidamente.",
+      "Una pieza de jazz donde se crea y se corren límites mientras se toca.",
+      "Un coro donde todos cantan la misma nota al mismo tiempo.",
+      "Una ópera clásica con un libreto inalterable."
+    ],
+    "correcta": 1,
+    "explicacion": "Se usa el jazz para ilustrar la creatividad y la improvisación dentro de un marco. Página 33 (Unidad 3, punto 3)."
+  },
+  {
+    "id": 23,
+    "pregunta": "La innovación tiene un 'carácter sistémico'. Esto implica que:",
+    "opciones": [
+      "Solo funciona si se usa un sistema informático específico.",
+      "Cualquier cambio en un componente repercute en los demás componentes del sistema.",
+      "Debe hacerse de forma aislada para no afectar al resto de la escuela.",
+      "Sigue un orden alfabético estricto de implementación."
+    ],
+    "correcta": 1,
+    "explicacion": "Al ser la escuela un sistema, los cambios afectan la estructura total. Página 33 (Unidad 3, punto 3)."
+  },
+  {
+    "id": 24,
+    "pregunta": "Según el documento, ¿qué sucede con los docentes innovadores frente a las normativas externas rígidas?",
+    "opciones": [
+      "Las ignoran por completo para ser libres.",
+      "Las ven como una camisa de fuerza que impide todo cambio.",
+      "Las recrean y adaptan a las características concretas de su institución.",
+      "Piden permiso al Ministerio para no cumplirlas."
+    ],
+    "correcta": 2,
+    "explicacion": "La capacidad de adaptar la norma es índice de creatividad y autonomía. Página 22 (Unidad 2, Flexibilidad y adecuación)."
+  },
+  {
+    "id": 25,
+    "pregunta": "El saber previo de un grupo se somete a prueba en la innovación a través de:",
+    "opciones": [
+      "Exámenes escritos estandarizados.",
+      "La experiencia (no solo experimentación).",
+      "La comparación con colegios de la capital.",
+      "La revisión de manuales antiguos de pedagogía."
+    ],
+    "correcta": 1,
+    "explicacion": "La innovación pone a prueba lo que se sabe en el campo de la práctica real. Página 11 (Unidad 1, aspectos de la innovación)."
+  },
+  {
+    "id": 26,
+    "pregunta": "Dentro del ciclo de la innovación (Página 39), ¿cuál es el eje central sobre el cual giran todas las fases?",
+    "opciones": [
+      "El presupuesto institucional.",
+      "Una comunidad educativa.",
+      "El currículo nacional.",
+      "La dirección del centro."
+    ],
+    "correcta": 1,
+    "explicacion": "El gráfico muestra que todo el proceso ocurre en torno a una comunidad educativa. Página 39 (Gráfico: El Ciclo en el Proceso de Desarrollo)."
+  },
+  {
+    "id": 27,
+    "pregunta": "En la fase de INTENCIONALIDAD (Página 39), la pregunta clave que debe hacerse la comunidad es:",
+    "opciones": [
+      "¿Con cuánto dinero contamos?",
+      "¿Qué se quiere transformar y por qué?",
+      "¿Qué aprendimos del proceso?",
+      "¿Cómo vamos a registrar las acciones?"
+    ],
+    "correcta": 1,
+    "explicacion": "La intencionalidad define el horizonte y el motivo del cambio. Página 39 (Gráfico y Fase 1)."
+  },
+  {
+    "id": 28,
+    "pregunta": "De acuerdo al ciclo de innovación de la página 39, ¿qué acciones corresponden a la fase de IMPLEMENTACIÓN?",
+    "opciones": [
+      "Definir el horizonte hacia el cual llegar.",
+      "Actuar, registrar, evaluar y reformular.",
+      "Identificar expertos y beneficiarios externos.",
+      "Compartir los resultados con otras escuelas."
+    ],
+    "correcta": 1,
+    "explicacion": "La implementación es un proceso activo de registro y ajuste constante. Página 39 (Gráfico y Fase 4)."
+  },
+  {
+    "id": 29,
+    "pregunta": "Según la estructura del ciclo en la página 39, la fase de PLANIFICACIÓN responde a la pregunta:",
+    "opciones": [
+      "¿Qué recursos faltan?",
+      "¿Cómo lo vamos a hacer?",
+      "¿Cómo resultó la experiencia?",
+      "¿Quiénes son los culpables de los errores?"
+    ],
+    "correcta": 1,
+    "explicacion": "La planificación establece la programación y la metodología del cambio. Página 39 (Gráfico y Fase 2)."
+  },
+  {
+    "id": 30,
+    "pregunta": "En el gráfico de la página 39, ¿cuál es el resultado esperado de la fase de DIFUSIÓN/SISTEMATIZACIÓN?",
+    "opciones": [
+      "Conocer el costo total del proyecto.",
+      "Identificar qué aprendimos.",
+      "Comprar nuevos materiales tecnológicos.",
+      "Sustituir a los docentes que no participaron."
+    ],
+    "correcta": 1,
+    "explicacion": "La sistematización se enfoca en la lección aprendida y la construcción de conocimiento. Página 39 (Gráfico y Fase 6)."
+  },
+  {
+    "id": 31,
+    "pregunta": "En la fase de 'Evaluación y Balance', la pregunta orientadora es:",
+    "opciones": [
+      "¿Cómo resultó?",
+      "¿Quién hizo más trabajo?",
+      "¿Cuánto tiempo perdimos?",
+      "¿Es legal lo que hicimos?"
+    ],
+    "correcta": 0,
+    "explicacion": "Se trata de repreguntarse sobre los resultados y las lecciones. Página 42 (Unidad 4, Fase 5)."
+  },
+  {
+    "id": 32,
+    "pregunta": "¿Qué herramienta se recomienda para registrar procesos que luego servirán en la sistematización?",
+    "opciones": [
+      "Facturas de gastos.",
+      "Diarios o bitácoras.",
+      "Listas de asistencia.",
+      "Boletines de notas."
+    ],
+    "correcta": 1,
+    "explicacion": "Los registros cualitativos son vitales para la sistematización. Página 42 (Unidad 4, Fase 5)."
+  },
+  {
+    "id": 33,
+    "pregunta": "En el caso 'El agua asunto vital para todos', ¿qué motivó la innovación curricular?",
+    "opciones": [
+      "Un mandato del Ministerio de Salud de Colombia.",
+      "La baja calidad del agua consumida en la vereda y sus efectos en la salud.",
+      "La necesidad de ganar un concurso de ciencias.",
+      "La llegada de computadoras nuevas a la escuela."
+    ],
+    "correcta": 1,
+    "explicacion": "Las docentes identificaron problemas de salud ligados al agua contaminada. Página 44 (Unidad 4, Caso El Agua)."
+  },
+  {
+    "id": 34,
+    "pregunta": "El proyecto 'El agua' logró integrar las áreas curriculares a través de:",
+    "opciones": [
+      "Exámenes integrados mensuales.",
+      "El Carnaval Soloriental.",
+      "La construcción de un pozo séptico.",
+      "Clases magistrales de biología."
+    ],
+    "correcta": 1,
+    "explicacion": "El carnaval sirvió como eje articulador de los saberes escolares. Página 45 (Unidad 4, Caso El Agua)."
+  },
+  {
+    "id": 35,
+    "pregunta": "¿Qué tensión pedagógica surgió en el proyecto de la Escuela Los Soches?",
+    "opciones": [
+      "Si debían cobrar o no por el agua.",
+      "Si debían mantener el saber mágico-religioso local o posibilitar el conocimiento científico.",
+      "Si los padres de familia podían entrar a la escuela.",
+      "Si los niños debían usar uniforme para el carnaval."
+    ],
+    "correcta": 1,
+    "explicacion": "Surgió el dilema sobre qué saber debe generar la escuela en ese contexto. Página 48 (Unidad 4, Caso El Agua)."
+  },
+  {
+    "id": 36,
+    "pregunta": "¿Cuál es un indicio de autonomía en una institución educativa innovadora?",
+    "opciones": [
+      "Ignorar las leyes nacionales de educación.",
+      "Un 'despertar' en la toma de decisiones propia de la institución.",
+      "Tener un presupuesto propio sin rendir cuentas.",
+      "Expulsar a los docentes que no están de acuerdo."
+    ],
+    "correcta": 1,
+    "explicacion": "La autonomía se manifiesta en la capacidad de decidir sobre el propio cambio. Página 16 (Unidad 1, Señales de cambios)."
+  },
+  {
+    "id": 37,
+    "pregunta": "Para que una innovación sea exitosa, ¿cómo deben considerarse los errores?",
+    "opciones": [
+      "Como motivos de sanción administrativa.",
+      "Como fuente de aprendizaje y parte del proceso.",
+      "Como señales de que la innovación debe cancelarse.",
+      "Como falta de preparación del docente."
+    ],
+    "correcta": 1,
+    "explicacion": "Un clima de confianza permite aprender de los errores sin censura. Página 22 (Unidad 2, Desequilibrio y contradicción)."
+  },
+  {
+    "id": 38,
+    "pregunta": "La innovación educativa busca pasar de un aprendizaje pasivo a una concepción de aprendizaje como:",
+    "opciones": [
+      "Competencia individual.",
+      "Interacción y construcción colectiva.",
+      "Instrucción directa del docente.",
+      "Adquisición de datos informáticos."
+    ],
+    "correcta": 1,
+    "explicacion": "El aprendizaje es interacción y se construye entre todos. Página 3 (Presentación)."
+  },
+  {
+    "id": 39,
+    "pregunta": "Según Blanco (2005), las escuelas innovadoras se caracterizan por una actitud de:",
+    "opciones": [
+      "Conformismo con los resultados actuales.",
+      "Constante cuestionamiento e indagación de nuevas ideas.",
+      "Aislamiento frente a otras instituciones.",
+      "Repetición de rutinas exitosas del pasado."
+    ],
+    "correcta": 1,
+    "explicacion": "La indagación es una forma de pensamiento científico crucial para innovar. Página 32 (Unidad 3, punto 2)."
+  },
+  {
+    "id": 40,
+    "pregunta": "La sistematización de experiencias innovadoras permite principalmente:",
+    "opciones": [
+      "Justificar el gasto de materiales ante el director.",
+      "Generar conocimientos desde y hacia la práctica pedagógica.",
+      "Hacer publicidad de la escuela en los medios.",
+      "Llenar los archivos administrativos de la UGEL."
+    ],
+    "correcta": 1,
+    "explicacion": "Sistematizar es fortalecer el saber docente desde la práctica. Página 3 (Presentación)."
+  },
+  {
+    "id": 41,
+    "pregunta": "Un factor social que favorece la innovación es:",
+    "opciones": [
+      "La desconfianza de los padres hacia la escuela.",
+      "La participación de los actores locales en el proyecto educativo.",
+      "La presión de los medios de comunicación por notas altas.",
+      "La competencia entre barrios por el mejor local escolar."
+    ],
+    "correcta": 1,
+    "explicacion": "El apoyo social y comunal fortalece los cambios. Página 20 (Unidad 2, Contenidos)."
+  },
+  {
+    "id": 42,
+    "pregunta": "Para romper con el aislamiento docente, la innovación propone:",
+    "opciones": [
+      "Trabajar más horas en el aula de forma individual.",
+      "Conectarse en redes pedagógicas y comunidades educativas.",
+      "No hablar de las prácticas propias para evitar críticas.",
+      "Delegar todas las decisiones al director."
+    ],
+    "correcta": 1,
+    "explicacion": "Las redes permiten compartir prácticas y enriquecer el trabajo. Página 34 (Unidad 3, punto 6)."
+  },
+  {
+    "id": 43,
+    "pregunta": "¿Qué papel juega el 'pensamiento divergente' en una escuela que innova?",
+    "opciones": [
+      "Es un obstáculo para llegar a acuerdos rápidos.",
+      "Es clave para valorar la diversidad como riqueza.",
+      "Debe evitarse para mantener la disciplina.",
+      "Solo es útil en clases de arte y música."
+    ],
+    "correcta": 1,
+    "explicacion": "Un clima favorable presupone múltiples puntos de vista. Página 35 (Unidad 3, punto 7)."
+  },
+  {
+    "id": 44,
+    "pregunta": "En la fase de 'Identificación de recursos', ¿qué tipos de recursos deben considerarse?",
+    "opciones": [
+      "Solo los recursos económicos y financieros.",
+      "Materiales, humanos, tecnológicos e infraestructura.",
+      "Únicamente los libros de texto entregados por el Estado.",
+      "Solo la tecnología de punta."
+    ],
+    "correcta": 1,
+    "explicacion": "Se requiere una visión integral de lo que se tiene y lo que falta. Página 41 (Unidad 4, Fase 3)."
+  },
+  {
+    "id": 45,
+    "pregunta": "La innovación 'desde abajo' se vincula principalmente con:",
+    "opciones": [
+      "Las órdenes directas de los ministros.",
+      "El protagonismo de las instituciones educativas y docentes en el cambio.",
+      "Las sugerencias de empresas tecnológicas externas.",
+      "Los cambios en el mobiliario escolar."
+    ],
+    "correcta": 1,
+    "explicacion": "En el siglo XXI la innovación se vincula al protagonismo docente. Página 13 (Unidad 1, Lectura 2)."
+  },
+  {
+    "id": 46,
+    "pregunta": "¿Qué sentimiento suele acompañar el inicio de un cambio profundo según el texto?",
+    "opciones": [
+      "Felicidad absoluta sin miedos.",
+      "Cierta dosis de riesgo, incertidumbre y temor.",
+      "Aburrimiento por repetir lo mismo.",
+      "Indiferencia total ante los resultados."
+    ],
+    "correcta": 1,
+    "explicacion": "El terreno de lo desconocido siempre implica riesgo. Página 22 (Unidad 2, Lectura 2)."
+  },
+  {
+    "id": 47,
+    "pregunta": "¿Por qué los docentes suelen tener temor de compartir sus prácticas?",
+    "opciones": [
+      "Porque no tienen tiempo para hablar.",
+      "Por el modelo tradicional de escuelas como unidades aisladas.",
+      "Porque sus prácticas son aburridas.",
+      "Porque el reglamento prohíbe hablar del aula."
+    ],
+    "correcta": 1,
+    "explicacion": "Tradicionalmente la escuela ha estado cerrada en sí misma. Página 34 (Unidad 3, punto 6)."
+  },
+  {
+    "id": 48,
+    "pregunta": "La 'conciencia utópica' en la innovación (citando a Freire) se refiere a:",
+    "opciones": [
+      "Pensar en cosas imposibles que nunca ocurrirán.",
+      "Asumir una intencionalidad de cambio y creación de un nuevo orden.",
+      "Soñar despierto durante las horas de clase.",
+      "Ignorar la realidad para no sufrir por los problemas."
+    ],
+    "correcta": 1,
+    "explicacion": "Implica la movilización hacia una transformación intencionada. Página 33 (Unidad 3, punto 3)."
+  },
+  {
+    "id": 49,
+    "pregunta": "Según el texto, ¿qué elemento 'exacerba' las interacciones micropolíticas en la escuela?",
+    "opciones": [
+      "La estabilidad y rutina diaria.",
+      "Los periodos de cambio, incertidumbre y ambigüedad.",
+      "Las vacaciones escolares de medio año.",
+      "El aumento de sueldos docentes."
+    ],
+    "correcta": 1,
+    "explicacion": "Durante el cambio, el poder y la política se vuelven más visibles e intensos. Página 24 (Unidad 2, Factores que dificultan)."
+  },
+  {
+    "id": 50,
+    "pregunta": "El concepto de 'Calidad de la Educación' es:",
+    "opciones": [
+      "Un concepto único y estático para todos.",
+      "Un concepto con múltiples sentidos relacionado con el ideal de sociedad.",
+      "Solo una medida de cuántos alumnos aprueban matemáticas.",
+      "Algo que solo preocupa a las escuelas privadas."
+    ],
+    "correcta": 1,
+    "explicacion": "Depende del enfoque y del tipo de sociedad que se desea construir. Página 13 (Unidad 1, Lectura 2)."
+  },
+  {
+    "id": 51,
+    "pregunta": "Un ejemplo de 'mejora' que no necesariamente es 'innovación' es:",
+    "opciones": [
+      "Cambiar la relación docente-alumno hacia una cooperación mutua.",
+      "Ampliar el horario de clases sin cambiar la metodología pasiva.",
+      "Desarrollar proyectos interdisciplinares basados en problemas locales.",
+      "Fomentar la autonomía del estudiante en su propio aprendizaje."
+    ],
+    "correcta": 1,
+    "explicacion": "Ampliar horas es un ajuste cuantitativo, no una transformación estructural. Página 14 (Unidad 1)."
+  },
+  {
+    "id": 52,
+    "pregunta": "La innovación educativa debe ser un acto:",
+    "opciones": [
+      "Espontáneo y sin mucha preparación.",
+      "Deliberado y planificado.",
+      "Individual y secreto.",
+      "Accidental y caótico."
+    ],
+    "correcta": 1,
+    "explicacion": "Requiere planificación para solucionar problemas específicos. Página 3 (Presentación)."
+  },
+  {
+    "id": 53,
+    "pregunta": "¿Qué capacidad humana busca construir la innovación según el texto?",
+    "opciones": [
+      "La capacidad de obedecer órdenes sin cuestionar.",
+      "La capacidad de transformar, crear y recrear el mundo.",
+      "La capacidad de memorizar currículos extensos.",
+      "La capacidad de competir y ganar a otros colegas."
+    ],
+    "correcta": 1,
+    "explicacion": "Es una construcción social con múltiples impactos en la capacidad creativa. Página 12 (Unidad 1)."
+  },
+  {
+    "id": 54,
+    "pregunta": "El liderazgo facilitador del director se asocia con:",
+    "opciones": [
+      "Incrementos en la implicación de los docentes en la toma de decisiones.",
+      "Mayor miedo de los docentes a cometer errores.",
+      "El mantenimiento estricto del status quo.",
+      "La eliminación de reuniones de coordinación pedagógica."
+    ],
+    "correcta": 0,
+    "explicacion": "Facilitar el liderazgo docente fortalece el compromiso democrático. Página 25 (Unidad 2)."
+  },
+  {
+    "id": 55,
+    "pregunta": "En la innovación, ¿qué relación existe con la 'tradición'?",
+    "opciones": [
+      "La innovación debe borrar toda tradición del pasado.",
+      "La innovación tiene una relación profunda con la tradición; no es solo 'lo nuevo'.",
+      "La tradición es el enemigo principal del innovador.",
+      "La innovación y la tradición no tienen ninguna relación."
+    ],
+    "correcta": 1,
+    "explicacion": "No se trata de rechazar el pasado sin conocerlo, sino de transformarlo. Página 12 (Unidad 1)."
+  },
+  {
+    "id": 56,
+    "pregunta": "¿Cuál es la misión fundamental de las y los docentes en las escuelas innovadoras?",
+    "opciones": [
+      "Lograr que todos los alumnos saquen nota 20.",
+      "Contribuir a que las aulas sean espacios dinámicos, creativos y facilitadores de aprendizajes.",
+      "Vigilar que los niños no jueguen durante el recreo.",
+      "Seguir el libro de texto página por página sin saltarse nada."
+    ],
+    "correcta": 1,
+    "explicacion": "Deben ser promotores de valores, convivencia y respuestas pertinentes. Página 3 (Presentación)."
+  },
+  {
+    "id": 57,
+    "pregunta": "La preparación docente para la innovación implica el desarrollo de capacidades para:",
+    "opciones": [
+      "Promover el cambio alineando políticas nacionales con contextos locales.",
+      "Aplicar castigos más efectivos a los alumnos rebeldes.",
+      "Ignorar las particularidades de las familias pobres.",
+      "Evitar cualquier conflicto con la dirección del centro."
+    ],
+    "correcta": 0,
+    "explicacion": "Se deben articular las metas nacionales con la realidad escolar. Página 3 (Presentación)."
+  },
+  {
+    "id": 58,
+    "pregunta": "En el caso 'El agua', ¿cómo se recolectó la información sobre los imaginarios de la comunidad?",
+    "opciones": [
+      "Comprando un libro sobre leyendas de la zona.",
+      "Mediante entrevistas a habitantes sobre leyendas y rituales del agua.",
+      "Buscando en internet sobre la historia de Colombia.",
+      "Haciendo un examen escrito a los padres de familia."
+    ],
+    "correcta": 1,
+    "explicacion": "Se usó la investigación-acción participativa para conocer el saber local. Página 48 (Unidad 4)."
+  },
+  {
+    "id": 59,
+    "pregunta": "¿Qué áreas se involucraron en los proyectos de aula de la Escuela Los Soches?",
+    "opciones": [
+      "Solo Ciencias Naturales.",
+      "Castellano, Naturales, Sociales y Educación Artística.",
+      "Matemáticas y Educación Física únicamente.",
+      "Inglés y Computación."
+    ],
+    "correcta": 1,
+    "explicacion": "Se buscó que las áreas dejaran de ser 'compartimentos estancos'. Página 49 (Unidad 4)."
+  },
+  {
+    "id": 60,
+    "pregunta": "La innovación educativa se asocia en el siglo XXI con:",
+    "opciones": [
+      "El regreso a la educación tradicional del siglo XIX.",
+      "La incorporación de las TIC y el protagonismo docente.",
+      "La privatización total de las escuelas públicas.",
+      "La eliminación de la evaluación de desempeño."
+    ],
+    "correcta": 1,
+    "explicacion": "Las TIC y el cambio 'desde abajo' marcan la tendencia actual. Página 13 (Unidad 1)."
+  },
+  {
+    "id": 61,
+    "pregunta": "Un sistema educativo innovador requiere, según el texto, ser:",
+    "opciones": [
+      "Más rígido y controlado.",
+      "Más flexible y con autonomía real.",
+      "Totalmente caótico y sin reglas.",
+      "Dependiente al 100% de la tecnología extranjera."
+    ],
+    "correcta": 1,
+    "explicacion": "La autonomía es necesaria para recrear la normativa en el contexto. Página 22 (Unidad 2)."
+  },
+  {
+    "id": 62,
+    "pregunta": "La reflexión sobre la propia práctica permite al docente:",
+    "opciones": [
+      "Darse cuenta de que ya no necesita estudiar más.",
+      "Convertirse en un creador y productor de saber que reorienta su quehacer.",
+      "Criticar a sus colegas sin fundamento.",
+      "Ahorrar tiempo en la preparación de clases."
+    ],
+    "correcta": 1,
+    "explicacion": "La sistematización empodera al docente como investigador de su aula. Página 12 (Unidad 1)."
+  },
+  {
+    "id": 63,
+    "pregunta": "En las escuelas innovadoras, ¿cómo se ve la diversidad?",
+    "opciones": [
+      "Como un problema que retrasa el aprendizaje de los mejores alumnos.",
+      "Como algo que enriquece a las personas e instituciones.",
+      "Como una situación que debe eliminarse mediante la estandarización.",
+      "Como algo que solo importa si hay alumnos extranjeros."
+    ],
+    "correcta": 1,
+    "explicacion": "El pensamiento divergente y la diversidad son claves del éxito. Página 35 (Unidad 3)."
+  },
+  {
+    "id": 64,
+    "pregunta": "¿Qué busca 'identificar' el ejercicio de balance y reflexión propuesto en la página 15?",
+    "opciones": [
+      "A los maestros que no quieren trabajar.",
+      "Las señales de cambio y avances innovadores en la institución.",
+      "Los errores cometidos en el pasado para castigarlos.",
+      "El presupuesto que se ha desperdiciado."
+    ],
+    "correcta": 1,
+    "explicacion": "Busca reconocer dónde está el cambio y cuánto se ha avanzado. Página 15 (Unidad 1)."
+  },
+  {
+    "id": 65,
+    "pregunta": "La 'resistencia al cambio' en las personas a menudo se origina en:",
+    "opciones": [
+      "La falta de inteligencia de los docentes.",
+      "Creencias internalizadas tempranamente que restan seguridad.",
+      "Las órdenes directas del director.",
+      "El exceso de tiempo libre."
+    ],
+    "correcta": 1,
+    "explicacion": "Son ideas en la cabeza que quitan confianza para aprender algo nuevo. Página 21 (Unidad 2)."
+  },
+  {
+    "id": 66,
+    "pregunta": "Para modificar los 'modelos mentales' negativos, el primer paso es:",
+    "opciones": [
+      "Leer un libro sobre psicología avanzada.",
+      "Identificarlos, observarlos y reconocer cómo actúan sobre uno.",
+      "Renunciar al trabajo docente.",
+      "Tomar un curso de computación."
+    ],
+    "correcta": 1,
+    "explicacion": "Solo tras identificarlos es posible optar por modificarlos. Página 21 (Unidad 2)."
+  },
+  {
+    "id": 67,
+    "pregunta": "El apoyo político de las autoridades educativas es vital para:",
+    "opciones": [
+      "Que el director gane más sueldo.",
+      "Sostener los nuevos programas de desarrollo basados en la escuela.",
+      "Evitar que los padres de familia opinen.",
+      "Controlar lo que el maestro dice en clase."
+    ],
+    "correcta": 1,
+    "explicacion": "El apoyo oficial facilita la reestructuración escolar exitosa. Página 25 (Unidad 2)."
+  },
+  {
+    "id": 68,
+    "pregunta": "¿Qué significa que la innovación sea el resultado de un 'proceso social'?",
+    "opciones": [
+      "Que solo se hace para ayudar a la gente pobre.",
+      "Que se construye colectivamente mediante debate, diálogo y negociación.",
+      "Que se decide en una fiesta o evento social.",
+      "Que no requiere estudio científico, solo buena voluntad."
+    ],
+    "correcta": 1,
+    "explicacion": "Es la resultante de un proceso grupal mediado por el diálogo. Página 11 (Unidad 1)."
+  },
+  {
+    "id": 69,
+    "pregunta": "Según la unidad 3, las escuelas innovadoras no son islas, deben:",
+    "opciones": [
+      "Cerrar sus puertas a influencias externas.",
+      "Conectarse con el entorno y el mundo global a través de redes.",
+      "Competir contra otras escuelas para ser la mejor.",
+      "Seguir únicamente las órdenes del gobierno local."
+    ],
+    "correcta": 1,
+    "explicacion": "El modelo de escuelas aisladas no responde a las exigencias actuales. Página 34 (Unidad 3)."
+  },
+  {
+    "id": 70,
+    "pregunta": "La 'flexibilidad' es fundamental en la fase de implementación para:",
+    "opciones": [
+      "Poder faltar al trabajo cuando se quiera.",
+      "Tomar en consideración los imprevistos y redirigir acciones.",
+      "No seguir ninguna planificación previa.",
+      "Cambiar de proyecto cada semana si nos aburrimos."
+    ],
+    "correcta": 1,
+    "explicacion": "La implementación requiere pausas para reflexionar y ajustar. Página 41 (Unidad 4)."
+  },
+  {
+    "id": 71,
+    "pregunta": "Un objetivo estratégico de la educación en Perú es lograr maestros bien preparados que:",
+    "opciones": [
+      "Trabajen gratis por vocación.",
+      "Ejerzan profesionalmente la docencia.",
+      "Tengan muchos títulos de universidades extranjeras.",
+      "No cuestionen nunca las órdenes superiores."
+    ],
+    "correcta": 1,
+    "explicacion": "Es el Objetivo Estratégico 3 del Proyecto Educativo Nacional. Página 31 (Unidad 3)."
+  },
+  {
+    "id": 72,
+    "pregunta": "En la innovación educativa, el aprendizaje se liga a:",
+    "opciones": [
+      "La teoría pura.",
+      "La acción transformadora.",
+      "La obediencia.",
+      "La pasividad."
+    ],
+    "correcta": 1,
+    "explicacion": "El aprendizaje transformador es la base de la innovación. Página 11 (Unidad 1)."
+  },
+  {
+    "id": 73,
+    "pregunta": "La 'ruptura con los esquemas vigentes' es característica de:",
+    "opciones": [
+      "Una simple mejora.",
+      "Una innovación educativa.",
+      "Una rutina administrativa.",
+      "Una evaluación sumativa."
+    ],
+    "correcta": 1,
+    "explicacion": "Innovar implica transformar, no solo ajustar. Página 14 (Unidad 1)."
+  },
+  {
+    "id": 74,
+    "pregunta": "¿Qué rol cumple el docente como 'creador y productor de saber'?",
+    "opciones": [
+      "Escribir poemas para los actos escolares.",
+      "Sistematizar sus prácticas para aprender de ellas.",
+      "Dictar la clase sin permitir preguntas.",
+      "Seguir el manual del docente al pie de la letra."
+    ],
+    "correcta": 1,
+    "explicacion": "La reflexión sobre la práctica genera nuevo conocimiento pedagógico. Página 12 (Unidad 1)."
+  },
+  {
+    "id": 75,
+    "pregunta": "La innovación 'muda o altera las cosas' introduciendo:",
+    "opciones": [
+      "Novedades.",
+      "Caos.",
+      "Miedo.",
+      "Gasto innecesario."
+    ],
+    "correcta": 0,
+    "explicacion": "Es el significado etimológico de innovare. Página 31 (Unidad 3)."
+  },
+  {
+    "id": 76,
+    "pregunta": "¿Qué aspecto de la micropolítica puede 'restar esfuerzos' a los cambios?",
+    "opciones": [
+      "La colaboración docente.",
+      "Ignorar las relaciones de poder existentes.",
+      "El diálogo democrático.",
+      "La transparencia administrativa."
+    ],
+    "correcta": 1,
+    "explicacion": "Si se ignora quién tiene el poder real, los cambios fracasan. Página 23 (Unidad 2)."
+  },
+  {
+    "id": 77,
+    "pregunta": "El clima de confianza en la escuela permite:",
+    "opciones": [
+      "Que nadie trabaje.",
+      "Atreverse a asumir riesgos.",
+      "Ocultar los errores al director.",
+      "Gastar el presupuesto sin control."
+    ],
+    "correcta": 1,
+    "explicacion": "Sin confianza, el miedo al error impide la innovación. Página 22 (Unidad 2)."
+  },
+  {
+    "id": 78,
+    "pregunta": "La 'investigación-acción' es una estrategia esencial para:",
+    "opciones": [
+      "Sostener y alimentar las innovaciones educativas.",
+      "Despedir a los maestros que no cumplen.",
+      "Vender servicios de consultoría externa.",
+      "Reemplazar las clases presenciales."
+    ],
+    "correcta": 0,
+    "explicacion": "Es una herramienta de formación profesional en servicio. Página 13 (Unidad 1)."
+  },
+  {
+    "id": 79,
+    "pregunta": "Un sistema menos individualista y más participativo es resultado de:",
+    "opciones": [
+      "La burocracia estatal.",
+      "La innovación educativa.",
+      "La competencia entre alumnos.",
+      "El control tecnológico remoto."
+    ],
+    "correcta": 1,
+    "explicacion": "La innovación dinamiza las instituciones hacia la participación. Página 12 (Unidad 1)."
+  },
+  {
+    "id": 80,
+    "pregunta": "Según Einstein (citado en el texto), no podemos pretender que las cosas cambien si:",
+    "opciones": [
+      "No tenemos más dinero.",
+      "Seguimos haciendo siempre lo mismo.",
+      "No compramos computadoras.",
+      "El gobierno no cambia las leyes."
+    ],
+    "correcta": 1,
+    "explicacion": "Frase célebre usada para motivar la ruptura con la rutina. Página 11 (Unidad 1)."
+  },
+  {
+    "id": 81,
+    "pregunta": "La innovación educativa busca que los estudiantes sean:",
+    "opciones": [
+      "Pasivos y receptores.",
+      "Protagonistas de su aprendizaje.",
+      "Solo expertos en tecnología.",
+      "Sumisos ante la autoridad."
+    ],
+    "correcta": 1,
+    "explicacion": "Se busca trascender el rol pasivo tradicional. Página 3 (Presentación)."
+  },
+  {
+    "id": 82,
+    "pregunta": "En la planificación de la innovación, es vital identificar a:",
+    "opciones": [
+      "Los promotores, participantes y beneficiarios.",
+      "A los que no quieren participar para castigarlos.",
+      "A los proveedores de materiales más baratos.",
+      "A los maestros con más años de servicio solamente."
+    ],
+    "correcta": 0,
+    "explicacion": "Conocer a los actores es clave para la viabilidad. Página 40 (Unidad 4)."
+  },
+  {
+    "id": 83,
+    "pregunta": "¿Qué implica que la innovación sea una 'cultura' y no una moda?",
+    "opciones": [
+      "Que se haga todos los días sin pensar.",
+      "Que sea una actitud crítica y constante de mejora.",
+      "Que sea obligatoria por ley.",
+      "Que se use uniforme especial para innovar."
+    ],
+    "correcta": 1,
+    "explicacion": "Debe ser una forma de ser de la institución. Página 11 (Unidad 1)."
+  },
+  {
+    "id": 84,
+    "pregunta": "La 'reflexión crítica constante' evita que la innovación caiga en:",
+    "opciones": [
+      "El éxito total.",
+      "La rutina.",
+      "La transparencia.",
+      "La colaboración."
+    ],
+    "correcta": 1,
+    "explicacion": "Sin crítica, lo nuevo se vuelve viejo y estático. Página 34 (Unidad 3)."
+  },
+  {
+    "id": 85,
+    "pregunta": "En el caso 'El agua', ¿cómo se evidenció el avance de los niños?",
+    "opciones": [
+      "Por sus notas en el examen de matemáticas.",
+      "Por la complejidad y profundidad de sus nuevas preguntas.",
+      "Porque ya no tomaban agua de la quebrada.",
+      "Porque ganaron un trofeo en el carnaval."
+    ],
+    "correcta": 1,
+    "explicacion": "La calidad de las preguntas demostró un cambio cognitivo. Página 48 (Unidad 4)."
+  }
+]

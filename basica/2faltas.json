@@ -1,0 +1,1682 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿A qué personal se aplica específicamente el régimen de imputabilidad establecido en la normativa disciplinaria del magisterio?",
+    "opciones": [
+      "Únicamente a maestros de aula del sector público.",
+      "A todo el personal comprendido en los artículos 20 y 21 del Reglamento del Escalafón Nacional.",
+      "Solo a directores de unidades educativas y personal administrativo de planta.",
+      "Exclusivamente a los funcionarios del Ministerio de Educación y Cultura."
+    ],
+    "correcta": 1,
+    "explicacion": "El artículo 1 establece que la imputabilidad recae sobre el personal definido en el Escalafón Nacional y organismos desconcentrados. Referencia: Capítulo Primero, Artículo 1."
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Cómo se procede legalmente si una falta cometida por un docente está tipificada como delito en el Código Penal?",
+    "opciones": [
+      "Se resuelve exclusivamente mediante el Reglamento de Faltas y Sanciones.",
+      "La autoridad educativa decide si se aplica la vía penal o la administrativa.",
+      "Se sustanciará según las normas del Código Penal y de Procedimiento Penal.",
+      "Se ignora el Código Penal para proteger el fuero sindical docente."
+    ],
+    "correcta": 2,
+    "explicacion": "Los delitos tipificados en el Código Penal deben seguir la vía judicial penal correspondiente, independientemente de las faltas administrativas. Referencia: Capítulo Primero, Artículo 2."
+  },
+  {
+    "id": 3,
+    "pregunta": "En el proceso disciplinario docente, ¿cuál es la condición indispensable para que una persona pueda ser sancionada?",
+    "opciones": [
+      "Haber sido oído y juzgado conforme a derecho.",
+      "Contar con el visto bueno de la federación departamental.",
+      "Que la falta sea denunciada por al menos tres padres de familia.",
+      "Haber admitido la culpa por escrito ante el Director General."
+    ],
+    "correcta": 0,
+    "explicacion": "El derecho de defensa es ineludible y nadie puede ser sancionado sin ser juzgado. Referencia: Capítulo Segundo, Artículo 3."
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué tipo de tribunales tienen prohibido juzgar a maestros, administrativos o autoridades educativas por infracciones disciplinarias?",
+    "opciones": [
+      "Los tribunales departamentales con sede en la capital.",
+      "Los tribunales conformados por maestros-abogados.",
+      "Las comisiones especiales o tribunales extraordinarios.",
+      "El Tribunal Nacional con sede en la ciudad de La Paz."
+    ],
+    "correcta": 2,
+    "explicacion": "La norma prohíbe explícitamente el juzgamiento por tribunales extraordinarios para garantizar el debido proceso. Referencia: Capítulo Segundo, Artículo 4."
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Bajo qué principio se protege al encauzado mientras no se pruebe su culpabilidad en un proceso disciplinario?",
+    "opciones": [
+      "Inamovilidad funcionaria temporal.",
+      "Presunción de inocencia.",
+      "Libertad de cátedra irrestricta.",
+      "Fuero sindical administrativo."
+    ],
+    "correcta": 1,
+    "explicacion": "Se presume la inocencia del encauzado mientras no se demuestre lo contrario. Referencia: Capítulo Segundo, Artículo 5."
+  },
+  {
+    "id": 6,
+    "pregunta": "¿En qué caso excepcional se permite la suspensión inmediata de un trabajador de la educación antes de comprobar su culpabilidad?",
+    "opciones": [
+      "Por la inasistencia a desfiles o actos cívicos oficiales.",
+      "Únicamente en el inciso a) de la tipificación de faltas muy graves.",
+      "Cuando exista resistencia manifiesta a órdenes superiores.",
+      "Por el consumo de cigarrillos dentro de los ambientes escolares."
+    ],
+    "correcta": 1,
+    "explicacion": "La suspensión previa solo procede en casos específicos de faltas muy graves definidos en el reglamento. Referencia: Capítulo Segundo, Artículo 6."
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Cómo se define conceptualmente una falta o infracción disciplinaria en el ejercicio docente?",
+    "opciones": [
+      "Como cualquier error cometido en la planificación de aula.",
+      "Como el incumplimiento de deberes constitucionales y obligaciones de la legislación educativa.",
+      "Como la diferencia de opiniones ideológicas con la autoridad superior.",
+      "Como la solicitud de licencias justificadas por motivos de salud."
+    ],
+    "correcta": 1,
+    "explicacion": "La falta es el incumplimiento de deberes constitucionales y normativas vigentes. Referencia: Capítulo Tercero, Artículo 7."
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Cuál es la clasificación jerárquica de las faltas según la normativa disciplinaria del magisterio?",
+    "opciones": [
+      "Simples, complejas y penales.",
+      "Administrativas, técnicas y pedagógicas.",
+      "Leves, graves y muy graves.",
+      "Internas, externas y mixtas."
+    ],
+    "correcta": 2,
+    "explicacion": "El reglamento clasifica las faltas en tres niveles de gravedad. Referencia: Capítulo Tercero, Artículo 8."
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Cuál de las siguientes acciones se tipifica como una falta leve?",
+    "opciones": [
+      "La extorsión a los alumnos ofreciendo calificaciones.",
+      "La suspensión de labores por cumpleaños y agasajos a directores.",
+      "El abandono del lugar de funciones por cinco días.",
+      "La suplantación de firmas en documentos oficiales."
+    ],
+    "correcta": 1,
+    "explicacion": "Agasajar a autoridades suspendiendo clases es una falta leve. Referencia: Capítulo Tercero, Artículo 9, inciso a."
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Qué constituye una falta leve respecto al cuidado de los bienes del establecimiento?",
+    "opciones": [
+      "El cambio de mobiliario nuevo por uno usado para beneficio propio.",
+      "La venta de material deportivo destinado a la institución.",
+      "La negligencia en el cuidado y conservación de los locales y mobiliario.",
+      "El alquiler de máquinas de la escuela a terceras personas."
+    ],
+    "correcta": 2,
+    "explicacion": "La falta de cuidado del mobiliario sin dolo de robo es falta leve. Referencia: Capítulo Tercero, Artículo 9, inciso b."
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Qué irregularidad documental es considerada falta leve en la labor docente?",
+    "opciones": [
+      "La falsificación de datos en informes oficiales.",
+      "La inexistencia de comprobantes de gastos económicos.",
+      "La no presentación oportuna del registro o plan de trabajo.",
+      "La suplantación de firmas en el libro de asistencia."
+    ],
+    "correcta": 2,
+    "explicacion": "El desorden o retraso en la entrega de documentos pedagógicos es falta leve. Referencia: Capítulo Tercero, Artículo 9, inciso c."
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Cómo se califica el trato descortés y despótico hacia los dependientes o el público?",
+    "opciones": [
+      "Falta muy grave.",
+      "Falta grave.",
+      "Falta leve.",
+      "No se considera falta si hay provocación previa."
+    ],
+    "correcta": 2,
+    "explicacion": "El trato descortés es parte de las indisciplinas tipificadas como leves. Referencia: Capítulo Tercero, Artículo 9, inciso d."
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Qué restricción específica existe sobre el consumo de tabaco en el ámbito educativo?",
+    "opciones": [
+      "Solo se permite en horarios de recreo.",
+      "Es una falta leve el consumo de cigarrillos en ambientes escolares.",
+      "Solo está prohibido para los estudiantes.",
+      "Es una falta grave que conlleva suspensión inmediata."
+    ],
+    "correcta": 1,
+    "explicacion": "Fumar en el colegio es una infracción disciplinaria leve. Referencia: Capítulo Tercero, Artículo 9, inciso e."
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Qué falta leve se comete al involucrar a los alumnos en tareas ajenas a la educación?",
+    "opciones": [
+      "Utilizar a los alumnos en mandados particulares o servicio doméstico.",
+      "Solicitar apoyo para la limpieza general del aula.",
+      "Organizar brigadas escolares de seguridad vial.",
+      "Pedir a los alumnos que ayuden en la feria de ciencias."
+    ],
+    "correcta": 0,
+    "explicacion": "El uso de estudiantes para fines personales es una infracción leve. Referencia: Capítulo Tercero, Artículo 9, inciso h."
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Cuándo una falta leve puede convertirse en el fundamento de una falta grave?",
+    "opciones": [
+      "Cuando la falta leve causa un daño económico superior a un sueldo.",
+      "Ante la reincidencia voluntaria en las faltas leves.",
+      "Si la falta leve es cometida por un directivo en lugar de un maestro.",
+      "Nunca; las faltas leves y graves son categorías totalmente separadas."
+    ],
+    "correcta": 1,
+    "explicacion": "La reincidencia en lo leve escala la gravedad de la infracción. Referencia: Capítulo Tercero, Artículo 10, inciso a."
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Qué calificación recibe la extorsión a los alumnos a cambio de ofrecer calificaciones?",
+    "opciones": [
+      "Falta muy grave.",
+      "Falta leve.",
+      "Falta grave.",
+      "Delito de orden privado únicamente."
+    ],
+    "correcta": 2,
+    "explicacion": "Prometer notas por dinero o favores es una falta grave. Referencia: Capítulo Tercero, Artículo 10, inciso b."
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Cuál es la falta grave relacionada con el trato a los padres de familia?",
+    "opciones": [
+      "No asistir a una reunión convocada por la junta escolar.",
+      "Hostigamiento o represalias por reclamaciones de los padres.",
+      "Olvidar enviar el comunicado de la reunión semanal.",
+      "Solicitar cuotas voluntarias aprobadas en asamblea general."
+    ],
+    "correcta": 1,
+    "explicacion": "Tomar represalias contra alumnos por quejas de sus padres es falta grave. Referencia: Capítulo Tercero, Artículo 10, inciso e."
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Qué situación escolar se considera falta grave respecto al rendimiento del aula?",
+    "opciones": [
+      "Que un alumno repruebe una materia técnica.",
+      "La deserción elevada de alumnos causada por malos tratos del maestro.",
+      "El bajo promedio general del curso en exámenes nacionales.",
+      "La falta de participación de los alumnos en actos cívicos."
+    ],
+    "correcta": 1,
+    "explicacion": "La ineptitud o maltrato que provoca deserción es una falta grave. Referencia: Capítulo Tercero, Artículo 10, inciso f."
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Bajo qué condiciones la asistencia a fiestas es considerada una falta grave?",
+    "opciones": [
+      "Asistir a una fiesta privada en fin de semana.",
+      "Organizar o asistir a fiestas con bebidas alcohólicas en el lugar de trabajo.",
+      "Participar en el agasajo por el día del maestro sin alcohol.",
+      "Asistir a un evento de la federación fuera del horario escolar."
+    ],
+    "correcta": 1,
+    "explicacion": "El consumo de alcohol en el centro laboral es falta grave. Referencia: Capítulo Tercero, Artículo 10, inciso g."
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Cuántos días de abandono de funciones en escuelas urbanas se requieren para calificar la falta como grave?",
+    "opciones": [
+      "Dos días continuos.",
+      "Hasta tres días con justificación.",
+      "Hasta cinco días sin licencia ni autorización.",
+      "Más de diez días hábiles."
+    ],
+    "correcta": 2,
+    "explicacion": "El abandono de hasta 5 días en áreas urbanas se tipifica como grave. Referencia: Capítulo Tercero, Artículo 10, inciso h."
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Qué conducta referida al manejo de fondos se considera falta grave?",
+    "opciones": [
+      "El uso indebido de fondos recaudados por donativos o cuotas.",
+      "No presentar el balance anual en la fecha exacta.",
+      "Depositar el dinero en una cuenta de ahorros personal por seguridad.",
+      "Utilizar los fondos para la compra de tizas y borradores."
+    ],
+    "correcta": 0,
+    "explicacion": "El mal uso de recaudaciones es una falta grave. Referencia: Capítulo Tercero, Artículo 10, inciso j."
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Qué constituye una falta grave en relación con la jerarquía y dignidad docente?",
+    "opciones": [
+      "Llamar la atención a un colega en una reunión de consejo.",
+      "El apercibimiento grave a un inferior en presencia de maestros o alumnos.",
+      "Solicitar un informe técnico a un subordinado por escrito.",
+      "Diferir con el Director en un consejo consultivo."
+    ],
+    "correcta": 1,
+    "explicacion": "Menoscabar la dignidad de un inferior ante terceros es falta grave. Referencia: Capítulo Tercero, Artículo 10, inciso k."
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Qué acción sobre documentos se tipifica como falta grave?",
+    "opciones": [
+      "Archivar documentos en carpetas no oficiales.",
+      "La entrega de documentos no públicos a personas ajenas al servicio.",
+      "Perder el sello personal de la dirección.",
+      "No fotocopiar los informes trimestrales."
+    ],
+    "correcta": 1,
+    "explicacion": "Revelar información reservada a terceros es falta grave. Referencia: Capítulo Tercero, Artículo 10, inciso l."
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Cuál es la falta grave relacionada con el uso de la identidad institucional?",
+    "opciones": [
+      "Olvidar colocar el sello en una nota de permiso.",
+      "El uso indebido de títulos, sellos o membretes oficiales.",
+      "Usar papel bond sin membrete para notas internas.",
+      "Tener un sello con un cargo que ya no ejerce por ascenso."
+    ],
+    "correcta": 1,
+    "explicacion": "El uso indebido de símbolos oficiales es falta grave. Referencia: Capítulo Tercero, Artículo 10, inciso m."
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Qué tipo de castigos están tipificados como falta grave?",
+    "opciones": [
+      "Asignar tareas extra de investigación pedagógica.",
+      "El empleo de castigos corporales o psicológicos contra la dignidad del alumno.",
+      "Solicitar la presencia de los padres por indisciplina.",
+      "Suspender el recreo por cinco minutos por desorden."
+    ],
+    "correcta": 1,
+    "explicacion": "Los castigos físicos o psicológicos son faltas graves. Referencia: Capítulo Tercero, Artículo 10, inciso p."
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Qué responsabilidad descuidada en actividades extracurriculares se considera falta grave?",
+    "opciones": [
+      "No llevar botiquín en una excursión.",
+      "El descuido y abandono de los alumnos durante visitas a museos o excursiones.",
+      "Olvidar pedir la autorización firmada de un padre.",
+      "Llegar tarde al punto de encuentro de la delegación."
+    ],
+    "correcta": 1,
+    "explicacion": "El abandono de alumnos en actividades externas es grave. Referencia: Capítulo Tercero, Artículo 10, inciso q."
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Qué acción sobre la infraestructura escolar se clasifica como falta grave?",
+    "opciones": [
+      "Dejar las luces encendidas después de la jornada.",
+      "El alquiler a favor de terceros de locales, máquinas o mobiliario escolar.",
+      "No pintar la fachada de la escuela anualmente.",
+      "Permitir que los alumnos usen las computadoras para juegos."
+    ],
+    "correcta": 1,
+    "explicacion": "Lucrar con el alquiler de bienes públicos es falta grave. Referencia: Capítulo Tercero, Artículo 10, inciso r."
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Cuándo se considera una falta como muy grave en relación a la reincidencia?",
+    "opciones": [
+      "Al repetir tres veces una falta leve.",
+      "Ante la reincidencia voluntaria en faltas graves.",
+      "Si el maestro tiene más de dos procesos abiertos en un año.",
+      "Cuando la reincidencia afecta a más de un establecimiento."
+    ],
+    "correcta": 1,
+    "explicacion": "Reincidir en faltas graves escala la categoría a muy grave. Referencia: Capítulo Tercero, Artículo 11, inciso a."
+  },
+  {
+    "id": 29,
+    "pregunta": "¿Qué irregularidad financiera se tipifica como falta muy grave?",
+    "opciones": [
+      "Perder el libro de caja de la promoción.",
+      "No rendir cuentas de dineros de rifas o quermeses en los términos de ley.",
+      "Gastar el dinero de la junta en papelería necesaria.",
+      "No tener tres cotizaciones para la compra de pintura."
+    ],
+    "correcta": 1,
+    "explicacion": "La omisión de rendición de cuentas de actividades públicas es falta muy grave. Referencia: Capítulo Tercero, Artículo 11, inciso b."
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Qué acción respecto a los exámenes se considera falta muy grave?",
+    "opciones": [
+      "Perder los exámenes ya calificados de un curso.",
+      "La venta de pruebas de exámenes.",
+      "Repetir las mismas preguntas del examen del año pasado.",
+      "Dar más tiempo de lo previsto para resolver una prueba."
+    ],
+    "correcta": 1,
+    "explicacion": "Vender exámenes es una falta de máxima gravedad. Referencia: Capítulo Tercero, Artículo 11, inciso d."
+  },
+  {
+    "id": 31,
+    "pregunta": "¿Qué conducta para obtener beneficios personales se clasifica como falta muy grave?",
+    "opciones": [
+      "Pedir permiso por motivos personales una vez al mes.",
+      "La simulación de enfermedad para obtener licencia usando certificados falsos.",
+      "Solicitar el cambio de turno por estudios universitarios.",
+      "No asistir a clases por participar en un congreso sindical."
+    ],
+    "correcta": 1,
+    "explicacion": "Falsificar certificados para obtener licencias es falta muy grave. Referencia: Capítulo Tercero, Artículo 11, inciso e."
+  },
+  {
+    "id": 32,
+    "pregunta": "¿Qué restricción existe sobre la acumulación de cargos docentes?",
+    "opciones": [
+      "Está permitida si los horarios no se cruzan.",
+      "Es falta muy grave la acumulación sin autorización por Resolución Suprema.",
+      "Solo se permite acumular en el sector privado.",
+      "No es una falta si el maestro tiene título de normalista."
+    ],
+    "correcta": 1,
+    "explicacion": "Acumular cargos sin la debida autorización jerárquica es falta muy grave. Referencia: Capítulo Tercero, Artículo 11, inciso f."
+  },
+  {
+    "id": 33,
+    "pregunta": "¿Qué falta muy grave atenta contra la salud pública en la escuela?",
+    "opciones": [
+      "Permitir la venta de comida chatarra en el quiosco.",
+      "La autorización del expendio de bebidas alcohólicas o drogas en el plantel.",
+      "No realizar campañas de vacunación escolar.",
+      "Permitir el ingreso de mascotas al aula."
+    ],
+    "correcta": 1,
+    "explicacion": "Autorizar venta de sustancias peligrosas es falta muy grave. Referencia: Capítulo Tercero, Artículo 11, inciso g."
+  },
+  {
+    "id": 34,
+    "pregunta": "¿Qué conducta pública del docente se tipifica como falta muy grave?",
+    "opciones": [
+      "Llegar tarde a un desfile escolar.",
+      "La presentación en el centro de trabajo en estado de ebriedad.",
+      "Participar en una manifestación política el fin de semana.",
+      "Discutir con un vecino fuera del horario de clases."
+    ],
+    "correcta": 1,
+    "explicacion": "Presentarse ebrio al trabajo es una falta muy grave. Referencia: Capítulo Tercero, Artículo 11, inciso h."
+  },
+  {
+    "id": 35,
+    "pregunta": "¿Qué irregularidad administrativa sobre haberes es una falta muy grave?",
+    "opciones": [
+      "Cobrar el sueldo con un día de retraso.",
+      "El cobro de haberes sin la correspondiente contraprestación de servicios.",
+      "No recoger la boleta de pago a tiempo.",
+      "Solicitar un anticipo de sueldo por emergencia médica."
+    ],
+    "correcta": 1,
+    "explicacion": "Cobrar sin trabajar es una falta administrativa muy grave. Referencia: Capítulo Tercero, Artículo 11, inciso i."
+  },
+  {
+    "id": 36,
+    "pregunta": "¿Qué acción sobre documentos oficiales es falta muy grave?",
+    "opciones": [
+      "Escribir con lapicero rojo en el registro.",
+      "La suplantación de firmas en documentos oficiales.",
+      "Perder un oficio recibido de la dirección departamental.",
+      "No foliar las hojas de un informe técnico."
+    ],
+    "correcta": 1,
+    "explicacion": "Falsificar firmas es una falta de extrema gravedad. Referencia: Capítulo Tercero, Artículo 11, inciso k."
+  },
+  {
+    "id": 37,
+    "pregunta": "¿Qué conducta política se considera una falta muy grave?",
+    "opciones": [
+      "Estar inscrito en un partido político legalmente reconocido.",
+      "La subalternización de la administración a intereses político-partidarios.",
+      "Votar en las elecciones nacionales.",
+      "Comentar noticias políticas en el recreo."
+    ],
+    "correcta": 1,
+    "explicacion": "Usar la gestión administrativa para fines partidistas es falta muy grave. Referencia: Capítulo Tercero, Artículo 11, inciso ll."
+  },
+  {
+    "id": 38,
+    "pregunta": "¿Qué delitos de integridad física y moral son calificados como faltas muy graves?",
+    "opciones": [
+      "Llegar a un acuerdo tras una pelea verbal.",
+      "Acoso sexual, estupro, violación y violencia física.",
+      "No saludar cordialmente a los colegas.",
+      "Manifestar opiniones divergentes en público."
+    ],
+    "correcta": 1,
+    "explicacion": "Los delitos graves contra la integridad son faltas administrativas muy graves. Referencia: Capítulo Tercero, Artículo 11, inciso m."
+  },
+  {
+    "id": 39,
+    "pregunta": "¿Cuál es una sanción establecida para las faltas leves?",
+    "opciones": [
+      "Suspensión de 15 días sin goce de haber.",
+      "Amonestación en privado y descuento de uno a cinco días de haber.",
+      "Destitución inmediata del cargo.",
+      "Postergación del ascenso de categoría por dos años."
+    ],
+    "correcta": 1,
+    "explicacion": "Las sanciones leves incluyen amonestaciones y descuentos cortos. Referencia: Capítulo Cuarto, Artículo 13, inciso a."
+  },
+  {
+    "id": 40,
+    "pregunta": "¿Cuál es la sanción máxima prevista para una falta grave?",
+    "opciones": [
+      "Retiro definitivo del ejercicio del Magisterio.",
+      "Suspensión de funciones hasta 60 días sin goce de haber.",
+      "Descuento del 10% del sueldo por tres meses.",
+      "Amonestación verbal en asamblea de padres."
+    ],
+    "correcta": 1,
+    "explicacion": "La suspensión de 15 a 60 días es la sanción para faltas graves. Referencia: Capítulo Cuarto, Artículo 13, inciso b."
+  },
+  {
+    "id": 41,
+    "pregunta": "¿Qué sanción se aplica ante la comisión de faltas muy graves?",
+    "opciones": [
+      "Traslado a una zona rural por dos años.",
+      "Postergación del ascenso de categoría por un año.",
+      "Retiro definitivo del Magisterio o destitución del cargo.",
+      "Multa equivalente a un salario mínimo."
+    ],
+    "correcta": 2,
+    "explicacion": "Las faltas muy graves conllevan el retiro o destitución definitiva. Referencia: Capítulo Cuarto, Artículo 13, inciso c."
+  },
+  {
+    "id": 42,
+    "pregunta": "¿Qué sucede con una sanción disciplinaria impuesta sin cumplir las normas procesales?",
+    "opciones": [
+      "Debe cumplirse de todas formas y luego reclamar.",
+      "Se tendrá por inexistente.",
+      "Es válida si cuenta con el apoyo del Director.",
+      "Se reduce a la mitad por el principio de favorabilidad."
+    ],
+    "correcta": 1,
+    "explicacion": "La falta de cumplimiento del procedimiento anula la sanción. Referencia: Capítulo Cuarto, Artículo 14."
+  },
+  {
+    "id": 43,
+    "pregunta": "¿Cómo está compuesto un tribunal disciplinario en el magisterio?",
+    "opciones": [
+      "Por un Presidente, un Vocal y un Secretario.",
+      "Por un Presidente, un Fiscal Promotor y un Secretario-Actuario.",
+      "Por el Director, un representante de padres y un maestro.",
+      "Por tres maestros elegidos por sorteo simple."
+    ],
+    "correcta": 1,
+    "explicacion": "La estructura legal del tribunal es de tres miembros específicos. Referencia: Capítulo Quinto, Artículo 15."
+  },
+  {
+    "id": 44,
+    "pregunta": "¿Qué sede y competencia tiene el Tribunal Disciplinario Nacional?",
+    "opciones": [
+      "Sede en cada capital y competencia de primera instancia.",
+      "Sede en La Paz y competencia para conocer apelaciones.",
+      "Sede rotativa y competencia para faltas leves.",
+      "Sede en Sucre y competencia penal docente."
+    ],
+    "correcta": 1,
+    "explicacion": "El Tribunal Nacional actúa como instancia de apelación en La Paz. Referencia: Capítulo Quinto, Artículo 16."
+  },
+  {
+    "id": 45,
+    "pregunta": "¿Quién preside el Tribunal Disciplinario Nacional?",
+    "opciones": [
+      "El Ministro de Educación.",
+      "El Director General de Educación.",
+      "El representante de la Confederación de Maestros.",
+      "El Fiscal General de la República."
+    ],
+    "correcta": 1,
+    "explicacion": "La presidencia del Tribunal Nacional recae en el Director General. Referencia: Capítulo Quinto, Artículo 16."
+  },
+  {
+    "id": 46,
+    "pregunta": "¿Cuál es la competencia de los tribunales disciplinarios departamentales?",
+    "opciones": [
+      "Conocer exclusivamente faltas leves.",
+      "Conocer en primera instancia denuncias de faltas graves y muy graves.",
+      "Revisar las apelaciones de los tribunales nacionales.",
+      "Asesorar a los padres de familia en temas legales."
+    ],
+    "correcta": 1,
+    "explicacion": "Los tribunales departamentales son de primera instancia para faltas no leves. Referencia: Capítulo Quinto, Artículo 17."
+  },
+  {
+    "id": 47,
+    "pregunta": "¿Qué requisito profesional deben cumplir los miembros de los tribunales disciplinarios?",
+    "opciones": [
+      "Ser maestros de base con 10 años de servicio.",
+      "Ser maestros-abogados de ascendencia y autoridad moral.",
+      "Tener un doctorado en pedagogía.",
+      "Haber sido directores de establecimiento."
+    ],
+    "correcta": 1,
+    "explicacion": "Se requiere que los miembros tengan formación jurídica y docente. Referencia: Capítulo Quinto, Artículo 18."
+  },
+  {
+    "id": 48,
+    "pregunta": "¿Qué criterio de jerarquía debe seguirse para conformar un tribunal respecto al encauzado?",
+    "opciones": [
+      "Los miembros deben ser siempre de rango inferior.",
+      "No importa la jerarquía, solo la antigüedad.",
+      "Los miembros deben ser de igual o superior jerarquía.",
+      "Solo pueden juzgar autoridades del Ministerio."
+    ],
+    "correcta": 2,
+    "explicacion": "La jerarquía del tribunal garantiza la idoneidad del juzgamiento. Referencia: Capítulo Quinto, Artículo 19."
+  },
+  {
+    "id": 49,
+    "pregunta": "¿Cuál es el límite para las excusas y recusaciones de los miembros del tribunal?",
+    "opciones": [
+      "Amistad cercana o enemistad manifiesta.",
+      "Parentesco consanguíneo hasta el cuarto grado o vínculo espiritual.",
+      "Diferencias de criterio pedagógico.",
+      "Pertenecer a diferentes sindicatos."
+    ],
+    "correcta": 1,
+    "explicacion": "La ley define el cuarto grado de consanguinidad como límite. Referencia: Capítulo Quinto, Artículo 21."
+  },
+  {
+    "id": 50,
+    "pregunta": "¿Quién tiene la autoridad para sancionar las faltas leves?",
+    "opciones": [
+      "El Tribunal Disciplinario Nacional.",
+      "La autoridad inmediata superior.",
+      "El consejo de profesores.",
+      "La junta escolar de padres de familia."
+    ],
+    "correcta": 1,
+    "explicacion": "Las faltas menores se resuelven por vía jerárquica directa. Referencia: Capítulo Quinto, Artículo 22."
+  },
+  {
+    "id": 51,
+    "pregunta": "¿De qué forma se puede interponer una denuncia disciplinaria?",
+    "opciones": [
+      "Únicamente mediante memorial abogado.",
+      "Verbalmente o por escrito ante la autoridad inmediata superior.",
+      "Mediante carta abierta en periódicos locales.",
+      "Por llamada telefónica anónima a la dirección."
+    ],
+    "correcta": 1,
+    "explicacion": "La denuncia puede ser verbal (con acta) o escrita. Referencia: Capítulo Sexto, Artículo 23."
+  },
+  {
+    "id": 52,
+    "pregunta": "¿En qué plazo debe remitirse una denuncia al Tribunal Departamental una vez recibida?",
+    "opciones": [
+      "Inmediatamente en el día.",
+      "Dentro de las 48 horas.",
+      "En un plazo de una semana.",
+      "Después de verificar las pruebas por 10 días."
+    ],
+    "correcta": 1,
+    "explicacion": "El traslado al tribunal debe ser ágil, en un máximo de 48 horas. Referencia: Capítulo Sexto, Artículo 24, inciso a."
+  },
+  {
+    "id": 53,
+    "pregunta": "¿Cuál es el término establecido para realizar la citación al imputado?",
+    "opciones": [
+      "12 horas.",
+      "24 horas.",
+      "48 horas.",
+      "72 horas."
+    ],
+    "correcta": 1,
+    "explicacion": "La citación debe realizarse en un plazo de un día. Referencia: Capítulo Sexto, Artículo 24, inciso b."
+  },
+  {
+    "id": 54,
+    "pregunta": "¿De cuántos días dispone el periodo probatorio en un proceso disciplinario?",
+    "opciones": [
+      "10 días hábiles.",
+      "15 días prorrogables.",
+      "20 días, prorrogable por razón de distancia.",
+      "30 días calendario."
+    ],
+    "correcta": 2,
+    "explicacion": "Se otorgan 20 días para la presentación de pruebas de cargo y descargo. Referencia: Capítulo Sexto, Artículo 24, inciso c."
+  },
+  {
+    "id": 55,
+    "pregunta": "¿En qué plazo debe emitirse el fallo tras concluir el proceso disciplinario?",
+    "opciones": [
+      "Al día siguiente.",
+      "3 días.",
+      "5 días.",
+      "10 días."
+    ],
+    "correcta": 2,
+    "explicacion": "El tribunal tiene 5 días para dictar su resolución final. Referencia: Capítulo Sexto, Artículo 24, inciso e."
+  },
+  {
+    "id": 56,
+    "pregunta": "¿Cuál es el tiempo límite para interponer un recurso de apelación?",
+    "opciones": [
+      "24 horas.",
+      "48 horas.",
+      "3 días.",
+      "5 días."
+    ],
+    "correcta": 2,
+    "explicacion": "La parte agraviada tiene 3 días para apelar el fallo. Referencia: Capítulo Sexto, Artículo 24, inciso f."
+  },
+  {
+    "id": 57,
+    "pregunta": "¿Dónde se presenta el recurso de apelación o alzada?",
+    "opciones": [
+      "Directamente ante el Ministro.",
+      "Ante el mismo tribunal que sentenció la causa.",
+      "En la oficina de la confederación sindical.",
+      "Ante un juez de partido en lo civil."
+    ],
+    "correcta": 1,
+    "explicacion": "La apelación se presenta ante el tribunal de origen para su remisión. Referencia: Capítulo Séptimo, Artículo 25."
+  },
+  {
+    "id": 58,
+    "pregunta": "¿Qué plazo tiene el tribunal de apelación para confirmar o revocar un fallo?",
+    "opciones": [
+      "5 días.",
+      "10 días.",
+      "15 días.",
+      "30 días."
+    ],
+    "correcta": 2,
+    "explicacion": "El Tribunal Nacional tiene 15 días para resolver la apelación. Referencia: Capítulo Séptimo, Artículo 26."
+  },
+  {
+    "id": 59,
+    "pregunta": "¿Qué documento legal otorga la calidad de 'cosa juzgada' al fallo del Tribunal Nacional?",
+    "opciones": [
+      "Un acta de acuerdo sindical.",
+      "La Resolución Ministerial emitida por el Ministerio de Educación.",
+      "La firma del sentenciado aceptando el castigo.",
+      "Un certificado emitido por el Secretario-Actuario."
+    ],
+    "correcta": 1,
+    "explicacion": "La Resolución Ministerial cierra la vía administrativa definitivamente. Referencia: Capítulo Séptimo, Artículo 27."
+  },
+  {
+    "id": 60,
+    "pregunta": "¿En qué tiempo deben ejecutarse los fallos disciplinarios tras la Resolución Ministerial?",
+    "opciones": [
+      "Inmediatamente.",
+      "Dentro de tres días.",
+      "Al inicio del siguiente mes.",
+      "En un plazo de 15 días hábiles."
+    ],
+    "correcta": 1,
+    "explicacion": "La ejecución administrativa debe cumplirse en un máximo de 3 días. Referencia: Capítulo Octavo, Artículo 28."
+  },
+  {
+    "id": 61,
+    "pregunta": "¿Dónde deben guardarse y custodiarse los expedientes de los procesos concluidos?",
+    "opciones": [
+      "En la dirección de la unidad educativa.",
+      "En el departamento de archivo del Ministerio de Educación y Cultura.",
+      "En la biblioteca personal del fiscal promotor.",
+      "En los archivos de la federación de maestros."
+    ],
+    "correcta": 1,
+    "explicacion": "El Ministerio centraliza el resguardo de los expedientes disciplinarios. Referencia: Capítulo Octavo, Artículo 29."
+  },
+  {
+    "id": 62,
+    "pregunta": "¿Cuál de estos actos se considera una falta leve por negligencia laboral?",
+    "opciones": [
+      "Llegar 5 minutos tarde una vez al año.",
+      "La incorrecta e inoportuna presentación de informes a autoridades.",
+      "No participar en el equipo de fútbol de maestros.",
+      "Hacer sugerencias de cambio curricular."
+    ],
+    "correcta": 1,
+    "explicacion": "La mala calidad o retraso en informes es negligencia leve. Referencia: Capítulo Tercero, Artículo 9, inciso c."
+  },
+  {
+    "id": 63,
+    "pregunta": "¿Qué falta grave se comete si un maestro recibe dinero para asegurar el ascenso de categoría de un colega?",
+    "opciones": [
+      "Falta grave por extorsión.",
+      "Falta muy grave por cobro de dinero para ascenso de categoría.",
+      "Falta leve por desorden administrativo.",
+      "No es falta si el dinero es para gastos de gestión."
+    ],
+    "correcta": 1,
+    "explicacion": "El cobro por ascensos o títulos es falta muy grave. Referencia: Capítulo Tercero, Artículo 11, inciso d."
+  },
+  {
+    "id": 64,
+    "pregunta": "¿Qué constituye la 'usurpación de funciones' según la normativa?",
+    "opciones": [
+      "Falta leve.",
+      "Falta grave.",
+      "Falta muy grave.",
+      "No está tipificado como falta."
+    ],
+    "correcta": 1,
+    "explicacion": "Ejercer funciones que no corresponden legalmente es falta grave. Referencia: Capítulo Tercero, Artículo 10, inciso n."
+  },
+  {
+    "id": 65,
+    "pregunta": "¿Qué sucede ante la inexistencia o alteración de comprobantes de gastos con fondos del establecimiento?",
+    "opciones": [
+      "Se considera falta leve si el monto es pequeño.",
+      "Es una falta muy grave.",
+      "Se resuelve con una amonestación escrita.",
+      "Es una falta grave por descuido."
+    ],
+    "correcta": 1,
+    "explicacion": "Alterar recibos o no tenerlos es una falta de máxima gravedad. Referencia: Capítulo Tercero, Artículo 11, inciso c."
+  },
+  {
+    "id": 66,
+    "pregunta": "¿Cuál es el término para remitir obrados tras una apelación?",
+    "opciones": [
+      "24 horas.",
+      "48 horas.",
+      "72 horas.",
+      "5 días."
+    ],
+    "correcta": 1,
+    "explicacion": "El envío de documentos al superior debe hacerse en 48 horas. Referencia: Capítulo Sexto, Artículo 24, inciso g."
+  },
+  {
+    "id": 67,
+    "pregunta": "¿Qué falta grave se relaciona con la venta de útiles escolares?",
+    "opciones": [
+      "Vender dulces en el recreo.",
+      "La venta o uso indebido de material escolar destinado a la institución.",
+      "Recomendar una librería específica a los padres.",
+      "Pedir a los alumnos que compren sus propios cuadernos."
+    ],
+    "correcta": 1,
+    "explicacion": "Comercializar materiales estatales o institucionales es grave. Referencia: Capítulo Tercero, Artículo 10, inciso i."
+  },
+  {
+    "id": 68,
+    "pregunta": "¿Cuál de estas situaciones es considerada una falta muy grave respecto al equipo de oficina?",
+    "opciones": [
+      "Olvidar apagar la máquina de escribir.",
+      "Cambiar máquinas o equipos nuevos por otros usados.",
+      "Prestar la engrapadora a un alumno.",
+      "No cubrir la computadora con su funda protectora."
+    ],
+    "correcta": 1,
+    "explicacion": "Sustituir bienes nuevos por viejos para beneficio propio es falta muy grave. Referencia: Capítulo Tercero, Artículo 11, inciso j."
+  },
+  {
+    "id": 69,
+    "pregunta": "¿Cómo se clasifica la inasistencia injustificada a desfiles o actos cívicos oficiales?",
+    "opciones": [
+      "Falta grave.",
+      "Falta muy grave.",
+      "Falta leve.",
+      "No es sancionable si es fin de semana."
+    ],
+    "correcta": 2,
+    "explicacion": "Faltar a actos patrióticos convocados es una falta leve. Referencia: Capítulo Tercero, Artículo 9, inciso g."
+  },
+  {
+    "id": 70,
+    "pregunta": "¿Qué tipo de sanción es la 'postergación de ascenso por un año'?",
+    "opciones": [
+      "Sanción leve.",
+      "Sanción grave.",
+      "Sanción muy grave.",
+      "Sanción extraordinaria."
+    ],
+    "correcta": 1,
+    "explicacion": "Retrasar el ascenso es una sanción para faltas graves. Referencia: Capítulo Cuarto, Artículo 13, inciso b."
+  },
+  {
+    "id": 71,
+    "pregunta": "¿Qué acción sobre certificados oficiales constituye una falta muy grave?",
+    "opciones": [
+      "Escribir el nombre del alumno con letra imprenta.",
+      "La alteración de certificados mediante raspado o borrado no salvado.",
+      "No entregar el certificado en un acto público.",
+      "Imprimir el certificado en papel de color diferente."
+    ],
+    "correcta": 1,
+    "explicacion": "Manipular físicamente certificados oficiales es falta muy grave. Referencia: Capítulo Tercero, Artículo 11, inciso l."
+  },
+  {
+    "id": 72,
+    "pregunta": "¿Qué falta leve se comete por el descuido de los materiales escolares?",
+    "opciones": [
+      "Prestar un libro a un colega.",
+      "Negligencia en el cuidado y conservación de locales y mobiliario.",
+      "Pedir nuevos materiales al Ministerio.",
+      "Organizar el estante de libros por color."
+    ],
+    "correcta": 1,
+    "explicacion": "El descuido no doloso de bienes es falta leve. Referencia: Capítulo Tercero, Artículo 9, inciso b."
+  },
+  {
+    "id": 73,
+    "pregunta": "¿Qué constituye la 'inmoralidad y los vicios' en el ejercicio docente?",
+    "opciones": [
+      "Falta leve.",
+      "Falta grave.",
+      "Falta muy grave.",
+      "No es competencia del reglamento."
+    ],
+    "correcta": 1,
+    "explicacion": "La conducta inmoral se tipifica como falta grave. Referencia: Capítulo Tercero, Artículo 10, inciso t."
+  },
+  {
+    "id": 74,
+    "pregunta": "¿Quién designa al Presidente de un Tribunal Departamental?",
+    "opciones": [
+      "El Ministro de Educación directamente.",
+      "El Director Departamental en corresponsabilidad con la Federación.",
+      "Los maestros mediante voto secreto.",
+      "La junta de padres de familia."
+    ],
+    "correcta": 1,
+    "explicacion": "La designación es conjunta entre autoridad y sindicato. Referencia: Capítulo Quinto, Artículo 18."
+  },
+  {
+    "id": 75,
+    "pregunta": "¿Qué sanción corresponde a la 'amonestación escrita'?",
+    "opciones": [
+      "Sanción por falta leve.",
+      "Sanción por falta grave.",
+      "Sanción por falta muy grave.",
+      "No es una sanción, es un aviso previo."
+    ],
+    "correcta": 0,
+    "explicacion": "La amonestación por escrito es una sanción para infracciones leves. Referencia: Capítulo Cuarto, Artículo 13, inciso a."
+  },
+  {
+    "id": 76,
+    "pregunta": "¿Qué falta muy grave involucra el cobro fraudulento de haberes?",
+    "opciones": [
+      "La autorización fraudulenta del cobro de haberes.",
+      "Cobrar el sueldo de un colega con su permiso.",
+      "Pedir que le paguen en efectivo en lugar de cheque.",
+      "No saber cuánto es su descuento de ley."
+    ],
+    "correcta": 0,
+    "explicacion": "Autorizar pagos ilegales es una falta administrativa muy grave. Referencia: Capítulo Tercero, Artículo 11, inciso i."
+  },
+  {
+    "id": 77,
+    "pregunta": "¿Cómo se califica la 'ineptitud o ineficiente labor manifiesta' en la gestión educativa?",
+    "opciones": [
+      "Falta leve.",
+      "Falta grave.",
+      "Falta muy grave.",
+      "Causal de jubilación forzosa."
+    ],
+    "correcta": 1,
+    "explicacion": "La ineficiencia probada es una falta grave. Referencia: Capítulo Tercero, Artículo 10, inciso ll."
+  },
+  {
+    "id": 78,
+    "pregunta": "¿Qué constituye la 'participación en la extensión de calificaciones a cambio de servicios'?",
+    "opciones": [
+      "Falta leve.",
+      "Falta grave.",
+      "Falta muy grave.",
+      "Delito de estafa únicamente."
+    ],
+    "correcta": 1,
+    "explicacion": "Intercambiar notas por servicios es una falta grave. Referencia: Capítulo Tercero, Artículo 10, inciso c."
+  },
+  {
+    "id": 79,
+    "pregunta": "¿Qué falta leve se comete al ignorar órdenes de superiores?",
+    "opciones": [
+      "La resistencia a órdenes superiores.",
+      "El debate pedagógico constructivo.",
+      "Solicitar aclaración de una orden por escrito.",
+      "No poder cumplir una orden por falta de recursos."
+    ],
+    "correcta": 0,
+    "explicacion": "La resistencia manifiesta es indisciplina leve. Referencia: Capítulo Tercero, Artículo 9, inciso d."
+  },
+  {
+    "id": 80,
+    "pregunta": "¿Qué sanción implica el 'descenso a un cargo inferior'?",
+    "opciones": [
+      "Sanción leve.",
+      "Sanción grave.",
+      "Sanción muy grave.",
+      "No está permitida esta sanción."
+    ],
+    "correcta": 1,
+    "explicacion": "Bajar de categoría o cargo es sanción para faltas graves. Referencia: Capítulo Cuarto, Artículo 13, inciso b."
+  },
+  {
+    "id": 81,
+    "pregunta": "¿Cuántos días de abandono se permiten en lugares alejados antes de ser falta grave?",
+    "opciones": [
+      "Hasta tres días.",
+      "Hasta cinco días.",
+      "Hasta siete días sin licencia.",
+      "Hasta diez días."
+    ],
+    "correcta": 2,
+    "explicacion": "En zonas rurales o alejadas el límite es de 7 días. Referencia: Capítulo Tercero, Artículo 10, inciso h."
+  },
+  {
+    "id": 82,
+    "pregunta": "¿Qué falta grave involucra la aceptación de regalos de alumnos a cambio de favores?",
+    "opciones": [
+      "Manejo indebido de fondos.",
+      "Aceptación de fiestas o regalos por favores.",
+      "Extorsión institucionalizada.",
+      "Falta de ética profesional leve."
+    ],
+    "correcta": 1,
+    "explicacion": "Recibir dádivas para dar beneficios es falta grave. Referencia: Capítulo Tercero, Artículo 10, inciso s."
+  },
+  {
+    "id": 83,
+    "pregunta": "¿Qué falta muy grave implica el fomento de grupos criminales?",
+    "opciones": [
+      "Participar en un sindicato no reconocido.",
+      "La organización de bandas delincuenciales.",
+      "Formar un grupo de estudio sin permiso.",
+      "Invitar a exalumnos a la escuela."
+    ],
+    "correcta": 1,
+    "explicacion": "Formar bandas es una falta de máxima gravedad. Referencia: Capítulo Tercero, Artículo 11, inciso m."
+  },
+  {
+    "id": 84,
+    "pregunta": "¿Qué sucede si un miembro del tribunal renuncia o es recusado?",
+    "opciones": [
+      "Se suspende el proceso indefinidamente.",
+      "La autoridad designante procede a reemplazarlo de inmediato.",
+      "El imputado queda libre de cargos.",
+      "El resto del tribunal asume sus funciones."
+    ],
+    "correcta": 1,
+    "explicacion": "El reemplazo debe ser inmediato para no detener el proceso. Referencia: Capítulo Quinto, Artículo 20."
+  },
+  {
+    "id": 85,
+    "pregunta": "¿Qué autoridad sanciona si un maestro no asiste a un desfile?",
+    "opciones": [
+      "El Tribunal Departamental.",
+      "La autoridad inmediata superior.",
+      "El Director Departamental.",
+      "El Ministro de Educación."
+    ],
+    "correcta": 1,
+    "explicacion": "Al ser falta leve (asistencia a actos), sanciona el superior jerárquico. Referencia: Capítulo Quinto, Artículo 22."
+  },
+  {
+    "id": 86,
+    "pregunta": "¿Qué tipo de sanción es el 'traslado del lugar de trabajo'?",
+    "opciones": [
+      "Sanción leve.",
+      "Sanción grave.",
+      "Sanción muy grave.",
+      "Medida cautelar únicamente."
+    ],
+    "correcta": 0,
+    "explicacion": "El traslado puede ser una sanción por falta leve. Referencia: Capítulo Cuarto, Artículo 13, inciso a."
+  },
+  {
+    "id": 87,
+    "pregunta": "¿En qué plazo debe notificarse con las actuaciones del tribunal?",
+    "opciones": [
+      "12 horas.",
+      "24 horas.",
+      "48 horas.",
+      "No hay plazo fijo."
+    ],
+    "correcta": 1,
+    "explicacion": "Toda notificación debe hacerse en un día. Referencia: Capítulo Sexto, Artículo 24, inciso d."
+  },
+  {
+    "id": 88,
+    "pregunta": "¿Qué falta grave se comete por exacciones a los padres de familia?",
+    "opciones": [
+      "Pedir cuotas para el desayuno escolar.",
+      "Realizar cobros arbitrarios o ilegales a los padres.",
+      "Solicitar donaciones de libros usados.",
+      "Pedir que pinten el aula de forma voluntaria."
+    ],
+    "correcta": 1,
+    "explicacion": "Las exacciones (cobros injustos) son faltas graves. Referencia: Capítulo Tercero, Artículo 10, inciso d."
+  },
+  {
+    "id": 89,
+    "pregunta": "¿Qué falta muy grave implica la obtención de renuncias bajo presión?",
+    "opciones": [
+      "La obtención de renuncias en blanco a los cargos.",
+      "Sugerir a un colega que se jubile.",
+      "Aceptar una renuncia voluntaria.",
+      "No tramitar una renuncia a tiempo."
+    ],
+    "correcta": 0,
+    "explicacion": "Forzar o tener renuncias en blanco es una falta muy grave. Referencia: Capítulo Tercero, Artículo 11, inciso k."
+  },
+  {
+    "id": 90,
+    "pregunta": "¿Qué falta muy grave se relaciona con el uso de sustancias prohibidas?",
+    "opciones": [
+      "Fumar tabaco en el baño.",
+      "La invitación al uso de substancias indebidas y peligrosas.",
+      "Tomar café en horas de clase.",
+      "Usar pegamento fuerte para manualidades."
+    ],
+    "correcta": 1,
+    "explicacion": "Inducir al consumo de drogas es una falta de extrema gravedad. Referencia: Capítulo Tercero, Artículo 11, inciso m."
+  },
+   {
+    "id": 91,
+    "pregunta": "¿Qué normativa internacional específica fundamenta el derecho ineludible de defensa del docente dentro del Reglamento de Faltas y Sanciones?",
+    "opciones": [
+      "La Declaración de los Derechos del Niño de 1959.",
+      "La Recomendación relativa a la situación del personal docente de la UNESCO (1966).",
+      "El Protocolo de San Salvador sobre derechos económicos y sociales.",
+      "La Convención Interamericana para Prevenir y Sancionar la Tortura."
+    ],
+    "correcta": 1,
+    "explicacion": "El reglamento cita explícitamente la recomendación de la UNESCO de 1966 como base para el derecho de defensa. Referencia: Capítulo Segundo, Artículo 3. [1]"
+  },
+  {
+    "id": 92,
+    "pregunta": "Dentro del proceso disciplinario del magisterio, ¿cuál es la única excepción que permite la suspensión inmediata del cargo antes de probar la culpabilidad?",
+    "opciones": [
+      "La comisión de faltas graves relacionadas con el abandono de funciones.",
+      "El trato descortés manifiesto hacia las autoridades superiores.",
+      "La reincidencia voluntaria en faltas graves (falta muy grave).",
+      "La inasistencia injustificada a desfiles y actos cívicos oficiales."
+    ],
+    "correcta": 2,
+    "explicacion": "Solo la reincidencia en faltas graves faculta la suspensión previa del trabajador. Referencia: Capítulo Segundo, Artículo 6. [1]"
+  },
+  {
+    "id": 93,
+    "pregunta": "¿Cómo se define el concepto de 'falta' en el marco del ejercicio de las funciones docentes y jerarquías educativas?",
+    "opciones": [
+      "Cualquier error involuntario cometido en la planificación de aula.",
+      "El incumplimiento de deberes constitucionales y obligaciones de la legislación educativa.",
+      "La discrepancia personal con el Director de la unidad educativa.",
+      "La no participación en actividades sindicales o gremiales del magisterio."
+    ],
+    "correcta": 1,
+    "explicacion": "La falta es el incumplimiento normado de deberes y leyes educativas vigentes. Referencia: Capítulo Tercero, Artículo 7. [2]"
+  },
+  {
+    "id": 94,
+    "pregunta": "¿Qué tipo de infracción constituye el desorden o la presentación incorrecta de registros, libretas y planes de trabajo?",
+    "opciones": [
+      "Falta grave por negligencia administrativa.",
+      "Falta muy grave si afecta el ascenso de categoría.",
+      "Falta leve.",
+      "No se considera falta si el maestro justifica el retraso."
+    ],
+    "correcta": 2,
+    "explicacion": "El manejo incorrecto o inoportuno de documentos pedagógicos es una falta leve. Referencia: Capítulo Tercero, Artículo 9, inciso c. [3]"
+  },
+  {
+    "id": 95,
+    "pregunta": "¿Cómo clasifica el Reglamento de Faltas y Sanciones el consumo de tabaco dentro de los ambientes escolares?",
+    "opciones": [
+      "Falta leve.",
+      "Falta grave si se realiza frente a los alumnos.",
+      "Falta muy grave por daño a la salud pública.",
+      "Inconducta moral no sujeta a sanción disciplinaria administrativa."
+    ],
+    "correcta": 0,
+    "explicacion": "El consumo de productos del tabaco en la escuela es una infracción leve. Referencia: Capítulo Tercero, Artículo 9, inciso e. [4]"
+  },
+  {
+    "id": 96,
+    "pregunta": "Dentro de las faltas graves, ¿qué acción se tipifica respecto al hostigamiento hacia los estudiantes por quejas de sus tutores?",
+    "opciones": [
+      "La amonestación verbal en privado.",
+      "El hostigamiento o represalia por reclamaciones de los padres de familia.",
+      "El traslado preventivo de unidad educativa.",
+      "La suspensión de un día de haber."
+    ],
+    "correcta": 1,
+    "explicacion": "Tomar represalias contra alumnos por quejas de sus padres es una falta grave. Referencia: Capítulo Tercero, Artículo 10, inciso e. [5]"
+  },
+  {
+    "id": 97,
+    "pregunta": "¿Bajo qué criterio la deserción elevada de alumnos se convierte en una falta grave para el maestro?",
+    "opciones": [
+      "Cuando los alumnos deciden trasladarse a colegios privados.",
+      "Cuando es causada por la ineptitud o malos tratos del maestro.",
+      "Si el número de alumnos es menor a 15 por aula.",
+      "Si ocurre durante el primer trimestre del año escolar."
+    ],
+    "correcta": 1,
+    "explicacion": "La deserción por maltrato docente compromete el derecho a la educación y es grave. Referencia: Capítulo Tercero, Artículo 10, inciso f. [6]"
+  },
+  {
+    "id": 98,
+    "pregunta": "¿Cuál es el periodo máximo de abandono de funciones permitido en lugares alejados antes de ser considerado una falta grave?",
+    "opciones": [
+      "Hasta tres días sin licencia.",
+      "Hasta cinco días calendario.",
+      "Hasta siete días sin licencia ni autorización.",
+      "Un día hábil si es el inicio de gestión."
+    ],
+    "correcta": 2,
+    "explicacion": "En zonas alejadas, el límite de abandono para falta grave es de 7 días. Referencia: Capítulo Tercero, Artículo 10, inciso h. [6]"
+  },
+  {
+    "id": 99,
+    "pregunta": "¿Qué infracción comete un docente que utiliza indebidamente material escolar o sanitario destinado a la institución?",
+    "opciones": [
+      "Falta leve por descuido de materiales.",
+      "Falta grave.",
+      "Falta muy grave si el monto es mayor a un salario mínimo.",
+      "Apropiación indebida sujeta solo a la vía penal."
+    ],
+    "correcta": 1,
+    "explicacion": "El uso indebido o venta de material destinado a la institución es falta grave. Referencia: Capítulo Tercero, Artículo 10, inciso i. [6]"
+  },
+  {
+    "id": 100,
+    "pregunta": "En el contexto de las relaciones jerárquicas, ¿qué constituye una falta grave al llamar la atención a un inferior?",
+    "opciones": [
+      "Solicitar informes escritos sobre el desempeño laboral.",
+      "El apercibimiento grave en presencia de maestros o alumnos.",
+      "Dar instrucciones precisas en un consejo técnico.",
+      "Sugerir cambios en la metodología de aula de forma privada."
+    ],
+    "correcta": 1,
+    "explicacion": "Menoscabar la autoridad del colega ante terceros es falta grave. Referencia: Capítulo Tercero, Artículo 10, inciso k. [7]"
+  },
+  {
+    "id": 101,
+    "pregunta": "¿Cómo se califica el alquiler de maquinaria o mobiliario escolar para fines particulares a favor de terceras personas?",
+    "opciones": [
+      "Falta leve.",
+      "Falta grave.",
+      "Falta muy grave.",
+      "Actividad lícita si el dinero se invierte en la escuela."
+    ],
+    "correcta": 1,
+    "explicacion": "Lucrar con el alquiler de bienes públicos escolares es una falta grave. Referencia: Capítulo Tercero, Artículo 10, inciso r. [8]"
+  },
+  {
+    "id": 102,
+    "pregunta": "¿Qué tipo de falta muy grave se comete al no depositar dineros recaudados por rifas o kermesses en los términos fijados?",
+    "opciones": [
+      "Falta grave por manejo descuidado.",
+      "Falta muy grave por omisión de depósitos.",
+      "Falta leve si el monto es simbólico.",
+      "Solo es falta si se demuestra que hubo robo."
+    ],
+    "correcta": 1,
+    "explicacion": "La omisión de depósito de fondos recaudados es una infracción muy grave. Referencia: Capítulo Tercero, Artículo 11, inciso b. [8]"
+  },
+  {
+    "id": 103,
+    "pregunta": "Dentro del Reglamento de Faltas y Sanciones, ¿qué gravedad tiene la venta de pruebas de exámenes por parte de un docente?",
+    "opciones": [
+      "Falta grave.",
+      "Falta leve.",
+      "Falta muy grave.",
+      "Causal de amonestación escrita únicamente."
+    ],
+    "correcta": 2,
+    "explicacion": "Comercializar con las evaluaciones es una falta de máxima gravedad. Referencia: Capítulo Tercero, Artículo 11, inciso d. [9]"
+  },
+  {
+    "id": 104,
+    "pregunta": "¿Bajo qué condición la acumulación de cargos docentes es considerada una falta muy grave?",
+    "opciones": [
+      "Cuando se superan las 72 horas semanales.",
+      "Si se realiza sin autorización expresa mediante Resolución Suprema.",
+      "Cuando los cargos pertenecen a distritos educativos diferentes.",
+      "Si el docente tiene menos de 10 años de servicio."
+    ],
+    "correcta": 1,
+    "explicacion": "Toda acumulación requiere autorización jerárquica vía Resolución Suprema. Referencia: Capítulo Tercero, Artículo 11, inciso f. [9]"
+  },
+  {
+    "id": 105,
+    "pregunta": "¿Qué infracción se comete al autorizar el consumo de drogas peligrosas en los alrededores del establecimiento educativo?",
+    "opciones": [
+      "Falta grave.",
+      "Falta muy grave.",
+      "Falta leve.",
+      "Delito de orden privado sin sanción administrativa."
+    ],
+    "correcta": 1,
+    "explicacion": "Autorizar o facilitar el consumo de drogas es una falta muy grave. Referencia: Capítulo Tercero, Artículo 11, inciso g. [10]"
+  },
+  {
+    "id": 106,
+    "pregunta": "¿Cómo se tipifica la promoción o sostenimiento de peleas (reyertas) en presencia de alumnos?",
+    "opciones": [
+      "Falta grave por inconducta.",
+      "Falta leve si no hay lesiones físicas.",
+      "Falta muy grave.",
+      "Falta sancionable con traslado de unidad."
+    ],
+    "correcta": 2,
+    "explicacion": "Fomentar peleas ante estudiantes es incompatible con el rol docente y es falta muy grave. Referencia: Capítulo Tercero, Artículo 11, inciso h. [10]"
+  },
+  {
+    "id": 107,
+    "pregunta": "Dentro de la normativa disciplinaria, ¿qué constituye la autorización fraudulenta del cobro de haberes?",
+    "opciones": [
+      "Falta leve.",
+      "Falta grave.",
+      "Falta muy grave.",
+      "Error administrativo corregible sin sanción."
+    ],
+    "correcta": 2,
+    "explicacion": "El cobro de sueldos sin trabajar o su autorización fraudulenta es falta muy grave. Referencia: Capítulo Tercero, Artículo 11, inciso i. [10]"
+  },
+  {
+    "id": 108,
+    "pregunta": "¿Qué acción respecto a los certificados oficiales (como títulos o libretas) se considera falta muy grave?",
+    "opciones": [
+      "La demora en la entrega de certificados a fin de año.",
+      "La alteración mediante raspado, borrado o enmienda no salvada.",
+      "Escribir los nombres del alumno con letra poco legible.",
+      "No colocar el sello de la dirección en el documento."
+    ],
+    "correcta": 1,
+    "explicacion": "Manipular o falsificar documentos oficiales es una infracción muy grave. Referencia: Capítulo Tercero, Artículo 11, inciso l. [11]"
+  },
+  {
+    "id": 109,
+    "pregunta": "¿Qué tipo de conducta violenta se incluye explícitamente como falta muy grave en el reglamento del magisterio?",
+    "opciones": [
+      "Discutir airadamente en un consejo de profesores.",
+      "La intimidación física o psíquica y la organización de bandas delincuenciales.",
+      "Llamar la atención a un alumno por no traer el uniforme.",
+      "No participar en las marchas convocadas por el sindicato."
+    ],
+    "correcta": 1,
+    "explicacion": "La violencia física o psíquica y el pandillerismo son faltas muy graves. Referencia: Capítulo Tercero, Artículo 11, inciso m. [11, 12]"
+  },
+  {
+    "id": 110,
+    "pregunta": "¿Cuál es el rango de descuento de haberes permitido para sancionar una falta leve?",
+    "opciones": [
+      "De uno a tres días.",
+      "De uno a cinco días.",
+      "Hasta diez días de haber.",
+      "El 10% del sueldo básico mensual."
+    ],
+    "correcta": 1,
+    "explicacion": "Las faltas leves conllevan descuentos cortos de hasta 5 días. Referencia: Capítulo Cuarto, Artículo 13, inciso a. [12]"
+  },
+  {
+    "id": 111,
+    "pregunta": "¿Qué sanción de suspensión se aplica a las faltas graves cometidas por el personal del magisterio?",
+    "opciones": [
+      "Suspensión de 5 a 10 días.",
+      "Suspensión de 15 a 60 días sin goce de haber.",
+      "Suspensión definitiva del ejercicio docente.",
+      "Suspensión únicamente durante las vacaciones escolares."
+    ],
+    "correcta": 1,
+    "explicacion": "La suspensión para faltas graves oscila entre 15 y 60 días sin sueldo. Referencia: Capítulo Cuarto, Artículo 13, inciso b. [13]"
+  },
+  {
+    "id": 112,
+    "pregunta": "¿Cuál es la sanción establecida para las faltas muy graves, como el acoso sexual o la falsificación de firmas?",
+    "opciones": [
+      "Descenso de categoría por dos años.",
+      "Traslado a una zona fronteriza.",
+      "Retiro definitivo del ejercicio del Magisterio o destitución del cargo.",
+      "Suspensión de funciones por 90 días."
+    ],
+    "correcta": 2,
+    "explicacion": "Las faltas muy graves resultan en la expulsión definitiva del sistema. Referencia: Capítulo Cuarto, Artículo 13, inciso c. [13]"
+  },
+  {
+    "id": 113,
+    "pregunta": "Según la organización de los tribunales disciplinarios, ¿en qué ciudad tiene su sede el Tribunal Disciplinario Nacional?",
+    "opciones": [
+      "Sucre, como capital del Estado.",
+      "Santa Cruz de la Sierra.",
+      "La Paz.",
+      "Cochabamba, por su ubicación central."
+    ],
+    "correcta": 2,
+    "explicacion": "El Tribunal Nacional tiene su sede oficial en la ciudad de La Paz. Referencia: Capítulo Quinto, Artículo 16. [14]"
+  },
+  {
+    "id": 114,
+    "pregunta": "¿Quién preside el Tribunal Disciplinario Nacional de acuerdo a la normativa vigente?",
+    "opciones": [
+      "El Ministro de Educación y Cultura.",
+      "El Director General de Educación.",
+      "El Viceministro de Educación Regular.",
+      "El Fiscal General del Magisterio."
+    ],
+    "correcta": 1,
+    "explicacion": "La presidencia del máximo tribunal docente recae en el Director General. Referencia: Capítulo Quinto, Artículo 16. [14]"
+  },
+  {
+    "id": 115,
+    "pregunta": "¿Qué competencia específica tienen los tribunales disciplinarios departamentales?",
+    "opciones": [
+      "Resolver las apelaciones del Tribunal Nacional.",
+      "Conocer en primera instancia denuncias de faltas graves y muy graves.",
+      "Sancionar directamente faltas leves de los directores.",
+      "Supervisar el proceso de ascenso de categoría."
+    ],
+    "correcta": 1,
+    "explicacion": "Los tribunales departamentales actúan como primera instancia para infracciones no leves. Referencia: Capítulo Quinto, Artículo 17. [14]"
+  },
+  {
+    "id": 116,
+    "pregunta": "En cuanto a la formación profesional, ¿quiénes deben conformar los tribunales disciplinarios nacionales y departamentales?",
+    "opciones": [
+      "Maestros con más de 20 años de servicio únicamente.",
+      "Maestros-abogados de ascendencia y autoridad moral.",
+      "Abogados externos al Ministerio de Educación.",
+      "Representantes directos de los padres de familia."
+    ],
+    "correcta": 1,
+    "explicacion": "Se requiere personal con formación tanto en educación como en derecho. Referencia: Capítulo Quinto, Artículo 18. [14]"
+  },
+  {
+    "id": 117,
+    "pregunta": "¿Qué requisito de jerarquía debe cumplirse para los miembros de un tribunal respecto al personal encauzado?",
+    "opciones": [
+      "Deben ser siempre de la misma unidad educativa.",
+      "Deben ser de igual o superior jerarquía a la de los encauzados.",
+      "No existe requisito de jerarquía, solo de antigüedad.",
+      "Deben ser de jerarquía inferior para asegurar imparcialidad."
+    ],
+    "correcta": 1,
+    "explicacion": "Para juzgar a un par o superior se requiere idoneidad jerárquica. Referencia: Capítulo Quinto, Artículo 19. [14]"
+  },
+  {
+    "id": 118,
+    "pregunta": "¿Bajo qué causales específicas pueden interponerse excusas y recusaciones contra los miembros del tribunal?",
+    "opciones": [
+      "Diferencias ideológicas o políticas.",
+      "Parentesco consanguíneo hasta el cuarto grado o vínculo espiritual.",
+      "Haber trabajado en el mismo distrito educativo anteriormente.",
+      "Pertenecer a diferentes federaciones sindicales."
+    ],
+    "correcta": 1,
+    "explicacion": "Las causales de excusa se limitan a vínculos familiares o espirituales directos. Referencia: Capítulo Quinto, Artículo 21. [14]"
+  },
+  {
+    "id": 119,
+    "pregunta": "¿Quién tiene la autoridad para sancionar las faltas leves en el ejercicio docente?",
+    "opciones": [
+      "El Tribunal Departamental.",
+      "La autoridad inmediata superior.",
+      "El Consejo de Profesores.",
+      "El Tribunal Nacional por delegación."
+    ],
+    "correcta": 1,
+    "explicacion": "Las infracciones leves se resuelven por la vía administrativa directa del superior. Referencia: Capítulo Quinto, Artículo 22. [14]"
+  },
+  {
+    "id": 120,
+    "pregunta": "¿Qué procedimiento debe seguirse si una denuncia disciplinaria se realiza de forma verbal?",
+    "opciones": [
+      "Debe rechazarse hasta que se presente por escrito.",
+      "El funcionario que la reciba debe sentar un acta.",
+      "Debe grabarse en video para que tenga validez legal.",
+      "Se debe convocar a una asamblea de padres de familia."
+    ],
+    "correcta": 1,
+    "explicacion": "La denuncia verbal es válida siempre que se registre en un acta oficial. Referencia: Capítulo Sexto, Artículo 23. [15]"
+  },
+  {
+    "id": 121,
+    "pregunta": "¿Cuál es el plazo establecido para remitir una denuncia al Tribunal Departamental una vez recibida por la autoridad?",
+    "opciones": [
+      "24 horas.",
+      "48 horas.",
+      "72 horas.",
+      "Cinco días hábiles."
+    ],
+    "correcta": 1,
+    "explicacion": "La autoridad debe derivar la denuncia al tribunal en un máximo de 48 horas. Referencia: Capítulo Sexto, Artículo 24, inciso a. [16]"
+  },
+  {
+    "id": 122,
+    "pregunta": "¿Qué término procesal dispone el tribunal disciplinario para realizar la citación al imputado?",
+    "opciones": [
+      "12 horas.",
+      "24 horas.",
+      "48 horas.",
+      "Un día hábil después de recibir la denuncia."
+    ],
+    "correcta": 1,
+    "explicacion": "La citación debe ser expedita, realizándose en un plazo de 24 horas. Referencia: Capítulo Sexto, Artículo 24, inciso b. [16]"
+  },
+  {
+    "id": 123,
+    "pregunta": "¿De cuántos días es el periodo probatorio para la presentación de pruebas de cargo y descargo?",
+    "opciones": [
+      "10 días hábiles.",
+      "15 días prorrogables.",
+      "20 días, con posible prórroga por distancia.",
+      "30 días calendario."
+    ],
+    "correcta": 2,
+    "explicacion": "Se otorgan 20 días para la fase de pruebas del proceso disciplinario. Referencia: Capítulo Sexto, Artículo 24, inciso c. [16]"
+  },
+  {
+    "id": 124,
+    "pregunta": "¿En qué plazo debe el tribunal disciplinario dictar su fallo tras concluir las actuaciones?",
+    "opciones": [
+      "24 horas.",
+      "3 días.",
+      "5 días.",
+      "10 días."
+    ],
+    "correcta": 2,
+    "explicacion": "El tribunal tiene 5 días para emitir su resolución final. Referencia: Capítulo Sexto, Artículo 24, inciso e. [16]"
+  },
+  {
+    "id": 125,
+    "pregunta": "¿Cuál es el tiempo límite para presentar un recurso de apelación ante el tribunal que sentenció la causa?",
+    "opciones": [
+      "24 horas.",
+      "48 horas.",
+      "3 días.",
+      "5 días."
+    ],
+    "correcta": 2,
+    "explicacion": "La parte agraviada tiene 3 días para apelar el fallo. Referencia: Capítulo Sexto, Artículo 24, inciso f. [17]"
+  },
+  {
+    "id": 126,
+    "pregunta": "En un proceso disciplinario, ¿dónde se debe presentar formalmente el recurso de apelación?",
+    "opciones": [
+      "Directamente ante el Tribunal Nacional en La Paz.",
+      "Ante el mismo tribunal que sentenció la causa.",
+      "Ante el Ministerio de Trabajo.",
+      "Ante la Confederación de Maestros."
+    ],
+    "correcta": 1,
+    "explicacion": "El recurso se interpone ante el tribunal de origen para que este remita obrados. Referencia: Capítulo Séptimo, Artículo 25. [17]"
+  },
+  {
+    "id": 127,
+    "pregunta": "¿Qué plazo tiene el Tribunal Nacional para confirmar o revocar un fallo de primera instancia?",
+    "opciones": [
+      "5 días.",
+      "10 días.",
+      "15 días.",
+      "30 días."
+    ],
+    "correcta": 2,
+    "explicacion": "El tribunal de apelación debe resolver en un término de 15 días. Referencia: Capítulo Séptimo, Artículo 26. [17]"
+  },
+  {
+    "id": 128,
+    "pregunta": "¿Mediante qué instrumento legal se emite la resolución final del Tribunal Nacional, adquiriendo calidad de cosa juzgada?",
+    "opciones": [
+      "Un Auto de Vista.",
+      "Una Resolución Ministerial.",
+      "Un Decreto Supremo.",
+      "Una Sentencia Administrativa Ejecutoriada."
+    ],
+    "correcta": 1,
+    "explicacion": "La Resolución Ministerial cierra la vía administrativa disciplinaria. Referencia: Capítulo Séptimo, Artículo 27. [17]"
+  },
+  {
+    "id": 129,
+    "pregunta": "¿En qué tiempo deben las autoridades administrativas cumplir los fallos tras recibir la Resolución Ministerial?",
+    "opciones": [
+      "Inmediatamente en el día.",
+      "Dentro de tres días.",
+      "En un plazo de 15 días hábiles.",
+      "Al inicio del siguiente mes de pago."
+    ],
+    "correcta": 1,
+    "explicacion": "La ejecución debe ser rápida, en un máximo de 3 días. Referencia: Capítulo Octavo, Artículo 28. [18]"
+  },
+  {
+    "id": 130,
+    "pregunta": "¿Dónde se guardan y custodian los expedientes de los procesos disciplinarios una vez concluidos?",
+    "opciones": [
+      "En la Dirección Departamental de Educación.",
+      "En el departamento de archivo del Ministerio de Educación y Cultura.",
+      "En el Archivo General de la Nación.",
+      "En las oficinas de la unidad educativa de origen."
+    ],
+    "correcta": 1,
+    "explicacion": "La custodia central de expedientes corresponde al Ministerio de Educación. Referencia: Capítulo Octavo, Artículo 29. [18]"
+  },
+  {
+    "id": 131,
+    "pregunta": "¿Qué acción se debe realizar con la copia legalizada de una sentencia disciplinaria docente?",
+    "opciones": [
+      "Se debe destruir después de cinco años.",
+      "Se incluirá en el expediente personal (RDA) del interesado.",
+      "Se debe publicar en la página web del sindicato.",
+      "Se envía únicamente a la junta de padres de familia."
+    ],
+    "correcta": 1,
+    "explicacion": "Las sanciones deben registrarse en el expediente personal del docente. Referencia: Capítulo Octavo, Artículo 29. [18]"
+  },
+  {
+    "id": 132,
+    "pregunta": "Dentro de las faltas leves, ¿qué constituye la suspensión de labores por agasajos a directores?",
+    "opciones": [
+      "Falta leve.",
+      "Falta grave si dura más de dos horas.",
+      "Práctica pedagógica aceptable si se recupera el tiempo.",
+      "Derecho laboral reconocido en el Escalafón."
+    ],
+    "correcta": 0,
+    "explicacion": "Suspender clases por cumpleaños o agasajos es una falta leve. Referencia: Capítulo Tercero, Artículo 9, inciso a. [3]"
+  },
+  {
+    "id": 133,
+    "pregunta": "¿Qué tipo de falta es la resistencia manifiesta a las órdenes superiores dentro de la jerarquía educativa?",
+    "opciones": [
+      "Falta grave.",
+      "Falta muy grave.",
+      "Falta leve.",
+      "No es falta si la orden es de carácter pedagógico."
+    ],
+    "correcta": 2,
+    "explicacion": "La indisciplina o resistencia a órdenes es catalogada como falta leve. Referencia: Capítulo Tercero, Artículo 9, inciso d. [4]"
+  },
+  {
+    "id": 134,
+    "pregunta": "En el contexto de faltas graves, ¿qué constituye la extorsión a los alumnos?",
+    "opciones": [
+      "Pedir cuotas para el mantenimiento del aula.",
+      "La extorsión ofreciendo calificaciones a cambio de beneficios.",
+      "Sugerir la compra de un libro de texto específico.",
+      "Organizar una kermesse obligatoria para los estudiantes."
+    ],
+    "correcta": 1,
+    "explicacion": "Prometer notas por favores o dinero es una falta grave de extorsión. Referencia: Capítulo Tercero, Artículo 10, inciso b. [5]"
+  },
+  {
+    "id": 135,
+    "pregunta": "¿Cómo se tipifica la ineficiencia manifiesta en la gestión administrativa de la educación?",
+    "opciones": [
+      "Falta leve.",
+      "Falta grave.",
+      "Falta muy grave.",
+      "Causal de jubilación forzosa únicamente."
+    ],
+    "correcta": 1,
+    "explicacion": "La mala gestión administrativa es considerada una falta grave. Referencia: Capítulo Tercero, Artículo 10, inciso ll. [7]"
+  },
+  {
+    "id": 136,
+    "pregunta": "¿Qué infracción comete un docente al obtener renuncias en blanco a los cargos de sus subordinados?",
+    "opciones": [
+      "Falta grave por abuso de autoridad.",
+      "Falta muy grave.",
+      "Falta leve.",
+      "No es falta si el subordinado firma voluntariamente."
+    ],
+    "correcta": 1,
+    "explicacion": "Forzar o poseer renuncias en blanco es una infracción muy grave. Referencia: Capítulo Tercero, Artículo 11, inciso k. [11]"
+  },
+  {
+    "id": 137,
+    "pregunta": "¿Qué tipo de sanción es la 'postergación de ascenso por un año'?",
+    "opciones": [
+      "Sanción por falta leve.",
+      "Sanción por falta grave.",
+      "Sanción por falta muy grave.",
+      "Sanción extraordinaria para directores."
+    ],
+    "correcta": 1,
+    "explicacion": "El retraso en el ascenso es una de las sanciones para faltas graves. Referencia: Capítulo Cuarto, Artículo 13, inciso b. [13]"
+  },
+  {
+    "id": 138,
+    "pregunta": "¿Quién designa al Fiscal Promotor de un Tribunal Disciplinario Departamental?",
+    "opciones": [
+      "El Director Departamental de Educación.",
+      "El Ministerio de Educación en corresponsabilidad con la Confederación.",
+      "La Federación Departamental de Maestros.",
+      "La Asamblea Legislativa Departamental."
+    ],
+    "correcta": 1,
+    "explicacion": "La designación del Fiscal es responsabilidad del Ministerio y la Confederación. Referencia: Capítulo Quinto, Artículo 18. [14]"
+  },
+  {
+    "id": 139,
+    "pregunta": "Según el reglamento, ¿qué sucede si se aplica una sanción sin cumplir con las normas procesales establecidas?",
+    "opciones": [
+      "La sanción se reduce a la mitad.",
+      "La sanción se tendrá por inexistente.",
+      "El docente debe cumplirla y luego demandar daños.",
+      "Se convalida si el Director Departamental la firma."
+    ],
+    "correcta": 1,
+    "explicacion": "La nulidad de pleno derecho aplica a sanciones fuera de proceso. Referencia: Capítulo Cuarto, Artículo 14. [13]"
+  },
+  {
+    "id": 140,
+    "pregunta": "¿Qué falta muy grave atenta contra la integridad ética al subalternizar la administración a intereses partidarios?",
+    "opciones": [
+      "Falta grave por proselitismo.",
+      "Falta muy grave en desmedro de la docencia.",
+      "Falta leve por opiniones políticas.",
+      "No es falta si el partido está en función de gobierno."
+    ],
+    "correcta": 1,
+    "explicacion": "Poner la gestión al servicio de partidos es una falta muy grave. Referencia: Capítulo Tercero, Artículo 11, inciso ll. [11]"
+  }
+]

@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AscensoIA - Sistema de Estudio para el Ascenso de Categoría</title>
+    <!-- Meta Descriptions for SEO -->
+    <meta name="description"
+        content="Sistema interactivo de estudio y simulacro de examen diseñado especialmente para maestros en preparación para el examen de ascenso de categoría docente.">
+    <!-- FontAwesome for Premium Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Main Style Sheet -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body data-theme="light">
+    <!-- Login Overlay -->
+    <div id="login-overlay"
+        style="position: fixed; inset: 0; z-index: 99999; background: #0f172a; background-image: radial-gradient(at 0% 0%, rgba(56, 189, 248, 0.15) 0px, transparent 50%), radial-gradient(at 100% 100%, rgba(139, 92, 246, 0.15) 0px, transparent 50%), radial-gradient(at 100% 0%, rgba(99, 102, 241, 0.15) 0px, transparent 50%); display: flex; align-items: center; justify-content: center; overflow: hidden;">
+
+        <!-- Animated Tech Grid Background -->
+        <div
+            style="position: absolute; inset: 0; background-image: linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px); background-size: 40px 40px; z-index: -1;">
+        </div>
+
+        <div class="login-card"
+            style="background: rgba(15, 23, 42, 0.7); backdrop-filter: blur(24px); -webkit-backdrop-filter: blur(24px); padding: 50px 40px; border-radius: 24px; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5), inset 0 1px 1px rgba(255,255,255,0.1); max-width: 420px; width: 90%; border: 1px solid rgba(255,255,255,0.1); text-align: center; animation: fadeIn 0.8s cubic-bezier(0.16, 1, 0.3, 1);">
+            <div style="margin-bottom: 20px; position: relative; display: inline-block;">
+                <div
+                    style="position: absolute; inset: -10px; background: linear-gradient(135deg, #38bdf8, #8b5cf6); filter: blur(20px); opacity: 0.5; border-radius: 50%;">
+                </div>
+                <img src="logo/logo.png" alt="AscensoIA Logo"
+                    style="width: 85px; height: 85px; object-fit: cover; border-radius: 20px; position: relative; box-shadow: 0 10px 25px rgba(0,0,0,0.3); border: 2px solid rgba(255,255,255,0.1); background: #ffffff;">
+            </div>
+            <h2 style="font-size: 28px; margin-bottom: 8px; color: #f8fafc; font-weight: 800; letter-spacing: -0.5px;">
+                AscensoIA</h2>
+            <p style="color: #94a3b8; margin-bottom: 35px; font-size: 15px; line-height: 1.5;">Plataforma inteligente de
+                preparación.<br>Ingresa tu contraseña de acceso.</p>
+
+            <div style="position: relative; margin-bottom: 25px; text-align: left;">
+                <label
+                    style="display: block; margin-bottom: 10px; font-weight: 600; font-size: 14px; color: #e2e8f0;">Contraseña
+                    Segura</label>
+                <div style="position: relative;">
+                    <i class="fa-solid fa-lock"
+                        style="position: absolute; left: 16px; top: 50%; transform: translateY(-50%); color: #64748b;"></i>
+                    <input type="password" id="login-password-input" placeholder="Escribe aquí tu acceso..."
+                        style="width: 100%; padding: 15px 44px; border-radius: 14px; border: 1px solid rgba(255,255,255,0.15); background: rgba(0,0,0,0.3); color: #f8fafc; font-size: 15px; outline: none; transition: all 0.3s; box-sizing: border-box;"
+                        onkeydown="if(event.key === 'Enter') checkLogin()"
+                        onfocus="this.style.borderColor='#38bdf8'; this.style.boxShadow='0 0 0 4px rgba(56, 189, 248, 0.1)';"
+                        onblur="this.style.borderColor='rgba(255,255,255,0.15)'; this.style.boxShadow='none';">
+                    <button onclick="togglePasswordVisibility()"
+                        style="position: absolute; right: 16px; top: 50%; transform: translateY(-50%); background: none; border: none; color: #64748b; cursor: pointer; font-size: 16px; padding: 0;"><i
+                            class="fa-solid fa-eye" id="login-eye-icon"></i></button>
+                </div>
+                <div id="login-error-msg"
+                    style="color: #ef4444; font-size: 13px; margin-top: 8px; display: none; font-weight: 500;">
+                    <i class="fa-solid fa-circle-exclamation"></i> Acceso denegado. Contraseña incorrecta.
+                </div>
+            </div>
+
+            <button onclick="checkLogin()"
+                style="width: 100%; display: flex; align-items: center; justify-content: center; font-size: 16px; font-weight: 600; padding: 16px; border-radius: 14px; background: linear-gradient(135deg, #3b82f6, #4f46e5); border: none; color: #fff; box-shadow: 0 10px 20px -5px rgba(79, 70, 229, 0.4); transition: transform 0.2s, box-shadow 0.2s; cursor: pointer;"
+                onmouseover="this.style.transform='translateY(-2px)';"
+                onmouseout="this.style.transform='translateY(0)';">
+                Ingresar al Sistema <i class="fa-solid fa-arrow-right" style="margin-left: 8px;"></i>
+            </button>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="glass">
+        <div class="container header-container">
+            <a href="#" class="logo" id="logo-link" onclick="showDashboard()">
+                <div class="logo-icon" style="background: transparent; padding: 0;">
+                    <img src="logo/logo.png" alt="Logo"
+                        style="width: 38px; height: 38px; object-fit: contain; border-radius: 8px; display: block;">
+                </div>
+                <div class="logo-text">
+                    <h1>AscensoIA</h1>
+                    <span>Ascenso de Categoría</span>
+                </div>
+            </a>
+
+            <div class="nav-controls">
+                <button id="history-btn" class="btn-icon" title="Ver Historial de Exámenes">
+                    <i class="fa-solid fa-clock-rotate-left"></i>
+                </button>
+                <button id="theme-toggle" class="btn-icon" title="Cambiar Tema (Oscuro/Claro)">
+                    <i class="fa-solid fa-moon"></i>
+                </button>
+                <button onclick="logout()" class="btn-icon" title="Cerrar Sesión" style="color: var(--danger);">
+                    <i class="fa-solid fa-right-from-bracket"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Container -->
+    <main class="container">
+
+        <!-- 1. HOME SCREEN / DASHBOARD -->
+        <section id="dashboard-section" class="page-section active">
+            <!-- Stats Grid -->
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-icon"><i class="fa-solid fa-clipboard-check"></i></div>
+                    <div class="stat-info">
+                        <div class="stat-val" id="stats-completed">0</div>
+                        <div class="stat-label">Exámenes Realizados</div>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon success"><i class="fa-solid fa-percent"></i></div>
+                    <div class="stat-info">
+                        <div class="stat-val" id="stats-accuracy">0%</div>
+                        <div class="stat-label">Promedio de Aciertos</div>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon warning"><i class="fa-solid fa-book-open"></i></div>
+                    <div class="stat-info">
+                        <div class="stat-val" id="stats-study-progress">0</div>
+                        <div class="stat-label">Preguntas Estudiadas</div>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-icon danger"><i class="fa-solid fa-trophy"></i></div>
+                    <div class="stat-info">
+                        <div class="stat-val" id="stats-best-score">0%</div>
+                        <div class="stat-label">Mejor Puntaje</div>
+                    </div>
+                </div>
+            </div>
+
+            <div style="margin-bottom: 40px;">
+                <h2 class="modes-title" style="display:flex; align-items:center; gap:10px;">
+                    <i class="fa-solid fa-bolt" style="color:var(--warning);"></i> Material de Estudio
+                </h2>
+                <div class="modes-grid"
+                    style="grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); margin-bottom: 10px;">
+                    <!-- Audios Card -->
+                    <div class="mode-card materials" onclick="switchSection('materials'); switchMaterialTab('audios');"
+                        style="cursor:pointer; background: linear-gradient(135deg, #10b981, #047857); border: none; box-shadow: 0 10px 20px rgba(16, 185, 129, 0.25); color: #ffffff; text-align: center; display: flex; flex-direction: column; align-items: center; padding: 25px 20px; transition: transform 0.3s ease, box-shadow 0.3s ease; position: relative; overflow: hidden;">
+                        <div style="position: absolute; top: -10px; right: -15px; opacity: 0.15;"><i
+                                class="fa-solid fa-circle-play" style="font-size: 120px;"></i></div>
+                        <i class="fa-solid fa-headphones"
+                            style="font-size: 48px; margin-bottom: 15px; color: #ffffff; text-shadow: 0 4px 10px rgba(0,0,0,0.25); z-index: 1;"></i>
+                        <h3 style="font-size:18px; font-weight: 800; color: #ffffff; margin-bottom: 8px; z-index: 1;">
+                            Audios de Estudio</h3>
+                        <p
+                            style="font-size:13px; margin-bottom:0; color: rgba(255,255,255,0.9); line-height: 1.4; z-index: 1;">
+                            Escucha los temas de estudio mientras te desplazas u ocupas en otras tareas.</p>
+                    </div>
+
+                    <!-- Guias Card -->
+                    <div class="mode-card materials" onclick="switchSection('materials'); switchMaterialTab('guias');"
+                        style="cursor:pointer; background: linear-gradient(135deg, #3b82f6, #1d4ed8); border: none; box-shadow: 0 10px 20px rgba(59, 130, 246, 0.25); color: #ffffff; text-align: center; display: flex; flex-direction: column; align-items: center; padding: 25px 20px; transition: transform 0.3s ease, box-shadow 0.3s ease; position: relative; overflow: hidden;">
+                        <div style="position: absolute; top: -10px; right: -15px; opacity: 0.15;"><i
+                                class="fa-solid fa-book" style="font-size: 120px;"></i></div>
+                        <i class="fa-solid fa-file-pdf"
+                            style="font-size: 48px; margin-bottom: 15px; color: #ffffff; text-shadow: 0 4px 10px rgba(0,0,0,0.25); z-index: 1;"></i>
+                        <h3 style="font-size:18px; font-weight: 800; color: #ffffff; margin-bottom: 8px; z-index: 1;">
+                            Guías de Estudio</h3>
+                        <p
+                            style="font-size:13px; margin-bottom:0; color: rgba(255,255,255,0.9); line-height: 1.4; z-index: 1;">
+                            Repasa el material en formato PDF con resúmenes detallados y esquemas.</p>
+                    </div>
+                </div>
+            </div>
+
+            <h2 class="modes-title">Categorías de Examen</h2>
+            <div class="modes-grid">
+                <!-- Normativa Básica -->
+                <div class="mode-card study" onclick="openSubmenu('normativa')" style="cursor:pointer">
+                    <div class="mode-header">
+                        <span class="mode-badge badge-primary">Legal</span>
+                        <div class="mode-icon"><i class="fa-solid fa-scale-balanced"></i></div>
+                    </div>
+                    <h3>Normativa Básica</h3>
+                    <p>Reglamentos, protocolos y leyes fundamentales del sistema educativo.</p>
+                </div>
+
+                <!-- Textos Pedagógicos -->
+                <div class="mode-card easy" onclick="openSubmenu('textos')" style="cursor:pointer">
+                    <div class="mode-header">
+                        <span class="mode-badge badge-success">Teoría</span>
+                        <div class="mode-icon"><i class="fa-solid fa-book-open-reader"></i></div>
+                    </div>
+                    <h3>Textos Pedagógicos</h3>
+                    <p>Diseño curricular, estilos de aprendizaje, y recursos de innovación.</p>
+                </div>
+
+                <!-- Simulacro General -->
+                <div class="mode-card mock" onclick="openConfig('general_all')" style="cursor:pointer">
+                    <div class="mode-header">
+                        <span class="mode-badge badge-danger">Examen Final</span>
+                        <div class="mode-icon"><i class="fa-solid fa-stopwatch"></i></div>
+                    </div>
+                    <h3>Simulacro General</h3>
+                    <p>Evaluación combinada de Normativa Básica y Textos Pedagógicos.</p>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- SUBMENU SECTION (Por Tema / General) -->
+        <section id="submenu-section" class="page-section">
+            <button class="btn-back-home" onclick="showDashboard()">
+                <i class="fa-solid fa-arrow-left"></i> Volver al Inicio
+            </button>
+
+            <div class="welcome-card"
+                style="margin-bottom: 25px; padding:20px; background: linear-gradient(135deg, var(--primary), var(--secondary)); color:white; border-radius:var(--radius-lg); display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:15px;">
+                <div style="flex:1; min-width:200px;">
+                    <h2 id="submenu-title" style="color:white; font-size:20px; margin-bottom:5px;">Normativa Básica</h2>
+                    <p id="submenu-desc" style="color:rgba(255,255,255,0.9); font-size:14px; margin-bottom:0;">
+                        Selecciona un tema específico para tu estudio enfocado, o realiza una evaluación general
+                        mezclando todos los temas de esta categoría.</p>
+                </div>
+                <div style="display:flex; justify-content:flex-end;">
+                    <button class="btn-primary"
+                        style="background:var(--bg-card); color:var(--primary); font-size:16px; box-shadow:0 10px 20px rgba(0,0,0,0.15);"
+                        onclick="openConfig('general_category')">
+                        <i class="fa-solid fa-play"></i> Examen General
+                    </button>
+                </div>
+            </div>
+
+            <h3 class="modes-title"
+                style="margin-bottom:20px; font-size:22px; display:flex; align-items:center; gap:10px;">
+                <i class="fa-solid fa-layer-group" style="color:var(--primary);"></i> Temas Disponibles
+            </h3>
+
+            <div id="themes-list" class="modes-grid" style="display: grid;">
+                <!-- Themes cards injected via JS -->
+            </div>
+        </section>
+
+        <!-- MATERIALS SECTION -->
+        <section id="materials-section" class="page-section">
+            <button class="btn-back-home" onclick="showDashboard()">
+                <i class="fa-solid fa-arrow-left"></i> Volver al Inicio
+            </button>
+
+
+
+            <!-- Material Tabs/Types Selection -->
+            <div style="display:flex; gap:15px; margin-bottom:30px; flex-wrap:wrap;">
+                <button class="btn-primary" id="btn-tab-audios" onclick="switchMaterialTab('audios')"
+                    style="flex:1; justify-content:center; padding:15px; font-size:16px;">
+                    <i class="fa-solid fa-headphones"></i> Audios
+                </button>
+                <button class="btn-secondary" id="btn-tab-guias" onclick="switchMaterialTab('guias')"
+                    style="flex:1; justify-content:center; padding:15px; font-size:16px;">
+                    <i class="fa-solid fa-file-pdf"></i> Guías de Estudio
+                </button>
+            </div>
+
+            <!-- Materials List Container -->
+            <div
+                style="background:var(--bg-card); padding:20px; border-radius:var(--radius-lg); box-shadow:var(--shadow-sm);">
+
+                <!-- Filters & Search -->
+                <div style="display:flex; justify-content:space-between; gap:15px; margin-bottom:20px; flex-wrap:wrap;">
+                    <div
+                        style="flex:1; min-width:200px; display:flex; gap:10px; align-items:center; background:var(--bg-main); padding:5px 15px; border-radius:8px; border:1px solid var(--border-color);">
+                        <i class="fa-solid fa-magnifying-glass" style="color:var(--text-muted)"></i>
+                        <input type="text" id="materials-search-input" placeholder="Buscar material..."
+                            oninput="renderMaterialsList()"
+                            style="width:100%; padding:10px 0; border:none; background:transparent; font-size:15px; outline:none; color:var(--text-main);">
+                    </div>
+                    <select id="materials-category-filter" onchange="renderMaterialsList()"
+                        style="padding:10px 15px; border-radius:8px; border:1px solid var(--border-color); background:var(--bg-main); color:var(--text-main); font-size:15px; outline:none; cursor:pointer;">
+                        <option value="all">Todas las Categorías</option>
+                        <option value="normativa">Normativa Básica</option>
+                        <option value="textos">Textos Pedagógicos</option>
+                    </select>
+                </div>
+
+                <div id="materials-list-container" style="display:flex; flex-direction:column; gap:15px;">
+                    <!-- Items rendered by JS -->
+                </div>
+            </div>
+
+            <!-- Custom Audio Player (Sticky Bottom) -->
+            <div id="custom-audio-player"
+                style="display:none; position:fixed; bottom:20px; left:50%; transform:translateX(-50%); width:90%; max-width:800px; background:var(--bg-card); border-radius:15px; box-shadow:0 10px 30px rgba(0,0,0,0.3); padding:20px; z-index:1000; border:1px solid var(--border-color);">
+                <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:15px;">
+                    <div style="font-weight:bold; color:var(--primary); font-size:16px; flex:1; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;"
+                        id="audio-player-title">Título del Audio</div>
+                    <button class="btn-icon" onclick="closeAudioPlayer()"
+                        style="background:var(--bg-main); width:30px; height:30px; border-radius:50%; display:flex; justify-content:center; align-items:center; margin-left:10px;">
+                        <i class="fa-solid fa-xmark"></i>
+                    </button>
+                </div>
+
+                <div style="display:flex; align-items:center; gap:15px; margin-bottom:15px;">
+                    <span id="audio-current-time"
+                        style="font-size:13px; color:var(--text-muted); width:40px;">00:00</span>
+                    <input type="range" id="audio-progress" value="0" step="0.1"
+                        style="flex:1; cursor:pointer; accent-color:var(--primary);">
+                    <span id="audio-total-time"
+                        style="font-size:13px; color:var(--text-muted); width:40px;">00:00</span>
+                </div>
+
+                <div style="display:flex; justify-content:space-between; align-items:center;">
+                    <!-- Speed & Volume Controls -->
+                    <div style="display:flex; gap:10px; align-items:center;">
+                        <select id="audio-speed-select" onchange="changeAudioSpeed(this.value)"
+                            style="padding:5px; border-radius:5px; background:var(--bg-main); color:var(--text-main); border:1px solid var(--border-color); font-size:12px; cursor:pointer;">
+                            <option value="0.75">0.75x</option>
+                            <option value="1">1x</option>
+                            <option value="1.25" selected>1.25x</option>
+                            <option value="1.5">1.5x</option>
+                            <option value="2">2x</option>
+                        </select>
+                        <div style="display:flex; align-items:center; gap:5px; margin-left:10px;">
+                            <i class="fa-solid fa-volume-high" style="color:var(--text-muted); font-size:14px;"></i>
+                            <input type="range" id="audio-volume" min="0" max="1" step="0.05" value="1"
+                                style="width:70px; cursor:pointer; accent-color:var(--primary);">
+                        </div>
+                    </div>
+
+                    <!-- Main Controls -->
+                    <div style="display:flex; gap:15px; align-items:center;">
+                        <button class="btn-icon" onclick="skipAudio(-10)"
+                            style="font-size:18px; color:var(--text-main);" title="Retroceder 10s"><i
+                                class="fa-solid fa-backward-10"></i></button>
+                        <button class="btn-primary" id="audio-play-btn" onclick="toggleAudioPlay()"
+                            style="width:50px; height:50px; border-radius:50%; display:flex; justify-content:center; align-items:center; font-size:20px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
+                            <i class="fa-solid fa-play"></i>
+                        </button>
+                        <button class="btn-icon" onclick="stopAudio()" style="font-size:18px; color:var(--danger);"
+                            title="Detener"><i class="fa-solid fa-stop"></i></button>
+                        <button class="btn-icon" onclick="skipAudio(10)" style="font-size:18px; color:var(--text-main);"
+                            title="Adelantar 10s"><i class="fa-solid fa-forward-10"></i></button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 2. QUIZ / STUDY VIEW -->
+        <section id="quiz-section" class="page-section">
+            <!-- Quiz Header Info -->
+            <div class="quiz-header">
+                <div class="quiz-header-top">
+                    <div class="quiz-title">
+                        <span id="quiz-mode-badge" class="badge badge-primary">Estudio</span>
+                        <h2 id="quiz-mode-title">Modo Estudio</h2>
+                    </div>
+                    <!-- Timer -->
+                    <div id="quiz-timer-container" class="quiz-timer" style="display: none;">
+                        <i class="fa-solid fa-clock"></i>
+                        <span id="quiz-timer-val">40:00</span>
+                    </div>
+                </div>
+
+                <div class="progress-container">
+                    <div class="progress-bar-bg">
+                        <div id="quiz-progress-fill" class="progress-bar-fill"></div>
+                    </div>
+                    <div class="progress-labels">
+                        <span id="quiz-progress-text">Pregunta 1 de 10</span>
+                        <span id="quiz-score-text">Aciertos: 0/0</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Question Card -->
+            <div class="question-card">
+                <div class="question-meta" id="question-meta-info"
+                    style="display:block; text-align:center; padding:10px; background:var(--primary-light); color:var(--primary); font-weight:bold; border-radius:8px; margin-bottom:15px; border:none;">
+                    Tema: --
+                </div>
+
+                <div class="question-text" id="question-text-content">
+                    Cargando pregunta...
+                </div>
+
+                <!-- Options List -->
+                <div class="options-list" id="options-container">
+                    <!-- Option Buttons will be rendered here -->
+                </div>
+
+                <!-- Feedback Panel -->
+                <div class="feedback-panel" id="feedback-panel-container">
+                    <div class="feedback-header" id="feedback-header-title">
+                        <i class="fa-solid fa-circle-check"></i>
+                        <span id="feedback-result-text">¡Correcto!</span>
+                    </div>
+                    <div class="feedback-body" id="feedback-explanation-content">
+                        La justificación se basa en el Artículo...
+                    </div>
+                </div>
+            </div>
+
+            <!-- Quiz Actions Navigation -->
+            <div class="quiz-actions" style="display:flex; justify-content:space-between; margin-top:20px;">
+                <button class="btn-secondary" id="quit-quiz-btn">
+                    <i class="fa-solid fa-arrow-left"></i> Salir
+                </button>
+                <div style="display: flex; gap: 10px;">
+                    <button class="btn-secondary" id="prev-question-btn" style="display: none;">
+                        <i class="fa-solid fa-chevron-left"></i> Anterior
+                    </button>
+                    <button class="btn-primary" id="next-question-btn">
+                        Siguiente <i class="fa-solid fa-chevron-right"></i>
+                    </button>
+                </div>
+            </div>
+        </section>
+
+        <!-- 3. RESULTS SCREEN -->
+        <section id="results-section" class="page-section">
+            <div class="results-card"
+                style="background:var(--bg-card); border-radius:var(--radius-lg); padding:30px; border:1px solid var(--border-color); box-shadow:var(--shadow-md);">
+                <div class="results-header" style="text-align:center; margin-bottom:30px;">
+                    <h2>Resultados de la Evaluación</h2>
+                    <p id="results-mode-info">Has completado el Examen</p>
+                </div>
+
+                <div style="display:flex; flex-direction:column; align-items:center; margin-bottom:30px;">
+                    <h1 style="font-size:48px; color:var(--primary);" id="results-score-percent">0%</h1>
+                    <p style="font-size:18px; color:var(--text-muted);" id="results-score-fraction">0/0</p>
+                </div>
+
+                <div id="results-message-card" class="result-msg-card success-msg"
+                    style="padding:15px; border-radius:8px; margin-bottom:30px; text-align:center; font-weight:bold;">
+                    Mensaje de resultado
+                </div>
+
+                <div class="result-stats-grid"
+                    style="display:grid; grid-template-columns:repeat(auto-fit, minmax(150px, 1fr)); gap:15px; margin-bottom:30px; text-align:center;">
+                    <div style="background:var(--bg-main); padding:20px; border-radius:8px;">
+                        <div id="results-stat-correct" style="font-size:24px; font-weight:bold; color:var(--success);">0
+                        </div>
+                        <div style="font-size:14px; color:var(--text-muted);">Correctas</div>
+                    </div>
+                    <div style="background:var(--bg-main); padding:20px; border-radius:8px;">
+                        <div id="results-stat-incorrect" style="font-size:24px; font-weight:bold; color:var(--danger);">
+                            0</div>
+                        <div style="font-size:14px; color:var(--text-muted);">Incorrectas</div>
+                    </div>
+                    <div style="background:var(--bg-main); padding:20px; border-radius:8px;">
+                        <div id="results-stat-unanswered"
+                            style="font-size:24px; font-weight:bold; color:var(--text-muted);">0</div>
+                        <div style="font-size:14px; color:var(--text-muted);">Sin responder</div>
+                    </div>
+                    <div style="background:var(--bg-main); padding:20px; border-radius:8px;">
+                        <div id="results-stat-time" style="font-size:24px; font-weight:bold;">00:00</div>
+                        <div style="font-size:14px; color:var(--text-muted);">Tiempo</div>
+                    </div>
+                </div>
+
+                <div class="results-actions" style="display:flex; justify-content:center; gap:15px;">
+                    <button class="btn-primary" onclick="showDashboard()">
+                        <i class="fa-solid fa-house"></i> Ir al Inicio
+                    </button>
+                </div>
+            </div>
+
+            <div class="review-section" style="margin-top:40px;">
+                <h3 class="review-title" style="margin-bottom:20px;">
+                    <i class="fa-solid fa-clipboard-check"></i> Revisión de Preguntas
+                </h3>
+                <div class="review-list" id="review-questions-container"
+                    style="display:flex; flex-direction:column; gap:15px;">
+                    <!-- Items injected by JS -->
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer
+        style="text-align:center; padding:20px; color:var(--text-muted); border-top:1px solid var(--border-color); margin-top:auto;">
+        <div class="container">
+            <p>&copy; 2026 AscensoIA • ICG SOFTWARE GROUP</p>
+        </div>
+    </footer>
+
+    <!-- History Modal -->
+    <div class="modal-overlay" id="history-modal-overlay">
+        <div class="modal">
+            <div class="modal-header">
+                <h3><i class="fa-solid fa-clock-rotate-left"></i> Historial</h3>
+                <button class="modal-close" onclick="closeHistoryModal()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div id="history-list-container" class="history-list"></div>
+                <div id="history-empty-message" class="no-history-msg"
+                    style="display: none; text-align:center; padding:20px;">
+                    No hay intentos guardados todavía.
+                </div>
+                <button class="btn-secondary" onclick="clearHistory()" style="width: 100%; margin-top: 20px;">
+                    <i class="fa-solid fa-trash-can"></i> Borrar Historial
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Config Modal -->
+    <div class="modal-overlay" id="config-modal-overlay">
+        <div class="modal" style="max-width: 450px;">
+            <div class="modal-header">
+                <h3>Configuración</h3>
+                <button class="modal-close" onclick="closeConfigModal()">&times;</button>
+            </div>
+            <div class="modal-body" style="display:flex; flex-direction:column; gap:20px;">
+
+                <div id="config-modes-selector" style="display:flex; gap:10px;">
+                    <button class="btn-primary" id="btn-config-estudio" style="flex:1;"
+                        onclick="selectConfigMode('estudio')">Modo Estudio</button>
+                    <button class="btn-secondary" id="btn-config-simulacro" style="flex:1;"
+                        onclick="selectConfigMode('simulacro')">Modo Simulacro</button>
+                </div>
+
+                <div style="background:var(--bg-main); padding:15px; border-radius:8px;">
+                    <p style="font-weight:bold; margin-bottom:5px;" id="config-mode-desc-title">Modo Estudio</p>
+                    <p style="font-size:14px; color:var(--text-muted);" id="config-mode-desc-text">Retroalimentación
+                        inmediata sin tiempo límite.</p>
+                </div>
+
+                <div>
+                    <label style="font-weight:bold; display:block; margin-bottom:8px;">Cantidad de Preguntas</label>
+                    <input type="number" id="config-questions-count" min="10" max="100" value="25"
+                        style="width:100%; padding:10px; border-radius:8px; border:1px solid var(--border-color); font-size:16px;">
+                    <small style="color:var(--text-muted); display:block; margin-top:5px;"
+                        id="config-questions-info">Mínimo: 10 | Máximo: 100</small>
+                </div>
+
+                <button class="btn-primary" style="width:100%; justify-content:center; margin-top:10px;"
+                    onclick="startConfiguredQuiz()">
+                    <i class="fa-solid fa-play"></i> Iniciar
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Custom Alert/Confirm Modal -->
+    <div class="modal-overlay" id="custom-dialog-overlay">
+        <div class="modal" style="max-width: 450px;">
+            <div class="modal-header">
+                <h3 id="custom-dialog-title">Atención</h3>
+                <button class="modal-close" id="custom-dialog-close">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p id="custom-dialog-message"
+                    style="margin-bottom: 24px; line-height: 1.5; color: var(--text-main); font-size: 15px;"></p>
+                <div style="display: flex; justify-content: flex-end; gap: 12px;">
+                    <button class="btn-secondary" id="custom-dialog-cancel" style="display: none;">Cancelar</button>
+                    <button class="btn-primary" id="custom-dialog-confirm">Aceptar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- PDF Viewer Modal -->
+    <div class="modal-overlay" id="pdf-modal-overlay">
+        <div class="modal" style="max-width: 1200px; width: 98%; height: 96vh; display: flex; flex-direction: column;">
+            <div class="modal-header">
+                <h3 id="pdf-modal-title"
+                    style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 80%;"><i
+                        class="fa-solid fa-file-pdf"></i> Visor de Documento</h3>
+                <button class="modal-close" onclick="closePdfModal()">&times;</button>
+            </div>
+            <div class="modal-body"
+                style="flex: 1; overflow: hidden; background: #ffffff; color: #333333; padding: 0; position: relative;">
+                <div id="pdf-content-container" style="display:block; width: 100%; height: 100%;">
+                    <!-- PDF iframe will be rendered here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Core Javascript Logic -->
+    <script src="script.js?v=7"></script>
+
+    <!-- Markdown Parser (for AI formatting) -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <!-- AI Chatbot Floating Panel -->
+    <div id="gemini-chat-panel" class="chat-panel" style="display: none;">
+        <div class="chat-header">
+            <div class="chat-title">
+                <i class="fa-solid fa-robot"></i> Tutor de Ascenso IA
+            </div>
+            <button class="chat-close" onclick="toggleChatPanel()">&times;</button>
+        </div>
+        <div id="gemini-chat-messages" class="chat-messages">
+            <!-- Messages go here -->
+        </div>
+        <div class="chat-input-area">
+            <button id="gemini-chat-mic-btn" onclick="toggleRecording()" title="Grabar audio"><i
+                    class="fa-solid fa-microphone"></i></button>
+            <textarea id="gemini-chat-input" placeholder="Escribe o dicta tu pregunta..." rows="1"
+                onkeypress="if(event.key === 'Enter' && !event.shiftKey){ event.preventDefault(); sendChatMessage(); }"></textarea>
+            <button id="gemini-chat-send-btn" onclick="sendChatMessage()" title="Enviar"><i
+                    class="fa-solid fa-paper-plane"></i></button>
+        </div>
+    </div>
+
+    <!-- Floating Trigger Button -->
+    <button id="gemini-chat-trigger" class="chat-trigger-btn" onclick="toggleChatPanel()"
+        title="Asistente de Estudio IA">
+        <i class="fa-solid fa-robot"></i>
+    </button>
+
+    <!-- Chat Logic -->
+    <script src="chat.js?v=7"></script>
+
+</body>
+
+</html>

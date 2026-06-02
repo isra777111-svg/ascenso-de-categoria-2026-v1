@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Qué instrumento técnico-normativo define los pasos a seguir ante una situación de violencia, basándose en normas establecidas para orientar a los miembros de la comunidad educativa?",
+    "opciones": [
+      "Reglamento de Faltas y Sanciones",
+      "Proyecto Sociocomunitario Productivo",
+      "Protocolo de actuación",
+      "Plan de Convivencia Pacífica"
+    ],
+    "correcta": 2,
+    "explicacion": "Un protocolo es un instrumento de actuación que define los pasos a seguir en una situación determinada, permitiendo a las personas saber qué hacer al estar involucradas. Referencia: Aspectos generales del protocolo - ¿Qué es un protocolo? [1]"
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Cuál es el objeto primordial del protocolo de prevención y actuación frente a la violencia en el ámbito educativo?",
+    "opciones": [
+      "Definir lineamientos y procedimientos para la prevención, actuación y denuncia para salvaguardar la integridad de los estudiantes.",
+      "Establecer exclusivamente las sanciones penales para maestros que cometan delitos sexuales.",
+      "Crear un registro nacional de unidades educativas con altos índices de conflictividad.",
+      "Sustituir la Ley 548 en la aplicación de medidas de protección infantil."
+    ],
+    "correcta": 0,
+    "explicacion": "El objeto es definir lineamientos y procedimientos para la prevención, actuación, denuncia y protección a víctimas, evitando la revictimización. Referencia: Aspectos generales del protocolo - ¿Cuál es el objeto del protocolo? [2]"
+  },
+  {
+    "id": 3,
+    "pregunta": "Dentro de los principios que rigen la protección contra la violencia en el sistema educativo, ¿cuál establece la corresponsabilidad de todos los actores?",
+    "opciones": [
+      "Principio de interés superior",
+      "Principio de cultura de paz",
+      "Principio de prioridad absoluta",
+      "Principio de corresponsabilidad de los miembros de la comunidad educativa"
+    ],
+    "correcta": 3,
+    "explicacion": "El protocolo se rige por 10 principios, siendo el décimo la corresponsabilidad de todos los miembros de la comunidad educativa. Referencia: Aspectos generales del protocolo - ¿Bajo qué principios se rige el presente protocolo? [3]"
+  },
+  {
+    "id": 4,
+    "pregunta": "Según la normativa vigente (Ley N° 548), ¿cómo se define legalmente la violencia contra una niña, niño o adolescente?",
+    "opciones": [
+      "Cualquier falta de respeto que ocurra dentro del aula de clases.",
+      "La acción u omisión que ocasione privaciones, lesiones, daños o sufrimientos en la salud física, mental o sexual.",
+      "Únicamente el daño físico que deja marcas visibles en el cuerpo de la víctima.",
+      "El incumplimiento de los deberes escolares por parte de los estudiantes."
+    ],
+    "correcta": 1,
+    "explicacion": "Constituye violencia la acción u omisión que ocasione daños, sufrimientos o perjuicios en la salud integral o incluso la muerte. Referencia: Aspectos generales del protocolo - ¿Qué es la violencia? [4]"
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Qué tipo de violencia se caracteriza por el uso de expresiones descalificadoras, humillaciones, amenazas o aislamiento sin contacto físico?",
+    "opciones": [
+      "Violencia física",
+      "Violencia por omisión",
+      "Violencia psicológica",
+      "Violencia sexual"
+    ],
+    "correcta": 2,
+    "explicacion": "La violencia psicológica busca desvalorizar y menoscabar la autoestima mediante agresiones verbales, manipulación o hostigamiento. Referencia: Aspectos generales del protocolo - ¿En qué consiste la violencia psicológica? [4]"
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué acciones son consideradas manifestaciones de violencia física en el ámbito escolar?",
+    "opciones": [
+      "Gritos, insultos y burlas constantes.",
+      "Golpes, patadas, empujones o agresiones con objetos.",
+      "No proveer alimentación a pesar de tener los medios.",
+      "Hacer comentarios sarcásticos sobre el rendimiento académico."
+    ],
+    "correcta": 1,
+    "explicacion": "La violencia física es toda acción intencional que ocasiona lesiones o sufrimientos corporales empleando fuerza o armas. Referencia: Aspectos generales del protocolo - ¿En qué consiste la violencia física? [5, 6]"
+  },
+  {
+    "id": 7,
+    "pregunta": "¿En qué consiste la violencia por omisión o negligencia dentro de una unidad educativa?",
+    "opciones": [
+      "Es una forma activa de agresión verbal contra los estudiantes.",
+      "Es el descuido de las personas adultas en el cumplimiento de sus responsabilidades de atención y cuidado.",
+      "Es el hostigamiento constante entre pares o estudiantes.",
+      "Es la aplicación de castigos físicos para corregir la conducta."
+    ],
+    "correcta": 1,
+    "explicacion": "La violencia por omisión es una forma pasiva que corresponde al descuido de obligaciones de cuidado por parte de adultos responsables. Referencia: Aspectos generales del protocolo - ¿En qué consiste la violencia por omisión o negligencia? [6, 7]"
+  },
+  {
+    "id": 8,
+    "pregunta": "En el marco de la seguridad escolar, ¿cuál de los siguientes es un ejemplo de violencia por negligencia atribuible al personal docente?",
+    "opciones": [
+      "Llamar a un estudiante por un sobrenombre despectivo.",
+      "Inasistencia e impuntualidad en horas de clase, dejando desatendidos a los estudiantes.",
+      "Asignar tareas complejas que el estudiante no puede realizar.",
+      "Denunciar un hecho de violencia sexual ante las autoridades."
+    ],
+    "correcta": 1,
+    "explicacion": "La inasistencia e impuntualidad que deja desatendidos a los estudiantes es un ejemplo específico de negligencia. Referencia: Aspectos generales del protocolo - ¿En qué consiste la violencia por omisión o negligencia? [8, 9]"
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Cómo define UNICEF (2006) el abuso sexual infantil en el contexto de las relaciones de poder?",
+    "opciones": [
+      "Un acto consentido entre un adulto y un menor de edad.",
+      "Una actividad de naturaleza sexual donde existe asimetría de poder y opera la coerción.",
+      "Una etapa natural del desarrollo biológico de los adolescentes.",
+      "Un conflicto de comunicación entre padres e hijos."
+    ],
+    "correcta": 1,
+    "explicacion": "En el abuso sexual existe asimetría de poder, y el adulto utiliza estrategias como seducción o fuerza para involucrar al menor. Referencia: Aspectos generales del protocolo - ¿En qué consiste la violencia sexual? [10]"
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Cuál es la postura obligatoria de los adultos ante el relato de un estudiante sobre un hecho de violencia sexual?",
+    "opciones": [
+      "Se debe poner en duda el relato hasta encontrar pruebas físicas.",
+      "Se debe creer en su relato y no culpabilizarlo de lo ocurrido.",
+      "Se debe confrontar al estudiante con el presunto agresor inmediatamente.",
+      "Se debe esperar a que los padres autoricen la investigación."
+    ],
+    "correcta": 1,
+    "explicacion": "Es fundamental que cuando un niño manifiesta haber sufrido violencia sexual se crea en su relato sin ponerlo en duda. Referencia: Aspectos generales del protocolo - ¿Cómo detectar la violencia en el ámbito educativo? [11]"
+  },
+  {
+    "id": 11,
+    "pregunta": "Según el Código Penal boliviano, ¿cuál es la sanción para el delito de violación cometido contra menores de 14 años?",
+    "opciones": [
+      "Privación de libertad de 5 a 10 años.",
+      "Privación de libertad de 10 a 15 años.",
+      "Privación de libertad de 20 a 25 años.",
+      "Privación de libertad de 30 años sin derecho a indulto en todos los casos."
+    ],
+    "correcta": 2,
+    "explicacion": "La violación contra menores de 14 años se sanciona con 20 a 25 años, pudiendo llegar a 30 si hay agravantes. Referencia: Aspectos generales del protocolo - Tabla 1: Normativa nacional [12]"
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Qué circunstancia se considera una agravante en delitos sexuales cometidos en el ámbito educativo?",
+    "opciones": [
+      "Que el autor sea un familiar lejano de la víctima.",
+      "Que el autor estuviera encargado de la educación de la víctima.",
+      "Que el hecho ocurra fuera del horario de clases.",
+      "Que la víctima tenga un buen rendimiento escolar."
+    ],
+    "correcta": 1,
+    "explicacion": "Es una agravante si el autor está encargado de la educación de la víctima o si esta depende de él. Referencia: Aspectos generales del protocolo - Tabla 1: Agravantes [13]"
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Cuál es el plazo máximo para que las autoridades educativas denuncien un nuevo hecho de violencia sexual ante la autoridad competente?",
+    "opciones": [
+      "24 horas",
+      "48 horas",
+      "72 horas",
+      "Una semana"
+    ],
+    "correcta": 1,
+    "explicacion": "Los abogados defensores del Ministerio deben denunciar nuevos hechos en un plazo máximo de 48 horas. Referencia: Parte I: Prevención - El Ministerio de Educación [14]"
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Qué medida de seguridad debe implementarse una vez obtenida la imputación formal contra un personal del sistema educativo por delitos de violencia?",
+    "opciones": [
+      "Cambio de unidad educativa por seguridad.",
+      "Suspensión de funciones sin goce de haberes.",
+      "Amonestación verbal y seguimiento psicológico.",
+      "Reducción de horas de carga horaria."
+    ],
+    "correcta": 1,
+    "explicacion": "Los Decretos Supremos 1302 y 1320 establecen la suspensión de funciones sin goce de haberes ante imputación formal. Referencia: Parte I: Prevención - El Ministerio de Educación [14]"
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Quién es responsable de garantizar que las unidades educativas cuenten con un Plan de Convivencia Armónica y Pacífica?",
+    "opciones": [
+      "La junta escolar exclusivamente.",
+      "El Director Departamental de Educación.",
+      "El Ministerio de Justicia.",
+      "La Policía Boliviana."
+    ],
+    "correcta": 1,
+    "explicacion": "Es obligación del Director Departamental garantizar que las unidades educativas cuenten con dicho plan. Referencia: Parte I: Prevención - La Directora o el Director Departamental de Educación [15]"
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Cuál es una función específica del Director Distrital Educativo en relación con la violencia escolar?",
+    "opciones": [
+      "Emitir sentencias penales contra los agresores.",
+      "Actualizar permanentemente la información de denuncias de su jurisdicción para remitirla al Ministerio.",
+      "Realizar las autopsias en casos de infanticidio.",
+      "Administrar los recursos económicos de las Juntas Escolares."
+    ],
+    "correcta": 1,
+    "explicacion": "El Director Distrital debe actualizar la información de denuncias de violencia física, psicológica y sexual. Referencia: Parte I: Prevención - La Directora o el Director Distrital Educativo [16]"
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Qué aspecto de la infraestructura escolar debe ser gestionado para prevenir situaciones de riesgo según el protocolo?",
+    "opciones": [
+      "Pintar las aulas con colores llamativos.",
+      "Identificar lugares inseguros y organizar la vigilancia de baños y áreas de uso común.",
+      "Construir laboratorios de última tecnología.",
+      "Aumentar el tamaño de los campos deportivos."
+    ],
+    "correcta": 1,
+    "explicacion": "Es tarea del director gestionar la seguridad supervisando espacios poco visibles como baños y canchas. Referencia: Parte II: Prevención - Directoras o directores de unidades educativas [17]"
+  },
+  {
+    "id": 18,
+    "pregunta": "Respecto al uso de redes sociales (WhatsApp, Facebook) para fines pedagógicos, ¿cuál es la norma establecida?",
+    "opciones": [
+      "Está prohibido cualquier uso de redes sociales con estudiantes.",
+      "El uso debe ser autorizado por la dirección y el maestro no puede ser parte de los grupos.",
+      "La comunicación individual por mensajería entre maestro y estudiante está prohibida.",
+      "Los maestros pueden comunicarse individualmente si es por motivos académicos urgentes."
+    ],
+    "correcta": 2,
+    "explicacion": "Se prohíbe la comunicación individual por mensajería. Si es necesaria, debe ser vía dirección y padres. Referencia: Parte II: Prevención - Directoras o directores de unidades educativas [18]"
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué acción está prohibida para los maestros respecto al lugar de desarrollo de actividades curriculares?",
+    "opciones": [
+      "Realizar experimentos en el laboratorio de la escuela.",
+      "Programar actividades en sus domicilios particulares u oficinas privadas.",
+      "Llevar a los estudiantes a bibliotecas públicas con autorización.",
+      "Organizar grupos de estudio en el patio de la unidad educativa."
+    ],
+    "correcta": 1,
+    "explicacion": "Los maestros no pueden programar actividades en sus domicilios, oficinas ni en la casa del estudiante. Referencia: Parte II: Prevención - Maestras y maestros [19]"
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Cuál es la obligación de todo integrante de la comunidad educativa ante el conocimiento de un hecho de violencia contra un menor?",
+    "opciones": [
+      "Esperar a que la víctima decida si quiere denunciar.",
+      "Denunciar en un plazo máximo de 24 horas ante las instancias competentes.",
+      "Investigar por cuenta propia antes de informar a las autoridades.",
+      "Realizar una reunión privada con el agresor para resolver el conflicto."
+    ],
+    "correcta": 1,
+    "explicacion": "Existe la obligación legal de denunciar hechos de violencia en un plazo máximo de 24 horas. Referencia: Parte III: Actuación - Denuncia [20]"
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Qué indica la presencia de mutismo selectivo, retrocesos conductuales o pudor excesivo en un estudiante?",
+    "opciones": [
+      "Falta de disciplina en el hogar.",
+      "Posibles indicadores psicológicos y conductuales de violencia.",
+      "Un desarrollo normal de la personalidad adolescente.",
+      "Necesidad de mayor carga horaria académica."
+    ],
+    "correcta": 1,
+    "explicacion": "El mutismo, retrocesos (como orinarse en la cama) y pudor excesivo son indicios de posible violencia. Referencia: Parte III: Actuación - Tabla 3: Indicios [21]"
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Qué procedimiento debe seguirse si la autoridad máxima de la unidad educativa es el presunto agresor?",
+    "opciones": [
+      "La denuncia debe ser recibida por el portero del establecimiento.",
+      "La denuncia se presenta directamente ante la Dirección Distrital y la Defensoría.",
+      "Se debe esperar a la asamblea general de padres de familia.",
+      "No se puede denunciar hasta que termine su gestión administrativa."
+    ],
+    "correcta": 1,
+    "explicacion": "Si el director está implicado, la denuncia va a la Dirección Distrital y a la Defensoría de la Niñez. Referencia: Parte III: Actuación - Detección [22]"
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Cuál es la recomendación principal respecto al contacto físico durante la contención de una víctima de violencia sexual?",
+    "opciones": [
+      "Se debe abrazar fuertemente a la víctima para que se sienta segura.",
+      "Se debe evitar el contacto físico y expresar afecto únicamente de forma verbal.",
+      "Se debe forzar el contacto físico para demostrar empatía.",
+      "Se debe dejar que otros estudiantes realicen la contención física."
+    ],
+    "correcta": 1,
+    "explicacion": "El contacto físico puede recordar situaciones desagradables; por ello, el afecto debe ser preferentemente verbal. Referencia: Parte III: Actuación - Contención [23]"
+  },
+  {
+    "id": 24,
+    "pregunta": "En el marco del Reglamento de Faltas y Sanciones, ¿cómo se tipifica el acoso sexual o la violación contra estudiantes?",
+    "opciones": [
+      "Falta leve",
+      "Falta grave",
+      "Falta muy grave",
+      "Inconducta social"
+    ],
+    "correcta": 2,
+    "explicacion": "La violación, acoso sexual y estupro se establecen como faltas muy graves según la Resolución Suprema 212414. Referencia: Parte III: Actuación - Proceso administrativo [24]"
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Qué medida debe tomar la unidad educativa para garantizar el derecho a la educación de una víctima que requiere ausentarse por recuperación?",
+    "opciones": [
+      "Reprobación automática por inasistencia.",
+      "Realización de adaptaciones curriculares para compensar los días de ausencia.",
+      "Transferencia obligatoria a un centro de educación alternativa.",
+      "Exención total de todas las materias sin evaluación."
+    ],
+    "correcta": 1,
+    "explicacion": "Los maestros deben realizar adaptaciones curriculares para compensar inasistencias debidas a la recuperación. Referencia: Parte III: Actuación - Atención y protección de las víctimas [25]"
+  },
+  {
+    "id": 26,
+    "pregunta": "Según la Ley N° 548, ¿qué autoridad conoce y sanciona las infracciones por violencia en el ámbito escolar que no constituyen delitos penales?",
+    "opciones": [
+      "La Dirección Distrital",
+      "El Ministerio Público",
+      "La Jueza o Juez Público en materia de Niñez y Adolescencia",
+      "El consejo de maestros"
+    ],
+    "correcta": 2,
+    "explicacion": "El Juez de la Niñez y Adolescencia sanciona infracciones como castigos físicos que no llegan a ser delitos penales. Referencia: Parte III: Actuación - Remisión a la justicia ordinaria [26]"
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Cuál es el propósito del sistema de registro de casos (Anexo 3) en las unidades educativas?",
+    "opciones": [
+      "Sancionar económicamente a los padres de familia.",
+      "Fines estadísticos para orientar futuras acciones de prevención.",
+      "Publicar la lista de víctimas en la cartelera del colegio.",
+      "Asignar puntaje adicional a los maestros que denuncien."
+    ],
+    "correcta": 1,
+    "explicacion": "El registro anual de casos tiene un propósito principalmente estadístico para orientar la gestión preventiva. Referencia: Parte III: Actuación - Sistema de registro [27]"
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Qué concepto define la capacidad de una víctima para recuperarse y adaptarse con éxito frente a situaciones de violencia?",
+    "opciones": [
+      "Asertividad",
+      "Empoderamiento",
+      "Resiliencia",
+      "Despatriarcalización"
+    ],
+    "correcta": 2,
+    "explicacion": "La resiliencia es la capacidad de sobreponerse a la adversidad y desarrollar competencias pese al estrés grave. Referencia: Parte III: Actuación - Atención y protección de las víctimas [28]"
+  },
+  {
+    "id": 29,
+    "pregunta": "Dentro de la normativa de descolonización, ¿qué significa 'Vivir Bien' en el contexto de la convivencia escolar?",
+    "opciones": [
+      "Vivir mejor que los demás miembros de la comunidad.",
+      "Tener mayores recursos económicos que los pares.",
+      "Vivir en armonía con la naturaleza y en equilibrio con lo que nos rodea.",
+      "Ignorar los conflictos para mantener una apariencia de paz."
+    ],
+    "correcta": 2,
+    "explicacion": "Vivir Bien significa vivir en equilibrio con el entorno y la comunidad, diferenciándose de 'vivir mejor'. Referencia: Presentación [29]"
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Qué ley establece que la educación debe contribuir a erradicar toda forma de violencia para una cultura de paz?",
+    "opciones": [
+      "Ley N° 348",
+      "Ley N° 070 Avelino Siñani - Elizardo Pérez",
+      "Ley N° 045 contra el Racismo",
+      "Ley N° 1173 de Abreviación Penal"
+    ],
+    "correcta": 1,
+    "explicacion": "La Ley 070 plantea la convivencia pacífica como base para erradicar la violencia en el ámbito educativo. Referencia: Presentación [30]"
+  },
+  {
+    "id": 31,
+    "pregunta": "Si un estudiante presenta sangrado genital o dificultades para caminar, ¿a qué tipo de violencia apuntan estos indicios físicos?",
+    "opciones": [
+      "Violencia física general",
+      "Violencia por negligencia",
+      "Violencia sexual",
+      "Violencia psicológica"
+    ],
+    "correcta": 2,
+    "explicacion": "El sangrado genital y dificultades para sentarse o caminar son indicadores físicos específicos de violencia sexual. Referencia: Parte III: Actuación - Tabla 3: Indicios [31]"
+  },
+  {
+    "id": 32,
+    "pregunta": "¿Cuál es la función del abogado defensor del Ministerio de Educación tras conocer una denuncia contra personal del SEP?",
+    "opciones": [
+      "Defender legalmente al maestro acusado.",
+      "Adherirse a los procesos penales seguidos contra el personal sindicado.",
+      "Negociar con la familia de la víctima para evitar el juicio.",
+      "Emitir la sentencia condenatoria definitiva."
+    ],
+    "correcta": 1,
+    "explicacion": "El abogado debe denunciar o adherirse a los procesos contra personal del SEP sindicado por delitos de violencia. Referencia: Parte I: Prevención - El Ministerio de Educación [32]"
+  },
+  {
+    "id": 33,
+    "pregunta": "¿Qué instancia es la responsable de realizar el acompañamiento terapéutico sostenido a víctimas de violencia sexual?",
+    "opciones": [
+      "La dirección de la escuela",
+      "El CEPAT (Centro Especializado de Prevención y Atención Terapéutica)",
+      "La junta de vecinos",
+      "El consejo estudiantil"
+    ],
+    "correcta": 1,
+    "explicacion": "El CEPAT, dependiente del SEDEGES, es la instancia para el apoyo emocional y tratamiento psicológico sostenido. Referencia: Parte III: Actuación - Atención y protección de las víctimas [28]"
+  },
+  {
+    "id": 34,
+    "pregunta": "Dentro de las medidas generales de prevención, ¿qué concepto se debe deconstruir para evitar la violencia?",
+    "opciones": [
+      "Valores sociocomunitarios",
+      "Estereotipos de género, étnicos y generacionales",
+      "Pensamiento crítico",
+      "Autocuidado"
+    ],
+    "correcta": 1,
+    "explicacion": "Se debe promover la no violencia mediante la deconstrucción de estereotipos que naturalizan la agresión. Referencia: Parte II: Prevención - Medidas generales [33]"
+  },
+  {
+    "id": 35,
+    "pregunta": "¿Qué conducta del personal administrativo está prohibida para precautelar la seguridad de los estudiantes?",
+    "opciones": [
+      "Controlar el ingreso de personas ajenas.",
+      "Permanecer a solas con un estudiante en un ambiente de la unidad educativa.",
+      "Reportar situaciones de riesgo a la dirección.",
+      "Vigilar los pasillos durante el recreo."
+    ],
+    "correcta": 1,
+    "explicacion": "El personal administrativo no debe permanecer a solas con un estudiante ni citarlo a solas en ambientes externos. Referencia: Parte II: Prevención - Personal administrativo y auxiliar [34]"
+  },
+  {
+    "id": 36,
+    "pregunta": "¿Cuál es la responsabilidad de los porteros respecto a las puertas de la unidad educativa?",
+    "opciones": [
+      "Mantenerlas abiertas para facilitar la ventilación.",
+      "Permitir el ingreso de vendedores ambulantes autorizados.",
+      "No permitir que permanezcan abiertas sin control ni el ingreso de personas ajenas sin autorización.",
+      "Delegar el control de la puerta a estudiantes destacados."
+    ],
+    "correcta": 2,
+    "explicacion": "Las puertas no deben estar abiertas sin control del portero ni permitir el ingreso de ajenos sin autorización previa. Referencia: Parte II: Prevención - Directoras o directores [35]"
+  },
+  {
+    "id": 37,
+    "pregunta": "¿Qué acción debe realizar un maestro si presencia un conflicto leve entre estudiantes?",
+    "opciones": [
+      "Ignorarlo para que los estudiantes aprendan a resolverlo solos.",
+      "Intervenir inmediatamente para detener el ciclo de violencia y proponer resolución pacífica.",
+      "Expulsar a ambos estudiantes del aula permanentemente.",
+      "Esperar a que el conflicto escale para llamar a la policía."
+    ],
+    "correcta": 1,
+    "explicacion": "El maestro debe intervenir en conflictos leves para proponer modos de resolución pacífica. Referencia: Parte II: Prevención - Maestras y maestros [36]"
+  },
+  {
+    "id": 38,
+    "pregunta": "Respecto a los padres de familia, ¿qué acción contribuye a la prevención según el protocolo?",
+    "opciones": [
+      "Aplicar castigos físicos severos en el hogar.",
+      "Asistir y promover espacios de socialización de políticas de prevención contra la violencia.",
+      "Desautorizar las normas del Plan de Convivencia frente a los hijos.",
+      "Evitar hablar con los hijos sobre temas de sexualidad."
+    ],
+    "correcta": 1,
+    "explicacion": "Los padres deben asistir a espacios de sensibilización para fortalecer relaciones asertivas y diálogo. Referencia: Parte II: Prevención - Madres, padres y/o tutores [37]"
+  },
+  {
+    "id": 39,
+    "pregunta": "¿Qué está estrictamente prohibido realizar en las unidades educativas para evitar la vulneración de la integridad de los estudiantes?",
+    "opciones": [
+      "Jornadas deportivas de fin de semana.",
+      "Actividades que fomenten la hipersexualización de los estudiantes.",
+      "Feria de ciencias anual.",
+      "Actos cívicos conmemorativos."
+    ],
+    "correcta": 1,
+    "explicacion": "Está prohibida cualquier actividad que fomente la hipersexualización de las y los estudiantes. Referencia: Parte II: Prevención - Directoras o directores [38]"
+  },
+  {
+    "id": 40,
+    "pregunta": "Ante un relato de violencia, ¿por qué es incorrecto expresar juicios como 'tú eres tan inocente' o 'ese desgraciado'?",
+    "opciones": [
+      "Porque quita tiempo para el proceso administrativo.",
+      "Porque la víctima puede sentirse juzgada ella misma o su familia.",
+      "Porque los maestros no tienen permiso para hablar.",
+      "Porque incentiva al estudiante a mentir más."
+    ],
+    "correcta": 1,
+    "explicacion": "No se deben expresar juicios de valor sobre la víctima ni el agresor, ya que puede generar susceptibilidad en el niño. Referencia: Parte III: Actuación - Contención [39]"
+  },
+  {
+    "id": 41,
+    "pregunta": "¿Qué documento legal obliga al Estado a proteger a niños y adolescentes en todas las esferas de la vida?",
+    "opciones": [
+      "Código de Comercio",
+      "Constitución Política del Estado",
+      "Ley de Aduanas",
+      "Reglamento de Tránsito"
+    ],
+    "correcta": 1,
+    "explicacion": "El marco constitucional y convencional obliga al Estado a proteger a la niñez contra la violencia. Referencia: Marco legal y normativo [40]"
+  },
+  {
+    "id": 42,
+    "pregunta": "¿Cuál es la sanción penal para el delito de infanticidio en Bolivia?",
+    "opciones": [
+      "10 años de cárcel.",
+      "20 años sin derecho a indulto.",
+      "30 años sin derecho a indulto.",
+      "Cadena perpetua."
+    ],
+    "correcta": 2,
+    "explicacion": "El infanticidio se sanciona con 30 años de presidio sin derecho a indulto. Referencia: Aspectos generales del protocolo - Tabla 1: Normativa nacional [41]"
+  },
+  {
+    "id": 43,
+    "pregunta": "En el contexto de la violencia psicológica, ¿qué incluye el 'maltrato emocional'?",
+    "opciones": [
+      "Únicamente el daño físico que requiere hospitalización.",
+      "Tratos humillantes, manipulación, chantaje o difusión de rumores.",
+      "Asignar tareas para la casa los fines de semana.",
+      "No permitir que el estudiante salga al recreo por mala conducta."
+    ],
+    "correcta": 1,
+    "explicacion": "El maltrato emocional se manifiesta por humillaciones, manipulación, chantaje y asignación de culpa. Referencia: Aspectos generales del protocolo - ¿En qué consiste la violencia psicológica? [42]"
+  },
+  {
+    "id": 44,
+    "pregunta": "¿Qué factor influye más en que la violencia psicológica sea difícil de detectar?",
+    "opciones": [
+      "Que los estudiantes siempre mienten al respecto.",
+      "Que no siempre presenta evidencias o marcas visibles.",
+      "Que los maestros no están capacitados para hablar.",
+      "Que ocurre solamente en horario nocturno."
+    ],
+    "correcta": 1,
+    "explicacion": "En muchos casos es difícil de detectar porque no siempre presenta evidencias físicas claras. Referencia: Aspectos generales del protocolo - ¿En qué consiste la violencia psicológica? [42]"
+  },
+  {
+    "id": 45,
+    "pregunta": "¿Qué tipo de delito se comete al obligar a una persona a realizar actos sexuales mediante engaño para lucro ajeno?",
+    "opciones": [
+      "Estupro",
+      "Acoso sexual",
+      "Proxenetismo",
+      "Abuso sexual"
+    ],
+    "correcta": 2,
+    "explicacion": "El proxenetismo implica promover o contribuir a la prostitución ajena mediante violencia o engaño. Referencia: Aspectos generales del protocolo - Tabla 1: Normativa nacional [43]"
+  },
+  {
+    "id": 46,
+    "pregunta": "¿Qué conducta se considera 'tráfico de personas' según la normativa sancionatoria?",
+    "opciones": [
+      "Vender productos dentro de la unidad educativa.",
+      "Promover la entrada o salida ilegal de una persona del Estado para obtener beneficio económico.",
+      "Realizar toqueteos no consentidos a un estudiante.",
+      "No asistir a las reuniones de padres de familia."
+    ],
+    "correcta": 1,
+    "explicacion": "El tráfico de personas implica facilitar la entrada o salida ilegal del país para beneficio económico. Referencia: Aspectos generales del protocolo - Tabla 1: Normativa nacional [44]"
+  },
+  {
+    "id": 47,
+    "pregunta": "¿Cuál es una consecuencia emocional a mediano plazo de la violencia en estudiantes?",
+    "opciones": [
+      "Mejora en la autoestima.",
+      "Ideas suicidas y/o intento de suicidio.",
+      "Aumento del rendimiento escolar.",
+      "Mayor facilidad para hacer amigos."
+    ],
+    "correcta": 1,
+    "explicacion": "Las ideas suicidas y trastornos de sueño son consecuencias emocionales graves a mediano plazo. Referencia: Aspectos generales del protocolo - Tabla 2: Consecuencias [45]"
+  },
+  {
+    "id": 48,
+    "pregunta": "¿Cómo afecta la violencia sexual el futuro de la víctima si no recibe apoyo oportuno?",
+    "opciones": [
+      "Se olvida fácilmente con el paso de los años.",
+      "Deja profundas secuelas físicas y psicológicas que marcan su vida futura.",
+      "Mejora sus habilidades de defensa personal.",
+      "No tiene ningún impacto si el agresor es un desconocido."
+    ],
+    "correcta": 1,
+    "explicacion": "La violencia sexual deja secuelas profundas; no es fácil de olvidar y marca la vida futura si no se mitiga. Referencia: Aspectos generales del protocolo - ¿Cuáles son los efectos de la violencia? [46]"
+  },
+  {
+    "id": 49,
+    "pregunta": "¿Qué indicador conductual en la escuela puede alertar sobre violencia en el hogar?",
+    "opciones": [
+      "Excusas constantes para evitar el retorno a su domicilio.",
+      "Llegar temprano a todas las clases.",
+      "Participar activamente en la banda de guerra.",
+      "Tener todos los útiles escolares completos."
+    ],
+    "correcta": 0,
+    "explicacion": "El temor al contacto físico con adultos y las excusas para no ir a casa son indicadores de alerta. Referencia: Parte III: Actuación - Tabla 3: Indicios [47]"
+  },
+  {
+    "id": 50,
+    "pregunta": "¿Qué debe hacer la directora si el relato de violencia es contra un familiar (violencia intrafamiliar)?",
+    "opciones": [
+      "No intervenir porque es un asunto privado de la familia.",
+      "Comunicarse con la Defensoría de la Niñez para la restitución de derechos.",
+      "Llamar al familiar agresor para pedirle una explicación.",
+      "Sancionar al estudiante por traer problemas externos a la escuela."
+    ],
+    "correcta": 1,
+    "explicacion": "En casos de violencia intrafamiliar, la dirección debe derivar a la Defensoría de la Niñez. Referencia: Parte III: Actuación - Contención [23]"
+  },
+  {
+    "id": 51,
+    "pregunta": "Si un maestro es denunciado por violencia, ¿quién inicia el proceso disciplinario administrativo?",
+    "opciones": [
+      "El Ministerio de Gobierno",
+      "La Dirección Distrital Educativa",
+      "La junta de vecinos",
+      "El Director de la unidad educativa de forma independiente"
+    ],
+    "correcta": 1,
+    "explicacion": "La Dirección Distrital inicia el proceso disciplinario e informa a la Dirección Departamental. Referencia: Parte III: Actuación - Proceso administrativo [24]"
+  },
+  {
+    "id": 52,
+    "pregunta": "¿Cuál es la sanción administrativa para un maestro con sentencia ejecutoriada por delitos de violencia?",
+    "opciones": [
+      "Un memorándum de felicitación.",
+      "Registro de la sanción en su RDA (Registro Docente Administrativo).",
+      "Vacaciones pagadas por un mes.",
+      "Aumento de su categoría docente automáticamente."
+    ],
+    "correcta": 1,
+    "explicacion": "Aquellos con sentencia ejecutoriada verán este antecedente registrado en su RDA. Referencia: Parte III: Actuación - Proceso administrativo [24]"
+  },
+  {
+    "id": 53,
+    "pregunta": "¿Qué implica la 'no revictimización' en el proceso de denuncia?",
+    "opciones": [
+      "Hacer que el estudiante repita su historia a cada maestro de la escuela.",
+      "Evitar interrogatorios innecesarios y proteger la privacidad de la información.",
+      "Llevar a la víctima a los medios de comunicación para que denuncie.",
+      "No creerle al estudiante para no causarle más problemas."
+    ],
+    "correcta": 1,
+    "explicacion": "Se garantiza la no revictimización respetando la privacidad y evitando que la víctima repita el relato innecesariamente. Referencia: Parte III: Actuación - Intervención [48]"
+  },
+  {
+    "id": 54,
+    "pregunta": "¿Por qué es importante la confidencialidad en casos de violencia escolar?",
+    "opciones": [
+      "Para proteger al agresor de la justicia.",
+      "Para evitar la estigmatización y revictimización del estudiante.",
+      "Para que el Ministerio de Educación no se entere.",
+      "Porque así lo dictan las leyes de comercio internacional."
+    ],
+    "correcta": 1,
+    "explicacion": "La confidencialidad es clave para evitar que la situación del estudiante sea divulgada y le cause más daño. Referencia: Parte III: Actuación - Intervención [48]"
+  },
+  {
+    "id": 55,
+    "pregunta": "En caso de ausencia de la Defensoría de la Niñez, ¿ante quién se puede acudir para denunciar?",
+    "opciones": [
+      "Ante las Autoridades Indígena Originario Campesinas.",
+      "Ante el club deportivo local.",
+      "No se puede denunciar hasta que llegue un abogado.",
+      "Ante el presidente de la promoción de estudiantes."
+    ],
+    "correcta": 0,
+    "explicacion": "En ausencia de instancias como la DNA o FELCV, se puede acudir a autoridades indígenas. Referencia: Parte III: Actuación - Denuncia [49]"
+  },
+  {
+    "id": 56,
+    "pregunta": "¿Qué ocurre si un miembro de la comunidad educativa no denuncia un hecho de violencia conocido?",
+    "opciones": [
+      "Recibe un premio por discreción.",
+      "Puede ser acusado de complicidad por omisión de denuncia según el Código Penal.",
+      "No pasa nada, la denuncia es opcional.",
+      "Se le otorga un ascenso de categoría inmediato."
+    ],
+    "correcta": 1,
+    "explicacion": "La omisión de denuncia es una vulneración normativa que puede derivar en cargos de complicidad. Referencia: Parte III: Actuación - Denuncia [20]"
+  },
+  {
+    "id": 57,
+    "pregunta": "¿Cuál es la función principal de la 'contrarreferencia' en el flujo de actuación?",
+    "opciones": [
+      "Que el agresor pueda defenderse de las acusaciones.",
+      "Que la instancia receptora informe a la escuela sobre las acciones realizadas y recomendaciones para proteger al niño.",
+      "Anular la denuncia original si no hay pruebas.",
+      "Cobrar los aranceles judiciales por el proceso."
+    ],
+    "correcta": 1,
+    "explicacion": "La contrarreferencia permite a la escuela conocer el estado de la denuncia y aplicar las recomendaciones de protección. Referencia: Parte III: Actuación - Respuesta de la instancia (contrarreferencia) [50]"
+  },
+  {
+    "id": 58,
+    "pregunta": "¿Qué debe hacer la directora si un caso de violencia se vuelve de conocimiento público?",
+    "opciones": [
+      "Expulsar a la víctima para limpiar la imagen de la escuela.",
+      "Orientar a la comunidad para que apoyen a la víctima sin revictimizarla.",
+      "Dar conferencias de prensa revelando el nombre del estudiante.",
+      "Cerrar la unidad educativa permanentemente."
+    ],
+    "correcta": 1,
+    "explicacion": "Si el hecho es público, se debe orientar a la comunidad para que el trato sea habitual y de apoyo. Referencia: Parte III: Actuación - Atención y protección de las víctimas [25]"
+  },
+  {
+    "id": 59,
+    "pregunta": "¿Cuál es el rol de los estudiantes en la construcción del Plan de Convivencia Armónica?",
+    "opciones": [
+      "Ninguno, solo los adultos deciden.",
+      "Participar activamente en su construcción y cumplimiento.",
+      "Solo firmar el documento final sin leerlo.",
+      "Encargarse de cobrar las multas por incumplimiento."
+    ],
+    "correcta": 1,
+    "explicacion": "Los estudiantes deben participar activamente en la construcción y enriquecimiento del Plan de Convivencia. Referencia: Parte II: Prevención - Estudiantes [51]"
+  },
+  {
+    "id": 60,
+    "pregunta": "¿Qué debe promoverse entre pares para prevenir la violencia según el protocolo?",
+    "opciones": [
+      "La competencia extrema por las notas.",
+      "Valores de respeto de derechos de todos los miembros.",
+      "La ley del silencio entre compañeros.",
+      "El rechazo a estudiantes con dificultades de aprendizaje."
+    ],
+    "correcta": 1,
+    "explicacion": "Se deben promover valores de respeto y acciones de prevención desde la perspectiva de los mismos pares. Referencia: Parte II: Prevención - Estudiantes [52, 53]"
+  },
+  {
+    "id": 61,
+    "pregunta": "Según el protocolo, ¿qué significa que la prevención debe ser 'corresponsable'?",
+    "opciones": [
+      "Que solo el director es responsable de lo que pase.",
+      "Que todos los miembros (padres, maestros, autoridades) comparten la responsabilidad de formar y proteger.",
+      "Que los estudiantes son los únicos responsables de su propia seguridad.",
+      "Que la responsabilidad es opcional dependiendo del contrato de trabajo."
+    ],
+    "correcta": 1,
+    "explicacion": "La corresponsabilidad implica que todos los actores deben involucrarse en el proceso de formación y prevención. Referencia: Aspectos generales del protocolo - ¿Cómo prevenir la violencia? [54]"
+  },
+  {
+    "id": 62,
+    "pregunta": "¿Cuál es un indicio de violencia sexual que puede detectarse en las clases de educación física?",
+    "opciones": [
+      "Correr muy rápido.",
+      "Resistencia extrema para cambiarse de ropa frente a otros.",
+      "Olvidar el uniforme deportivo frecuentemente.",
+      "Pedir permiso para ir al baño constantemente."
+    ],
+    "correcta": 1,
+    "explicacion": "La resistencia para cambiarse de ropa es un indicador conductual que puede alertar sobre algún daño físico oculto. Referencia: Parte III: Actuación - Tabla 3: Indicios [47]"
+  },
+  {
+    "id": 63,
+    "pregunta": "¿Qué se debe evitar hacer durante el relato espontáneo de un compañero testigo de violencia?",
+    "opciones": [
+      "Escucharlo con atención.",
+      "Salvaguardar su integridad y brindarle apoyo.",
+      "Ignorar su relato por no ser la víctima directa.",
+      "Garantizar la confidencialidad de su nombre."
+    ],
+    "correcta": 2,
+    "explicacion": "Se debe salvaguardar la integridad del testigo y asegurarle orientación, nunca ignorar su testimonio. Referencia: Parte III: Actuación - Intervención [48]"
+  },
+  {
+    "id": 64,
+    "pregunta": "¿Qué tipo de informe debe elaborar la directora tras conocer un hecho de violencia?",
+    "opciones": [
+      "Un informe subjetivo basado en chismes de pasillo.",
+      "Un informe objetivo utilizando el Anexo 1 del protocolo.",
+      "Un informe penal con sentencia incluida.",
+      "Un informe de bajas médicas para el seguro social."
+    ],
+    "correcta": 1,
+    "explicacion": "La directora debe elaborar un informe objetivo utilizando el formato del Anexo 1. Referencia: Parte III: Actuación - Intervención [55]"
+  },
+  {
+    "id": 65,
+    "pregunta": "En la contención emocional, ¿cuál es el objetivo de usar la 'escucha activa'?",
+    "opciones": [
+      "Poder interrumpir al estudiante para corregir su gramática.",
+      "Hacer que la víctima se sienta segura y tenga la certeza de ser escuchada.",
+      "Grabar la conversación sin permiso para usarla en juicios.",
+      "Demostrar que el maestro sabe más que el estudiante."
+    ],
+    "correcta": 1,
+    "explicacion": "La escucha activa busca asegurar a la víctima un ambiente de confianza donde se sienta validada. Referencia: Parte III: Actuación - Intervención [48]"
+  },
+  {
+    "id": 66,
+    "pregunta": "¿Cuál es la definición de 'contención' según el documento?",
+    "opciones": [
+      "Castigar al estudiante para que no llore.",
+      "El acto de recibir, acoger, proteger o cuidar a una persona que requiere ayuda.",
+      "Llamar a la policía para que detenga al niño molesto.",
+      "Encerrar al estudiante en un aula vacía hasta que se calme."
+    ],
+    "correcta": 1,
+    "explicacion": "Contener es acoger y proteger a quien atraviesa una situación difícil para evitar que se agrave. Referencia: Parte III: Actuación - Contención [56]"
+  },
+  {
+    "id": 67,
+    "pregunta": "¿Qué acción es fundamental para romper la 'cultura del silencio'?",
+    "opciones": [
+      "Prohibir que los estudiantes hablen entre ellos.",
+      "Desarrollar actividades que incluyan la obligación de denunciar cualquier tipo de violencia.",
+      "No creer en las denuncias anónimas.",
+      "Premiar a quienes no traen problemas a la dirección."
+    ],
+    "correcta": 1,
+    "explicacion": "Para romper el silencio se debe instruir sobre la obligación de denunciar todo tipo de violencia. Referencia: Parte II: Prevención - Directoras o directores [57]"
+  },
+  {
+    "id": 68,
+    "pregunta": "¿Cuál es el rol del personal auxiliar (como porteros) ante una conducta violenta detectada?",
+    "opciones": [
+      "Tratar de resolverlo ellos mismos mediante la fuerza.",
+      "Comunicarla inmediatamente a la directora o director de la unidad educativa.",
+      "No decir nada si el agresor es un maestro respetado.",
+      "Cobrar una multa al estudiante antes de dejarlo salir."
+    ],
+    "correcta": 1,
+    "explicacion": "Ante cualquier conducta de violencia, el personal auxiliar debe reportarla inmediatamente a su superior. Referencia: Parte II: Prevención - Personal administrativo y auxiliar [58]"
+  },
+  {
+    "id": 69,
+    "pregunta": "¿Qué principio establece que se debe dar prioridad máxima a los derechos de niñas, niños y adolescentes?",
+    "opciones": [
+      "Equidad de género",
+      "Prioridad absoluta",
+      "Desarrollo integral",
+      "Cultura de paz"
+    ],
+    "correcta": 1,
+    "explicacion": "El principio de prioridad absoluta y atención preferente rige la actuación del protocolo. Referencia: Aspectos generales del protocolo - ¿Bajo qué principios se rige el presente protocolo? [3]"
+  },
+  {
+    "id": 70,
+    "pregunta": "¿Qué ley boliviana garantiza a las mujeres una vida libre de violencia y se cita como base del protocolo?",
+    "opciones": [
+      "Ley N° 070",
+      "Ley N° 348",
+      "Ley N° 548",
+      "Ley N° 1970"
+    ],
+    "correcta": 1,
+    "explicacion": "La Ley 348 es fundamental para garantizar derechos y se cita en las definiciones de violencia. Referencia: Marco legal y normativo [59]"
+  },
+  {
+    "id": 71,
+    "pregunta": "¿Qué debe enseñarse a los estudiantes sobre su propio cuerpo para prevenir el abuso?",
+    "opciones": [
+      "Que el cuerpo pertenece al Estado y debe ser disciplinado.",
+      "Que su cuerpo es su territorio privado y nadie puede tocarlo sin permiso.",
+      "Que no deben hablar de sus partes íntimas por ser algo vergonzoso.",
+      "Que los adultos siempre tienen permiso para tocarlos si son sus maestros."
+    ],
+    "correcta": 1,
+    "explicacion": "Se debe enseñar que el cuerpo es territorio privado y a diferenciar caricias buenas de malas. Referencia: Parte II: Prevención - Medidas generales [60]"
+  },
+  {
+    "id": 72,
+    "pregunta": "¿Cuál es la sanción administrativa por la omisión de denuncia de un hecho de violencia por parte de un director?",
+    "opciones": [
+      "Felicitación en su RDA.",
+      "Responsabilidad por la función pública y posibles cargos penales.",
+      "Bono de antigüedad adicional.",
+      "Cambio de oficina a una más grande."
+    ],
+    "correcta": 1,
+    "explicacion": "Quien no denuncie vulnera la normativa penal (Art. 286 CP) y asume responsabilidad legal. Referencia: Parte III: Actuación - Denuncia [20]"
+  },
+  {
+    "id": 73,
+    "pregunta": "¿Qué acción técnica realiza el Ministerio de Educación para formular políticas de prevención anualmente?",
+    "opciones": [
+      "Realiza un sorteo de premios para escuelas sin violencia.",
+      "Consolida la información de casos remitidos por las Direcciones Departamentales.",
+      "Publica los nombres de todos los estudiantes sancionados.",
+      "Elimina las materias de psicología del currículo."
+    ],
+    "correcta": 1,
+    "explicacion": "El Ministerio consolida anualmente la información de casos para formular planes de prevención. Referencia: Parte I: Prevención - El Ministerio de Educación [61]"
+  },
+  {
+    "id": 74,
+    "pregunta": "¿Qué tipo de apoyo debe brindar el maestro al estudiante víctima a largo plazo?",
+    "opciones": [
+      "Aislamiento para que no contagie su tristeza a otros.",
+      "Acompañamiento en la recuperación psicoafectiva fortaleciendo la resiliencia.",
+      "Exigencia doble en exámenes para que recupere el tiempo perdido.",
+      "Ninguno, el rol del maestro termina con la denuncia."
+    ],
+    "correcta": 1,
+    "explicacion": "Es vital el acompañamiento durante la recuperación, fortaleciendo capacidades resilientes. Referencia: Parte III: Actuación - Atención y protección de las víctimas [28]"
+  },
+  {
+    "id": 75,
+    "pregunta": "¿Cómo se manifiesta la 'violencia por omisión' respecto a la salud del estudiante?",
+    "opciones": [
+      "Obligar al niño a hacer ejercicio físico.",
+      "Restringir las atenciones médicas o tratamientos psicológicos necesarios.",
+      "Llevar al niño al médico cada vez que se siente mal.",
+      "Enseñar hábitos de higiene en el aula."
+    ],
+    "correcta": 1,
+    "explicacion": "Restringir atenciones médicas o psicológicas necesarias es un ejemplo de negligencia. Referencia: Aspectos generales del protocolo - ¿En qué consiste la violencia por omisión o negligencia? [8]"
+  },
+  {
+    "id": 76,
+    "pregunta": "¿Qué conducta se considera 'porno-grafía' con agravante según el Código Penal?",
+    "opciones": [
+      "Dibujar en la pizarra durante el recreo.",
+      "Almacenar, distribuir o vender material porno-gráfico donde la víctima sea un menor.",
+      "Leer libros de anatomía humana.",
+      "Tomar fotos de los desfiles escolares."
+    ],
+    "correcta": 1,
+    "explicacion": "La pena se agrava en un tercio si la víctima de materiales porno-gráficos es niña, niño o adolescente. Referencia: Aspectos generales del protocolo - Tabla 1: Normativa nacional [41]"
+  },
+  {
+    "id": 77,
+    "pregunta": "¿Cuál es una consecuencia conductual a largo plazo de la violencia no atendida?",
+    "opciones": [
+      "Participación en clubes de lectura.",
+      "Comportamiento delictivo habitual y comportamientos adictivos.",
+      "Liderazgo positivo en la comunidad.",
+      "Éxito académico sobresaliente."
+    ],
+    "correcta": 1,
+    "explicacion": "A largo plazo, la violencia puede derivar en comportamientos adictivos y delictivos recurrentes. Referencia: Aspectos generales del protocolo - Tabla 2: Consecuencias [62]"
+  },
+  {
+    "id": 78,
+    "pregunta": "¿Qué debe hacer la maestra si necesita dialogar a solas con un estudiante por un tema pedagógico particular?",
+    "opciones": [
+      "Cerrar la puerta con llave para que nadie interrumpa.",
+      "Informar a la dirección para que convoque al padre/tutor y estar presentes en la reunión.",
+      "Citar al estudiante en un café fuera del horario escolar.",
+      "Hablar por WhatsApp en privado durante la noche."
+    ],
+    "correcta": 1,
+    "explicacion": "Cualquier diálogo particular debe ser informado a la dirección y contar con la presencia de los padres. Referencia: Parte II: Prevención - Maestras y maestros [63]"
+  },
+  {
+    "id": 79,
+    "pregunta": "¿Cuál es el rol de los Proyectos Sociocomunitarios Productivos (PSP) en la prevención?",
+    "opciones": [
+      "Generar ingresos económicos para los maestros.",
+      "Abordar la prevención de la violencia como una problemática prioritaria de la comunidad.",
+      "Sustituir las clases de matemáticas.",
+      "Construir muros más altos alrededor de la escuela."
+    ],
+    "correcta": 1,
+    "explicacion": "El PSP es una estrategia para intervenir en problemáticas sociales como la violencia desde la escuela. Referencia: Parte I: Prevención - La Directora o el Director Departamental [64]"
+  },
+  {
+    "id": 80,
+    "pregunta": "¿Qué implica el principio de 'Cultura de Paz' en el protocolo?",
+    "opciones": [
+      "Evitar cualquier tipo de conflicto a toda costa.",
+      "Promover la resolución pacífica de conflictos y el respeto a los derechos humanos.",
+      "Sancionar físicamente a quienes perturben el orden.",
+      "Eliminar las fuerzas del orden de la sociedad."
+    ],
+    "correcta": 1,
+    "explicacion": "La cultura de paz sustenta la erradicación de la violencia y el buen trato en el ámbito educativo. Referencia: Presentación [30]"
+  },
+  {
+    "id": 81,
+    "pregunta": "¿Cuál es el plazo para formalizar la querella criminal tras denunciar un hecho de violencia sexual?",
+    "opciones": [
+      "24 horas",
+      "48 horas",
+      "72 horas",
+      "Un mes"
+    ],
+    "correcta": 2,
+    "explicacion": "Tras la denuncia inicial en 48 horas, se debe formalizar la querella en las siguientes 72 horas. Referencia: Parte I: Prevención - El Ministerio de Educación [14]"
+  },
+  {
+    "id": 82,
+    "pregunta": "En el caso de 'violación de infante', ¿a partir de qué pena se elimina el derecho a indulto?",
+    "opciones": [
+      "10 años",
+      "15 años",
+      "20 años",
+      "30 años"
+    ],
+    "correcta": 3,
+    "explicacion": "Si la pena por violación de infante alcanza los 30 años por agravantes, será sin derecho a indulto. Referencia: Aspectos generales del protocolo - Tabla 1: Normativa nacional [12]"
+  },
+  {
+    "id": 83,
+    "pregunta": "¿Qué tipo de violencia se ejerce cuando se permite el uso de alcohol o drogas a menores de edad?",
+    "opciones": [
+      "Violencia física",
+      "Violencia por omisión o negligencia",
+      "Violencia psicológica",
+      "Inconducta disciplinaria leve"
+    ],
+    "correcta": 1,
+    "explicacion": "Permitir el uso de substancias controladas es una forma de violencia por negligencia en el cuidado. Referencia: Aspectos generales del protocolo - ¿En qué consiste la violencia por omisión o negligencia? [8]"
+  },
+  {
+    "id": 84,
+    "pregunta": "¿Qué debe hacer un maestro si un estudiante le confiesa ser víctima de violencia intrafamiliar bajo promesa de secreto?",
+    "opciones": [
+      "Mantener el secreto para no perder la confianza del alumno.",
+      "Explicar que por su protección debe informar a las autoridades competentes.",
+      "Contárselo a los demás alumnos para que lo ayuden.",
+      "Pedirle al estudiante que no le cuente más cosas tristes."
+    ],
+    "correcta": 1,
+    "explicacion": "La denuncia es obligatoria; el maestro debe informar que se tomarán medidas para proteger su integridad. Referencia: Parte III: Actuación - Intervención [48]"
+  },
+  {
+    "id": 85,
+    "pregunta": "¿Qué se recomienda hacer si la víctima de violencia sexual tiene miedo de hablar con sus padres?",
+    "opciones": [
+      "Obligarla a hablar con ellos inmediatamente delante de todos.",
+      "Comunicarse con la Defensoría de la Niñez para que intervenga personal capacitado.",
+      "Ignorar el caso hasta que el estudiante esté listo.",
+      "Llamar a los padres y decirles que su hijo miente."
+    ],
+    "correcta": 1,
+    "explicacion": "La DNA debe intervenir para realizar la contención profesional y el proceso de acompañamiento. Referencia: Parte III: Actuación - Contención [23, 56]"
+  },
+  {
+    "id": 86,
+    "pregunta": "¿Cuál es la sanción administrativa para un maestro que ejerce malos tratos que no constituyen falta grave ni delito?",
+    "opciones": [
+      "Amonestación por escrito para reflexión y orientación.",
+      "Expulsión definitiva del magisterio.",
+      "Descuento del 50% de su salario por un año.",
+      "Ninguna, los malos tratos leves están permitidos."
+    ],
+    "correcta": 0,
+    "explicacion": "Si no es falta grave, se procede con amonestación escrita para reflexión sobre el comportamiento. Referencia: Parte III: Actuación - Orientación para directores y maestros [65]"
+  },
+  {
+    "id": 87,
+    "pregunta": "¿Qué implica que el protocolo busque evitar la 'revictimización'?",
+    "opciones": [
+      "Que la víctima siempre tiene la culpa.",
+      "Evitar acciones que obliguen a la víctima a revivir el trauma innecesariamente.",
+      "Que el agresor es la verdadera víctima del sistema.",
+      "Eliminar todos los registros de la denuncia."
+    ],
+    "correcta": 1,
+    "explicacion": "La no revictimización busca proteger la privacidad y estabilidad emocional del niño durante el proceso. Referencia: Parte III: Actuación - Intervención [48]"
+  },
+  {
+    "id": 88,
+    "pregunta": "¿Quién debe supervisar que ningún estudiante quede fuera de la unidad educativa por llegar tarde?",
+    "opciones": [
+      "El representante de curso.",
+      "El Director de la unidad educativa.",
+      "La policía de tránsito.",
+      "El presidente de la junta vecinal."
+    ],
+    "correcta": 1,
+    "explicacion": "Es deber del director supervisar que no se restrinja el ingreso por retrasos u otras situaciones. Referencia: Parte II: Prevención - Directoras o directores"
+  },
+  {
+    "id": 89,
+    "pregunta": "¿Qué ley se encarga de la 'Abreviación Procesal Penal' para delitos de violencia?",
+    "opciones": [
+      "Ley N° 070",
+      "Ley N° 548",
+      "Ley N° 1173",
+      "Ley N° 045"
+    ],
+    "correcta": 2,
+    "explicacion": "La Ley 1173 de Abreviación Procesal Penal sustenta los procedimientos rápidos en materia de protección. Referencia: Marco legal y normativo "
+  },
+  {
+    "id": 90,
+    "pregunta": "¿Qué acción preventiva debe fortalecer la maestra en el aula respecto a la autoestima?",
+    "opciones": [
+      "Fomentar la competencia para ver quién es el mejor.",
+      "Fomentar el buen trato y el respeto mutuo entre estudiantes.",
+      "Ignorar a los estudiantes que tienen baja autoestima.",
+      "Sancionar a quienes no sonríen en clase."
+    ],
+    "correcta": 1,
+    "explicacion": "El maestro debe fortalecer la seguridad y autoestima fomentando el buen trato en clase. Referencia: Parte II: Prevención - Maestras y maestros [66]"
+  },
+  {
+    "id": 91,
+    "pregunta": "¿Qué debe hacer la directora si el portero delega sus funciones de vigilancia a un tercero?",
+    "opciones": [
+      "Felicitarlo por su capacidad de delegación.",
+      "Instruir que el portero cumpla sus funciones personalmente por seguridad de los alumnos.",
+      "No intervenir mientras la puerta esté cerrada.",
+      "Pedirle al tercero que pague una cuota a la escuela."
+    ],
+    "correcta": 1,
+    "explicacion": "El portero no puede delegar sus funciones a terceros para precautelar la seguridad estudiantil. Referencia: Parte II: Prevención - Personal administrativo y auxiliar [67]"
+  },
+  {
+    "id": 92,
+    "pregunta": "¿Cuál es la función del 'RDA' en los procesos de violencia?",
+    "opciones": [
+      "Es un registro de asistencia diaria de los alumnos.",
+      "Es el registro donde se inscriben las sanciones ejecutoriadas de los maestros.",
+      "Es una revista de entretenimiento pedagógico.",
+      "Es el carnet de identidad del maestro."
+    ],
+    "correcta": 1,
+    "explicacion": "En el RDA (Registro Docente Administrativo) se registran las resoluciones sancionatorias ejecutoriadas. Referencia: Parte III: Actuación - Proceso administrativo [24]"
+  },
+  {
+    "id": 93,
+    "pregunta": "¿Qué circunstancia obliga a la dirección a coordinar acciones terapéuticas con el CEPAT?",
+    "opciones": [
+      "Un estudiante con bajas notas en matemáticas.",
+      "Un estudiante víctima de violencia sexual para su recuperación psicoafectiva.",
+      "La organización de la fiesta de promoción.",
+      "La compra de mobiliario escolar."
+    ],
+    "correcta": 1,
+    "explicacion": "La dirección refiere a víctimas de violencia sexual al CEPAT para apoyo emocional sostenido. Referencia: Parte III: Actuación - Atención y protección de las víctimas [28]"
+  },
+  {
+    "id": 94,
+    "pregunta": "¿Qué ley se conoce como 'Código Niña, Niño y Adolescente'?",
+    "opciones": [
+      "Ley N° 348",
+      "Ley N° 548",
+      "Ley N° 070",
+      "Ley N° 1768"
+    ],
+    "correcta": 1,
+    "explicacion": "La Ley 548 es el Código que establece los derechos y protecciones de la niñez en Bolivia. Referencia: Marco legal y normativo [59]"
+  },
+  {
+    "id": 95,
+    "pregunta": "¿Qué debe hacer la directora si un padre de familia toma represalias contra un estudiante denunciante?",
+    "opciones": [
+      "Apoyar al padre porque tiene derecho a defenderse.",
+      "Informar a la Defensoría de la Niñez, ya que no se permiten represalias contra las víctimas.",
+      "Pedirle al estudiante que retire la denuncia para evitar problemas.",
+      "Expulsar a los hermanos del estudiante denunciante."
+    ],
+    "correcta": 1,
+    "explicacion": "Ningún integrante puede asumir represalias; en tal caso se debe acudir a la DNA o al Juzgado. Referencia: Parte III: Actuación - Remisión a la justicia ordinaria [68]"
+  },
+  {
+    "id": 96,
+    "pregunta": "¿Cuál es la edad máxima protegida por el delito de 'Infanticidio'?",
+    "opciones": [
+      "5 años",
+      "10 años",
+      "12 años",
+      "18 años"
+    ],
+    "correcta": 2,
+    "explicacion": "El infanticidio sanciona el asesinato de niños desde su nacimiento hasta sus 12 años. Referencia: Aspectos generales del protocolo - Tabla 1: Normativa nacional [41]"
+  },
+  {
+    "id": 97,
+    "pregunta": "¿Qué tipo de sanción recibe quien incurre en 'Acoso Sexual' valiéndose de una posición jerárquica?",
+    "opciones": [
+      "Multa económica de 10 días de salario.",
+      "Privación de libertad de 4 a 8 años.",
+      "Amonestación verbal privada.",
+      "Suspensión de clases por una semana."
+    ],
+    "correcta": 1,
+    "explicacion": "El acoso sexual jerárquico se sanciona con 4 a 8 años de privación de libertad. Referencia: Aspectos generales del protocolo - Tabla 1: Normativa nacional [69]"
+  },
+  {
+    "id": 98,
+    "pregunta": "¿Cómo se define la violencia psicológica basada en 'estereotipos'?",
+    "opciones": [
+      "Gritar por un error en un examen.",
+      "Actitudes violentas basadas en prejuicios que discriminan a personas con características diferentes.",
+      "No permitir que el estudiante use el celular en clase.",
+      "Pedir que todos usen el uniforme correctamente."
+    ],
+    "correcta": 1,
+    "explicacion": "Se manifiesta con actitudes basadas en prejuicios que justifican la violencia hacia lo 'diferente'. Referencia: Aspectos generales del protocolo - ¿En qué consiste la violencia psicológica? [5]"
+  },
+  {
+    "id": 99,
+    "pregunta": "¿Qué ley establece la 'Protección de Denunciantes y Testigos'?",
+    "opciones": [
+      "Ley N° 458",
+      "Ley N° 070",
+      "Ley N° 348",
+      "Ley N° 264"
+    ],
+    "correcta": 0,
+    "explicacion": "La Ley 458 es la encargada de proteger a quienes denuncian o atestiguan hechos de violencia. Referencia: Marco legal y normativo [59]"
+  },
+  {
+    "id": 100,
+    "pregunta": "¿Cuál es el fin último de aplicar este protocolo en las escuelas bolivianas?",
+    "opciones": [
+      "Cumplir con trámites burocráticos del Ministerio.",
+      "Asegurar una educación de calidad y sin violencia para todas y todos los estudiantes.",
+      "Aumentar el número de maestros con procesos penales.",
+      "Sustituir el rol de los padres en la educación."
+    ],
+    "correcta": 1,
+    "explicacion": "El compromiso principal es lograr una educación de calidad y libre de violencia para la niñez. Referencia: Presentación [70]"
+  },
+  {
+    "id": 101,
+    "pregunta": "En el marco de las políticas del Ministerio de Educación, ¿qué significa el concepto de 'Vivir Bien' en relación con la convivencia escolar?",
+    "opciones": [
+      "La búsqueda del éxito individual por encima de los intereses de la comunidad educativa.",
+      "Vivir en armonía con la naturaleza y en equilibrio con lo que nos rodea, basado en la protección comunitaria.",
+      "La implementación de un sistema de competencia académica estricta entre estudiantes.",
+      "Un estado de bienestar basado únicamente en la adquisición de recursos materiales para la escuela."
+    ],
+    "correcta": 1,
+    "explicacion": "El 'Vivir Bien' se traduce en la convivencia comunitaria sin asimetrías de poder y en equilibrio con el entorno. Referencia: Presentación - Página 5."
+  },
+  {
+    "id": 102,
+    "pregunta": "¿Qué base fundamental plantea la Ley N° 070 'Avelino Siñani - Elizardo Pérez' para contribuir a erradicar la violencia en el ámbito educativo?",
+    "opciones": [
+      "El establecimiento de castigos físicos moderados como medida correctiva.",
+      "La promoción de la convivencia pacífica y el desarrollo de una sociedad sustentada en la cultura de paz.",
+      "La exclusión inmediata de estudiantes con problemas de conducta del sistema regular.",
+      "La delegación exclusiva de la seguridad escolar a las fuerzas policiales."
+    ],
+    "correcta": 1,
+    "explicacion": "La Ley 070 define la educación como promotora de la convivencia pacífica para erradicar la violencia. Referencia: Presentación - Página 5."
+  },
+  {
+    "id": 103,
+    "pregunta": "Dentro del Protocolo de actuación, ¿cuál es la finalidad principal de definir lineamientos para la prevención y protección de víctimas?",
+    "opciones": [
+      "Asegurar una respuesta oportuna y eficaz salvaguardando la integridad de los estudiantes y evitando la revictimización.",
+      "Establecer un registro de antecedentes penales para estudiantes menores de edad.",
+      "Facilitar la mediación obligatoria entre la víctima de violencia sexual y su agresor.",
+      "Reducir los costos administrativos de los procesos judiciales en el Ministerio de Educación."
+    ],
+    "correcta": 0,
+    "explicacion": "El objeto es sensibilizar y salvaguardar la integridad de los estudiantes mediante respuestas eficaces y sin revictimización. Referencia: Aspectos generales del protocolo - ¿Cuál es el objeto del protocolo? - Página 13."
+  },
+  {
+    "id": 104,
+    "pregunta": "En el contexto de los principios que rigen el protocolo, ¿qué implica el principio de 'Prioridad absoluta y atención preferente'?",
+    "opciones": [
+      "Dar preferencia en el ingreso a la unidad educativa a estudiantes con mejores calificaciones.",
+      "Atender primero las denuncias que involucren al personal administrativo antes que a los maestros.",
+      "Otorgar máxima prioridad a los derechos y la atención de niñas, niños y adolescentes en cualquier situación.",
+      "Priorizar la reputación de la institución educativa sobre los incidentes aislados de violencia."
+    ],
+    "correcta": 2,
+    "explicacion": "Es uno de los principios rectores que obliga a dar atención preferente a la niñez y adolescencia. Referencia: Aspectos generales del protocolo - ¿Bajo qué principios se rige el presente protocolo? - Página 13."
+  },
+  {
+    "id": 105,
+    "pregunta": "¿Cuál es la definición de violencia según el Código Niña, Niño y Adolescente (Ley N° 548) integrada en el protocolo?",
+    "opciones": [
+      "Solo los actos físicos que resultan en cicatrices o fracturas permanentes.",
+      "Cualquier falta de respeto mutuo que no cause daño psicológico documentado.",
+      "Toda acción u omisión que ocasione privaciones, lesiones, daños o sufrimientos en la salud física, mental o sexual.",
+      "La desobediencia de los estudiantes hacia las instrucciones pedagógicas del maestro."
+    ],
+    "correcta": 2,
+    "explicacion": "La violencia incluye acción u omisión que dañe la salud física, mental, afectiva o sexual. Referencia: Aspectos generales del protocolo - ¿Qué es la violencia? - Página 13."
+  },
+  {
+    "id": 106,
+    "pregunta": "En la violencia psicológica, ¿cómo se define específicamente el 'maltrato emocional'?",
+    "opciones": [
+      "La exigencia de cumplimiento de tareas escolares en tiempos establecidos.",
+      "Tratos humillantes, manipulación, chantaje, difusión de rumores o asignación de culpa.",
+      "El aislamiento preventivo de un estudiante que padece una enfermedad contagiosa.",
+      "La aplicación de reglamentos de disciplina aprobados por la comunidad educativa."
+    ],
+    "correcta": 1,
+    "explicacion": "El maltrato emocional se manifiesta a través de humillaciones, manipulación y ofensas que dañan la autoestima. Referencia: Aspectos generales del protocolo - ¿En qué consiste la violencia psicológica? - Página 14."
+  },
+  {
+    "id": 107,
+    "pregunta": "¿Qué tipo de actos se consideran manifestaciones directas de violencia física según el protocolo?",
+    "opciones": [
+      "Gritos y expresiones descalificadoras en el aula.",
+      "No proporcionar material escolar a pesar de tener los medios.",
+      "Golpes, pellizcos, bofetadas, empujones e ingestión forzada de drogas.",
+      "La inasistencia e impuntualidad recurrente del maestro."
+    ],
+    "correcta": 2,
+    "explicacion": "La violencia física incluye agresiones corporales directas como golpes o castigos físicos. Referencia: Aspectos generales del protocolo - ¿En qué consiste la violencia física? - Página 14."
+  },
+  {
+    "id": 108,
+    "pregunta": "Dentro de la violencia por omisión o negligencia en el ámbito educativo, ¿qué responsabilidad tiene el personal docente?",
+    "opciones": [
+      "Es responsable únicamente del contenido académico impartido en su materia.",
+      "Debe cumplir con sus obligaciones de atención, cuidado y supervisión de los estudiantes a su cargo.",
+      "Tiene la facultad de decidir si denuncia o no un hecho de violencia según su criterio personal.",
+      "Debe encargarse de la alimentación de los estudiantes cuando los padres no lo hacen."
+    ],
+    "correcta": 1,
+    "explicacion": "La negligencia es la omisión o descuido en el cumplimiento de responsabilidades de atención y cuidado. Referencia: Aspectos generales del protocolo - ¿En qué consiste la violencia por omisión o negligencia? - Página 14."
+  },
+  {
+    "id": 109,
+    "pregunta": "¿Cuál de las siguientes situaciones se considera un ejemplo de negligencia por parte del maestro en la unidad educativa?",
+    "opciones": [
+      "Asignar tareas de investigación para el fin de semana.",
+      "Intervenir en una pelea leve entre estudiantes para buscar la reconciliación.",
+      "Inasistencia e impuntualidad en sus horas de clase, dejando desatendidos a los estudiantes.",
+      "Informar a la dirección sobre la falta de útiles de un estudiante."
+    ],
+    "correcta": 2,
+    "explicacion": "La inasistencia y dejar desatendidos a los estudiantes es una forma de violencia por omisión. Referencia: Aspectos generales del protocolo - Ejemplos de negligencia - Página 15."
+  },
+  {
+    "id": 110,
+    "pregunta": "Según la definición de abuso sexual infantil de UNICEF adoptada por el protocolo, ¿qué elemento es característico en este tipo de violencia?",
+    "opciones": [
+      "La existencia de un acuerdo mutuo de confidencialidad entre las partes.",
+      "La asimetría de poder y la operación de la coerción por parte del adulto.",
+      "La presencia obligatoria de violencia física visible para que sea considerado abuso.",
+      "Que el acto ocurra exclusivamente fuera de los predios de la unidad educativa."
+    ],
+    "correcta": 1,
+    "explicacion": "El abuso sexual infantil se reconoce por la asimetría de poder y el uso de coerción o manipulación. Referencia: Aspectos generales del protocolo - ¿En qué consiste la violencia sexual? - Página 16."
+  },
+  {
+    "id": 111,
+    "pregunta": "Dentro del catálogo de delitos contra la libertad sexual, ¿cómo se sanciona la violación cometido contra menores de 14 años?",
+    "opciones": [
+      "Con privación de libertad de 5 a 10 años.",
+      "Con privación de libertad de 10 a 15 años.",
+      "Con privación de libertad de 20 a 25 años, independientemente del alegato de consentimiento.",
+      "Con una multa económica y suspensión temporal del cargo si el agresor es maestro."
+    ],
+    "correcta": 2,
+    "explicacion": "La violación a menores de 14 años tiene una pena de 20 a 25 años de cárcel. Referencia: Aspectos generales del protocolo - Tabla 1: Violación de infante - Página 17."
+  },
+  {
+    "id": 112,
+    "pregunta": "En el caso del delito de Acoso Sexual en el ámbito educativo, ¿qué agravante se aplica si el autor es un servidor público?",
+    "opciones": [
+      "Se le otorga un permiso temporal mientras dure la investigación.",
+      "Se le traslada a otra unidad educativa para evitar el contacto con la víctima.",
+      "Será destituido de su cargo y la pena de cárcel será agravada en un tercio.",
+      "La sanción se reduce si demuestra que no hubo contacto físico."
+    ],
+    "correcta": 2,
+    "explicacion": "Si un servidor público comete acoso sexual valiéndose de su jerarquía, es destituido y su pena aumenta. Referencia: Aspectos generales del protocolo - Tabla 1: Acoso Sexual - Página 18."
+  },
+  {
+    "id": 113,
+    "pregunta": "De acuerdo con el Código Penal, ¿cuál es la sanción establecida para el delito de Infanticidio?",
+    "opciones": [
+      "Privación de libertad de 20 años con derecho a indulto.",
+      "Privación de libertad de 30 años sin derecho a indulto.",
+      "Privación de libertad de 15 a 20 años si el autor es familiar.",
+      "Sanción disciplinaria administrativa y reclusión de 10 años."
+    ],
+    "correcta": 1,
+    "explicacion": "El infanticidio se sanciona con la pena máxima de 30 años de presidio sin derecho a indulto. Referencia: Aspectos generales del protocolo - Tabla 1: Infanticidio - Página 20."
+  },
+  {
+    "id": 114,
+    "pregunta": "¿Qué circunstancia se considera una agravante en los delitos de violación según la normativa nacional?",
+    "opciones": [
+      "Que el hecho se produzca frente a otros niños, niñas o adolescentes.",
+      "Que la víctima tenga un historial de mala conducta escolar.",
+      "Que el agresor sea una persona menor de edad.",
+      "Que el hecho ocurra durante el periodo de vacaciones escolares."
+    ],
+    "correcta": 0,
+    "explicacion": "Cometer el hecho frente a otros menores es una agravante que aumenta la pena. Referencia: Aspectos generales del protocolo - Tabla 1: Agravantes (inciso b) - Página 19."
+  },
+  {
+    "id": 115,
+    "pregunta": "Respecto a los efectos de la violencia sexual, ¿por qué es fundamental el apoyo psicoafectivo oportuno para la víctima?",
+    "opciones": [
+      "Para que el estudiante pueda rendir sus exámenes sin retraso.",
+      "Porque la violencia sexual deja profundas secuelas que marcan la vida futura y no se olvidan fácilmente.",
+      "Para evitar que la unidad educativa reciba una sanción administrativa.",
+      "Para que los padres no presenten una demanda civil contra el Estado."
+    ],
+    "correcta": 1,
+    "explicacion": "La violencia sexual deja huellas que, aunque no se hablen, marcan el futuro si no hay apoyo integral. Referencia: Aspectos generales del protocolo - ¿Cuáles son los efectos de la violencia? - Página 21."
+  },
+  {
+    "id": 116,
+    "pregunta": "¿Cuál es un indicador conductual a corto plazo que puede alertar sobre una agresión reciente en un estudiante?",
+    "opciones": [
+      "Participación activa en el consejo estudiantil.",
+      "Temor sobredimensionado hacia el agresor y aislamiento social.",
+      "Aumento repentino del interés por las actividades artísticas.",
+      "Mejora en la caligrafía y presentación de cuadernos."
+    ],
+    "correcta": 1,
+    "explicacion": "El temor al agresor y el aislamiento son consecuencias conductuales inmediatas de la agresión. Referencia: Aspectos generales del protocolo - Tabla 2: Consecuencias - Página 22."
+  },
+  {
+    "id": 117,
+    "pregunta": "Dentro de las funciones del Ministerio de Educación, ¿para qué se consolida anualmente la información de casos de violencia?",
+    "opciones": [
+      "Para publicar un ranking de las escuelas más violentas del país.",
+      "Para formular políticas, planes y programas de prevención basados en datos reales.",
+      "Para realizar descuentos automáticos en las planillas de los maestros implicados.",
+      "Para informar exclusivamente a organismos internacionales sobre el presupuesto ejecutado."
+    ],
+    "correcta": 1,
+    "explicacion": "La información estadística permite al Ministerio formular políticas efectivas de prevención. Referencia: Parte I: Prevención - El Ministerio de Educación - Página 27."
+  },
+  {
+    "id": 118,
+    "pregunta": "¿Cuál es la responsabilidad del Director Departamental de Educación ante un caso de violencia sexual cometido por personal del sistema educativo?",
+    "opciones": [
+      "Debe encargarse personalmente de realizar el peritaje psicológico a la víctima.",
+      "Debe denunciar el hecho y proseguir las acciones penales hasta su conclusión ante las instancias jurisdiccionales.",
+      "Puede decidir archivar el caso si el maestro tiene más de 20 años de servicio.",
+      "Debe convocar a una asamblea de padres para votar sobre la permanencia del acusado."
+    ],
+    "correcta": 1,
+    "explicacion": "Es obligación de la DDE denunciar y coadyuvar en la acción penal hasta el final del proceso. Referencia: Parte I: Prevención - La Directora o el Director Departamental - Página 28."
+  },
+  {
+    "id": 119,
+    "pregunta": "¿Qué acción debe realizar el Director Distrital Educativo tras conocer una falta grave relativa a violencia física o psicológica?",
+    "opciones": [
+      "Solicitar la baja médica del personal implicado para evitar problemas legales.",
+      "Iniciar el proceso disciplinario administrativo correspondiente hasta su culminación.",
+      "Realizar una amonestación verbal privada y cerrar el expediente.",
+      "Esperar a que la justicia ordinaria dicte sentencia para tomar cualquier medida administrativa."
+    ],
+    "correcta": 1,
+    "explicacion": "El Director Distrital debe iniciar el proceso disciplinario administrativo de manera inmediata. Referencia: Parte I: Prevención - La Directora o el Director Distrital - Página 31."
+  },
+  {
+    "id": 120,
+    "pregunta": "Dentro de las medidas generales de prevención, ¿qué concepto se debe enseñar a los estudiantes para fortalecer su autoprotección?",
+    "opciones": [
+      "Que el cuerpo es territorio privado y a diferenciar las caricias buenas de las malas.",
+      "Que deben obedecer a ciegas cualquier instrucción de una persona adulta.",
+      "Que el contacto físico es una parte natural del aprendizaje y no debe cuestionarse.",
+      "Que las partes íntimas no deben ser mencionadas por ser temas inapropiados."
+    ],
+    "correcta": 0,
+    "explicacion": "Se debe enseñar el respeto al propio cuerpo como territorio privado para prevenir el abuso. Referencia: Parte II: Prevención - Medidas generales - Página 36."
+  },
+  {
+    "id": 121,
+    "pregunta": "¿Qué está prohibido respecto al uso de redes sociales entre maestros y estudiantes para fines pedagógicos?",
+    "opciones": [
+      "El uso de grupos de WhatsApp supervisados por la dirección.",
+      "La comunicación individual por mensajería o llamadas telefónicas directas.",
+      "La publicación de calendarios de exámenes en plataformas virtuales.",
+      "La creación de grupos de Facebook para compartir material de estudio."
+    ],
+    "correcta": 1,
+    "explicacion": "Se prohíbe la comunicación individual; de ser necesaria, debe ser vía padres y dirección. Referencia: Parte II: Prevención - Directoras o directores - Página 39."
+  },
+  {
+    "id": 122,
+    "pregunta": "En cuanto a la infraestructura segura, ¿qué gestión debe realizar la dirección de la unidad educativa?",
+    "opciones": [
+      "Construir nuevas aulas sin considerar la vigilancia de los baños.",
+      "Identificar lugares inseguros y organizar la supervisión de áreas como canchas y pasillos poco visibles.",
+      "Delegar la vigilancia total de la escuela a los estudiantes de los últimos grados.",
+      "Permitir el libre acceso de cualquier persona a todos los ambientes educativos."
+    ],
+    "correcta": 1,
+    "explicacion": "La dirección debe gestionar la seguridad supervisando espacios donde la vigilancia es difícil. Referencia: Parte II: Prevención - Directoras o directores - Página 37."
+  },
+  {
+    "id": 123,
+    "pregunta": "¿Cuál es la norma del protocolo sobre las actividades curriculares programadas por maestros en sus domicilios?",
+    "opciones": [
+      "Están permitidas siempre que haya una invitación formal escrita.",
+      "Están estrictamente prohibidas, al igual que actividades en oficinas o la casa del estudiante.",
+      "Se permiten si el grupo de estudiantes es mayor a cinco personas.",
+      "Están permitidas solo si el maestro vive cerca de la unidad educativa."
+    ],
+    "correcta": 1,
+    "explicacion": "Los maestros no pueden programar actividades en domicilios particulares u oficinas privadas. Referencia: Parte II: Prevención - Maestras y maestros - Página 42."
+  },
+  {
+    "id": 124,
+    "pregunta": "Ante un conflicto leve entre estudiantes, ¿qué postura debe adoptar el maestro según las medidas de prevención?",
+    "opciones": [
+      "Ser un observador pasivo para fomentar la autonomía de los alumnos.",
+      "Intervenir inmediatamente para detener el ciclo de violencia y proponer resolución pacífica.",
+      "Expulsar a los involucrados del aula para no perjudicar el avance de materia.",
+      "Ignorar la situación si no hay presencia de sangre o golpes visibles."
+    ],
+    "correcta": 1,
+    "explicacion": "El maestro debe intervenir en conflictos leves para enseñar resolución pacífica y evitar que escalen. Referencia: Parte II: Prevención - Maestras y maestros - Página 42."
+  },
+  {
+    "id": 125,
+    "pregunta": "¿Qué obligación tienen los estudiantes respecto a las conductas de violencia que conozcan dentro de la escuela?",
+    "opciones": [
+      "Guardar secreto para no ser tildados de delatores por sus pares.",
+      "Poner en conocimiento del director o directora cualquier situación de violencia que conozcan.",
+      "Tratar de resolver el problema ellos mismos sin involucrar a adultos.",
+      "Esperar a que la víctima decida si quiere que alguien más se entere."
+    ],
+    "correcta": 1,
+    "explicacion": "Los estudiantes deben reportar ante la autoridad cualquier hecho violento del que tengan conocimiento. Referencia: Parte II: Prevención - Estudiantes - Página 44."
+  },
+  {
+    "id": 126,
+    "pregunta": "Si un estudiante presenta 'mutismo selectivo' o 'retrocesos conductuales', ¿qué debe sospechar la comunidad educativa?",
+    "opciones": [
+      "Que el estudiante está atravesando una etapa normal de timidez adolescente.",
+      "La posible presencia de una situación de violencia física, psicológica o sexual.",
+      "Que el estudiante no tiene interés en el aprendizaje de las materias troncales.",
+      "Que el estudiante requiere una sanción por su falta de participación en clase."
+    ],
+    "correcta": 1,
+    "explicacion": "El mutismo y retrocesos (como orinarse) son indicios psicológicos y conductuales de alerta. Referencia: Parte III: Actuación - Tabla 3: Indicios - Página 47."
+  },
+  {
+    "id": 127,
+    "pregunta": "¿Qué procedimiento debe seguirse si la autoridad máxima de la unidad educativa es el presunto agresor?",
+    "opciones": [
+      "La denuncia se presenta ante el consejo de maestros de la misma escuela.",
+      "La denuncia debe realizarse directamente ante la Dirección Distrital y la Defensoría de la Niñez.",
+      "Se debe esperar a que el Director termine su gestión para no interrumpir el orden administrativo.",
+      "No se puede denunciar sin el consentimiento previo de la junta escolar."
+    ],
+    "correcta": 1,
+    "explicacion": "Si el director está implicado, la instancia superior (Distrital) y la DNA asumen el caso. Referencia: Parte III: Actuación - Detección - Página 49."
+  },
+  {
+    "id": 128,
+    "pregunta": "Dentro de la etapa de intervención, ¿qué significa aplicar la 'escucha activa' con un estudiante víctima?",
+    "opciones": [
+      "Interrumpir constantemente para corregir detalles del relato.",
+      "Asegurar un ambiente de confianza donde el estudiante tenga la certeza de ser escuchado sin juicios.",
+      "Grabar la conversación de forma oculta para presentarla como prueba legal.",
+      "Hacer que el estudiante repita su historia varias veces para verificar contradicciones."
+    ],
+    "correcta": 1,
+    "explicacion": "La escucha activa busca brindar seguridad y validación al relato espontáneo de la víctima. Referencia: Parte III: Actuación - Intervención - Página 50."
+  },
+  {
+    "id": 129,
+    "pregunta": "¿Por qué el protocolo prohíbe realizar preguntas adicionales a la víctima durante la elaboración del informe inicial?",
+    "opciones": [
+      "Porque el informe debe ser lo más breve posible por falta de tiempo.",
+      "Para garantizar la no revictimización y evitar que el niño reviva el trauma innecesariamente.",
+      "Porque solo el Ministerio Público tiene permiso legal para hablar con niños.",
+      "Para que el agresor no pueda impugnar el informe por errores de procedimiento."
+    ],
+    "correcta": 1,
+    "explicacion": "Evitar preguntas innecesarias protege la integridad emocional y evita la revictimización. Referencia: Parte III: Actuación - Intervención - Página 51."
+  },
+  {
+    "id": 130,
+    "pregunta": "En el proceso de contención emocional, ¿cuál es la recomendación sobre el contacto físico hacia la víctima?",
+    "opciones": [
+      "Abrazar al estudiante para que sienta el cariño de sus maestros.",
+      "Evitar el contacto físico, ya que puede recordar situaciones desagradables al niño; el afecto debe ser verbal.",
+      "Es obligatorio dar la mano al estudiante para cerrar el acuerdo de confidencialidad.",
+      "Dejar que otros estudiantes realicen el contacto físico para que sea entre pares."
+    ],
+    "correcta": 1,
+    "explicacion": "El contacto físico puede ser disparador de traumas; por ello se prefiere el afecto verbal. Referencia: Parte III: Actuación - Contención - Página 52."
+  },
+  {
+    "id": 131,
+    "pregunta": "¿Qué consecuencia legal enfrenta un miembro de la comunidad educativa que no denuncia un hecho de violencia conocido?",
+    "opciones": [
+      "Ninguna, la denuncia es un acto voluntario y no obligatorio.",
+      "Puede ser acusado de complicidad por omisión de denuncia según la normativa penal.",
+      "Solo recibe una amonestación verbal del Director Distrital.",
+      "Se le suspende de sus funciones por tres días sin goce de haberes."
+    ],
+    "correcta": 1,
+    "explicacion": "La omisión de denuncia es un delito tipificado que conlleva responsabilidad penal por complicidad. Referencia: Parte III: Actuación - Denuncia - Página 53."
+  },
+  {
+    "id": 132,
+    "pregunta": "¿Cuál es el plazo máximo obligatorio para denunciar un hecho de violencia contra un menor ante la autoridad competente?",
+    "opciones": [
+      "12 horas",
+      "24 horas",
+      "48 horas",
+      "72 horas"
+    ],
+    "correcta": 1,
+    "explicacion": "Todo integrante de la comunidad educativa está obligado a denunciar en un máximo de 24 horas. Referencia: Parte III: Actuación - Denuncia - Página 53."
+  },
+  {
+    "id": 133,
+    "pregunta": "En el Reglamento de Faltas y Sanciones del Magisterio, ¿cómo se clasifica el delito de violación o acoso sexual?",
+    "opciones": [
+      "Falta leve",
+      "Falta grave",
+      "Falta muy grave",
+      "Inconducta social"
+    ],
+    "correcta": 2,
+    "explicacion": "La violencia física o psíquica, violación y acoso son faltas muy graves en el magisterio. Referencia: Parte III: Actuación - Proceso administrativo - Página 54."
+  },
+  {
+    "id": 134,
+    "pregunta": "Respecto al derecho a la educación de la víctima, ¿qué deben hacer los maestros si el estudiante requiere ausentarse por recuperación?",
+    "opciones": [
+      "Reprobar al estudiante por exceso de inasistencias injustificadas.",
+      "Realizar adaptaciones curriculares para compensar los días de ausencia sin perjudicar su avance.",
+      "Sugerir a los padres que inscriban al niño en una escuela nocturna.",
+      "Exigir que el estudiante rinda todos los exámenes pendientes el mismo día de su retorno."
+    ],
+    "correcta": 1,
+    "explicacion": "Se debe garantizar la continuidad educativa mediante adaptaciones curriculares por salud emocional. Referencia: Parte III: Actuación - Atención y protección de las víctimas - Página 55."
+  },
+  {
+    "id": 135,
+    "pregunta": "Si un maestro ejerce malos tratos que no constituyen una falta grave o delito, ¿qué acción debe tomar la dirección?",
+    "opciones": [
+      "Ignorar el suceso para no generar conflictos internos en el plantel.",
+      "Amonestar por escrito al maestro para que reflexione sobre su comportamiento.",
+      "Solicitar la jubilación forzosa del maestro de forma inmediata.",
+      "Publicar la falta del maestro en el periódico mural de la unidad educativa."
+    ],
+    "correcta": 1,
+    "explicacion": "Ante malos tratos leves, procede una amonestación escrita orientada a la reflexión y mejora. Referencia: Parte III: Actuación - Orientación para directores y maestros - Página 57."
+  },
+  {
+    "id": 136,
+    "pregunta": "¿Qué autoridad sanciona las infracciones por violencia en el ámbito escolar que no constituyen delitos penales?",
+    "opciones": [
+      "El Director Departamental de Educación.",
+      "La Jueza o Juez Público en materia de Niñez y Adolescencia.",
+      "El representante de la junta de padres de familia.",
+      "La Fuerza Especial de Lucha contra el Crimen (FELCC)."
+    ],
+    "correcta": 1,
+    "explicacion": "El Juez de Niñez y Adolescencia sanciona infracciones como castigos físicos degradantes. Referencia: Parte III: Actuación - Remisión a la justicia ordinaria - Página 57."
+  },
+  {
+    "id": 137,
+    "pregunta": "¿Cuál es la función de la 'contrarreferencia' enviada por la instancia receptora del caso (como la DNA) a la escuela?",
+    "opciones": [
+      "Solicitar el pago de las costas judiciales por parte de la escuela.",
+      "Informar las acciones realizadas y dar recomendaciones para proteger y apoyar al estudiante víctima.",
+      "Pedir que la escuela cierre sus puertas mientras dure la investigación.",
+      "Entregar una lista de otros estudiantes sospechosos de mala conducta."
+    ],
+    "correcta": 1,
+    "explicacion": "La contrarreferencia comunica el estado del caso y las medidas necesarias para la recuperación del niño. Referencia: Parte III: Actuación - Respuesta de la instancia - Página 58."
+  },
+  {
+    "id": 138,
+    "pregunta": "Dentro del sistema de registro de casos, ¿cuál es el propósito principal de recolectar estos datos anualmente?",
+    "opciones": [
+      "Realizar una auditoría financiera a la unidad educativa.",
+      "Tener fines estadísticos que permitan orientar futuras acciones de prevención.",
+      "Publicar los nombres de los estudiantes víctimas en un registro nacional abierto.",
+      "Asignar premios económicos a las escuelas que no registren ningún caso."
+    ],
+    "correcta": 1,
+    "explicacion": "El registro tiene un fin estadístico para mejorar la gestión preventiva de la violencia. Referencia: Parte III: Actuación - Sistema de registro - Página 58."
+  },
+  {
+    "id": 139,
+    "pregunta": "¿Qué sucede con el personal del SEP que cuenta con una Resolución Sancionatoria o Sentencia Condenatoria Ejecutoriada por violencia?",
+    "opciones": [
+      "Se le otorga un ascenso automático para incentivar su rehabilitación.",
+      "Dicho antecedente se registra de forma obligatoria en su RDA (Registro Docente Administrativo).",
+      "Se elimina su registro del sistema para que pueda trabajar en el sector privado.",
+      "Solo recibe una amonestación verbal de la Dirección Distrital correspondiente."
+    ],
+    "correcta": 1,
+    "explicacion": "Las sanciones ejecutoriadas quedan registradas permanentemente en el historial administrativo del docente. Referencia: Parte III: Actuación - Proceso administrativo - Página 54."
+  },
+  {
+    "id": 140,
+    "pregunta": "En el marco de la Ruta de actuación en casos de violencia sexual, ¿quién debe realizar la denuncia inmediata?",
+    "opciones": [
+      "Únicamente los padres de familia cuando lo consideren pertinente.",
+      "La directora o el director de la unidad educativa o centro de educación especial.",
+      "El portero o personal auxiliar que presencie el hecho de forma accidental.",
+      "El presidente del curso donde estudia la víctima."
+    ],
+    "correcta": 1,
+    "explicacion": "Es deber del director formalizar la denuncia inmediata ante la Defensoría de la Niñez. Referencia: Parte III: Actuación - Intervención - Página 51."
+  },
+  {
+    "id": 141,
+    "pregunta": "¿Qué instancia especializada del SEDEGES brinda tratamiento psicológico sostenido a víctimas de violencia sexual?",
+    "opciones": [
+      "La junta escolar de seguridad ciudadana.",
+      "El Centro Especializado de Prevención y Atención Terapéutica (CEPAT).",
+      "El centro de salud más cercano a la unidad educativa.",
+      "La oficina de asesoría jurídica del Ministerio de Educación."
+    ],
+    "correcta": 1,
+    "explicacion": "El CEPAT es la entidad encargada del apoyo emocional y recuperación terapéutica de las víctimas. Referencia: Parte III: Actuación - Atención y protección de las víctimas - Página 56."
+  },
+  {
+    "id": 142,
+    "pregunta": "¿Cómo define el protocolo la capacidad de una víctima para recuperarse y adaptarse con éxito frente a la adversidad de la violencia?",
+    "opciones": [
+      "Asertividad",
+      "Resiliencia",
+      "Empatía",
+      "Autocontrol"
+    ],
+    "correcta": 1,
+    "explicacion": "La resiliencia es la capacidad de sobreponerse al estrés grave o situaciones de violencia. Referencia: Parte III: Actuación - Atención y protección de las víctimas (Nota 11) - Página 56."
+  },
+  {
+    "id": 143,
+    "pregunta": "¿Qué indica el protocolo respecto a la confidencialidad de los nombres de víctimas y testigos?",
+    "opciones": [
+      "Deben publicarse en la cartelera principal para advertir a otros padres.",
+      "La directora o el director debe impedir terminantemente su divulgación para evitar la revictimización.",
+      "Solo pueden compartirse en reuniones abiertas con todos los maestros de la escuela.",
+      "Deben ser informados a los medios de comunicación para que la sociedad colabore."
+    ],
+    "correcta": 1,
+    "explicacion": "La protección de la identidad es esencial para evitar daños sociales adicionales al estudiante. Referencia: Parte III: Actuación - Atención y protección de las víctimas - Página 55."
+  },
+  {
+    "id": 144,
+    "pregunta": "En el caso de violencia intrafamiliar detectada en la escuela, ¿ante quién debe acudir la dirección?",
+    "opciones": [
+      "Debe citar a los familiares para que resuelvan sus problemas dentro de la oficina del director.",
+      "Debe comunicarse con la Defensoría de la Niñez y Adolescencia para la restitución de derechos.",
+      "No debe intervenir por ser un tema privado ajeno a la labor pedagógica.",
+      "Debe pedir al estudiante que no regrese a su casa hasta que el maestro lo autorice."
+    ],
+    "correcta": 1,
+    "explicacion": "Cualquier violencia fuera de la escuela que afecte al niño debe ser referida a la DNA. Referencia: Parte III: Actuación - Contención - Página 52."
+  },
+  {
+    "id": 145,
+    "pregunta": "¿Cuál es la función de los porteros en los horarios de recreo respecto a la seguridad estudiantil?",
+    "opciones": [
+      "Abandonar la puerta para ayudar en la limpieza de las aulas.",
+      "Permanecer al cuidado de la puerta de ingreso y no permitir la salida de estudiantes sin control.",
+      "Encargarse de vender golosinas para recaudar fondos para la escuela.",
+      "Delegar el control de la puerta a personas ajenas para ir a almorzar."
+    ],
+    "correcta": 1,
+    "explicacion": "Los porteros no pueden abandonar su función específica de vigilancia de ingresos y salidas. Referencia: Parte II: Prevención - Personal administrativo y auxiliar - Página 40."
+  },
+  {
+    "id": 146,
+    "pregunta": "Según las medidas generales de prevención, ¿qué tipo de actividades pedagógicas están estrictamente prohibidas?",
+    "opciones": [
+      "Aquellas que fomenten la hipersexualización de los estudiantes.",
+      "Las ferias de ciencias que requieran gastos en materiales reciclados.",
+      "Las olimpiadas de matemáticas durante los días sábado.",
+      "Los actos cívicos dedicados a la protección de la Madre Tierra."
+    ],
+    "correcta": 0,
+    "explicacion": "El protocolo prohíbe cualquier actividad que atente contra la integridad sexual y desarrollo del niño. Referencia: Parte II: Prevención - Directoras o directores - Página 39."
+  },
+  {
+    "id": 147,
+    "pregunta": "¿Qué acción contribuye a romper la 'cultura del silencio' en la unidad educativa?",
+    "opciones": [
+      "Instruir sobre la obligación legal de denunciar cualquier tipo de violencia sin miedo.",
+      "Premiar a los estudiantes que no presentan quejas durante todo el año escolar.",
+      "Sancionar a quienes traen problemas personales a la dirección de la escuela.",
+      "Evitar hablar de violencia en las clases para no asustar a los niños pequeños."
+    ],
+    "correcta": 0,
+    "explicacion": "Fomentar la denuncia rompe el ciclo del miedo y protege a la comunidad educativa. Referencia: Parte II: Prevención - Directoras o directores - Página 39."
+  },
+  {
+    "id": 148,
+    "pregunta": "¿Qué documento debe usarse para derivar formalmente un caso a otra instancia?",
+    "opciones": [
+      "Una carta manuscrita del maestro que detectó el caso.",
+      "El Formulario de Derivación (Referencia) detallado en el Anexo 2 del protocolo.",
+      "El acta de la asamblea general de padres de familia.",
+      "Un memorándum de la Dirección Distrital solicitando el traslado de la víctima."
+    ],
+    "correcta": 1,
+    "explicacion": "El Anexo 2 es el instrumento técnico para referir casos a autoridades competentes. Referencia: Parte III: Actuación - Denuncia - Página 53."
+  },
+  {
+    "id": 149,
+    "pregunta": "¿Cuál es la responsabilidad del personal auxiliar (porteros) ante una situación de riesgo observada en el patio?",
+    "opciones": [
+      "Tratar de sancionar al estudiante por su cuenta.",
+      "Reportar inmediatamente la situación a la directora o director.",
+      "Ignorar el suceso si no ocurre dentro de un aula de clases.",
+      "Llamar directamente a los padres antes de avisar a las autoridades del colegio."
+    ],
+    "correcta": 1,
+    "explicacion": "Cualquier anomalía o riesgo debe ser reportada de inmediato al superior jerárquico. Referencia: Parte II: Prevención - Personal administrativo y auxiliar - Página 40."
+  },
+  {
+    "id": 150,
+    "pregunta": "En la actuación ante violencia sexual, ¿por qué el director debe contactar al familiar que la víctima prefiera?",
+    "opciones": [
+      "Para que el familiar decida si es necesario llamar a la policía o no.",
+      "Para asegurar que la víctima se sienta en un entorno de confianza y apoyo protector.",
+      "Para que el familiar pueda confrontar al agresor dentro de la escuela.",
+      "Porque es un requisito para que la escuela no asuma costos legales futuros."
+    ],
+    "correcta": 1,
+    "explicacion": "Se busca el bienestar emocional del niño permitiéndole elegir a un adulto de su confianza total. Referencia: Parte III: Actuación - Intervención - Página 51."
+  }
+]

@@ -1,0 +1,1790 @@
+[
+  {
+    "id": 1,
+    "pregunta": "De acuerdo con el diagrama técnico del documento, ¿cuál es la definición formal de 'Aprendizaje'?",
+    "opciones": [
+      "La recepción pasiva de estímulos externos sin procesamiento interno.",
+      "El proceso de asimilar información con un cambio resultante en el comportamiento.",
+      "La memorización de datos estadísticos para su aplicación en entornos controlados.",
+      "Una respuesta biológica automática ante la presión del entorno escolar."
+    ],
+    "correcta": 1,
+    "explicacion": "El documento define el aprendizaje como un proceso de asimilación que genera un cambio conductual. Página aproximada: 9. Sección: Diagrama 'Aprendizaje'."
+  },
+  {
+    "id": 2,
+    "pregunta": "Según Keefe (1988), ¿qué dimensiones componen los rasgos que definen los estilos de aprendizaje?",
+    "opciones": [
+      "Cognitivos, afectivos y fisiológicos.",
+      "Sociales, económicos y culturales.",
+      "Lógicos, matemáticos y lingüísticos.",
+      "Genéticos, ambientales y familiares."
+    ],
+    "correcta": 0,
+    "explicacion": "Keefe identifica tres tipos de rasgos (cognitivos, afectivos y fisiológicos) como indicadores de la interacción del alumno con el aprendizaje. Página aproximada: 24. Sección: Definición de Estilos de Aprendizaje."
+  },
+  {
+    "id": 3,
+    "pregunta": "En la jerarquía de la Taxonomía de Bloom, ¿qué nivel se encuentra inmediatamente por encima de la 'Comprensión'?",
+    "opciones": [
+      "Análisis",
+      "Conocimiento",
+      "Evaluación",
+      "Aplicación"
+    ],
+    "correcta": 3,
+    "explicacion": "Siguiendo la estructura piramidal, la aplicación sigue a la comprensión en complejidad cognitiva. Página aproximada: 21. Sección: Taxonomía de Bloom."
+  },
+  {
+    "id": 4,
+    "pregunta": "Dentro de las 'Condiciones' para un aprendizaje efectivo mencionadas en el texto, ¿cuál se relaciona directamente con el entorno emocional del alumno?",
+    "opciones": [
+      "Práctica",
+      "Seguridad psicológica",
+      "Retroalimentación",
+      "Jerarquía de contenido"
+    ],
+    "correcta": 1,
+    "explicacion": "La seguridad psicológica es una condición fundamental del entorno para que el aprendizaje sea efectivo. Página aproximada: 9. Sección: Condiciones del Aprendizaje."
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Qué tipo de aprendizaje se caracteriza por ocurrir en fases críticas del desarrollo y de forma rápida, según el círculo de aprendizajes?",
+    "opciones": [
+      "Aprendizaje Tangencial",
+      "Imprinting (Impronta)",
+      "Aprendizaje Síncrono",
+      "Enculturación"
+    ],
+    "correcta": 1,
+    "explicacion": "El 'Imprinting' es un tipo de aprendizaje biológicamente programado y rápido. Página aproximada: 19. Sección: Tipos de Aprendizajes (Círculo)."
+  },
+  {
+    "id": 6,
+    "pregunta": "En el modelo de Kolb, ¿cuál es la capacidad que se enfoca en la realización de experimentos y la acción directa?",
+    "opciones": [
+      "Experimentación Activa (EA)",
+      "Conceptualización Abstracta (CA)",
+      "Experiencia Concreta (EC)",
+      "Observación Reflexiva (OR)"
+    ],
+    "correcta": 0,
+    "explicacion": "La EA es la capacidad de aplicar la teoría a través de la acción y el experimento. Página aproximada: 24. Sección: Modelo de Kolb - Capacidades."
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Cuál de las siguientes teorías del aprendizaje se menciona explícitamente como uno de los dos pilares fundamentales en el primer diagrama del texto?",
+    "opciones": [
+      "Humanismo",
+      "Conectivismo",
+      "Conductismo",
+      "Gestalt"
+    ],
+    "correcta": 2,
+    "explicacion": "El esquema inicial sitúa al Conductismo y al Constructivismo como las teorías de base. Página aproximada: 9. Sección: Teorías del Aprendizaje."
+  },
+  {
+    "id": 8,
+    "pregunta": "¿A qué se refiere el término 'Aprendizaje Episódico' en el contexto del documento?",
+    "opciones": [
+      "Al aprendizaje que se fragmenta en sesiones cortas de 10 minutos.",
+      "Al aprendizaje ligado a eventos o experiencias específicas en un tiempo y lugar.",
+      "A la visualización de series educativas en el aula de clase.",
+      "A un tipo de aprendizaje que solo ocurre de forma esporádica e involuntaria."
+    ],
+    "correcta": 1,
+    "explicacion": "Es el aprendizaje derivado de experiencias situadas contextualmente. Página aproximada: 19. Sección: Tipos de Aprendizajes."
+  },
+  {
+    "id": 9,
+    "pregunta": "Dentro de la Taxonomía de Bloom, el nivel de 'Análisis' implica la capacidad de:",
+    "opciones": [
+      "Repetir un concepto tal como fue dictado por el docente.",
+      "Descomponer la información en sus partes para entender su estructura interna.",
+      "Emitir juicios de valor basados en criterios internos y externos.",
+      "Combinar elementos para crear un producto original."
+    ],
+    "correcta": 1,
+    "explicacion": "El análisis se define como la fragmentación de la información para comprender relaciones. Página aproximada: 21. Sección: Niveles de la Taxonomía de Bloom."
+  },
+  {
+    "id": 10,
+    "pregunta": "Según el esquema de 'Estilos de aprendizaje', ¿qué método de enseñanza se asocia con el aprendizaje cooperativo y la división de tareas?",
+    "opciones": [
+      "Puzle o Jigsaw",
+      "Lección magistral",
+      "Demostración",
+      "Aprendizaje programado"
+    ],
+    "correcta": 0,
+    "explicacion": "El Puzle es una técnica de aprendizaje cooperativo donde cada alumno es responsable de una parte del contenido. Página aproximada: 24. Sección: Métodos de enseñanza."
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Cuál es un componente crítico de las 'Condiciones' de aprendizaje relacionadas con la comunicación docente-alumno?",
+    "opciones": [
+      "Retroalimentación (Feedback)",
+      "Situación",
+      "Interacción",
+      "Pertenencia"
+    ],
+    "correcta": 0,
+    "explicacion": "La retroalimentación permite al alumno conocer su progreso y ajustar su proceso. Página aproximada: 9. Sección: Condiciones del Aprendizaje."
+  },
+  {
+    "id": 12,
+    "pregunta": "En el modelo de Kolb, ¿cómo se define al estilo 'Asimilador'?",
+    "opciones": [
+      "Aquel que destaca en la aplicación práctica de ideas y resolución de problemas.",
+      "El que se interesa más por las ideas abstractas y conceptos lógicos que por las personas.",
+      "Quien prefiere aprender a través de la experiencia directa y los sentimientos.",
+      "El que tiene una gran capacidad imaginativa y considera múltiples puntos de vista."
+    ],
+    "correcta": 1,
+    "explicacion": "El asimilador se enfoca en la creación de modelos teóricos y la lógica. Página aproximada: 24. Sección: Estilos de Aprendizaje - Kolb."
+  },
+  {
+    "id": 13,
+    "pregunta": "El nivel más bajo de la pirámide de Bloom es:",
+    "opciones": [
+      "Comprensión",
+      "Conocimiento",
+      "Aplicación",
+      "Síntesis"
+    ],
+    "correcta": 1,
+    "explicacion": "El conocimiento es el nivel base referido al recuerdo de información. Página aproximada: 21. Sección: Taxonomía de Bloom."
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Qué tipo de aprendizaje ocurre de manera no estructurada fuera del sistema escolar formal?",
+    "opciones": [
+      "Aprendizaje Formal",
+      "Aprendizaje No Formal",
+      "Aprendizaje Informal",
+      "Aprendizaje Multimedia"
+    ],
+    "correcta": 2,
+    "explicacion": "El aprendizaje informal es el que se da espontáneamente en la vida cotidiana. Página aproximada: 19. Sección: Tipos de Aprendizajes."
+  },
+  {
+    "id": 15,
+    "pregunta": "Según la definición de Keefe, los estilos de aprendizaje son rasgos indicativos de cómo los alumnos perciben y responden a:",
+    "opciones": [
+      "Las expectativas de sus padres y la sociedad.",
+      "Sus ambientes de aprendizaje.",
+      "Las calificaciones obtenidas en exámenes estandarizados.",
+      "Las instrucciones directas del personal directivo."
+    ],
+    "correcta": 1,
+    "explicacion": "Los estilos indican la interacción del sujeto con el contexto educativo. Página aproximada: 24. Sección: Definición de Estilos de Aprendizaje."
+  },
+  {
+    "id": 16,
+    "pregunta": "Dentro del diagrama de 'Aprendizaje', ¿cuál es un factor de la 'Efectividad' ligado a la predisposición del estudiante?",
+    "opciones": [
+      "Situación",
+      "Interacción",
+      "Preparación para el aprendizaje",
+      "Necesidades del alumno"
+    ],
+    "correcta": 2,
+    "explicacion": "La preparación es un factor que influye en qué tan efectivo será el proceso asimilativo. Página aproximada: 9. Sección: Efectividad del Aprendizaje."
+  },
+  {
+    "id": 17,
+    "pregunta": "En el modelo de Kolb, la capacidad de 'Observación Reflexiva' (OR) se opone en el eje de procesamiento a:",
+    "opciones": [
+      "Conceptualización Abstracta",
+      "Experiencia Concreta",
+      "Experimentación Activa",
+      "Análisis Lógico"
+    ],
+    "correcta": 2,
+    "explicacion": "En el gráfico de ejes de Kolb, la observación reflexiva es el polo opuesto a la experimentación activa. Página aproximada: 27. Sección: Gráfico del Modelo de Kolb."
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Qué representa el nivel de 'Síntesis' en la Taxonomía de Bloom?",
+    "opciones": [
+      "La memorización de una síntesis o resumen del libro de texto.",
+      "La capacidad de unir partes para formar un todo nuevo y coherente.",
+      "La evaluación crítica de una obra literaria basándose en la moral.",
+      "La aplicación de una fórmula matemática en un ejercicio de clase."
+    ],
+    "correcta": 1,
+    "explicacion": "La síntesis es un nivel de creación donde se integran diversos elementos. Página aproximada: 21. Sección: Taxonomía de Bloom."
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué caracteriza al 'Aprendizaje Multimedia' según el círculo de tipos de aprendizaje?",
+    "opciones": [
+      "El uso exclusivo de libros impresos y tiza.",
+      "La integración de diferentes canales de información (texto, audio, imagen).",
+      "El aprendizaje que ocurre solo a través de la radio.",
+      "La prohibición de dispositivos electrónicos en el aula."
+    ],
+    "correcta": 1,
+    "explicacion": "El aprendizaje multimedia utiliza diversos recursos tecnológicos e icónicos. Página aproximada: 19. Sección: Círculo de Aprendizajes."
+  },
+  {
+    "id": 20,
+    "pregunta": "Según el esquema de técnicas y métodos (Pág. 24), el 'Método de Caso' se utiliza principalmente para:",
+    "opciones": [
+      "Analizar situaciones reales y complejas para proponer soluciones.",
+      "Hacer que los alumnos copien textualmente un expediente legal.",
+      "Evaluar la caligrafía de los estudiantes en textos largos.",
+      "Dictar la historia personal del docente como ejemplo de vida."
+    ],
+    "correcta": 0,
+    "explicacion": "El método de casos fomenta el análisis y la toma de decisiones ante problemas reales. Página aproximada: 24. Sección: Métodos de enseñanza y Técnicas."
+  },
+{
+    "id": 21,
+    "pregunta": "Según el modelo de Alonso (basado en Honey y Mumford), ¿qué acción define primordialmente al 'Estilo Activo'?",
+    "opciones": [
+      "La recopilación exhaustiva de datos antes de emitir un juicio.",
+      "La implicación total y sin prejuicios en nuevas experiencias, manteniendo el entusiasmo ante lo novedoso.",
+      "La búsqueda de la lógica y la perfección en sistemas de pensamiento complejos.",
+      "La aplicación utilitaria e inmediata de las ideas para verificar su funcionamiento."
+    ],
+    "correcta": 1,
+    "explicacion": "El estilo activo se caracteriza por el entusiasmo ante la novedad y el deseo de protagonismo en la acción. Página aproximada: 29. Sección: Estilo Activo."
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Cuál es la conducta típica de un estudiante con 'Estilo Reflexivo' durante el proceso de aprendizaje?",
+    "opciones": [
+      "Actuar de forma impulsiva para terminar la tarea lo antes posible.",
+      "Rechazar cualquier tipo de análisis que no sea estrictamente lógico-matemático.",
+      "Observar las experiencias desde diversos ángulos y recoger datos concienzudamente antes de concluir.",
+      "Ignorar las opiniones de los demás para centrarse exclusivamente en la experimentación propia."
+    ],
+    "correcta": 2,
+    "explicacion": "Los reflexivos son prudentes, consideran todas las alternativas y observan antes de actuar. Página aproximada: 29. Sección: Estilo Reflexivo."
+  },
+  {
+    "id": 23,
+    "pregunta": "En el marco de los estilos de aprendizaje de Alonso, ¿qué busca un alumno con 'Estilo Teórico'?",
+    "opciones": [
+      "Integrar los hechos en teorías coherentes, buscando la objetividad y la síntesis lógica.",
+      "Resolver problemas prácticos de forma rápida sin detenerse en explicaciones abstractas.",
+      "Ser el centro de las actividades grupales mediante la participación constante.",
+      "Evitar la estructura y preferir el aprendizaje por ensayo y error sin marcos de referencia."
+    ],
+    "correcta": 0,
+    "explicacion": "El estilo teórico valora la racionalidad, la objetividad y la estructura lógica de los sistemas de conocimiento. Página aproximada: 29. Sección: Estilo Teórico."
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Qué aspecto es fundamental para motivar a un estudiante con 'Estilo Pragmático'?",
+    "opciones": [
+      "Proponerle debates filosóficos extensos que no tengan una conclusión definitiva.",
+      "Obligarlo a trabajar de forma aislada sin contacto con la realidad técnica.",
+      "Presentarle modelos teóricos complejos que carezcan de ejemplos de aplicación.",
+      "Mostrarle la utilidad inmediata y práctica de lo que está aprendiendo."
+    ],
+    "correcta": 3,
+    "explicacion": "El pragmático necesita ver la funcionalidad y la ventaja de aplicar las ideas en el mundo real. Página aproximada: 29. Sección: Estilo Pragmático."
+  },
+  {
+    "id": 25,
+    "pregunta": "Dentro del 'Procedimiento Técnica Puzle', ¿cuál es el propósito específico de la fase de 'Grupos de expertos'?",
+    "opciones": [
+      "Permitir que los alumnos con mejores notas descansen mientras los demás trabajan.",
+      "Que el profesor evalúe el comportamiento individual de cada estudiante de forma aislada.",
+      "Que los alumnos que tienen el mismo subtema compartan ideas y profundicen en su sección antes de enseñar a otros.",
+      "Realizar una competencia entre grupos para ver quién termina primero de copiar el contenido."
+    ],
+    "correcta": 2,
+    "explicacion": "En esta fase, la especialización permite que el alumno domine una parte del saber para luego transferirla. Página aproximada: 44. Sección: Procedimiento Técnica Puzle - Paso 2."
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Qué sucede durante la fase de 'Retorno al grupo original' en la técnica cooperativa Puzle?",
+    "opciones": [
+      "El docente dicta una lección magistral para corregir los errores de los alumnos.",
+      "Cada experto presenta y enseña la información recopilada a sus compañeros de equipo original.",
+      "Se disuelven los grupos para que cada alumno trabaje en silencio por su cuenta.",
+      "Se realiza una evaluación escrita de tipo memorístico sobre temas no tratados."
+    ],
+    "correcta": 1,
+    "explicacion": "Es el momento de la interdependencia positiva donde todos enseñan y todos aprenden. Página aproximada: 44. Sección: Procedimiento Técnica Puzle - Paso 3."
+  },
+  {
+    "id": 27,
+    "pregunta": "En la técnica del Puzle, ¿qué papel desempeña la 'Tutorización'?",
+    "opciones": [
+      "Es una fase de castigo para los alumnos que no han colaborado.",
+      "Es el momento en que los padres de familia intervienen en la clase.",
+      "Es la fase donde los alumnos de grados superiores califican a los de grados inferiores.",
+      "Es el acompañamiento del docente para guiar el proceso y asegurar la calidad de la enseñanza entre pares."
+    ],
+    "correcta": 3,
+    "explicacion": "El docente actúa como facilitador que monitorea las interacciones y el aprendizaje. Página aproximada: 44. Sección: Procedimiento Técnica Puzle - Paso 4."
+  },
+  {
+    "id": 28,
+    "pregunta": "El modelo de 'Aprendizaje por Diálogo' de Ruf y Gallin establece que el proceso debe transitar desde:",
+    "opciones": [
+      "El dirigismo y la certidumbre hacia el descubrimiento mediado por la incertidumbre.",
+      "La autonomía total hacia el control autoritario del maestro.",
+      "La tecnología digital hacia el uso exclusivo de medios analógicos.",
+      "La investigación científica hacia la repetición de dogmas religiosos."
+    ],
+    "correcta": 0,
+    "explicacion": "El modelo propone que el diálogo gestione la incertidumbre para llegar al conocimiento descubierto. Página aproximada: 53. Sección: Aprendizaje por Diálogo (Ruf y Gallin)."
+  },
+  {
+    "id": 29,
+    "pregunta": "Según el esquema de Ruf y Gallin, ¿cuál es el resultado final esperado tras gestionar la 'incertidumbre' en el diálogo educativo?",
+    "opciones": [
+      "El estancamiento cognitivo.",
+      "La sumisión al pensamiento del docente.",
+      "El descubrimiento del conocimiento.",
+      "La confusión permanente del alumno."
+    ],
+    "correcta": 2,
+    "explicacion": "La incertidumbre es el motor que, mediante el diálogo, conduce al descubrimiento significativo. Página aproximada: 53. Sección: Esquema Descubrimiento."
+  },
+  {
+    "id": 30,
+    "pregunta": "En el 'Aprendizaje Basado en Problemas' (ABP), ¿cuál es el eje central del proceso de investigación?",
+    "opciones": [
+      "La memorización de fórmulas matemáticas abstractas.",
+      "Un proceso de investigación estructurado que conecta el currículum con la realidad.",
+      "La obediencia estricta a los tiempos dictados por la dirección del centro.",
+      "La competencia individualista para obtener la mejor calificación de la clase."
+    ],
+    "correcta": 1,
+    "explicacion": "El ABP se fundamenta en la conexión significativa entre el saber académico y los problemas reales. Página aproximada: 57. Sección: Centrado en alumnos / Proceso de investigación."
+  },
+  {
+    "id": 31,
+    "pregunta": "Uno de los elementos clave mencionados en el diseño de un Proyecto o ABP es:",
+    "opciones": [
+      "La entrega de un producto tangible que sea presentado a una audiencia.",
+      "La prohibición de usar tecnología durante el desarrollo del mismo.",
+      "La evaluación única y final mediante una prueba de opción múltiple.",
+      "El trabajo estrictamente individual para evitar distracciones sociales."
+    ],
+    "correcta": 0,
+    "explicacion": "La creación de un producto tangible y su comunicación son esenciales en esta metodología. Página aproximada: 57. Sección: Producto/presentación."
+  },
+  {
+    "id": 32,
+    "pregunta": "De acuerdo con el documento, ¿cómo se concibe a la escuela dentro del 'Aprendizaje Organizativo'?",
+    "opciones": [
+      "Como una fábrica de producción en serie de trabajadores.",
+      "Como un edificio físico que solo cumple funciones administrativas.",
+      "Como una guardería para el cuidado de menores de edad.",
+      "Como una micro-sociedad con cultura propia y múltiples subculturas que influyen en sus miembros."
+    ],
+    "correcta": 3,
+    "explicacion": "La organización educativa se ve como un sistema complejo de interacciones culturales. Página aproximada: 65. Sección: Aprendizaje Organizativo."
+  },
+  {
+    "id": 33,
+    "pregunta": "En la tipología de centros, ¿qué define a un centro educativo 'Estancado'?",
+    "opciones": [
+      "Es aquel que innova en exceso y no tiene orden.",
+      "Aquel que mantiene una estructura burocrática rígida y resistencia al aprendizaje organizativo.",
+      "Un centro que ha logrado la excelencia en todas sus áreas pedagógicas.",
+      "Una institución que solo atiende a alumnos de educación especial."
+    ],
+    "correcta": 1,
+    "explicacion": "Los centros estancados no logran evolucionar sus prácticas pedagógicas internas. Página aproximada: 65. Sección: Tipología de centros."
+  },
+  {
+    "id": 34,
+    "pregunta": "¿Qué caracteriza a un centro educativo 'Paseante' dentro de la cultura organizativa?",
+    "opciones": [
+      "Un centro que realiza actividades deportivas de caminata todos los viernes.",
+      "Un centro con inercia, que parece avanzar pero no profundiza en cambios reales ni aprendizaje institucional.",
+      "Un centro que no tiene paredes y las clases se dan al aire libre.",
+      "Una escuela que cambia de ubicación geográfica constantemente."
+    ],
+    "correcta": 1,
+    "explicacion": "Los centros paseantes mantienen una apariencia de actividad sin transformación real. Página aproximada: 65. Sección: Tipología de centros."
+  },
+  {
+    "id": 35,
+    "pregunta": "¿A qué se refiere el término centro 'Desencaminado' en el aprendizaje de las organizaciones?",
+    "opciones": [
+      "A una escuela que se ha quedado sin presupuesto para el año escolar.",
+      "A un centro educativo que prohíbe el uso de libros de texto.",
+      "A una institución que no tiene profesores titulados en su plantilla.",
+      "A aquel que realiza esfuerzos dispersos e innovaciones sin una dirección clara o coherencia pedagógica."
+    ],
+    "correcta": 3,
+    "explicacion": "La falta de un proyecto educativo coherente define el desencaminamiento organizacional. Página aproximada: 65. Sección: Tipología de centros."
+  },
+  {
+    "id": 36,
+    "pregunta": "Un centro 'Dinámico' se diferencia de los demás porque:",
+    "opciones": [
+      "Concibe la calidad educativa como un referente y se percibe como una comunidad profesional de aprendizaje.",
+      "Es el centro que tiene los equipos tecnológicos más costosos del país.",
+      "Permite que los alumnos decidan qué temas quieren estudiar cada día sin currículum.",
+      "Obliga a los docentes a trabajar 12 horas diarias sin descanso."
+    ],
+    "correcta": 0,
+    "explicacion": "La autocrítica y la mejora constante son pilares del centro dinámico. Página aproximada: 65. Sección: El aprendizaje organizativo - Características."
+  },
+  {
+    "id": 37,
+    "pregunta": "¿Qué busca el 'Aprendizaje Organizativo Tecnológico-Científico' en una institución?",
+    "opciones": [
+      "Limitarse a seguir las instrucciones del ministerio sin cuestionar.",
+      "Explicar la realidad para transformarla, superando el ámbito del 'hacer' para llegar al 'saber por qué se hace'.",
+      "Sustituir a todos los docentes por inteligencia artificial.",
+      "Centrarse exclusivamente en el mantenimiento físico de las computadoras."
+    ],
+    "correcta": 1,
+    "explicacion": "Este enfoque busca la fundamentación científica de la práctica para mejorarla. Página aproximada: 65. Sección: Aprendizaje Org. tecnológico-científico."
+  },
+  {
+    "id": 38,
+    "pregunta": "El 'Aprendizaje Organizativo Técnico-Práctico' se define como:",
+    "opciones": [
+      "El aprendizaje que ocurre solo en los talleres de carpintería.",
+      "El resultado de la consecución de habilidades que resulta insuficiente para enfrentar planteamientos creativos.",
+      "La capacidad de usar una calculadora de forma rápida.",
+      "La formación que reciben los conserjes del centro educativo."
+    ],
+    "correcta": 1,
+    "explicacion": "Es un nivel de aprendizaje funcional pero limitado para la innovación profunda. Página aproximada: 65. Sección: Aprendizaje Organizativo técnico-práctico."
+  },
+  {
+    "id": 39,
+    "pregunta": "Dentro de los principios del proceder docente, ir 'de lo conocido a lo desconocido' implica:",
+    "opciones": [
+      "Anclar los nuevos conocimientos en los saberes previos que ya posee el estudiante.",
+      "Enseñar primero las teorías más difíciles para luego pasar a lo fácil.",
+      "Ignorar lo que el alumno sabe para no viciar el nuevo aprendizaje.",
+      "Permitir que el alumno adivine las respuestas sin darle ninguna pista."
+    ],
+    "correcta": 0,
+    "explicacion": "Es el principio de andamiaje fundamental para el aprendizaje significativo. Página aproximada: 79. Sección: Principios de la enseñanza - Proceder."
+  },
+  {
+    "id": 40,
+    "pregunta": "¿Qué sugiere el principio pedagógico de ir 'del análisis a la síntesis'?",
+    "opciones": [
+      "Que el alumno debe leer el final de los libros primero.",
+      "Que no se deben dividir los temas en partes pequeñas.",
+      "Que el profesor debe hacer el resumen del tema y el alumno solo copiarlo.",
+      "Descomponer un todo para estudiar sus partes y luego integrarlas en una comprensión global superior."
+    ],
+    "correcta": 3,
+    "explicacion": "Es un proceso lógico de deconstrucción y reconstrucción del conocimiento. Página aproximada: 79. Sección: Principios de la enseñanza - Proceder."
+  },
+  {
+    "id": 41,
+    "pregunta": "En los principios del proceder, ir 'de lo empírico a lo racional' significa:",
+    "opciones": [
+      "Priorizar la intuición sobre los datos científicos.",
+      "Partir de la observación y la experiencia sensible para elevarse hacia la elaboración de conceptos lógicos.",
+      "Enseñar primero las fórmulas matemáticas y luego buscar dónde se aplican.",
+      "Que el alumno solo aprenda aquello que puede tocar físicamente."
+    ],
+    "correcta": 1,
+    "explicacion": "La base sensorial sirve de trampolín para el desarrollo del pensamiento abstracto. Página aproximada: 79. Sección: Principios de la enseñanza - Proceder."
+  },
+  {
+    "id": 42,
+    "pregunta": "El principio de ir 'de lo psicológico a lo lógico' propone:",
+    "opciones": [
+      "Que el profesor debe ser psicólogo antes que pedagogo.",
+      "Enseñar primero la lógica formal y luego las emociones del alumno.",
+      "Respetar el orden de desarrollo mental del niño antes de imponer el orden formal de la materia.",
+      "Que los alumnos con problemas psicológicos no deben estudiar lógica."
+    ],
+    "correcta": 2,
+    "explicacion": "La didáctica debe adaptarse a la madurez cognitiva del estudiante. Página aproximada: 79. Sección: Principios de la enseñanza - Proceder."
+  },
+  {
+    "id": 43,
+    "pregunta": "¿Por qué es vital la 'Retroalimentación' según los principios psicológicos de la enseñanza?",
+    "opciones": [
+      "Porque permite corregir el proceso de aprendizaje en tiempo real y orientar al alumno.",
+      "Porque es la única forma de que el docente pueda justificar una nota baja.",
+      "Porque obliga al alumno a estar en silencio mientras el profesor habla.",
+      "Porque sirve para que los compañeros se burlen de los errores de los demás."
+    ],
+    "correcta": 0,
+    "explicacion": "El feedback es una herramienta de regulación y mejora del aprendizaje. Página aproximada: 79. Sección: Principios Psicológicos de la Enseñanza."
+  },
+  {
+    "id": 44,
+    "pregunta": "¿A qué se refiere el principio psicológico 'Desafiar pero exitosos'?",
+    "opciones": [
+      "A poner tareas tan fáciles que el éxito esté garantizado sin esfuerzo.",
+      "A plantear retos que superen ligeramente la capacidad actual del alumno pero que sean alcanzables con esfuerzo.",
+      "A retar a los alumnos a una competencia física extenuante.",
+      "A asegurar que los alumnos más destacados siempre ganen a los demás."
+    ],
+    "correcta": 1,
+    "explicacion": "El éxito en tareas desafiantes fortalece la autoeficacia y la motivación. Página aproximada: 79. Sección: Principios Psicológicos de la Enseñanza."
+  },
+  {
+    "id": 45,
+    "pregunta": "Dentro del estudio de la Motivación, la 'Motivación Intrínseca' se define como:",
+    "opciones": [
+      "El miedo a ser expulsado de la institución educativa.",
+      "El deseo de obtener una medalla o premio económico.",
+      "La presión social ejercida por el grupo de iguales.",
+      "El interés y placer inherente que siente el alumno al realizar la tarea o aprender el tema."
+    ],
+    "correcta": 3,
+    "explicacion": "Nace del interior del sujeto y es la más duradera y efectiva para el aprendizaje. Página aproximada: 79. Sección: Motivación."
+  },
+  {
+    "id": 46,
+    "pregunta": "En la matriz de dimensiones del docente, un maestro con 'Alto Entusiasmo Intelectual' pero 'Baja Relación Interpersonal' se denomina:",
+    "opciones": [
+      "Maestro completo.",
+      "Maestro facilitador.",
+      "Autoridad intelectual.",
+      "Maestro incompetente."
+    ],
+    "correcta": 2,
+    "explicacion": "Domina el saber y lo transmite con pasión, pero es frío y distante con sus alumnos. Página aproximada: 98. Sección: Dimensión I y II."
+  },
+  {
+    "id": 47,
+    "pregunta": "¿Cómo se clasifica a un maestro con 'Relación Interpersonal Alta' pero 'Entusiasmo Intelectual Moderado'?",
+    "opciones": [
+      "Autoridad intelectual.",
+      "Maestro facilitador.",
+      "Maestro completo.",
+      "Adecuado."
+    ],
+    "correcta": 1,
+    "explicacion": "Se enfoca en el bienestar del alumno y su cercanía facilita el proceso de guía. Página aproximada: 98. Sección: Matriz Dimensión I y II."
+  },
+  {
+    "id": 48,
+    "pregunta": "Un maestro 'Cálido borroso' en la matriz de dimensiones presenta:",
+    "opciones": [
+      "Poca relación con los alumnos y mucha exigencia académica.",
+      "Mucha relación con los alumnos y mucha pasión por su materia.",
+      "Poco conocimiento de su materia y poca simpatía.",
+      "Alta relación interpersonal (cálido) pero bajo entusiasmo intelectual (vago/aburrido)."
+    ],
+    "correcta": 3,
+    "explicacion": "Es el docente que 'cae bien' pero no motiva el rigor intelectual ni la curiosidad. Página aproximada: 98. Sección: Casilla 4 de la Matriz."
+  },
+  {
+    "id": 49,
+    "pregunta": "El 'Maestro Completo' se ubica en la casilla 9 de la matriz porque:",
+    "opciones": [
+      "Posee alto entusiasmo intelectual y una alta calidad en la relación interpersonal.",
+      "Es el único que tiene permitido dar todas las materias del currículum.",
+      "Ha completado todos los cursos de postgrado disponibles.",
+      "Tiene más de 30 años de servicio en el magisterio."
+    ],
+    "correcta": 0,
+    "explicacion": "Combina la pasión por el saber con la apertura y democracia en el trato humano. Página aproximada: 98. Sección: Casilla 9 de la Matriz."
+  },
+  {
+    "id": 50,
+    "pregunta": "Según la matriz docente, un perfil 'Inadecuado' (casilla 1) se caracteriza por:",
+    "opciones": [
+      "Ser demasiado joven y sin experiencia.",
+      "Tener demasiada autoridad y ser muy estricto.",
+      "Bajo entusiasmo intelectual y baja calidad en la relación interpersonal.",
+      "Saber mucho de la materia pero no saber usar la tecnología."
+    ],
+    "correcta": 2,
+    "explicacion": "Falla en los dos pilares que el documento identifica como esenciales para la enseñanza. Página aproximada: 98. Sección: Casilla 1 de la Matriz."
+  },
+  {
+    "id": 51,
+    "pregunta": "En la Taxonomía de Bloom, ¿qué capacidad se evalúa cuando el alumno emite juicios sobre el valor de ideas o materiales?",
+    "opciones": [
+      "Análisis",
+      "Síntesis",
+      "Evaluación",
+      "Comprensión"
+    ],
+    "correcta": 2,
+    "explicacion": "La evaluación es el nivel superior que implica juzgar basándose en criterios. Página aproximada: 21. Sección: Taxonomía de Bloom."
+  },
+  {
+    "id": 52,
+    "pregunta": "¿Cómo se define el 'Aprendizaje por Enculturación' en el círculo de tipos de aprendizaje?",
+    "opciones": [
+      "Aprendizaje de normas y valores de una cultura por inmersión.",
+      "Uso de computadoras para aprender idiomas extranjeros.",
+      "Estudio de las culturas antiguas a través de libros de texto.",
+      "Aprendizaje que ocurre solo en museos y centros culturales."
+    ],
+    "correcta": 0,
+    "explicacion": "La enculturación es el proceso de incorporación de rasgos culturales. Página aproximada: 19. Sección: Tipos de Aprendizajes."
+  },
+  {
+    "id": 53,
+    "pregunta": "El 'Aprendizaje Observacional' se fundamenta principalmente en:",
+    "opciones": [
+      "La lectura silenciosa de manuales técnicos.",
+      "La imitación de modelos o conductas observadas en otros.",
+      "La realización de exámenes de opción múltiple.",
+      "El aislamiento del alumno en un laboratorio."
+    ],
+    "correcta": 1,
+    "explicacion": "Se aprende mediante la observación del comportamiento de un modelo. Página aproximada: 19. Sección: Tipos de Aprendizajes."
+  },
+  {
+    "id": 54,
+    "pregunta": "¿Qué tipo de aprendizaje utiliza las tecnologías de la información para la formación a distancia?",
+    "opciones": [
+      "Aprendizaje Memorístico",
+      "E-learning",
+      "Aprendizaje No Formal",
+      "Aprendizaje Síncrono"
+    ],
+    "correcta": 1,
+    "explicacion": "El e-learning es el aprendizaje mediado por plataformas digitales. Página aproximada: 9. Sección: Tipos de Aprendizaje."
+  },
+  {
+    "id": 55,
+    "pregunta": "Dentro de los principios del proceder, ir 'de lo real a lo representativo' sugiere:",
+    "opciones": [
+      "Que el alumno debe dibujar antes de hablar.",
+      "Partir de objetos concretos antes de pasar a sus representaciones gráficas o simbólicas.",
+      "Que la realidad es menos importante que la imaginación del niño.",
+      "Sustituir los libros por objetos reales en todas las clases."
+    ],
+    "correcta": 1,
+    "explicacion": "Facilita la transición de lo concreto a lo simbólico. Página aproximada: 79. Sección: Principios de la enseñanza - Proceder."
+  },
+  {
+    "id": 56,
+    "pregunta": "En el modelo de Marcelo, el 'Desarrollo profesional desde la investigación' implica:",
+    "opciones": [
+      "Que el docente sea un investigador de su propia práctica en el aula.",
+      "Que el docente abandone las clases para trabajar en un laboratorio.",
+      "Pagar a los docentes para que escriban libros científicos.",
+      "Que los alumnos investiguen a sus profesores."
+    ],
+    "correcta": 0,
+    "explicacion": "Propone la investigación-acción como vía de mejora docente. Página aproximada: 102. Sección: Modelo de desarrollo profesional de Marcelo."
+  },
+  {
+    "id": 57,
+    "pregunta": "Según Imbernon, el desarrollo profesional docente debe incluir la 'Observación y evaluación' para:",
+    "opciones": [
+      "Castigar a los profesores con bajo rendimiento.",
+      "Fomentar la reflexión crítica sobre el desempeño para la mejora continua.",
+      "Publicar un ranking de los mejores maestros del centro.",
+      "Controlar que los docentes lleguen a tiempo a su jornada."
+    ],
+    "correcta": 1,
+    "explicacion": "La evaluación se entiende como herramienta de desarrollo y mejora. Página aproximada: 79. Sección: Modelo de des. prof. Imbernon."
+  },
+  {
+    "id": 58,
+    "pregunta": "En el modelo de Kolb, el estilo 'Convergente' se destaca por:",
+    "opciones": [
+      "Su gran capacidad imaginativa y emocional.",
+      "La aplicación práctica de ideas y la resolución de problemas técnicos.",
+      "Preferir la observación pasiva sobre la acción.",
+      "Interesarse más por las artes que por las ciencias."
+    ],
+    "correcta": 1,
+    "explicacion": "Combina la conceptualización abstracta con la experimentación activa. Página aproximada: 27. Sección: Modelo de Kolb - Cuadrantes."
+  },
+  {
+    "id": 59,
+    "pregunta": "El 'Aprendizaje Activo' se diferencia del pasivo porque:",
+    "opciones": [
+      "El alumno corre por el aula mientras estudia.",
+      "El estudiante es el protagonista y participa directamente en su formación.",
+      "El docente grita más fuerte para mantener la atención.",
+      "Se realiza únicamente al aire libre."
+    ],
+    "correcta": 1,
+    "explicacion": "Requiere la implicación directa y el hacer del estudiante. Página aproximada: 9. Sección: Tipos de Aprendizaje."
+  },
+  {
+    "id": 60,
+    "pregunta": "¿Qué es el 'Aprendizaje Tangencial'?",
+    "opciones": [
+      "Aquel que ocurre de forma colateral mientras se busca otro objetivo.",
+      "El aprendizaje de las líneas tangentes en geometría.",
+      "Un aprendizaje que nunca llega a completarse.",
+      "El aprendizaje que solo ocurre en las esquinas del aula."
+    ],
+    "correcta": 0,
+    "explicacion": "Es un aprendizaje informal y no planificado que surge del interés. Página aproximada: 19. Sección: Círculo de Aprendizajes."
+  },
+  {
+    "id": 61,
+    "pregunta": "El 'Aprendizaje Formal' se caracteriza por ser:",
+    "opciones": [
+      "Espontáneo y sin horarios fijos.",
+      "Institucionalizado, cronológicamente graduado y jerárquicamente estructurado.",
+      "Exclusivo para adultos en empresas privadas.",
+      "Aquel que se adquiere solo a través de la televisión."
+    ],
+    "correcta": 1,
+    "explicacion": "Es el sistema educativo reglado (escuela, universidad). Página aproximada: 19. Sección: Tipos de Aprendizajes."
+  },
+  {
+    "id": 62,
+    "pregunta": "Un ejemplo de 'Motivación Extrínseca' sería:",
+    "opciones": [
+      "Estudiar un tema por el simple placer de saber más.",
+      "Realizar una tarea para evitar que los padres retiren un privilegio.",
+      "Investigar un fenómeno natural por curiosidad científica.",
+      "Leer un libro porque la historia resulta fascinante."
+    ],
+    "correcta": 1,
+    "explicacion": "Depende de reforzadores o castigos externos al sujeto. Página aproximada: 79. Sección: Motivación."
+  },
+  {
+    "id": 63,
+    "pregunta": "En la matriz docente, el perfil 'Marginal' (casilla 2) se define por:",
+    "opciones": [
+      "Alta relación interpersonal y alto entusiasmo.",
+      "Bajo entusiasmo intelectual y relación interpersonal moderada.",
+      "Alto entusiasmo intelectual y baja relación interpersonal.",
+      "Excelente manejo de la tecnología pero poco trato humano."
+    ],
+    "correcta": 1,
+    "explicacion": "Es un perfil limitado en pasión pero con trato humano aceptable. Página aproximada: 98. Sección: Casilla 2 de la Matriz."
+  },
+  {
+    "id": 64,
+    "pregunta": "El 'Maestro Conferencista' (casilla 8) se caracteriza por:",
+    "opciones": [
+      "Ser muy aburrido y no saber nada del tema.",
+      "Tener alto entusiasmo intelectual y relación interpersonal moderada.",
+      "No hablar nunca en clase y dejar que los alumnos jueguen.",
+      "Odiar las conferencias y preferir el trabajo de campo."
+    ],
+    "correcta": 1,
+    "explicacion": "Es apasionado por su tema y mantiene una relación equilibrada con los alumnos. Página aproximada: 98. Sección: Casilla 8 de la Matriz."
+  },
+  {
+    "id": 65,
+    "pregunta": "Un 'Maestro Facilitador' (casilla 7) en la matriz de dimensiones posee:",
+    "opciones": [
+      "Baja relación interpersonal y baja pasión por el saber.",
+      "Alta relación interpersonal y entusiasmo intelectual moderado.",
+      "Alta relación interpersonal y alto entusiasmo intelectual.",
+      "Ninguna de las anteriores."
+    ],
+    "correcta": 1,
+    "explicacion": "Prioriza el vínculo humano y el acompañamiento. Página aproximada: 98. Sección: Casilla 7 de la Matriz."
+  },
+  {
+    "id": 66,
+    "pregunta": "En la plantilla técnica de un Proyecto/ABP, ¿qué significa 'Presentado a una audiencia'?",
+    "opciones": [
+      "Que el proyecto debe ser entregado en secreto al director.",
+      "Que el resultado final se comunica y defiende ante personas interesadas o la comunidad.",
+      "Que los alumnos deben actuar como si estuvieran en un teatro.",
+      "Que el profesor debe leer el proyecto en voz alta frente a los padres."
+    ],
+    "correcta": 1,
+    "explicacion": "La comunicación del producto da sentido y realidad al aprendizaje. Página aproximada: 57. Sección: Elementos del Proyecto/ABP."
+  },
+  {
+    "id": 67,
+    "pregunta": "¿Por qué el ABP se considera 'Interdisciplinario'?",
+    "opciones": [
+      "Porque solo lo pueden realizar los alumnos de secundaria.",
+      "Porque involucra y conecta conocimientos de diversas áreas del saber.",
+      "Porque prohíbe que los profesores de diferentes materias hablen entre sí.",
+      "Porque requiere que el aula esté dividida por disciplinas deportivas."
+    ],
+    "correcta": 1,
+    "explicacion": "La resolución de problemas reales suele requerir múltiples perspectivas. Página aproximada: 57. Sección: Interdisciplinario."
+  },
+  {
+    "id": 68,
+    "pregunta": "El principio de ir 'de lo concreto a lo abstracto' sugiere:",
+    "opciones": [
+      "Enseñar primero la metafísica y luego la física.",
+      "Partir de la experiencia directa con objetos antes de llegar a generalizaciones teóricas.",
+      "Que el alumno no debe pensar, solo tocar objetos.",
+      "Evitar el uso de pizarras y cuadernos."
+    ],
+    "correcta": 1,
+    "explicacion": "Es la base del desarrollo del pensamiento formal. Página aproximada: 79. Sección: Principios de la enseñanza."
+  },
+  {
+    "id": 70,
+    "pregunta": "Ir 'del todo a las partes' en la enseñanza significa:",
+    "opciones": [
+      "Presentar una visión global del tema antes de analizar sus detalles.",
+      "Enseñar solo la conclusión del libro.",
+      "Que el alumno aprenda todo de memoria el primer día.",
+      "Dividir el curso en tantas partes que el alumno se confunda."
+    ],
+    "correcta": 0,
+    "explicacion": "Permite estructurar el conocimiento de forma holística. Página aproximada: 79. Sección: Principios de la enseñanza."
+  },
+  {
+    "id": 71,
+    "pregunta": "El estilo 'Teórico' de Honey-Mumford se siente más cómodo cuando:",
+    "opciones": [
+      "La situación es ambigua y no hay reglas claras.",
+      "El aprendizaje se presenta en marcos de referencia, sistemas o modelos lógicos.",
+      "Debe actuar de forma impulsiva y bajo presión social.",
+      "La actividad no tiene ninguna fundamentación científica."
+    ],
+    "correcta": 1,
+    "explicacion": "Buscan la coherencia y la estructura lógica. Página aproximada: 29. Sección: Estilo Teórico."
+  },
+  {
+    "id": 72,
+    "pregunta": "¿Qué diferencia al Estilo Reflexivo del Activo?",
+    "opciones": [
+      "El reflexivo es impulsivo y el activo es lento.",
+      "El reflexivo observa antes de actuar; el activo se lanza a la experiencia de inmediato.",
+      "El activo prefiere estar solo; el reflexivo prefiere las fiestas.",
+      "No hay ninguna diferencia, son términos sinónimos."
+    ],
+    "correcta": 1,
+    "explicacion": "El tiempo de reacción y el análisis previo son las variables clave. Página aproximada: 29. Sección: Estilos de aprendizaje."
+  },
+  {
+    "id": 73,
+    "pregunta": "En la técnica Puzle, la fase final de 'Evaluación' busca:",
+    "opciones": [
+      "Identificar quién fue el alumno que menos trabajó.",
+      "Verificar la adquisición individual de conocimientos de todo el tema tras la fase cooperativa.",
+      "Que los alumnos pongan una nota al profesor.",
+      "Hacer un sorteo para ver quién aprueba el curso."
+    ],
+    "correcta": 1,
+    "explicacion": "Asegura la responsabilidad individual en el aprendizaje grupal. Página aproximada: 44. Sección: Procedimiento Técnica Puzle - Paso 5."
+  },
+  {
+    "id": 74,
+    "pregunta": "¿Cuándo se realiza la designación de un líder y roles en el Puzle?",
+    "opciones": [
+      "Al finalizar el proyecto como premio.",
+      "En la fase 1: Preparación de grupos.",
+      "Durante la reunión de expertos.",
+      "Nunca, el Puzle no requiere organización previa."
+    ],
+    "correcta": 1,
+    "explicacion": "La estructura organizativa se define al inicio. Página aproximada: 44. Sección: Paso 1 - Preparación."
+  },
+  {
+    "id": 75,
+    "pregunta": "En el modelo de Ruf y Gallin, ¿qué representa la 'Certidumbre'?",
+    "opciones": [
+      "El punto de llegada tras el descubrimiento.",
+      "El estado inicial de dependencia del dirigismo docente antes del diálogo.",
+      "La duda constante que siente el alumno durante todo el curso.",
+      "La calificación final que el alumno tiene asegurada."
+    ],
+    "correcta": 1,
+    "explicacion": "Es el punto de partida que se debe superar mediante la incertidumbre creativa. Página aproximada: 53. Sección: Aprendizaje por Diálogo."
+  },
+  {
+    "id": 76,
+    "pregunta": "El aprendizaje organizativo ve a la escuela como una 'Micro-sociedad' porque:",
+    "opciones": [
+      "Solo hay gente pequeña en ella.",
+      "Tiene su propia cultura, normas y dinámicas sociales complejas.",
+      "Debe funcionar como una empresa que genera dinero.",
+      "Es un modelo a escala reducida de una ciudad con sus calles y semáforos."
+    ],
+    "correcta": 1,
+    "explicacion": "La cultura institucional influye en la conducta de sus miembros. Página aproximada: 65. Sección: El aprendizaje organizativo."
+  },
+  {
+    "id": 77,
+    "pregunta": "¿Qué significa que un centro dinámico 'Asume la singularidad'?",
+    "opciones": [
+      "Que solo acepta a un alumno por cada aula.",
+      "Que reconoce y valora las características únicas de su contexto y comunidad.",
+      "Que prohíbe el trabajo en equipo para que todos sean singulares.",
+      "Que el director es la única persona que puede tomar decisiones."
+    ],
+    "correcta": 1,
+    "explicacion": "La contextualización es clave para la calidad educativa. Página aproximada: 65. Sección: Aprendizaje organizativo."
+  },
+  {
+    "id": 78,
+    "pregunta": "Un centro dinámico 'Promueve el desarrollo profesional' cuando:",
+    "opciones": [
+      "Obliga a los profesores a jubilarse pronto.",
+      "Facilita espacios de formación, reflexión y mejora para sus docentes.",
+      "Contrata a profesionales externos para que den las clases.",
+      "Paga los viajes de vacaciones de los maestros."
+    ],
+    "correcta": 1,
+    "explicacion": "El crecimiento de los docentes es motor de la mejora institucional. Página aproximada: 65. Sección: Aprendizaje organizativo."
+  },
+  {
+    "id": 79,
+    "pregunta": "El 'Desarrollo profesional autónomo' en el modelo de Marcelo se refiere a:",
+    "opciones": [
+      "Docentes que aprenden por su cuenta sin ninguna guía.",
+      "La capacidad del docente de gestionar su propio crecimiento profesional de forma crítica.",
+      "Trabajar solo en casa sin ir a la escuela.",
+      "No aceptar consejos de otros compañeros."
+    ],
+    "correcta": 1,
+    "explicacion": "Fomenta la autorregulación de la formación docente. Página aproximada: 102. Sección: Modelo de Marcelo."
+  },
+  {
+    "id": 80,
+    "pregunta": "Según los principios psicológicos, ¿por qué es importante el uso de 'Imágenes'?",
+    "opciones": [
+      "Para que los alumnos no tengan que leer textos largos.",
+      "Porque facilitan la codificación visual y la comprensión de conceptos complejos.",
+      "Para decorar el aula y que se vea más bonita.",
+      "Para sustituir la explicación oral del docente."
+    ],
+    "correcta": 1,
+    "explicacion": "El soporte icónico refuerza la memoria y comprensión. Página aproximada: 79. Sección: Principios Psicológicos."
+  },
+  {
+    "id": 81,
+    "pregunta": "¿Qué función tienen las 'Preguntas que provocan reflexión'?",
+    "opciones": [
+      "Confundir al alumno para que no sepa qué responder.",
+      "Estimular el pensamiento crítico y el procesamiento profundo de la información.",
+      "Hacer que la clase dure más tiempo.",
+      "Evaluar si el alumno ha leído el libro de texto."
+    ],
+    "correcta": 1,
+    "explicacion": "Mueven al alumno de la recepción pasiva al análisis. Página aproximada: 79. Sección: Principios Psicológicos."
+  },
+  {
+    "id": 82,
+    "pregunta": "El principio de 'Ser entusiasta' por parte del docente busca:",
+    "opciones": [
+      "Que el profesor parezca un animador de fiestas.",
+      "Contagiar la pasión por el saber y mejorar el clima de aula.",
+      "Ocultar que el profesor no conoce bien el tema.",
+      "Lograr que los alumnos nunca se cansen en clase."
+    ],
+    "correcta": 1,
+    "explicacion": "El entusiasmo docente es un factor motivacional clave. Página aproximada: 79. Sección: Principios Psicológicos."
+  },
+  {
+    "id": 83,
+    "pregunta": "El principio 'Estudiantes enseñan a otros' es efectivo porque:",
+    "opciones": [
+      "Permite que el profesor descanse durante la clase.",
+      "Refuerza el conocimiento de quien explica y facilita el lenguaje entre pares.",
+      "Ahorra dinero en la contratación de más maestros.",
+      "Es la única forma de que los alumnos presten atención."
+    ],
+    "correcta": 1,
+    "explicacion": "La enseñanza entre iguales es una técnica de alto impacto cognitivo. Página aproximada: 79. Sección: Principios Psicológicos."
+  },
+  {
+    "id": 84,
+    "pregunta": "En el inventario de estilos (Pág. 114), quien prefiere 'hacer cosas' tiende al estilo:",
+    "opciones": [
+      "Reflexivo",
+      "Activo",
+      "Teórico",
+      "Asimilador"
+    ],
+    "correcta": 1,
+    "explicacion": "La acción directa es propia del estilo activo/acomodador. Página aproximada: 114. Sección: Inventario de estilos."
+  },
+  {
+    "id": 85,
+    "pregunta": "Alguien que confía en su 'pensamiento lógico' (Pág. 114) se identifica más con el estilo:",
+    "opciones": [
+      "Divergente",
+      "Teórico/Asimilador",
+      "Activo",
+      "Acomodador"
+    ],
+    "correcta": 1,
+    "explicacion": "La lógica y el razonamiento son pilares de la conceptualización abstracta. Página aproximada: 114. Sección: Inventario de estilos."
+  },
+  {
+    "id": 86,
+    "pregunta": "Una persona que se describe como 'reservada y tranquila' al aprender (Pág. 114) suele ser:",
+    "opciones": [
+      "Activa",
+      "Reflexiva",
+      "Pragmática",
+      "Líder"
+    ],
+    "correcta": 1,
+    "explicacion": "La prudencia y la observación son rasgos del estilo reflexivo. Página aproximada: 114. Sección: Inventario de estilos."
+  },
+  {
+    "id": 87,
+    "pregunta": "Quien se siente 'responsable de las cosas' en el aprendizaje (Pág. 114) muestra rasgos de:",
+    "opciones": [
+      "Experimentación Activa",
+      "Observación Pasiva",
+      "Teorización Pura",
+      "Desinterés"
+    ],
+    "correcta": 0,
+    "explicacion": "La responsabilidad en la ejecución es propia del polo activo. Página aproximada: 114. Sección: Inventario de estilos."
+  },
+  {
+    "id": 88,
+    "pregunta": "¿Qué nivel cognitivo de Bloom se encuentra entre el Conocimiento y la Aplicación?",
+    "opciones": [
+      "Análisis",
+      "Comprensión",
+      "Síntesis",
+      "Evaluación"
+    ],
+    "correcta": 1,
+    "explicacion": "La comprensión es el segundo nivel necesario antes de aplicar. Página aproximada: 21. Sección: Taxonomía de Bloom."
+  },
+  {
+    "id": 89,
+    "pregunta": "La capacidad de diseñar una propuesta original integrando varios saberes corresponde a:",
+    "opciones": [
+      "Conocimiento",
+      "Síntesis",
+      "Análisis",
+      "Comprensión"
+    ],
+    "correcta": 1,
+    "explicacion": "La síntesis implica creación y unión de partes en un todo nuevo. Página aproximada: 21. Sección: Taxonomía de Bloom."
+  },
+  {
+    "id": 90,
+    "pregunta": "¿Qué autor define los estilos como indicadores de cómo percibimos y respondemos al ambiente?",
+    "opciones": [
+      "Bloom",
+      "Keefe",
+      "Marcelo",
+      "Imbernon"
+    ],
+    "correcta": 1,
+    "explicacion": "Keefe es el referente de esta definición técnica en el texto. Página aproximada: 24. Sección: Estilos de aprendizaje."
+  },
+  {
+    "id": 91,
+    "pregunta": "En el ABP, el 'Pensamiento Crítico' se fomenta mediante:",
+    "opciones": [
+      "La resolución de problemas que no tienen una sola respuesta correcta.",
+      "La repetición de las palabras del profesor.",
+      "El uso de calculadoras para todo.",
+      "La prohibición de hablar en grupo."
+    ],
+    "correcta": 0,
+    "explicacion": "La ambigüedad de los problemas reales obliga a analizar opciones. Página aproximada: 57. Sección: Elementos del Proyecto."
+  },
+  {
+    "id": 92,
+    "pregunta": "La 'Indagación' en un proyecto educativo se refiere a:",
+    "opciones": [
+      "Hacer preguntas y buscar información para resolver un desafío.",
+      "Preguntar a los compañeros qué hora es.",
+      "Que el profesor busque errores en los cuadernos de los alumnos.",
+      "Llamar a los padres para que hagan la tarea."
+    ],
+    "correcta": 0,
+    "explicacion": "Es el motor de la investigación en el ABP. Página aproximada: 57. Sección: Elementos del Proyecto."
+  },
+  {
+    "id": 93,
+    "pregunta": "Una característica del 'Imprinting' es que:",
+    "opciones": [
+      "Ocurre después de estudiar mucho para un examen.",
+      "Se produce en una fase crítica del desarrollo de forma casi irreversible.",
+      "Solo ocurre en el aprendizaje de las matemáticas.",
+      "Es un tipo de aprendizaje que se puede borrar fácilmente."
+    ],
+    "correcta": 1,
+    "explicacion": "Es un aprendizaje biológicamente anclado. Página aproximada: 19. Sección: Círculo de Aprendizajes."
+  },
+  {
+    "id": 94,
+    "pregunta": "Un centro que 'Asume aprender de sus errores' es señal de:",
+    "opciones": [
+      "Un centro estancado que siempre falla.",
+      "Aprendizaje organizativo de alta calidad (Centro Dinámico).",
+      "Un centro que no tiene directrices claras.",
+      "Una escuela que pronto será cerrada por el ministerio."
+    ],
+    "correcta": 1,
+    "explicacion": "La autocrítica es fundamental para la evolución institucional. Página aproximada: 65. Sección: Aprendizaje de las organizaciones."
+  },
+  {
+    "id": 95,
+    "pregunta": "El modelo de Marcelo 'Basado en la reflexión' propone que el docente:",
+    "opciones": [
+      "Piense en sus problemas personales antes de dar clase.",
+      "Analice críticamente su práctica diaria para encontrar oportunidades de mejora.",
+      "Espere a que el director le diga qué pensar.",
+      "No use libros para poder reflexionar mejor."
+    ],
+    "correcta": 1,
+    "explicacion": "La reflexión sobre la acción es clave del desarrollo profesional. Página aproximada: 102. Sección: Modelo de Marcelo."
+  },
+  {
+    "id": 96,
+    "pregunta": "En el principio de ir 'de lo real a lo representativo', ¿cuál es el paso final?",
+    "opciones": [
+      "El uso de símbolos, fórmulas o abstracciones.",
+      "Tocar un objeto real con las manos.",
+      "Ver una fotografía del objeto.",
+      "Olvidar el objeto por completo."
+    ],
+    "correcta": 0,
+    "explicacion": "Lo representativo es el nivel de abstracción máxima. Página aproximada: 79. Sección: Principios de la enseñanza."
+  },
+  {
+    "id": 97,
+    "pregunta": "¿Cuál es la principal ventaja de la 'Motivación Intrínseca' en el aula?",
+    "opciones": [
+      "Es más duradera y genera un aprendizaje más profundo y autónomo.",
+      "Es más fácil de controlar por parte del profesor.",
+      "No requiere que el alumno piense demasiado.",
+      "Permite dar premios baratos a los alumnos."
+    ],
+    "correcta": 0,
+    "explicacion": "El interés propio es el mejor motor del aprendizaje a largo plazo. Página aproximada: 79. Sección: Motivación."
+  },
+  {
+    "id": 98,
+    "pregunta": "Un docente 'Frío, distante y muy controlado' (Casilla 6) posee:",
+    "opciones": [
+      "Alta relación interpersonal.",
+      "Baja relación interpersonal y alto entusiasmo intelectual.",
+      "Alta relación interpersonal y bajo entusiasmo intelectual.",
+      "Bajo entusiasmo intelectual y baja relación interpersonal."
+    ],
+    "correcta": 1,
+    "explicacion": "Es el perfil de 'Autoridad intelectual'. Página aproximada: 98. Sección: Casilla 6 de la Matriz."
+  },
+  {
+    "id": 99,
+    "pregunta": "El perfil docente 'Vago y aburrido' (Casilla 1) se asocia con:",
+    "opciones": [
+      "Bajo entusiasmo intelectual.",
+      "Alta relación interpersonal.",
+      "Mucho trabajo fuera del aula.",
+      "Uso excesivo de la tecnología."
+    ],
+    "correcta": 0,
+    "explicacion": "Es la base del docente inadecuado según la matriz. Página aproximada: 98. Sección: Casilla 1 de la Matriz."
+  },
+  {
+    "id": 100,
+    "pregunta": "El documento concluye implícitamente que para una enseñanza efectiva se debe:",
+    "opciones": [
+      "Ignorar los estilos de aprendizaje y usar solo la lección magistral.",
+      "Interrelacionar los métodos de enseñanza con los estilos de aprendizaje de los alumnos.",
+      "Eliminar la evaluación para que los alumnos no se estresen.",
+      "Enseñar solo lo que el profesor considere divertido."
+    ],
+    "correcta": 1,
+    "explicacion": "La conexión entre cómo se enseña y cómo se aprende es la tesis del texto. Página aproximada: 1-117. Sección: General / Título."
+  },
+{
+    "id": 101,
+    "pregunta": "En la Taxonomía de Bloom, ¿qué acción específica describe mejor la capacidad de 'Evaluación'?",
+    "opciones": [
+      "Recordar una lista de verbos en infinitivo.",
+      "Comparar y discriminar entre ideas basándose en criterios de valor.",
+      "Resolver un problema matemático siguiendo un ejemplo previo.",
+      "Redactar un resumen de tres líneas sobre un texto leído."
+    ],
+    "correcta": 1,
+    "explicacion": "La evaluación implica juzgar el valor de algo para un propósito determinado usando criterios. Página aproximada: 21. Sección: Taxonomía de Bloom."
+  },
+  {
+    "id": 102,
+    "pregunta": "¿A qué se refiere la 'Seguridad Psicológica' como condición del aprendizaje según el esquema técnico?",
+    "opciones": [
+      "A la instalación de cámaras de vigilancia en las aulas.",
+      "A la contratación de personal de seguridad para el centro educativo.",
+      "A un ambiente de aula donde el alumno se siente libre de riesgos emocionales al participar o equivocarse.",
+      "A la obligatoriedad de que los alumnos usen casco en las zonas de juego."
+    ],
+    "correcta": 2,
+    "explicacion": "Es una condición ambiental que facilita la apertura al aprendizaje y la experimentación. Página aproximada: 9. Sección: Condiciones del Aprendizaje."
+  },
+  {
+    "id": 103,
+    "pregunta": "Dentro de los rasgos de Keefe (1988), ¿qué abarcan los 'Rasgos Fisiológicos' de los estilos de aprendizaje?",
+    "opciones": [
+      "La inteligencia emocional y la empatía con los pares.",
+      "Los hábitos de estudio y la disciplina para realizar tareas.",
+      "Las reacciones biológicas ligadas al género y los ritmos bio-ritmos (sueño, nutrición).",
+      "La capacidad de resolver silogismos lógicos de forma abstracta."
+    ],
+    "correcta": 2,
+    "explicacion": "Los rasgos fisiológicos son indicadores biológicos estables que influyen en cómo se aprende. Página aproximada: 24. Sección: Estilos de Aprendizaje (Keefe)."
+  },
+  {
+    "id": 104,
+    "pregunta": "Según el círculo de aprendizajes, ¿qué define al 'Aprendizaje Asincrónico'?",
+    "opciones": [
+      "El aprendizaje que ocurre cuando el docente y el alumno están conectados al mismo tiempo.",
+      "El aprendizaje mediado por tecnología donde la interacción ocurre en tiempos distintos.",
+      "Aquel que se produce exclusivamente mediante la radio de onda corta.",
+      "Un tipo de aprendizaje que solo se da en la educación preescolar."
+    ],
+    "correcta": 1,
+    "explicacion": "La asincronía permite flexibilidad temporal en el proceso educativo mediado. Página aproximada: 19. Sección: Tipos de Aprendizajes."
+  },
+  {
+    "id": 105,
+    "pregunta": "En el modelo de Kolb, ¿qué eje representa la dimensión de 'Transformación' de la experiencia?",
+    "opciones": [
+      "El eje vertical: Experiencia Concreta - Conceptualización Abstracta.",
+      "El eje diagonal: Acomodador - Asimilador.",
+      "El eje horizontal: Experimentación Activa - Observación Reflexiva.",
+      "No existe tal eje en el modelo de Kolb presentado."
+    ],
+    "correcta": 2,
+    "explicacion": "La transformación ocurre mediante la acción (experimentación) o la reflexión interna. Página aproximada: 27. Sección: Modelo de Kolb (Ejes)."
+  },
+  {
+    "id": 106,
+    "pregunta": "¿Qué elemento del diseño de un Proyecto/ABP asegura que la tarea sea 'Significativa'?",
+    "opciones": [
+      "Que el profesor asigne una calificación alta a todos los participantes.",
+      "Que la tarea se conecte con el mundo real, los intereses del alumno y sus conocimientos previos.",
+      "Que el proyecto sea entregado en papel reciclado.",
+      "Que los alumnos deban trabajar exclusivamente en silencio absoluto."
+    ],
+    "correcta": 1,
+    "explicacion": "La significatividad depende de la relevancia y conexión del contenido con la realidad. Página aproximada: 57. Sección: Elementos del Proyecto."
+  },
+  {
+    "id": 107,
+    "pregunta": "Dentro del 'Aprendizaje Organizativo', ¿qué significa que la escuela sea una 'Comunidad profesional de aprendizaje'?",
+    "opciones": [
+      "Que todos los docentes deben tener una oficina privada dentro del centro.",
+      "Que el centro promueve la colaboración docente para investigar y mejorar la propia práctica.",
+      "Que solo los profesionales con doctorado pueden enseñar en esa escuela.",
+      "Que el centro funciona como una asociación sindical de maestros."
+    ],
+    "correcta": 1,
+    "explicacion": "Es una característica de los centros dinámicos que buscan la mejora colectiva. Página aproximada: 65. Sección: Aprendizaje de las organizaciones."
+  },
+  {
+    "id": 108,
+    "pregunta": "El principio del proceder 'De lo psicológico a lo lógico' recomienda:",
+    "opciones": [
+      "Enseñar primero la lógica simbólica y luego psicología evolutiva.",
+      "Ignorar las capacidades del niño para seguir el orden del libro de texto.",
+      "Adaptar la secuencia de enseñanza al desarrollo mental y emocional del estudiante.",
+      "Que el alumno resuelva sus problemas emocionales antes de entrar a clase."
+    ],
+    "correcta": 2,
+    "explicacion": "La didáctica debe respetar el ritmo de maduración cognitiva del sujeto. Página aproximada: 79. Sección: Principios de la enseñanza."
+  },
+  {
+    "id": 109,
+    "pregunta": "En la matriz docente, ¿qué define a un maestro 'Adecuado' (Casilla 3)?",
+    "opciones": [
+      "Bajo entusiasmo intelectual y alta relación interpersonal.",
+      "Entusiasmo intelectual moderado y baja relación interpersonal.",
+      "Entusiasmo intelectual moderado y relación interpersonal baja.",
+      "Alto entusiasmo intelectual y alta relación interpersonal."
+    ],
+    "correcta": 2,
+    "explicacion": "Es un perfil que cumple mínimamente con la pasión intelectual pero carece de calidez humana. Página aproximada: 98. Sección: Casilla 3 de la Matriz."
+  },
+  {
+    "id": 110,
+    "pregunta": "Según el modelo de Marcelo, el 'Desarrollo profesional autónomo' se basa en:",
+    "opciones": [
+      "La capacidad del docente para planificar y gestionar su propio crecimiento profesional.",
+      "Que el docente no debe recibir órdenes de ningún director.",
+      "Trabajar de forma aislada sin colaborar con otros compañeros.",
+      "Estudiar una carrera distinta a la pedagogía por cuenta propia."
+    ],
+    "correcta": 0,
+    "explicacion": "Fomenta la autorregulación y la proactividad en la formación permanente. Página aproximada: 102. Sección: Modelo de Marcelo."
+  },
+  {
+    "id": 111,
+    "pregunta": "Dentro de los principios psicológicos, las 'Expectativas positivas' (Efecto Pigmalión) sugieren que:",
+    "opciones": [
+      "El profesor debe esperar que todos los alumnos fallen para que se esfuercen más.",
+      "La confianza del docente en la capacidad del alumno influye positivamente en su rendimiento.",
+      "Los alumnos siempre deben esperar que el profesor les regale la nota.",
+      "No se debe esperar nada de los alumnos para no decepcionarse."
+    ],
+    "correcta": 1,
+    "explicacion": "Las creencias del docente sobre el potencial del alumno actúan como profecía autocumplida. Página aproximada: 79. Sección: Principios Psicológicos."
+  },
+  {
+    "id": 112,
+    "pregunta": "¿Qué implica el nivel de 'Análisis' en la Taxonomía de Bloom en términos de procesamiento?",
+    "opciones": [
+      "Poder repetir la lección sin cometer errores de ortografía.",
+      "Distinguir entre hechos e inferencias y comprender la estructura de un argumento.",
+      "Aceptar como verdadera toda la información que aparece en los medios de comunicación.",
+      "Diseñar un invento que solucione la falta de energía en el mundo."
+    ],
+    "correcta": 1,
+    "explicacion": "El análisis busca entender los componentes y la lógica interna de un mensaje o sistema. Página aproximada: 21. Sección: Taxonomía de Bloom."
+  },
+  {
+    "id": 113,
+    "pregunta": "En el 'Aprendizaje por Diálogo' (Ruf y Gallin), ¿cuál es la función del 'Dirigismo'?",
+    "opciones": [
+      "Es el fin último de la educación: lograr el control total del grupo.",
+      "Es el punto de partida (certidumbre) que debe evolucionar hacia el descubrimiento.",
+      "Es un método obsoleto que no debe mencionarse en la pedagogía moderna.",
+      "Es la forma exclusiva de enseñar a los alumnos con problemas de conducta."
+    ],
+    "correcta": 1,
+    "explicacion": "Representa el estado inicial de guía cerrada antes de abrir el espacio al diálogo y descubrimiento. Página aproximada: 53. Sección: Ruf y Gallin."
+  },
+  {
+    "id": 114,
+    "pregunta": "¿Qué caracteriza a la técnica de 'Lluvia de ideas' según el esquema de técnicas?",
+    "opciones": [
+      "La crítica inmediata a las ideas que parecen absurdas o incorrectas.",
+      "La producción libre de ideas sin juicios iniciales para fomentar la creatividad grupal.",
+      "Que el profesor escriba su propia idea y los alumnos la copien.",
+      "Hacer dibujos de nubes y lluvia para decorar el salón."
+    ],
+    "correcta": 1,
+    "explicacion": "Es una técnica de divergencia creativa mencionada en el mapa de estilos. Página aproximada: 24. Sección: Técnicas de enseñanza."
+  },
+  {
+    "id": 115,
+    "pregunta": "Según el modelo de Imbernon, la 'Formación orientada individualmente' busca:",
+    "opciones": [
+      "Que cada profesor estudie solo en su casa sin hablar con nadie.",
+      "Atender las necesidades específicas de mejora de cada docente en particular.",
+      "Obligar a todos los profesores a tomar el mismo curso de computación.",
+      "Que el profesor elija su propio horario de entrada y salida."
+    ],
+    "correcta": 1,
+    "explicacion": "Reconoce que cada docente tiene un punto de partida y necesidades de desarrollo distintas. Página aproximada: 79. Sección: Modelo de Imbernon."
+  },
+  {
+    "id": 116,
+    "pregunta": "Un elemento de la 'Efectividad' del aprendizaje según el diagrama inicial es la 'Interacción', que se refiere a:",
+    "opciones": [
+      "El intercambio y comunicación dinámica entre docentes y alumnos.",
+      "El número de veces que un alumno usa el sacapuntas.",
+      "La distancia física exacta entre los pupitres del aula.",
+      "La relación del centro educativo con las empresas locales."
+    ],
+    "correcta": 0,
+    "explicacion": "La calidad de la interacción es un factor que potencia o limita el aprendizaje. Página aproximada: 9. Sección: Efectividad."
+  },
+  {
+    "id": 117,
+    "pregunta": "En el modelo de Kolb, la 'Conceptualización Abstracta' (CA) implica capacidad para:",
+    "opciones": [
+      "Sentir las emociones de los compañeros de grupo.",
+      "Crear teorías y modelos lógicos para explicar las observaciones.",
+      "Manipular objetos físicos con gran destreza manual.",
+      "Ignorar las leyes de la física para imaginar mundos imposibles."
+    ],
+    "correcta": 1,
+    "explicacion": "Es la fase de pensamiento lógico y estructuración teórica. Página aproximada: 24. Sección: Capacidades de Kolb."
+  },
+  {
+    "id": 118,
+    "pregunta": "El principio de la enseñanza 'Del todo a las partes' se conoce también como:",
+    "opciones": [
+      "Enfoque analítico puro.",
+      "Enfoque globalizador o de síntesis inicial.",
+      "Enfoque fragmentario progresivo.",
+      "Enfoque de caos organizado."
+    ],
+    "correcta": 1,
+    "explicacion": "Propone ir de la visión de conjunto al estudio de los detalles. Página aproximada: 79. Sección: Proceder."
+  },
+  {
+    "id": 119,
+    "pregunta": "En la matriz docente, un perfil 'Competente' (Casilla 5) muestra:",
+    "opciones": [
+      "Niveles máximos en ambas dimensiones de entusiasmo y relación.",
+      "Niveles moderados y equilibrados en ambas dimensiones.",
+      "Nivel bajo en relación y nivel alto en entusiasmo.",
+      "Nivel alto en relación y nivel bajo en entusiasmo."
+    ],
+    "correcta": 1,
+    "explicacion": "Representa el equilibrio funcional sin llegar a la excelencia del 'Maestro Completo'. Página aproximada: 98. Sección: Casilla 5 de la Matriz."
+  },
+  {
+    "id": 120,
+    "pregunta": "La 'Integración' como condición del aprendizaje (Pág. 9) se refiere a:",
+    "opciones": [
+      "Sumar las notas de todas las materias al final del año.",
+      "La incorporación del nuevo conocimiento a la estructura mental previa del alumno.",
+      "Permitir que alumnos de diferentes grados jueguen juntos en el recreo.",
+      "El uso de uniformes iguales para todos los estudiantes."
+    ],
+    "correcta": 1,
+    "explicacion": "El aprendizaje real requiere integrar lo nuevo en lo ya conocido. Página aproximada: 9. Sección: Condiciones."
+  },
+  {
+    "id": 121,
+    "pregunta": "Dentro del 'Aprendizaje Organizativo', ¿qué caracteriza al centro 'Desencaminado'?",
+    "opciones": [
+      "Que no tiene vallas ni puertas de seguridad.",
+      "Que realiza innovaciones de forma aislada y sin una visión pedagógica común.",
+      "Que ha perdido el rumbo en el mapa de la ciudad.",
+      "Que sus alumnos siempre sacan las peores notas del país."
+    ],
+    "correcta": 1,
+    "explicacion": "La falta de coherencia institucional define al centro desencaminado. Página aproximada: 65. Sección: Tipología de centros."
+  },
+  {
+    "id": 122,
+    "pregunta": "¿Qué acción define al nivel de 'Aplicación' en la pirámide de Bloom?",
+    "opciones": [
+      "Memorizar las tablas de multiplicar.",
+      "Usar un método o regla para resolver un problema en una situación nueva.",
+      "Explicar con sus propias palabras qué es la fotosíntesis.",
+      "Criticar un cuadro famoso basándose en la técnica del color."
+    ],
+    "correcta": 1,
+    "explicacion": "La aplicación traslada el saber a contextos prácticos y nuevos desafíos. Página aproximada: 21. Sección: Taxonomía de Bloom."
+  },
+  {
+    "id": 123,
+    "pregunta": "En el Puzle, ¿qué debe asegurar el docente durante la 'Preparación de materiales'?",
+    "opciones": [
+      "Que todos los alumnos reciban el libro completo de 500 páginas.",
+      "Que el contenido se divida en secciones interdependientes de modo que cada alumno tenga una parte esencial.",
+      "Que los materiales sean lo más caros posible para motivar al alumno.",
+      "Que no se entregue ningún material para fomentar la imaginación."
+    ],
+    "correcta": 1,
+    "explicacion": "La división del material es la clave de la interdependencia positiva en el Puzle. Página aproximada: 44. Sección: Paso 1."
+  },
+  {
+    "id": 124,
+    "pregunta": "El principio psicológico de 'Clase cooperativa' fundamenta que:",
+    "opciones": [
+      "Los alumnos deben trabajar juntos para lograr objetivos comunes de aprendizaje.",
+      "El profesor debe cooperar con los alumnos haciendo sus tareas.",
+      "La escuela debe cooperar con el ayuntamiento limpiando las calles.",
+      "Los alumnos deben competir entre ellos para ver quién es el mejor."
+    ],
+    "correcta": 0,
+    "explicacion": "El aprendizaje cooperativo mejora resultados académicos y habilidades sociales. Página aproximada: 79. Sección: Principios Psicológicos."
+  },
+  {
+    "id": 125,
+    "pregunta": "¿A qué se refiere el 'Aprendizaje por Mejora de la tecnología'?",
+    "opciones": [
+      "A comprar computadoras nuevas cada seis meses.",
+      "A cómo el uso de herramientas tecnológicas potencia y transforma el proceso de aprender.",
+      "A aprender a reparar teléfonos celulares descompuestos.",
+      "A que la tecnología es la única forma de aprender en el siglo XXI."
+    ],
+    "correcta": 1,
+    "explicacion": "La tecnología actúa como mediador y potenciador cognitivo. Página aproximada: 19. Sección: Círculo de Aprendizajes."
+  },
+  {
+    "id": 126,
+    "pregunta": "En el inventario de estilos (Pág. 114), quien prefiere 'mirar y atender' se asocia con:",
+    "opciones": [
+      "La Experimentación Activa.",
+      "La Observación Reflexiva.",
+      "La Conceptualización Abstracta.",
+      "La Experiencia Concreta."
+    ],
+    "correcta": 1,
+    "explicacion": "La atención y observación son la base del polo reflexivo. Página aproximada: 114. Sección: Inventario."
+  },
+  {
+    "id": 127,
+    "pregunta": "El 'Aprendizaje Síncrono' ocurre cuando:",
+    "opciones": [
+      "El alumno estudia solo de noche.",
+      "La enseñanza y el aprendizaje suceden al mismo tiempo (en vivo).",
+      "El profesor graba un video y el alumno lo ve una semana después.",
+      "El alumno aprende sin usar ningún dispositivo electrónico."
+    ],
+    "correcta": 1,
+    "explicacion": "Requiere la coincidencia temporal de los participantes. Página aproximada: 19. Sección: Tipos de Aprendizaje."
+  },
+  {
+    "id": 128,
+    "pregunta": "Según la matriz docente, un maestro 'Cálido borroso' (Casilla 4) falla en:",
+    "opciones": [
+      "Su trato humano, ya que es muy autoritario.",
+      "Su pasión y rigor intelectual, siendo percibido como aburrido o vago.",
+      "El conocimiento del reglamento escolar.",
+      "La puntualidad al entrar al salón de clase."
+    ],
+    "correcta": 1,
+    "explicacion": "Tiene buena relación pero baja calidad o entusiasmo en lo intelectual. Página aproximada: 98. Sección: Casilla 4 de la Matriz."
+  },
+  {
+    "id": 129,
+    "pregunta": "El principio del proceder 'De lo real a lo representativo' es fundamental para:",
+    "opciones": [
+      "El desarrollo del pensamiento simbólico y abstracto.",
+      "Aprender a dibujar retratos realistas de los compañeros.",
+      "Que el alumno no use su imaginación nunca.",
+      "Que el profesor sea siempre el centro de la clase."
+    ],
+    "correcta": 0,
+    "explicacion": "Se parte del objeto tangible para llegar a su concepto o símbolo. Página aproximada: 79. Sección: Proceder."
+  },
+  {
+    "id": 130,
+    "pregunta": "¿Qué caracteriza al 'Aprendizaje por Indagación' en un proyecto?",
+    "opciones": [
+      "Esperar a que el profesor dé todas las respuestas.",
+      "Plantear preguntas, investigar datos y construir conclusiones propias.",
+      "Copiar la información de Wikipedia sin leerla.",
+      "Castigar a los alumnos que hacen demasiadas preguntas."
+    ],
+    "correcta": 1,
+    "explicacion": "La indagación es el componente investigativo activo del ABP. Página aproximada: 57. Sección: Elementos del Proyecto."
+  },
+  {
+    "id": 131,
+    "pregunta": "En el modelo de Marcelo, el 'Desarrollo profesional mediante el desarrollo curricular' implica:",
+    "opciones": [
+      "Que el docente aprenda mientras diseña y adapta los contenidos de su materia.",
+      "Que el docente solo debe leer el currículum oficial una vez al año.",
+      "Que el ministerio de educación cambie el currículum cada mes.",
+      "Que los alumnos decidan qué temas se van a evaluar."
+    ],
+    "correcta": 0,
+    "explicacion": "El diseño curricular es una oportunidad de aprendizaje y reflexión para el maestro. Página aproximada: 102. Sección: Modelo de Marcelo."
+  },
+  {
+    "id": 132,
+    "pregunta": "El principio psicológico 'Individualizar el estilo' sugiere que el docente debe:",
+    "opciones": [
+      "Dar una clase distinta para cada alumno por separado.",
+      "Utilizar variedad de métodos para atender los diferentes estilos de aprendizaje del grupo.",
+      "Obligar a todos los alumnos a adoptar el estilo de aprendizaje del profesor.",
+      "Ignorar las diferencias y tratar a todos como si fueran iguales."
+    ],
+    "correcta": 1,
+    "explicacion": "La diversidad metodológica es la respuesta a la diversidad de estilos. Página aproximada: 79. Sección: Principios Psicológicos."
+  },
+  {
+    "id": 133,
+    "pregunta": "Dentro del 'Aprendizaje Organizativo', ¿qué es el 'Aprendizaje de las experiencias'?",
+    "opciones": [
+      "Olvidar el pasado para no repetir errores.",
+      "Analizar lo sucedido en la práctica diaria para generar conocimiento institucional.",
+      "Contratar a profesores que tengan muchos años de edad.",
+      "Hacer excursiones fuera de la escuela todas las semanas."
+    ],
+    "correcta": 1,
+    "explicacion": "La reflexión sobre la experiencia es fuente de aprendizaje organizacional. Página aproximada: 65. Sección: Aprendizaje de las organizaciones."
+  },
+  {
+    "id": 134,
+    "pregunta": "En la Taxonomía de Bloom, ¿cuál es la diferencia entre 'Conocimiento' y 'Comprensión'?",
+    "opciones": [
+      "El conocimiento es más difícil que la comprensión.",
+      "El conocimiento es recordar información y la comprensión es entender su significado.",
+      "La comprensión es memorizar y el conocimiento es aplicar.",
+      "No hay diferencia, son términos que se usan para lo mismo."
+    ],
+    "correcta": 1,
+    "explicacion": "La comprensión requiere procesamiento intelectual, el conocimiento solo memoria. Página aproximada: 21. Sección: Taxonomía de Bloom."
+  },
+  {
+    "id": 135,
+    "pregunta": "¿Qué papel juega el 'Producto tangible' en un Proyecto/ABP?",
+    "opciones": [
+      "Es una manualidad sin valor académico que se tira al final del curso.",
+      "Es la evidencia del aprendizaje y el resultado del proceso de investigación.",
+      "Es un regalo que los alumnos le hacen al director de la escuela.",
+      "Es el libro de texto que los alumnos deben comprar para el proyecto."
+    ],
+    "correcta": 1,
+    "explicacion": "El producto materializa el aprendizaje y permite su comunicación. Página aproximada: 57. Sección: Producto/presentación."
+  },
+  {
+    "id": 136,
+    "pregunta": "En el modelo de Kolb, un 'Divergente' es alguien que combina:",
+    "opciones": [
+      "Conceptualización Abstracta y Experimentación Activa.",
+      "Experiencia Concreta y Observación Reflexiva.",
+      "Experiencia Concreta y Experimentación Activa.",
+      "Conceptualización Abstracta y Observación Reflexiva."
+    ],
+    "correcta": 1,
+    "explicacion": "Los divergentes son buenos imaginando y viendo situaciones desde varias perspectivas. Página aproximada: 27. Sección: Gráfico de Kolb."
+  },
+  {
+    "id": 137,
+    "pregunta": "El principio del proceder 'De lo simple a lo complejo' busca evitar:",
+    "opciones": [
+      "Que el alumno se aburra por ser todo demasiado fácil.",
+      "La frustración y el bloqueo cognitivo del estudiante ante tareas inabarcables.",
+      "Que el profesor tenga que preparar mucho material.",
+      "El uso de tecnología avanzada en el aula."
+    ],
+    "correcta": 1,
+    "explicacion": "La gradación didáctica asegura que el alumno construya bases sólidas. Página aproximada: 79. Sección: Proceder."
+  },
+  {
+    "id": 138,
+    "pregunta": "En la matriz docente, un maestro con 'Baja Relación Interpersonal' y 'Bajo Entusiasmo' es:",
+    "opciones": [
+      "Maestro completo.",
+      "Inadecuado.",
+      "Autoridad intelectual.",
+      "Cálido borroso."
+    ],
+    "correcta": 1,
+    "explicacion": "Es el perfil más deficiente en ambas dimensiones críticas. Página aproximada: 98. Sección: Casilla 1 de la Matriz."
+  },
+  {
+    "id": 139,
+    "pregunta": "Según el círculo de aprendizajes, ¿qué es el 'Aprendizaje Informal'?",
+    "opciones": [
+      "El que se da en la escuela pero sin usar uniforme.",
+      "Aquel que se adquiere en la vida cotidiana de forma no estructurada.",
+      "El aprendizaje de chistes y juegos informales.",
+      "Aquel que solo ocurre durante las vacaciones de verano."
+    ],
+    "correcta": 1,
+    "explicacion": "Ocurre en la interacción diaria con el ambiente, familia y amigos. Página aproximada: 19. Sección: Tipos de Aprendizajes."
+  },
+  {
+    "id": 140,
+    "pregunta": "El 'Aprendizaje Organizativo Técnico-Práctico' se considera insuficiente porque:",
+    "opciones": [
+      "No enseña a usar herramientas manuales.",
+      "Se limita a habilidades operativas sin alcanzar planteamientos creativos o reflexivos.",
+      "Es demasiado difícil de aprender para los docentes jóvenes.",
+      "No utiliza internet en sus procesos."
+    ],
+    "correcta": 1,
+    "explicacion": "Es un nivel básico de aprendizaje funcional que no transforma la cultura. Página aproximada: 65. Sección: Aprendizaje de las organizaciones."
+  },
+  {
+    "id": 141,
+    "pregunta": "En el Puzle, ¿quién es el responsable de que el grupo aprenda el contenido completo?",
+    "opciones": [
+      "Solo el líder del grupo.",
+      "El profesor, que debe dar una clase magistral al final.",
+      "Todos los miembros del grupo, a través de la enseñanza mutua.",
+      "Solo el alumno que sacó la mejor nota en el examen anterior."
+    ],
+    "correcta": 2,
+    "explicacion": "La responsabilidad es compartida e interdependiente. Página aproximada: 44. Sección: Paso 3."
+  },
+  {
+    "id": 142,
+    "pregunta": "¿Qué principio psicológico se basa en el uso de 'Imágenes'?",
+    "opciones": [
+      "La importancia del soporte visual para la codificación y memoria de largo plazo.",
+      "Que los alumnos solo deben mirar fotos y no leer libros.",
+      "Que el profesor debe ser un buen fotógrafo.",
+      "Decorar la escuela para que los padres estén contentos."
+    ],
+    "correcta": 0,
+    "explicacion": "Lo icónico facilita la comprensión de conceptos abstractos. Página aproximada: 79. Sección: Principios Psicológicos."
+  },
+  {
+    "id": 143,
+    "pregunta": "En el modelo de Marcelo, el 'Desarrollo profesional desde la investigación' busca:",
+    "opciones": [
+      "Que los maestros dejen de dar clases y se vuelvan científicos de laboratorio.",
+      "Que el docente investigue su propia práctica para mejorar la enseñanza.",
+      "Que los alumnos investiguen la vida privada de sus profesores.",
+      "Que la escuela compre libros de ciencia muy caros."
+    ],
+    "correcta": 1,
+    "explicacion": "La investigación-acción es una vía potente de formación permanente. Página aproximada: 102. Sección: Modelo de Marcelo."
+  },
+  {
+    "id": 144,
+    "pregunta": "El nivel de 'Síntesis' en la Taxonomía de Bloom es fundamental para:",
+    "opciones": [
+      "La resolución de operaciones matemáticas básicas.",
+      "La creación de propuestas, planes o estructuras originales.",
+      "La repetición exacta de lo que dice el libro de texto.",
+      "La limpieza y el orden del cuaderno de trabajo."
+    ],
+    "correcta": 1,
+    "explicacion": "La síntesis es un acto creativo de integración. Página aproximada: 21. Sección: Taxonomía de Bloom."
+  },
+  {
+    "id": 145,
+    "pregunta": "Dentro de las dimensiones del docente, un maestro 'Marginal' (Casilla 2) se caracteriza por:",
+    "opciones": [
+      "Vivir en las afueras de la ciudad.",
+      "Bajo entusiasmo intelectual y calidad interpersonal moderada.",
+      "Alta pasión por su materia y odio por los alumnos.",
+      "Saber mucho de tecnología pero poco de pedagogía."
+    ],
+    "correcta": 1,
+    "explicacion": "Es un perfil con limitaciones pero con un trato humano aceptable. Página aproximada: 98. Sección: Casilla 2 de la Matriz."
+  },
+  {
+    "id": 146,
+    "pregunta": "El principio del proceder 'De lo empírico a lo racional' sugiere que el conocimiento:",
+    "opciones": [
+      "Se adquiere primero por los sentidos y luego se procesa lógicamente.",
+      "Es una revelación mágica que no necesita de los sentidos.",
+      "Solo puede ser racional y lo empírico es siempre falso.",
+      "No debe enseñarse en la escuela primaria."
+    ],
+    "correcta": 0,
+    "explicacion": "La base sensorial es el trampolín hacia el pensamiento abstracto. Página aproximada: 79. Sección: Proceder."
+  },
+  {
+    "id": 147,
+    "pregunta": "Un centro educativo 'Dinámico' se percibe a sí mismo como:",
+    "opciones": [
+      "Una empresa que solo busca beneficios económicos.",
+      "Una comunidad profesional de aprendizaje que aprende de sus errores.",
+      "Un lugar de paso para los alumnos y profesores.",
+      "Una cárcel donde se castiga a los niños que no saben leer."
+    ],
+    "correcta": 1,
+    "explicacion": "La autopercepción como comunidad de aprendizaje es clave de la mejora. Página aproximada: 65. Sección: Aprendizaje organizativo."
+  },
+  {
+    "id": 148,
+    "pregunta": "En el modelo de Kolb, un 'Asimilador' prefiere situaciones donde:",
+    "opciones": [
+      "Haya mucha gente hablando y gritando al mismo tiempo.",
+      "Se presenten modelos teóricos, ideas abstractas y lógica inductiva.",
+      "Se deba actuar rápido sin pensar en las consecuencias.",
+      "Se realicen manualidades y actividades físicas intensas."
+    ],
+    "correcta": 1,
+    "explicacion": "Los asimiladores valoran la solidez teórica y la estructura lógica. Página aproximada: 27. Sección: Gráfico de Kolb."
+  },
+  {
+    "id": 149,
+    "pregunta": "El principio psicológico 'Ser entusiasta' por parte del docente tiene como fin:",
+    "opciones": [
+      "Que el profesor no se quede dormido durante la jornada escolar.",
+      "Contagiar la pasión por aprender y generar un clima motivador.",
+      "Lograr que el director le suba el sueldo por su buena actitud.",
+      "Hacer que los alumnos se rían todo el tiempo sin estudiar."
+    ],
+    "correcta": 1,
+    "explicacion": "El entusiasmo es un componente afectivo que potencia el aprendizaje. Página aproximada: 79. Sección: Principios Psicológicos."
+  },
+  {
+    "id": 150,
+    "pregunta": "La conclusión principal del documento respecto a la labor docente es:",
+    "opciones": [
+      "Que el profesor no necesita estudiar nada nuevo tras graduarse.",
+      "Que se deben integrar los métodos de enseñanza con los estilos de aprendizaje de los estudiantes.",
+      "Que la tecnología va a sustituir a todos los maestros en el futuro cercano.",
+      "Que los alumnos deben aprender solos sin ninguna guía del profesor."
+    ],
+    "correcta": 1,
+    "explicacion": "La adecuación entre el 'cómo se enseña' y el 'cómo se aprende' es el eje del texto. Página aproximada: 1-117. Sección: General / Título."
+  }
+]
