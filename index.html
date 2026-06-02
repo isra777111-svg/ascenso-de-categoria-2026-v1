@@ -17,6 +17,14 @@
 </head>
 
 <body data-theme="light">
+    <!-- Main Global Loading Overlay -->
+    <div id="global-loading-overlay"
+        style="display: none; position: fixed; inset: 0; z-index: 100000; background: rgba(15, 23, 42, 0.9); backdrop-filter: blur(10px); flex-direction: column; align-items: center; justify-content: center; color: white;">
+        <i class="fa-solid fa-spinner fa-spin" style="font-size: 50px; margin-bottom: 20px; color: #38bdf8;"></i>
+        <h2 style="font-size: 24px; font-weight: 600; margin: 0; color: #f8fafc;">Cargando preguntas...</h2>
+        <p style="color: #94a3b8; margin-top: 10px; font-size: 15px;">Preparando tu evaluación</p>
+    </div>
+
     <!-- Login Overlay -->
     <div id="login-overlay"
         style="position: fixed; inset: 0; z-index: 99999; background: #0f172a; background-image: radial-gradient(at 0% 0%, rgba(56, 189, 248, 0.15) 0px, transparent 50%), radial-gradient(at 100% 100%, rgba(139, 92, 246, 0.15) 0px, transparent 50%), radial-gradient(at 100% 0%, rgba(99, 102, 241, 0.15) 0px, transparent 50%); display: flex; align-items: center; justify-content: center; overflow: hidden;">

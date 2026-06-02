@@ -146,11 +146,11 @@ function switchSection(sectionName) {
     sections[sectionName].classList.add('active');
     window.scrollTo({ top: 0, behavior: 'smooth' });
 
-    // Ocultar Asistente de IA estrictamente durante la evaluación del Simulacro
+    // Ocultar Asistente de IA estrictamente durante la evaluación (Cualquier Modo)
     const aiTrigger = document.getElementById('gemini-chat-trigger');
     const aiPanel = document.getElementById('gemini-chat-panel');
 
-    if (sectionName === 'quiz' && currentMode === 'simulacro') {
+    if (sectionName === 'quiz') {
         if (aiTrigger) aiTrigger.style.display = 'none';
         if (aiPanel && aiPanel.style.display !== 'none' && typeof toggleChatPanel === 'function') {
             toggleChatPanel(); // Lo cierra y apaga micrófono si el usuario lo dejó abierto
@@ -273,6 +273,9 @@ async function startConfiguredQuiz() {
 
     closeConfigModal();
 
+    const loadingOverlay = document.getElementById('global-loading-overlay');
+    if (loadingOverlay) loadingOverlay.style.display = 'flex';
+
     // Fetch and combine questions
     try {
         await loadAndPrepareQuestions();
@@ -285,8 +288,11 @@ async function startConfiguredQuiz() {
         // Shuffle and slice
         activeQuestions = [...questionsData].sort(() => 0.5 - Math.random()).slice(0, count);
 
+        if (loadingOverlay) loadingOverlay.style.display = 'none';
+
         initSession();
     } catch (err) {
+        if (loadingOverlay) loadingOverlay.style.display = 'none';
         console.error(err);
         await customAlert('Error al cargar preguntas. Asegúrate de estar ejecutando la app en un servidor local.', 'Error de Conexión');
     }

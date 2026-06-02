@@ -33,6 +33,11 @@
     --warning: #f59e0b;
     --warning-light: rgba(245, 158, 11, 0.1);
 
+    /* Tech Background Variables (Light) */
+    --bg-grid: linear-gradient(rgba(15, 23, 42, 0.04) 1px, transparent 1px), linear-gradient(90deg, rgba(15, 23, 42, 0.04) 1px, transparent 1px);
+    --bg-glow1: rgba(59, 130, 246, 0.15);
+    --bg-glow2: rgba(139, 92, 246, 0.12);
+
     /* Neutral Colors - Light Mode (Default) */
     --bg-main: #f8fafc;
     --bg-card: #ffffff;
@@ -72,6 +77,11 @@
     --primary-light: rgba(59, 130, 246, 0.15);
     --success-light: rgba(16, 185, 129, 0.15);
     --danger-light: rgba(239, 68, 68, 0.15);
+
+    /* Tech Background Variables (Dark) */
+    --bg-grid: linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+    --bg-glow1: rgba(56, 189, 248, 0.18);
+    --bg-glow2: rgba(139, 92, 246, 0.18);
 }
 
 /* Base Styles */
@@ -90,6 +100,24 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    position: relative;
+    overflow-x: hidden;
+}
+
+/* Technological & Professional Background Layer */
+body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    background-image:
+        radial-gradient(circle at 0% 0%, var(--bg-glow1) 0%, transparent 45%),
+        radial-gradient(circle at 100% 100%, var(--bg-glow2) 0%, transparent 45%),
+        var(--bg-grid);
+    background-size: 100% 100%, 100% 100%, 40px 40px;
+    background-attachment: fixed;
+    pointer-events: none;
+    transition: background-image var(--transition-normal);
 }
 
 h1,
@@ -1480,6 +1508,24 @@ footer {
 
     .results-actions button {
         width: 100%;
+        justify-content: center;
+    }
+
+    .quiz-actions {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .quiz-actions>div {
+        flex-direction: column;
+        width: 100%;
+        gap: 15px;
+    }
+
+    .quiz-actions button {
+        width: 100%;
+        padding: 12px 16px;
+        font-size: 14px;
         justify-content: center;
     }
 }
