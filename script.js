@@ -145,6 +145,19 @@ function switchSection(sectionName) {
     Object.values(sections).forEach(sec => sec.classList.remove('active'));
     sections[sectionName].classList.add('active');
     window.scrollTo({ top: 0, behavior: 'smooth' });
+
+    // Ocultar Asistente de IA estrictamente durante la evaluación del Simulacro
+    const aiTrigger = document.getElementById('gemini-chat-trigger');
+    const aiPanel = document.getElementById('gemini-chat-panel');
+
+    if (sectionName === 'quiz' && currentMode === 'simulacro') {
+        if (aiTrigger) aiTrigger.style.display = 'none';
+        if (aiPanel && aiPanel.style.display !== 'none' && typeof toggleChatPanel === 'function') {
+            toggleChatPanel(); // Lo cierra y apaga micrófono si el usuario lo dejó abierto
+        }
+    } else {
+        if (aiTrigger) aiTrigger.style.display = 'flex'; // Restaura el botón flotante en las demás pantallas
+    }
 }
 
 function showDashboard() {
