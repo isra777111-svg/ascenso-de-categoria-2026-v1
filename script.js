@@ -973,6 +973,7 @@ function playAudioMaterial(filePath, title) {
     document.getElementById('audio-current-time').textContent = '00:00';
     document.getElementById('audio-total-time').textContent = '00:00';
     document.getElementById('custom-audio-player').style.display = 'block';
+    document.body.classList.add('audio-player-active');
 
     // Set Speed & Volume based on current selects
     currentAudio.playbackRate = parseFloat(document.getElementById('audio-speed-select').value);
@@ -1038,6 +1039,7 @@ function closeAudioPlayer() {
         currentAudio = null;
     }
     document.getElementById('custom-audio-player').style.display = 'none';
+    document.body.classList.remove('audio-player-active');
 }
 
 // UI listeners for audio progress and volume

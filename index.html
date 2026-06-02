@@ -315,37 +315,35 @@
                         style="font-size:13px; color:var(--text-muted); width:40px;">00:00</span>
                 </div>
 
-                <div style="display:flex; justify-content:space-between; align-items:center;">
+                <div class="audio-bottom-controls">
                     <!-- Speed & Volume Controls -->
-                    <div style="display:flex; gap:10px; align-items:center;">
+                    <div class="audio-speed-volume">
                         <select id="audio-speed-select" onchange="changeAudioSpeed(this.value)"
-                            style="padding:5px; border-radius:5px; background:var(--bg-main); color:var(--text-main); border:1px solid var(--border-color); font-size:12px; cursor:pointer;">
+                            class="audio-speed-select">
                             <option value="0.75">0.75x</option>
                             <option value="1">1x</option>
                             <option value="1.25" selected>1.25x</option>
                             <option value="1.5">1.5x</option>
                             <option value="2">2x</option>
                         </select>
-                        <div style="display:flex; align-items:center; gap:5px; margin-left:10px;">
-                            <i class="fa-solid fa-volume-high" style="color:var(--text-muted); font-size:14px;"></i>
+                        <div class="audio-volume-wrapper">
+                            <i class="fa-solid fa-volume-high"></i>
                             <input type="range" id="audio-volume" min="0" max="1" step="0.05" value="1"
-                                style="width:70px; cursor:pointer; accent-color:var(--primary);">
+                                class="audio-volume-slider">
                         </div>
                     </div>
 
                     <!-- Main Controls -->
-                    <div style="display:flex; gap:15px; align-items:center;">
-                        <button class="btn-icon" onclick="skipAudio(-10)"
-                            style="font-size:18px; color:var(--text-main);" title="Retroceder 10s"><i
+                    <div class="audio-playback-controls">
+                        <button class="btn-icon controls-btn" onclick="skipAudio(-10)" title="Retroceder 10s"><i
                                 class="fa-solid fa-backward-10"></i></button>
-                        <button class="btn-primary" id="audio-play-btn" onclick="toggleAudioPlay()"
-                            style="width:50px; height:50px; border-radius:50%; display:flex; justify-content:center; align-items:center; font-size:20px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
+                        <button class="btn-primary audio-play-btn" id="audio-play-btn" onclick="toggleAudioPlay()">
                             <i class="fa-solid fa-play"></i>
                         </button>
-                        <button class="btn-icon" onclick="stopAudio()" style="font-size:18px; color:var(--danger);"
-                            title="Detener"><i class="fa-solid fa-stop"></i></button>
-                        <button class="btn-icon" onclick="skipAudio(10)" style="font-size:18px; color:var(--text-main);"
-                            title="Adelantar 10s"><i class="fa-solid fa-forward-10"></i></button>
+                        <button class="btn-icon controls-btn stop-btn" onclick="stopAudio()" title="Detener"><i
+                                class="fa-solid fa-stop"></i></button>
+                        <button class="btn-icon controls-btn" onclick="skipAudio(10)" title="Adelantar 10s"><i
+                                class="fa-solid fa-forward-10"></i></button>
                     </div>
                 </div>
             </div>
