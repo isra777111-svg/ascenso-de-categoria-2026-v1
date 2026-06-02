@@ -1,8 +1,14 @@
-// IMPORTANTE: Nunca expongas tu API Key real en el código fuente (GitHub).
-let GEMINI_API_KEY = localStorage.getItem('ascenso_gemini_key') || "";
-if (!GEMINI_API_KEY) {
-    GEMINI_API_KEY = prompt("Por seguridad, ingresa tu clave de la API de Gemini para habilitar el Tutor IA. No se subirá a GitHub:");
-    if (GEMINI_API_KEY) localStorage.setItem('ascenso_gemini_key', GEMINI_API_KEY);
+// Determinar si estamos en un entorno local (sin servidor o localhost) o en Netlify
+const isLocalEnv = window.location.protocol === 'file:' || window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+let GEMINI_API_KEY = "";
+
+// Solo pedimos la clave si estamos probando localmente para facilitar el desarrollo
+if (isLocalEnv) {
+    GEMINI_API_KEY = localStorage.getItem('ascenso_gemini_key') || "";
+    if (!GEMINI_API_KEY) {
+        GEMINI_API_KEY = prompt("[MODO LOCAL] Ingresa tu clave de la API de Gemini para probar. En producción se usará de forma segura:");
+        if (GEMINI_API_KEY) localStorage.setItem('ascenso_gemini_key', GEMINI_API_KEY);
+    }
 }
 
 // Chat State
@@ -96,15 +102,22 @@ async function sendChatMessage(presetText = null) {
             return item;
         });
 
-        const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`, {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify({
-                contents: requestContents
-            })
-        });
+        let response;
+        if (isLocalEnv) {
+            // MODO LOCAL: Llamamos directo a la API de Google usando la key ingresada
+            response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ contents: requestContents })
+            });
+        } else {
+            // MODO PRODUCCIÓN (Netlify): Usamos nuestro backend en Netlify Functions de forma segura
+            response = await fetch('/.netlify/functions/gemini-chat', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ contents: requestContents })
+            });
+        }
 
         const data = await response.json();
         removeLoadingBubble();
