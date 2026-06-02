@@ -1521,7 +1521,7 @@ footer {
     max-width: calc(100vw - 40px);
     height: 550px;
     max-height: calc(100vh - 120px);
-    background: var(--bg-card);
+    background: #0f172a;
     border-radius: var(--radius-lg);
     box-shadow: var(--shadow-xl);
     z-index: 1000;
@@ -1564,7 +1564,8 @@ footer {
     display: flex;
     flex-direction: column;
     gap: 12px;
-    background: var(--bg-main);
+    background: #0b0f19;
+    background-image: radial-gradient(at 50% 50%, rgba(56, 189, 248, 0.05) 0px, transparent 50%);
 }
 
 .chat-message {
@@ -1585,9 +1586,9 @@ footer {
 
 .chat-message.ai {
     align-self: flex-start;
-    background: var(--bg-card);
-    color: var(--text-main);
-    border: 1px solid var(--border-color);
+    background: rgba(30, 41, 59, 0.95);
+    color: #e2e8f0;
+    border: 1px solid rgba(255, 255, 255, 0.1);
     border-bottom-left-radius: 4px;
 }
 
@@ -1610,36 +1611,44 @@ footer {
 }
 
 .chat-input-area {
-    padding: 15px;
-    background: var(--bg-card);
-    border-top: 1px solid var(--border-color);
+    padding: 12px 14px;
+    background: #0f172a;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 8px;
 }
 
 #gemini-chat-input {
     flex: 1;
-    border: 1px solid var(--border-color);
+    min-width: 0;
+    border: 1px solid rgba(255, 255, 255, 0.15);
     border-radius: 20px;
-    padding: 10px 15px;
-    font-size: 14px;
-    background: var(--bg-main);
-    color: var(--text-main);
+    padding: 10px 14px;
+    font-size: 14.5px;
+    background: rgba(0, 0, 0, 0.25);
+    color: #f8fafc;
     resize: none;
     outline: none;
     font-family: inherit;
-    max-height: 80px;
+    height: 44px;
+    box-sizing: border-box;
+    line-height: normal;
+}
+
+#gemini-chat-input::placeholder {
+    color: #64748b;
 }
 
 #gemini-chat-input:focus {
-    border-color: var(--primary);
+    border-color: #38bdf8;
+    background: rgba(0, 0, 0, 0.4);
 }
 
 #gemini-chat-send-btn,
 #gemini-chat-mic-btn {
-    width: 40px;
-    height: 40px;
+    width: 44px;
+    height: 44px;
     border-radius: 50%;
     border: none;
     display: flex;
@@ -1647,6 +1656,7 @@ footer {
     align-items: center;
     cursor: pointer;
     transition: all var(--transition-fast);
+    flex-shrink: 0;
 }
 
 #gemini-chat-send-btn {
@@ -1659,14 +1669,14 @@ footer {
 }
 
 #gemini-chat-mic-btn {
-    background: var(--bg-main);
-    color: var(--text-muted);
-    border: 1px solid var(--border-color);
+    background: rgba(255, 255, 255, 0.05);
+    color: #94a3b8;
+    border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 #gemini-chat-mic-btn:hover {
-    color: var(--primary);
-    border-color: var(--primary);
+    color: #38bdf8;
+    border-color: #38bdf8;
 }
 
 #gemini-chat-mic-btn.recording {
