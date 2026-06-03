@@ -239,3 +239,15 @@ function stopRecordingUI() {
     const input = document.getElementById('gemini-chat-input');
     if (input) input.placeholder = "Escribe o dicta";
 }
+
+// Ensure keyboard doesn't hide the input field on mobile
+document.addEventListener('DOMContentLoaded', () => {
+    const chatInput = document.getElementById('gemini-chat-input');
+    if (chatInput) {
+        chatInput.addEventListener('focus', () => {
+            setTimeout(() => {
+                chatInput.scrollIntoView({ behavior: 'smooth', block: 'end' });
+            }, 300);
+        });
+    }
+});

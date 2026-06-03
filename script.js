@@ -114,6 +114,26 @@ function logout() {
     showDashboard();
 }
 
+function closeApp() {
+    try {
+        // Attempt to close the window securely (works organically in PWAs and Mobile Web View shortcuts)
+        window.close();
+    } catch (e) {
+        console.warn("Navegador previno cierre nativo:", e);
+    }
+
+    // Fallback if browser blocks closing: Blank overlay layout to simulate a hard exit and secure data.
+    setTimeout(() => {
+        document.body.innerHTML = `
+            <div style="display:flex; flex-direction:column; align-items:center; justify-content:center; height:100vh; background:#0f172a; color:#cbd5e1; font-family:sans-serif; text-align:center; padding:20px;">
+                <i class="fa-solid fa-power-off" style="font-size:48px; color:#475569; margin-bottom:20px;"></i>
+                <h2 style="margin:0; font-weight:600;">Aplicación Cerrada</h2>
+                <p style="margin-top:10px; font-size:14px;">Has abandonado el sistema de forma segura. Ya puedes cerrar esta ventana.</p>
+            </div>
+        `;
+    }, 100);
+}
+
 // PWA Installation Logic
 let deferredPrompt;
 window.addEventListener('beforeinstallprompt', (e) => {

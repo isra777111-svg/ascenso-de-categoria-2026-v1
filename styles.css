@@ -1568,7 +1568,7 @@ footer {
     width: 380px;
     max-width: calc(100vw - 40px);
     height: 550px;
-    max-height: calc(100vh - 120px);
+    max-height: calc(100dvh - 120px);
     background: #0f172a;
     border-radius: var(--radius-lg);
     box-shadow: var(--shadow-xl);
@@ -1915,5 +1915,16 @@ body.audio-player-active .chat-panel {
     .nav-action-btn i {
         margin: 0 !important;
         font-size: 18px;
+    }
+
+    /* Prevenir que se apilen verticalmente en móviles */
+    .quiz-actions {
+        flex-direction: row !important;
+        width: 100% !important;
+    }
+
+    .quiz-actions>div {
+        flex-direction: row !important;
+        width: auto !important;
     }
 }
