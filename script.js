@@ -1064,10 +1064,7 @@ function renderMaterialsList() {
 
 // PDF Viewer
 function openPdfViewer(filePath, title) {
-    document.getElementById('pdf-modal-title').innerHTML = `<i class="fa-solid fa-file-pdf"></i> ${title}`;
-
-    // Use an iframe to display the PDF natively.
-    // #zoom=100 (Forza escala al 100% exacto) &navpanes=0 (Oculta panel lateral/miniaturas)
+    // Escala garantizada al 100%
     const container = document.getElementById('pdf-content-container');
     const optimizedPdfUrl = filePath + '#zoom=100&navpanes=0';
     container.innerHTML = `<iframe src="${optimizedPdfUrl}" style="width: 100%; height: 100%; border: none;"></iframe>`;
