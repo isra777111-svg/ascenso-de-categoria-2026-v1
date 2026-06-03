@@ -1899,3 +1899,21 @@ body.audio-player-active .chat-panel {
         bottom: 320px;
     }
 }
+
+/* Mobile Quick Navigation Optimization */
+@media (max-width: 650px) {
+    .nav-action-btn .nav-text {
+        display: none !important;
+    }
+
+    .nav-action-btn {
+        padding: 12px 18px !important;
+        justify-content: center;
+        width: auto !important;
+    }
+
+    .nav-action-btn i {
+        margin: 0 !important;
+        font-size: 18px;
+    }
+}

@@ -84,6 +84,13 @@
                 onmouseout="this.style.transform='translateY(0)';">
                 Ingresar al Sistema <i class="fa-solid fa-arrow-right" style="margin-left: 8px;"></i>
             </button>
+
+            <button id="pwa-install-btn"
+                style="display: none; width: 100%; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; padding: 14px; border-radius: 14px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); color: #cbd5e1; margin-top: 15px; cursor: pointer; transition: all 0.3s;"
+                onmouseover="this.style.background='rgba(255,255,255,0.1)'; this.style.color='#fff';"
+                onmouseout="this.style.background='rgba(255,255,255,0.05)'; this.style.color='#cbd5e1';">
+                <i class="fa-solid fa-download" style="margin-right: 8px;"></i> Instalar App
+            </button>
         </div>
     </div>
 
@@ -414,15 +421,15 @@
 
             <!-- Quiz Actions Navigation -->
             <div class="quiz-actions" style="display:flex; justify-content:space-between; margin-top:20px;">
-                <button class="btn-secondary" id="quit-quiz-btn">
-                    <i class="fa-solid fa-arrow-left"></i> Salir
+                <button class="btn-secondary nav-action-btn" id="quit-quiz-btn">
+                    <i class="fa-solid fa-xmark"></i> <span class="nav-text">Salir</span>
                 </button>
                 <div style="display: flex; gap: 10px;">
-                    <button class="btn-secondary" id="prev-question-btn" style="display: none;">
-                        <i class="fa-solid fa-chevron-left"></i> Anterior
+                    <button class="btn-secondary nav-action-btn" id="prev-question-btn" style="display: none;">
+                        <i class="fa-solid fa-arrow-left"></i> <span class="nav-text">Anterior</span>
                     </button>
-                    <button class="btn-primary" id="next-question-btn">
-                        Siguiente <i class="fa-solid fa-chevron-right"></i>
+                    <button class="btn-primary nav-action-btn" id="next-question-btn">
+                        <span class="nav-text">Siguiente</span> <i class="fa-solid fa-arrow-right"></i>
                     </button>
                 </div>
             </div>
@@ -612,7 +619,7 @@
         <div class="chat-input-area">
             <button id="gemini-chat-mic-btn" onclick="toggleRecording()" title="Grabar audio"><i
                     class="fa-solid fa-microphone"></i></button>
-            <textarea id="gemini-chat-input" placeholder="Escribe o dicta tu pregunta..." rows="1"
+            <textarea id="gemini-chat-input" placeholder="Escribe o dicta" rows="1"
                 onkeypress="if(event.key === 'Enter' && !event.shiftKey){ event.preventDefault(); sendChatMessage(); }"></textarea>
             <button id="gemini-chat-send-btn" onclick="sendChatMessage()" title="Enviar"><i
                     class="fa-solid fa-paper-plane"></i></button>

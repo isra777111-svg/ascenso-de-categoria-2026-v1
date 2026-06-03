@@ -114,11 +114,49 @@ function logout() {
     showDashboard();
 }
 
+// PWA Installation Logic
+let deferredPrompt;
+window.addEventListener('beforeinstallprompt', (e) => {
+    e.preventDefault();
+    deferredPrompt = e;
+
+    // Mostramos el botón en todos los dispositivos (móvil y escritorio)
+    const installBtn = document.getElementById('pwa-install-btn');
+    if (installBtn) installBtn.style.display = 'flex';
+});
+
 // Initialization
 document.addEventListener('DOMContentLoaded', () => {
     initTheme();
     updateDashboardStats();
     setupGlobalEvents();
+
+    // Setup PWA Install Button (iOS fallback + Android/Desktop prompt)
+    const installBtn = document.getElementById('pwa-install-btn');
+    if (installBtn) {
+        const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+        const isStandalone = window.matchMedia('(display-mode: standalone)').matches || window.matchMedia('(display-mode: fullscreen)').matches || window.navigator.standalone;
+
+        if (isIOS && !isStandalone) {
+            installBtn.style.display = 'flex';
+            installBtn.onclick = async () => {
+                await customAlert("Para instalar en iPhone/iPad: Pulsa el icono de 'Compartir' en la barra inferior de Safari y selecciona 'Añadir a la pantalla de inicio'. Esto instalará el sistema con pantalla completa.", "Instalar en iOS");
+            };
+        } else {
+            installBtn.onclick = async () => {
+                if (deferredPrompt) {
+                    deferredPrompt.prompt();
+                    const { outcome } = await deferredPrompt.userChoice;
+                    if (outcome === 'accepted') {
+                        installBtn.style.display = 'none';
+                    }
+                    deferredPrompt = null;
+                } else if (!isIOS) {
+                    await customAlert("Si ya aceptaste la instalación o cierras el aviso, puedes instalarlo desde el menú de opciones de tu navegador (3 puntos) seleccionando 'Añadir a la pantalla de inicio o Instalar aplicación'.", "Información");
+                }
+            };
+        }
+    }
 
     if (sessionStorage.getItem('ascenso_logged_in') === 'true') {
         document.getElementById('login-overlay').style.display = 'none';
@@ -415,7 +453,7 @@ function initSession() {
         title.textContent = 'Modo Estudio';
         timerContainer.style.display = 'none';
         prevBtn.style.display = 'none';
-        nextBtn.innerHTML = `Siguiente <i class="fa-solid fa-chevron-right"></i>`;
+        nextBtn.innerHTML = `<span class="nav-text">Siguiente</span> <i class="fa-solid fa-arrow-right"></i>`;
     } else {
         badge.className = 'badge badge-danger';
         badge.textContent = 'Simulacro';
@@ -423,7 +461,7 @@ function initSession() {
         timerContainer.style.display = 'flex';
         timerContainer.classList.remove('urgent');
         prevBtn.style.display = 'inline-flex';
-        nextBtn.innerHTML = `Siguiente <i class="fa-solid fa-chevron-right"></i>`;
+        nextBtn.innerHTML = `<span class="nav-text">Siguiente</span> <i class="fa-solid fa-arrow-right"></i>`;
 
         // 2 minutes per question
         secondsRemaining = activeQuestions.length * 120;
@@ -513,9 +551,9 @@ function renderQuestion() {
     }
 
     if (currentIndex === activeQuestions.length - 1 && currentMode !== 'estudio') {
-        nextBtn.innerHTML = `Finalizar <i class="fa-solid fa-square-check"></i>`;
+        nextBtn.innerHTML = `<span class="nav-text">Finalizar</span> <i class="fa-solid fa-square-check"></i>`;
     } else {
-        nextBtn.innerHTML = `Siguiente <i class="fa-solid fa-chevron-right"></i>`;
+        nextBtn.innerHTML = `<span class="nav-text">Siguiente</span> <i class="fa-solid fa-arrow-right"></i>`;
     }
 }
 
