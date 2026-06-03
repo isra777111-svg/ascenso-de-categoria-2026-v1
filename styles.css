@@ -102,6 +102,8 @@ body {
     flex-direction: column;
     position: relative;
     overflow-x: hidden;
+    overscroll-behavior-y: none;
+    -webkit-tap-highlight-color: transparent;
 }
 
 /* Technological & Professional Background Layer */

@@ -1,0 +1,17 @@
+{
+  "name": "AscensoIA - Sistema de Estudio",
+  "short_name": "AscensoIA",
+  "description": "Sistema interactivo de estudio y simulacro de examen para ascenso de categoría.",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "logo/logo.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

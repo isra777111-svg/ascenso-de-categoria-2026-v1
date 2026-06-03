@@ -237,5 +237,5 @@ function stopRecordingUI() {
     const btn = document.getElementById('gemini-chat-mic-btn');
     if (btn) btn.classList.remove('recording');
     const input = document.getElementById('gemini-chat-input');
-    if (input) input.placeholder = "Escribe o dicta tu pregunta...";
+    if (input) input.placeholder = "Escribe o dicta";
 }

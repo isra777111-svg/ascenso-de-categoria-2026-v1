@@ -51,7 +51,7 @@ const sections = {
     materials: document.getElementById('materials-section')
 };
 
-// Auth Logic
+// Auth & Fullscreen Logic
 const allowedPasswords = [
     "sistema78", "docente56", "proyecto45", "servidor89", "archivo67",
     "usuario58", "control9", "registro8", "soporte37", "modulo6",
@@ -60,12 +60,35 @@ const allowedPasswords = [
     "usuario67", "control8", "registro9", "soporte", "modulo5"
 ];
 
+function enforceMobileFullscreen() {
+    if (window.innerWidth <= 1024) {
+        const docElm = document.documentElement;
+        if (!document.fullscreenElement && !document.webkitFullscreenElement) {
+            if (docElm.requestFullscreen) {
+                docElm.requestFullscreen().catch(e => console.warn(e));
+            } else if (docElm.webkitRequestFullscreen) {
+                docElm.webkitRequestFullscreen().catch(e => console.warn(e));
+            } else if (docElm.msRequestFullscreen) {
+                docElm.msRequestFullscreen().catch(e => console.warn(e));
+            }
+        }
+    }
+}
+
 function checkLogin() {
     const psw = document.getElementById('login-password-input').value.trim();
     if (allowedPasswords.includes(psw)) {
         sessionStorage.setItem('ascenso_logged_in', 'true');
         document.getElementById('login-overlay').style.display = 'none';
         document.getElementById('login-error-msg').style.display = 'none';
+
+        // Iniciar en el dashoard con state validado
+        if (!history.state || !history.state.section) {
+            history.replaceState({ section: 'dashboard' }, '', '#dashboard');
+        }
+
+        // Ejecutar fullscreen
+        enforceMobileFullscreen();
     } else {
         document.getElementById('login-error-msg').style.display = 'block';
     }
@@ -99,9 +122,45 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (sessionStorage.getItem('ascenso_logged_in') === 'true') {
         document.getElementById('login-overlay').style.display = 'none';
+
+        // Configurar estado inicial para el history API
+        if (!history.state || !history.state.section) {
+            history.replaceState({ section: 'dashboard' }, '', '#dashboard');
+        } else {
+            switchSection(history.state.section, false);
+        }
+
+        // Si recarga la página y ya estaba logueado, esperar el primer click/touch para entrar en fullscreen
+        const initFullscreen = () => {
+            enforceMobileFullscreen();
+            document.removeEventListener('touchstart', initFullscreen);
+            document.removeEventListener('click', initFullscreen);
+        };
+        document.addEventListener('touchstart', initFullscreen, { once: true });
+        document.addEventListener('click', initFullscreen, { once: true });
+
     } else {
         document.getElementById('login-overlay').style.display = 'flex';
     }
+
+    // Escuchar el evento PopState (Botón Atrás en móviles o navegador)
+    window.addEventListener('popstate', (e) => {
+        // En caso de estar en una evaluación, detener el temporizador
+        if (sections.quiz && sections.quiz.classList.contains('active')) {
+            clearInterval(timerInterval);
+        }
+
+        // Cerrar todos los modales abiertos preventivamente
+        const modals = document.querySelectorAll('.modal-overlay');
+        modals.forEach(modal => modal.classList.remove('active'));
+
+        // Volver a la sección correspondiente del historial
+        if (e.state && e.state.section) {
+            switchSection(e.state.section, false);
+        } else {
+            switchSection('dashboard', false);
+        }
+    });
 });
 
 function initTheme() {
@@ -141,10 +200,15 @@ function setupGlobalEvents() {
 // ---------------------------------------------------------
 // Navigation & Views
 // ---------------------------------------------------------
-function switchSection(sectionName) {
+function switchSection(sectionName, pushToHistory = true) {
     Object.values(sections).forEach(sec => sec.classList.remove('active'));
     sections[sectionName].classList.add('active');
     window.scrollTo({ top: 0, behavior: 'smooth' });
+
+    // Modificación para soportar el Navigation History (Botón Atrás)
+    if (pushToHistory) {
+        history.pushState({ section: sectionName }, '', `#${sectionName}`);
+    }
 
     // Ocultar Asistente de IA estrictamente durante la evaluación (Cualquier Modo)
     const aiTrigger = document.getElementById('gemini-chat-trigger');
